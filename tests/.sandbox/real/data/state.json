@@ -1,0 +1,79 @@
+{
+  "server": "http://localhost:8080",
+  "token": "yN9f5VZU_SMpO6ehvU_rt3yfbDYkd7yhjAj9ccBY7g0",
+  "deviceId": "b7576533-a17a-454a-8475-f183038d3329",
+  "email": "me-mv26cxm1@example.test",
+  "role": "member",
+  "org": "Org realcheck 32c1e6d9",
+  "removed": false,
+  "synced": 7088,
+  "lastSync": "2026-10-10T14:44:21.5891651+05:30",
+  "syncMinute": 0,
+  "projectSalt": "2f3c5ab4277e26932ed4f44cec9423b3",
+  "pricing": [
+    {
+      "match": "opus",
+      "priority": 10,
+      "input": 15,
+      "output": 75,
+      "cacheWrite": 18.75,
+      "cacheRead": 1.5
+    },
+    {
+      "match": "sonnet",
+      "priority": 20,
+      "input": 3,
+      "output": 15,
+      "cacheWrite": 3.75,
+      "cacheRead": 0.3
+    },
+    {
+      "match": "haiku",
+      "priority": 30,
+      "input": 1,
+      "output": 5,
+      "cacheWrite": 1.25,
+      "cacheRead": 0.1
+    },
+    {
+      "match": "codex",
+      "priority": 40,
+      "input": 1.25,
+      "output": 10,
+      "cacheWrite": 0,
+      "cacheRead": 0.125
+    },
+    {
+      "match": "gpt",
+      "priority": 50,
+      "input": 1.25,
+      "output": 10,
+      "cacheWrite": 0,
+      "cacheRead": 0.125
+    },
+    {
+      "match": "",
+      "priority": 999,
+      "input": 3,
+      "output": 15,
+      "cacheWrite": 3.75,
+      "cacheRead": 0.3
+    }
+  ],
+  "budget": {
+    "budgetCents": 15000,
+    "spentCents": 150871,
+    "pct": 1006,
+    "projectedCents": 486471,
+    "resetsOn": "2026-11-01",
+    "month": "October 2026",
+    "custom": false
+  },
+  "notifiedPct": 100,
+  "notifiedMonth": "October 2026",
+  "prefs": {
+    "paused": false,
+    "budgetNotifications": true,
+    "startAtLogin": false
+  }
+}

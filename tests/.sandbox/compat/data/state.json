@@ -1,0 +1,295 @@
+{
+  "server": "http://localhost:8096",
+  "token": "Lqr64_-DZICuZe51UgRZo2RohdYwU73xcRA-a-6mE-Y",
+  "deviceId": "049f7610-1059-4fed-8fe0-f471e859fd0c",
+  "email": "old-mv29w60u@example.test",
+  "role": "member",
+  "org": "Org realcheck bb4fee16",
+  "removed": false,
+  "synced": 156,
+  "lastSync": "2026-10-10T16:20:44.3464955+05:30",
+  "syncMinute": 0,
+  "projectSalt": "0cc77c0dda6cccdd7dc2ebb52cf6ea15",
+  "pricing": [
+    {
+      "match": "claude-fable-5-1",
+      "priority": 984,
+      "input": 10,
+      "output": 50,
+      "cacheWrite": 12.5,
+      "cacheRead": 0.25
+    },
+    {
+      "match": "claude-mythos-5-1",
+      "priority": 983,
+      "input": 10,
+      "output": 50,
+      "cacheWrite": 12.5,
+      "cacheRead": 0.25
+    },
+    {
+      "match": "claude-fable-5",
+      "priority": 986,
+      "input": 10,
+      "output": 50,
+      "cacheWrite": 12.5,
+      "cacheRead": 1
+    },
+    {
+      "match": "claude-mythos-5",
+      "priority": 985,
+      "input": 10,
+      "output": 50,
+      "cacheWrite": 12.5,
+      "cacheRead": 1
+    },
+    {
+      "match": "claude-opus-5-5",
+      "priority": 985,
+      "input": 4,
+      "output": 20,
+      "cacheWrite": 5,
+      "cacheRead": 0.2
+    },
+    {
+      "match": "claude-opus-5",
+      "priority": 987,
+      "input": 5,
+      "output": 25,
+      "cacheWrite": 6.25,
+      "cacheRead": 0.5
+    },
+    {
+      "match": "claude-opus-4-8",
+      "priority": 985,
+      "input": 5,
+      "output": 25,
+      "cacheWrite": 6.25,
+      "cacheRead": 0.5
+    },
+    {
+      "match": "claude-opus-4-7",
+      "priority": 985,
+      "input": 5,
+      "output": 25,
+      "cacheWrite": 6.25,
+      "cacheRead": 0.5
+    },
+    {
+      "match": "claude-opus-4-6",
+      "priority": 985,
+      "input": 5,
+      "output": 25,
+      "cacheWrite": 6.25,
+      "cacheRead": 0.5
+    },
+    {
+      "match": "claude-opus-4-5",
+      "priority": 985,
+      "input": 5,
+      "output": 25,
+      "cacheWrite": 6.25,
+      "cacheRead": 0.5
+    },
+    {
+      "match": "claude-opus-4-1",
+      "priority": 985,
+      "input": 15,
+      "output": 75,
+      "cacheWrite": 18.75,
+      "cacheRead": 1.5
+    },
+    {
+      "match": "claude-opus-4",
+      "priority": 987,
+      "input": 15,
+      "output": 75,
+      "cacheWrite": 18.75,
+      "cacheRead": 1.5
+    },
+    {
+      "match": "claude-sonnet-5-5",
+      "priority": 983,
+      "input": 2,
+      "output": 10,
+      "cacheWrite": 2.5,
+      "cacheRead": 0.1
+    },
+    {
+      "match": "claude-sonnet-5",
+      "priority": 985,
+      "input": 2,
+      "output": 10,
+      "cacheWrite": 2.5,
+      "cacheRead": 0.2
+    },
+    {
+      "match": "claude-sonnet-4-6",
+      "priority": 983,
+      "input": 3,
+      "output": 15,
+      "cacheWrite": 3.75,
+      "cacheRead": 0.3
+    },
+    {
+      "match": "claude-sonnet-4-5",
+      "priority": 983,
+      "input": 3,
+      "output": 15,
+      "cacheWrite": 3.75,
+      "cacheRead": 0.3
+    },
+    {
+      "match": "claude-sonnet-4",
+      "priority": 985,
+      "input": 3,
+      "output": 15,
+      "cacheWrite": 3.75,
+      "cacheRead": 0.3
+    },
+    {
+      "match": "claude-haiku-5-5",
+      "priority": 984,
+      "input": 0.1,
+      "output": 0.5,
+      "cacheWrite": 0.125,
+      "cacheRead": 0.01
+    },
+    {
+      "match": "claude-haiku-4-5",
+      "priority": 984,
+      "input": 1,
+      "output": 5,
+      "cacheWrite": 1.25,
+      "cacheRead": 0.1
+    },
+    {
+      "match": "claude-3-5-haiku",
+      "priority": 984,
+      "input": 0.8,
+      "output": 4,
+      "cacheWrite": 1,
+      "cacheRead": 0.08
+    },
+    {
+      "match": "gpt-5.5",
+      "priority": 993,
+      "input": 5,
+      "output": 30,
+      "cacheWrite": 0,
+      "cacheRead": 0.5
+    },
+    {
+      "match": "gpt-5.4",
+      "priority": 993,
+      "input": 2.5,
+      "output": 15,
+      "cacheWrite": 0,
+      "cacheRead": 0.25
+    },
+    {
+      "match": "gpt-5.4-mini",
+      "priority": 988,
+      "input": 0.75,
+      "output": 4.5,
+      "cacheWrite": 0,
+      "cacheRead": 0.075
+    },
+    {
+      "match": "gpt-5.4-nano",
+      "priority": 988,
+      "input": 0.2,
+      "output": 1.25,
+      "cacheWrite": 0,
+      "cacheRead": 0.02
+    },
+    {
+      "match": "gpt-5.3-codex",
+      "priority": 987,
+      "input": 1.75,
+      "output": 14,
+      "cacheWrite": 0,
+      "cacheRead": 0.175
+    },
+    {
+      "match": "gpt-5.2",
+      "priority": 993,
+      "input": 1.75,
+      "output": 14,
+      "cacheWrite": 0,
+      "cacheRead": 0.175
+    },
+    {
+      "match": "gpt-5.1",
+      "priority": 993,
+      "input": 1.25,
+      "output": 10,
+      "cacheWrite": 0,
+      "cacheRead": 0.125
+    },
+    {
+      "match": "gpt-5",
+      "priority": 995,
+      "input": 1.25,
+      "output": 10,
+      "cacheWrite": 0,
+      "cacheRead": 0.125
+    },
+    {
+      "match": "gpt-5-mini",
+      "priority": 990,
+      "input": 0.25,
+      "output": 2,
+      "cacheWrite": 0,
+      "cacheRead": 0.025
+    },
+    {
+      "match": "gpt-5-nano",
+      "priority": 990,
+      "input": 0.05,
+      "output": 0.4,
+      "cacheWrite": 0,
+      "cacheRead": 0.005
+    },
+    {
+      "match": "gpt-5.6-sol",
+      "priority": 989,
+      "input": 4,
+      "output": 20,
+      "cacheWrite": 0,
+      "cacheRead": 0.4
+    },
+    {
+      "match": "gpt-5.6-terra",
+      "priority": 987,
+      "input": 2,
+      "output": 12,
+      "cacheWrite": 0,
+      "cacheRead": 0.2
+    },
+    {
+      "match": "gpt-5.6-luna",
+      "priority": 988,
+      "input": 0.2,
+      "output": 1.2,
+      "cacheWrite": 0,
+      "cacheRead": 0.02
+    }
+  ],
+  "budget": {
+    "budgetCents": 15000,
+    "spentCents": 169,
+    "pct": 1,
+    "projectedCents": 541,
+    "resetsOn": "2026-11-01",
+    "month": "October 2026",
+    "custom": false
+  },
+  "notifiedPct": 0,
+  "notifiedMonth": "",
+  "prefs": {
+    "paused": false,
+    "budgetNotifications": false,
+    "startAtLogin": false
+  }
+}

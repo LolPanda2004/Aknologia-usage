@@ -1,0 +1,498 @@
+{
+  "signinTabOrder": [
+    {
+      "el": "a.brand \"aaknologiaAdmin console\"",
+      "visible": true,
+      "outline": "solid 2px rgb(159, 224, 198)",
+      "border": "rgb(242, 247, 244)",
+      "inDialog": false
+    },
+    {
+      "el": "a.btn.btn-ghost.auth-link-pricing \"Pricing\"",
+      "visible": true,
+      "outline": "solid 2px rgb(159, 224, 198)",
+      "border": "rgba(0, 0, 0, 0)",
+      "inDialog": false
+    },
+    {
+      "el": "a.btn.btn-ghost.auth-link-demo \"Book a demo\"",
+      "visible": true,
+      "outline": "solid 2px rgb(159, 224, 198)",
+      "border": "rgba(0, 0, 0, 0)",
+      "inDialog": false
+    },
+    {
+      "el": "a.btn.btn-ghost.auth-link-site \"aknologia.com\"",
+      "visible": true,
+      "outline": "solid 2px rgb(159, 224, 198)",
+      "border": "rgba(0, 0, 0, 0)",
+      "inDialog": false
+    },
+    {
+      "el": "button.icon-btn \"Switch to light mode\"",
+      "visible": true,
+      "outline": "solid 2px rgb(159, 224, 198)",
+      "border": "rgb(30, 51, 43)",
+      "inDialog": false
+    },
+    {
+      "el": "button \"Sign in\"",
+      "visible": true,
+      "outline": "solid 2px rgb(159, 224, 198)",
+      "border": "rgb(242, 247, 244)",
+      "inDialog": false
+    },
+    {
+      "el": "button \"Create workspace\"",
+      "visible": true,
+      "outline": "solid 2px rgb(159, 224, 198)",
+      "border": "rgb(159, 181, 169)",
+      "inDialog": false
+    },
+    {
+      "el": "input#si-email.input \"Work email\"",
+      "visible": true,
+      "outline": "solid 2px rgb(159, 224, 198)",
+      "border": "rgb(44, 74, 62)",
+      "inDialog": false
+    },
+    {
+      "el": "input#si-pw.input \"Password\"",
+      "visible": true,
+      "outline": "solid 2px rgb(159, 224, 198)",
+      "border": "rgb(44, 74, 62)",
+      "inDialog": false
+    },
+    {
+      "el": "button.icon-btn \"Show password\"",
+      "visible": true,
+      "outline": "solid 2px rgb(159, 224, 198)",
+      "border": "rgb(159, 181, 169)",
+      "inDialog": false
+    },
+    {
+      "el": "button.link-btn \"Forgot password?\"",
+      "visible": true,
+      "outline": "solid 2px rgb(159, 224, 198)",
+      "border": "rgb(159, 224, 198)",
+      "inDialog": false
+    },
+    {
+      "el": "button.link-btn \"Use your invite code\"",
+      "visible": true,
+      "outline": "solid 2px rgb(159, 224, 198)",
+      "border": "rgb(159, 224, 198)",
+      "inDialog": false
+    },
+    {
+      "el": "a \"See pricing\"",
+      "visible": true,
+      "outline": "solid 2px rgb(159, 224, 198)",
+      "border": "rgb(159, 224, 198)",
+      "inDialog": false
+    },
+    {
+      "el": "a \"book a demo\"",
+      "visible": true,
+      "outline": "solid 2px rgb(159, 224, 198)",
+      "border": "rgb(159, 224, 198)",
+      "inDialog": false
+    },
+    {
+      "el": "a \"Privacy\"",
+      "visible": true,
+      "outline": "solid 2px rgb(159, 224, 198)",
+      "border": "rgb(207, 221, 213)",
+      "inDialog": false
+    },
+    {
+      "el": "a \"Terms\"",
+      "visible": true,
+      "outline": "solid 2px rgb(159, 224, 198)",
+      "border": "rgb(207, 221, 213)",
+      "inDialog": false
+    }
+  ],
+  "signinResult": "Team overview",
+  "signinFocusAfter": {
+    "el": "body",
+    "visible": false,
+    "inDialog": false
+  },
+  "firstTabAfterSignin": {
+    "el": "a.skip-link \"Skip to content\"",
+    "visible": true,
+    "outline": "solid 2px rgb(159, 224, 198)",
+    "border": "rgb(255, 255, 255)",
+    "inDialog": false
+  },
+  "skipLink": 1,
+  "inviteFocusOnOpen": {
+    "el": "input#inv-emails \"Work emails\"",
+    "visible": false,
+    "outline": "none 3px rgb(242, 247, 244)",
+    "border": "rgb(242, 247, 244)",
+    "inDialog": true
+  },
+  "inviteTabWalk": [
+    {
+      "el": "select#inv-role.input \"Role\"",
+      "visible": true,
+      "outline": "solid 2px rgb(159, 224, 198)",
+      "border": "rgb(44, 74, 62)",
+      "inDialog": true
+    },
+    {
+      "el": "input#inv-budget.input \"Monthly budget (USD)\"",
+      "visible": true,
+      "outline": "solid 2px rgb(159, 224, 198)",
+      "border": "rgb(44, 74, 62)",
+      "inDialog": true
+    },
+    {
+      "el": "button.btn.btn-secondary \"Cancel\"",
+      "visible": true,
+      "outline": "solid 2px rgb(159, 224, 198)",
+      "border": "rgb(44, 74, 62)",
+      "inDialog": true
+    },
+    {
+      "el": "button.icon-btn \"Close\"",
+      "visible": true,
+      "outline": "solid 2px rgb(159, 224, 198)",
+      "border": "rgb(30, 51, 43)",
+      "inDialog": true
+    },
+    {
+      "el": "input#inv-emails \"Work emails\"",
+      "visible": false,
+      "outline": "none 3px rgb(242, 247, 244)",
+      "border": "rgb(242, 247, 244)",
+      "inDialog": true
+    },
+    {
+      "el": "select#inv-role.input \"Role\"",
+      "visible": true,
+      "outline": "solid 2px rgb(159, 224, 198)",
+      "border": "rgb(44, 74, 62)",
+      "inDialog": true
+    },
+    {
+      "el": "input#inv-budget.input \"Monthly budget (USD)\"",
+      "visible": true,
+      "outline": "solid 2px rgb(159, 224, 198)",
+      "border": "rgb(44, 74, 62)",
+      "inDialog": true
+    },
+    {
+      "el": "button.btn.btn-secondary \"Cancel\"",
+      "visible": true,
+      "outline": "solid 2px rgb(159, 224, 198)",
+      "border": "rgb(44, 74, 62)",
+      "inDialog": true
+    },
+    {
+      "el": "button.icon-btn \"Close\"",
+      "visible": true,
+      "outline": "solid 2px rgb(159, 224, 198)",
+      "border": "rgb(30, 51, 43)",
+      "inDialog": true
+    },
+    {
+      "el": "input#inv-emails \"Work emails\"",
+      "visible": false,
+      "outline": "none 3px rgb(242, 247, 244)",
+      "border": "rgb(242, 247, 244)",
+      "inDialog": true
+    },
+    {
+      "el": "select#inv-role.input \"Role\"",
+      "visible": true,
+      "outline": "solid 2px rgb(159, 224, 198)",
+      "border": "rgb(44, 74, 62)",
+      "inDialog": true
+    },
+    {
+      "el": "input#inv-budget.input \"Monthly budget (USD)\"",
+      "visible": true,
+      "outline": "solid 2px rgb(159, 224, 198)",
+      "border": "rgb(44, 74, 62)",
+      "inDialog": true
+    },
+    {
+      "el": "button.btn.btn-secondary \"Cancel\"",
+      "visible": true,
+      "outline": "solid 2px rgb(159, 224, 198)",
+      "border": "rgb(44, 74, 62)",
+      "inDialog": true
+    },
+    {
+      "el": "button.icon-btn \"Close\"",
+      "visible": true,
+      "outline": "solid 2px rgb(159, 224, 198)",
+      "border": "rgb(30, 51, 43)",
+      "inDialog": true
+    }
+  ],
+  "inviteFocusEscapesDialog": false,
+  "inviteEmailFocus": {
+    "el": "input#inv-emails \"Work emails\"",
+    "visible": false,
+    "outline": "none 3px rgb(242, 247, 244)",
+    "border": "rgb(242, 247, 244)",
+    "inDialog": true
+  },
+  "inviteChipCount": 1,
+  "inviteShiftTabFromInput": {
+    "el": "button.chip-x \"Remove a.person@example.test\"",
+    "visible": true,
+    "outline": "solid 2px rgb(159, 224, 198)",
+    "border": "rgb(159, 224, 198)",
+    "inDialog": true
+  },
+  "inviteClosedByEscape": true,
+  "inviteFocusAfterClose": {
+    "el": "button.btn.btn-primary \"Invite members\"",
+    "visible": true,
+    "outline": "solid 2px rgb(159, 224, 198)",
+    "border": "rgba(0, 0, 0, 0)",
+    "inDialog": false
+  },
+  "inviteShiftTabFromOpen": {
+    "el": "button.btn.btn-secondary \"Cancel\"",
+    "visible": true,
+    "outline": "solid 2px rgb(159, 224, 198)",
+    "border": "rgb(44, 74, 62)",
+    "inDialog": true
+  },
+  "removeFocusOnOpen": {
+    "el": "input \"Also delete their usage historyOff by default. Past team totals will drop by their share.\"",
+    "visible": true,
+    "outline": "solid 2px rgb(159, 224, 198)",
+    "border": "rgb(242, 247, 244)",
+    "inDialog": true
+  },
+  "removeTabWalk": [
+    {
+      "el": "button.btn.btn-secondary \"Cancel\"",
+      "visible": true,
+      "outline": "solid 2px rgb(159, 224, 198)",
+      "border": "rgb(44, 74, 62)",
+      "inDialog": true
+    },
+    {
+      "el": "button.btn.btn-danger \"Remove and email Priya\"",
+      "visible": true,
+      "outline": "solid 2px rgb(159, 224, 198)",
+      "border": "rgba(0, 0, 0, 0)",
+      "inDialog": true
+    },
+    {
+      "el": "button.icon-btn \"Close\"",
+      "visible": true,
+      "outline": "solid 2px rgb(159, 224, 198)",
+      "border": "rgb(30, 51, 43)",
+      "inDialog": true
+    },
+    {
+      "el": "input \"Also delete their usage historyOff by default. Past team totals will drop by their share.\"",
+      "visible": true,
+      "outline": "solid 2px rgb(159, 224, 198)",
+      "border": "rgb(242, 247, 244)",
+      "inDialog": true
+    },
+    {
+      "el": "button.btn.btn-secondary \"Cancel\"",
+      "visible": true,
+      "outline": "solid 2px rgb(159, 224, 198)",
+      "border": "rgb(44, 74, 62)",
+      "inDialog": true
+    },
+    {
+      "el": "button.btn.btn-danger \"Remove and email Priya\"",
+      "visible": true,
+      "outline": "solid 2px rgb(159, 224, 198)",
+      "border": "rgba(0, 0, 0, 0)",
+      "inDialog": true
+    },
+    {
+      "el": "button.icon-btn \"Close\"",
+      "visible": true,
+      "outline": "solid 2px rgb(159, 224, 198)",
+      "border": "rgb(30, 51, 43)",
+      "inDialog": true
+    },
+    {
+      "el": "input \"Also delete their usage historyOff by default. Past team totals will drop by their share.\"",
+      "visible": true,
+      "outline": "solid 2px rgb(159, 224, 198)",
+      "border": "rgb(242, 247, 244)",
+      "inDialog": true
+    }
+  ],
+  "removeFocusEscapesDialog": false,
+  "removeCheckboxSpace": true,
+  "removeCheckboxFocus": {
+    "el": "input \"Also delete their usage historyOff by default. Past team totals will drop by their share.\"",
+    "visible": true,
+    "outline": "solid 2px rgb(159, 224, 198)",
+    "border": "rgb(242, 247, 244)",
+    "inDialog": true
+  },
+  "removeClosedByEscape": true,
+  "removeFocusAfterClose": {
+    "el": "button.btn.btn-danger-outline.btn-sm \"Remove\"",
+    "visible": true,
+    "outline": "solid 2px rgb(159, 224, 198)",
+    "border": "rgb(239, 154, 166)",
+    "inDialog": false
+  },
+  "otpFocusOnStep": {
+    "el": "body",
+    "visible": false,
+    "inDialog": false
+  },
+  "otpFocusStyle": {
+    "el": "input \"Digit 1\"",
+    "visible": true,
+    "outline": "solid 2px rgb(159, 224, 198)",
+    "border": "rgb(44, 74, 62)",
+    "inDialog": false
+  },
+  "otpAfterType123": {
+    "values": "1|2|3|||",
+    "focus": {
+      "el": "input \"Digit 4\"",
+      "visible": true,
+      "outline": "solid 2px rgb(159, 224, 198)",
+      "border": "rgb(44, 74, 62)",
+      "inDialog": false
+    }
+  },
+  "otpAfterBackspace1": {
+    "values": "1|2||||",
+    "focus": {
+      "el": "input \"Digit 3\"",
+      "visible": true,
+      "outline": "solid 2px rgb(159, 224, 198)",
+      "border": "rgb(35, 107, 83)",
+      "inDialog": false
+    }
+  },
+  "otpAfterBackspace2": {
+    "values": "1|||||",
+    "focus": {
+      "el": "input \"Digit 2\"",
+      "visible": true,
+      "outline": "solid 2px rgb(159, 224, 198)",
+      "border": "rgb(32, 119, 90)",
+      "inDialog": false
+    }
+  },
+  "otpAfterBackspace3": {
+    "values": "|||||",
+    "focus": {
+      "el": "input \"Digit 1\"",
+      "visible": true,
+      "outline": "solid 2px rgb(159, 224, 198)",
+      "border": "rgb(44, 74, 62)",
+      "inDialog": false
+    }
+  },
+  "otpArrowLeft": {
+    "el": "input \"Digit 1\"",
+    "visible": true,
+    "outline": "solid 2px rgb(159, 224, 198)",
+    "border": "rgb(39, 93, 74)",
+    "inDialog": false
+  },
+  "otpLetter": "",
+  "otpOverwriteFirst": {
+    "values": "9|||||",
+    "focus": {
+      "el": "input \"Digit 1\"",
+      "visible": true,
+      "outline": "solid 2px rgb(159, 224, 198)",
+      "border": "rgb(31, 120, 91)",
+      "inDialog": false
+    }
+  },
+  "otpPasteInto3rd": {
+    "values": "6|5|4|3|2|1",
+    "focus": {
+      "el": "input \"Digit 6\"",
+      "visible": true,
+      "outline": "solid 2px rgb(159, 224, 198)",
+      "border": "rgb(39, 93, 74)",
+      "inDialog": false
+    }
+  },
+  "otpPasteReal": {
+    "values": "6|2|8|7|7|2",
+    "focus": {
+      "el": "input \"Digit 6\"",
+      "visible": true,
+      "outline": "solid 2px rgb(159, 224, 198)",
+      "border": "rgb(30, 124, 93)",
+      "inDialog": false
+    }
+  },
+  "otpSubmitResult": "Choose a new password",
+  "otpError": [],
+  "tourFocusOnOpen": {
+    "el": "button.btn.btn-primary.btn-sm \"Next\"",
+    "visible": true,
+    "outline": "solid 2px rgb(159, 224, 198)",
+    "border": "rgba(0, 0, 0, 0)",
+    "inDialog": true
+  },
+  "tourClosedByEscape": true,
+  "tourTabsToReachButtons": 1,
+  "tourBackgroundFocusable": true,
+  "tourSteps": [
+    "closed",
+    "closed",
+    "closed",
+    "closed",
+    "closed",
+    "closed"
+  ],
+  "tourFocusAfterNext": {
+    "el": "main#main.content \"Team overviewQA5 Studio vryubm · this mo\"",
+    "visible": false,
+    "outline": "none 3px rgb(242, 247, 244)",
+    "border": "rgb(242, 247, 244)",
+    "inDialog": false
+  },
+  "mobileNavVisible": false,
+  "mobileNavButtons": 0,
+  "mobileMenuToggle": 1,
+  "mobileHScroll": {
+    "scrollW": 390,
+    "clientW": 390
+  },
+  "mobileHScroll #/members": {
+    "scrollW": 390,
+    "clientW": 390
+  },
+  "mobileHScroll #/budgets": {
+    "scrollW": 390,
+    "clientW": 390
+  },
+  "mobileHScroll #/settings": {
+    "scrollW": 390,
+    "clientW": 390
+  },
+  "mobileHScroll #/support": {
+    "scrollW": 390,
+    "clientW": 390
+  },
+  "mobileHScroll /": {
+    "scrollW": 390,
+    "clientW": 390
+  },
+  "mobileHScroll /download/": {
+    "scrollW": 390,
+    "clientW": 390
+  }
+}

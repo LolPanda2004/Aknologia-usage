@@ -1,0 +1,1529 @@
+{
+  "tags": [
+    "wcag2a",
+    "wcag2aa",
+    "wcag21a",
+    "wcag21aa",
+    "wcag22aa"
+  ],
+  "generated": "2026-10-10T07:14:05.336Z",
+  "scans": 216,
+  "violationsTotal": 22,
+  "results": [
+    {
+      "page": "desk-unpaired",
+      "width": "1440",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "desk-signin",
+      "width": "1440",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "desk-modal-server",
+      "width": "1440",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "desk-invite",
+      "width": "1440",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "desk-forgot",
+      "width": "1440",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "desk-otp",
+      "width": "1440",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "desk-newpw",
+      "width": "1440",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "desk-removed",
+      "width": "1440",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "desk-overview",
+      "width": "1440",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "desk-sessions",
+      "width": "1440",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "desk-support",
+      "width": "1440",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "desk-settings",
+      "width": "1440",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "desk-modal-password-1",
+      "width": "1440",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "desk-modal-password-2",
+      "width": "1440",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "desk-tour-1",
+      "width": "1440",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "desk-tour-2",
+      "width": "1440",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "desk-tour-3",
+      "width": "1440",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "desk-tour-4",
+      "width": "1440",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "desk-tour-5",
+      "width": "1440",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "desk-empty-overview",
+      "width": "1440",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "desk-empty-sessions",
+      "width": "1440",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "desk-overview-over-budget",
+      "width": "1440",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "desk-unpaired",
+      "width": "1440",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "desk-signin",
+      "width": "1440",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "desk-modal-server",
+      "width": "1440",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "desk-invite",
+      "width": "1440",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "desk-forgot",
+      "width": "1440",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "desk-otp",
+      "width": "1440",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "desk-newpw",
+      "width": "1440",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "desk-removed",
+      "width": "1440",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "desk-overview",
+      "width": "1440",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "desk-sessions",
+      "width": "1440",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "desk-support",
+      "width": "1440",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "desk-settings",
+      "width": "1440",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "desk-modal-password-1",
+      "width": "1440",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "desk-modal-password-2",
+      "width": "1440",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "desk-tour-1",
+      "width": "1440",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "desk-tour-2",
+      "width": "1440",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "desk-tour-3",
+      "width": "1440",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "desk-tour-4",
+      "width": "1440",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "desk-tour-5",
+      "width": "1440",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "desk-empty-overview",
+      "width": "1440",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "desk-empty-sessions",
+      "width": "1440",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "desk-overview-over-budget",
+      "width": "1440",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "desk-unpaired",
+      "width": "390",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "desk-signin",
+      "width": "390",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "desk-modal-server",
+      "width": "390",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "desk-invite",
+      "width": "390",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "desk-forgot",
+      "width": "390",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "desk-otp",
+      "width": "390",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "desk-newpw",
+      "width": "390",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "desk-removed",
+      "width": "390",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "desk-overview",
+      "width": "390",
+      "theme": "dark",
+      "violations": [
+        {
+          "id": "scrollable-region-focusable",
+          "impact": "serious",
+          "help": "Scrollable region must have keyboard access",
+          "nodes": 1,
+          "targets": [
+            ".table-wrap"
+          ]
+        }
+      ]
+    },
+    {
+      "page": "desk-sessions",
+      "width": "390",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "desk-support",
+      "width": "390",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "desk-settings",
+      "width": "390",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "desk-modal-password-1",
+      "width": "390",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "desk-modal-password-2",
+      "width": "390",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "desk-tour-1",
+      "width": "390",
+      "theme": "dark",
+      "violations": [
+        {
+          "id": "scrollable-region-focusable",
+          "impact": "serious",
+          "help": "Scrollable region must have keyboard access",
+          "nodes": 1,
+          "targets": [
+            ".table-wrap"
+          ]
+        }
+      ]
+    },
+    {
+      "page": "desk-tour-2",
+      "width": "390",
+      "theme": "dark",
+      "violations": [
+        {
+          "id": "scrollable-region-focusable",
+          "impact": "serious",
+          "help": "Scrollable region must have keyboard access",
+          "nodes": 1,
+          "targets": [
+            ".table-wrap"
+          ]
+        }
+      ]
+    },
+    {
+      "page": "desk-tour-3",
+      "width": "390",
+      "theme": "dark",
+      "violations": [
+        {
+          "id": "scrollable-region-focusable",
+          "impact": "serious",
+          "help": "Scrollable region must have keyboard access",
+          "nodes": 1,
+          "targets": [
+            ".table-wrap"
+          ]
+        }
+      ]
+    },
+    {
+      "page": "desk-tour-4",
+      "width": "390",
+      "theme": "dark",
+      "violations": [
+        {
+          "id": "scrollable-region-focusable",
+          "impact": "serious",
+          "help": "Scrollable region must have keyboard access",
+          "nodes": 1,
+          "targets": [
+            ".table-wrap"
+          ]
+        }
+      ]
+    },
+    {
+      "page": "desk-tour-5",
+      "width": "390",
+      "theme": "dark",
+      "violations": [
+        {
+          "id": "scrollable-region-focusable",
+          "impact": "serious",
+          "help": "Scrollable region must have keyboard access",
+          "nodes": 1,
+          "targets": [
+            ".table-wrap"
+          ]
+        }
+      ]
+    },
+    {
+      "page": "desk-empty-overview",
+      "width": "390",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "desk-empty-sessions",
+      "width": "390",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "desk-overview-over-budget",
+      "width": "390",
+      "theme": "dark",
+      "violations": [
+        {
+          "id": "scrollable-region-focusable",
+          "impact": "serious",
+          "help": "Scrollable region must have keyboard access",
+          "nodes": 1,
+          "targets": [
+            ".table-wrap"
+          ]
+        }
+      ]
+    },
+    {
+      "page": "desk-unpaired",
+      "width": "390",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "desk-signin",
+      "width": "390",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "desk-modal-server",
+      "width": "390",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "desk-invite",
+      "width": "390",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "desk-forgot",
+      "width": "390",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "desk-otp",
+      "width": "390",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "desk-newpw",
+      "width": "390",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "desk-removed",
+      "width": "390",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "desk-overview",
+      "width": "390",
+      "theme": "light",
+      "violations": [
+        {
+          "id": "scrollable-region-focusable",
+          "impact": "serious",
+          "help": "Scrollable region must have keyboard access",
+          "nodes": 1,
+          "targets": [
+            ".table-wrap"
+          ]
+        }
+      ]
+    },
+    {
+      "page": "desk-sessions",
+      "width": "390",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "desk-support",
+      "width": "390",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "desk-settings",
+      "width": "390",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "desk-modal-password-1",
+      "width": "390",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "desk-modal-password-2",
+      "width": "390",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "desk-tour-1",
+      "width": "390",
+      "theme": "light",
+      "violations": [
+        {
+          "id": "scrollable-region-focusable",
+          "impact": "serious",
+          "help": "Scrollable region must have keyboard access",
+          "nodes": 1,
+          "targets": [
+            ".table-wrap"
+          ]
+        }
+      ]
+    },
+    {
+      "page": "desk-tour-2",
+      "width": "390",
+      "theme": "light",
+      "violations": [
+        {
+          "id": "scrollable-region-focusable",
+          "impact": "serious",
+          "help": "Scrollable region must have keyboard access",
+          "nodes": 1,
+          "targets": [
+            ".table-wrap"
+          ]
+        }
+      ]
+    },
+    {
+      "page": "desk-tour-3",
+      "width": "390",
+      "theme": "light",
+      "violations": [
+        {
+          "id": "scrollable-region-focusable",
+          "impact": "serious",
+          "help": "Scrollable region must have keyboard access",
+          "nodes": 1,
+          "targets": [
+            ".table-wrap"
+          ]
+        }
+      ]
+    },
+    {
+      "page": "desk-tour-4",
+      "width": "390",
+      "theme": "light",
+      "violations": [
+        {
+          "id": "scrollable-region-focusable",
+          "impact": "serious",
+          "help": "Scrollable region must have keyboard access",
+          "nodes": 1,
+          "targets": [
+            ".table-wrap"
+          ]
+        }
+      ]
+    },
+    {
+      "page": "desk-tour-5",
+      "width": "390",
+      "theme": "light",
+      "violations": [
+        {
+          "id": "scrollable-region-focusable",
+          "impact": "serious",
+          "help": "Scrollable region must have keyboard access",
+          "nodes": 1,
+          "targets": [
+            ".table-wrap"
+          ]
+        }
+      ]
+    },
+    {
+      "page": "desk-empty-overview",
+      "width": "390",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "desk-empty-sessions",
+      "width": "390",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "desk-overview-over-budget",
+      "width": "390",
+      "theme": "light",
+      "violations": [
+        {
+          "id": "scrollable-region-focusable",
+          "impact": "serious",
+          "help": "Scrollable region must have keyboard access",
+          "nodes": 1,
+          "targets": [
+            ".table-wrap"
+          ]
+        }
+      ]
+    },
+    {
+      "page": "landing",
+      "width": "1440",
+      "theme": "dark",
+      "violations": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "nodes": 1,
+          "targets": [
+            "section:nth-child(11) > div > div:nth-child(1) > span"
+          ]
+        }
+      ]
+    },
+    {
+      "page": "download",
+      "width": "1440",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "admin-signin",
+      "width": "1440",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "admin-signup",
+      "width": "1440",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "admin-verify",
+      "width": "1440",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "admin-accept",
+      "width": "1440",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "admin-forgot",
+      "width": "1440",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "admin-otp",
+      "width": "1440",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "admin-newpw",
+      "width": "1440",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "admin-overview",
+      "width": "1440",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "admin-members",
+      "width": "1440",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "admin-member-detail",
+      "width": "1440",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "admin-budgets",
+      "width": "1440",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "admin-support",
+      "width": "1440",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "admin-settings",
+      "width": "1440",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "modal-invite",
+      "width": "1440",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "modal-remove",
+      "width": "1440",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "modal-budget",
+      "width": "1440",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "modal-plan",
+      "width": "1440",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "modal-delete-data",
+      "width": "1440",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "modal-password-1",
+      "width": "1440",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "modal-password-2",
+      "width": "1440",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "admin-tour-1",
+      "width": "1440",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "admin-tour-2",
+      "width": "1440",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "admin-tour-3",
+      "width": "1440",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "admin-tour-4",
+      "width": "1440",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "admin-tour-5",
+      "width": "1440",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "admin-empty-overview",
+      "width": "1440",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "admin-empty-members",
+      "width": "1440",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "admin-empty-member-detail",
+      "width": "1440",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "admin-empty-budgets",
+      "width": "1440",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "admin-empty-settings",
+      "width": "1440",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "landing",
+      "width": "1440",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "download",
+      "width": "1440",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "admin-signin",
+      "width": "1440",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "admin-signup",
+      "width": "1440",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "admin-verify",
+      "width": "1440",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "admin-accept",
+      "width": "1440",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "admin-forgot",
+      "width": "1440",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "admin-otp",
+      "width": "1440",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "admin-newpw",
+      "width": "1440",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "admin-overview",
+      "width": "1440",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "admin-members",
+      "width": "1440",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "admin-member-detail",
+      "width": "1440",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "admin-budgets",
+      "width": "1440",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "admin-support",
+      "width": "1440",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "admin-settings",
+      "width": "1440",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "modal-invite",
+      "width": "1440",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "modal-remove",
+      "width": "1440",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "modal-budget",
+      "width": "1440",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "modal-plan",
+      "width": "1440",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "modal-delete-data",
+      "width": "1440",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "modal-password-1",
+      "width": "1440",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "modal-password-2",
+      "width": "1440",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "admin-tour-1",
+      "width": "1440",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "admin-tour-2",
+      "width": "1440",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "admin-tour-3",
+      "width": "1440",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "admin-tour-4",
+      "width": "1440",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "admin-tour-5",
+      "width": "1440",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "admin-empty-overview",
+      "width": "1440",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "admin-empty-members",
+      "width": "1440",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "admin-empty-member-detail",
+      "width": "1440",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "admin-empty-budgets",
+      "width": "1440",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "admin-empty-settings",
+      "width": "1440",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "landing",
+      "width": "390",
+      "theme": "dark",
+      "violations": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "nodes": 1,
+          "targets": [
+            "section:nth-child(11) > div > div:nth-child(1) > span"
+          ]
+        },
+        {
+          "id": "scrollable-region-focusable",
+          "impact": "serious",
+          "help": "Scrollable region must have keyboard access",
+          "nodes": 1,
+          "targets": [
+            "#pricing > div > div:nth-child(3)"
+          ]
+        }
+      ]
+    },
+    {
+      "page": "download",
+      "width": "390",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "admin-signin",
+      "width": "390",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "admin-signup",
+      "width": "390",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "admin-verify",
+      "width": "390",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "admin-accept",
+      "width": "390",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "admin-forgot",
+      "width": "390",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "admin-otp",
+      "width": "390",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "admin-newpw",
+      "width": "390",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "admin-overview",
+      "width": "390",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "admin-members",
+      "width": "390",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "admin-member-detail",
+      "width": "390",
+      "theme": "dark",
+      "violations": [
+        {
+          "id": "scrollable-region-focusable",
+          "impact": "serious",
+          "help": "Scrollable region must have keyboard access",
+          "nodes": 1,
+          "targets": [
+            ".table-wrap"
+          ]
+        }
+      ]
+    },
+    {
+      "page": "admin-budgets",
+      "width": "390",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "admin-support",
+      "width": "390",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "admin-settings",
+      "width": "390",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "modal-invite",
+      "width": "390",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "modal-remove",
+      "width": "390",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "modal-budget",
+      "width": "390",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "modal-plan",
+      "width": "390",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "modal-delete-data",
+      "width": "390",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "modal-password-1",
+      "width": "390",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "modal-password-2",
+      "width": "390",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "admin-tour-1",
+      "width": "390",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "admin-tour-2",
+      "width": "390",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "admin-tour-3",
+      "width": "390",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "admin-tour-4",
+      "width": "390",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "admin-tour-5",
+      "width": "390",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "admin-empty-overview",
+      "width": "390",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "admin-empty-members",
+      "width": "390",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "admin-empty-member-detail",
+      "width": "390",
+      "theme": "dark",
+      "violations": [
+        {
+          "id": "scrollable-region-focusable",
+          "impact": "serious",
+          "help": "Scrollable region must have keyboard access",
+          "nodes": 1,
+          "targets": [
+            ".table-wrap"
+          ]
+        }
+      ]
+    },
+    {
+      "page": "admin-empty-budgets",
+      "width": "390",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "admin-empty-settings",
+      "width": "390",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "landing",
+      "width": "390",
+      "theme": "light",
+      "violations": [
+        {
+          "id": "scrollable-region-focusable",
+          "impact": "serious",
+          "help": "Scrollable region must have keyboard access",
+          "nodes": 1,
+          "targets": [
+            "#pricing > div > div:nth-child(3)"
+          ]
+        }
+      ]
+    },
+    {
+      "page": "download",
+      "width": "390",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "admin-signin",
+      "width": "390",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "admin-signup",
+      "width": "390",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "admin-verify",
+      "width": "390",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "admin-accept",
+      "width": "390",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "admin-forgot",
+      "width": "390",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "admin-otp",
+      "width": "390",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "admin-newpw",
+      "width": "390",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "admin-overview",
+      "width": "390",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "admin-members",
+      "width": "390",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "admin-member-detail",
+      "width": "390",
+      "theme": "light",
+      "violations": [
+        {
+          "id": "scrollable-region-focusable",
+          "impact": "serious",
+          "help": "Scrollable region must have keyboard access",
+          "nodes": 1,
+          "targets": [
+            ".table-wrap"
+          ]
+        }
+      ]
+    },
+    {
+      "page": "admin-budgets",
+      "width": "390",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "admin-support",
+      "width": "390",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "admin-settings",
+      "width": "390",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "modal-invite",
+      "width": "390",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "modal-remove",
+      "width": "390",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "modal-budget",
+      "width": "390",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "modal-plan",
+      "width": "390",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "modal-delete-data",
+      "width": "390",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "modal-password-1",
+      "width": "390",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "modal-password-2",
+      "width": "390",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "admin-tour-1",
+      "width": "390",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "admin-tour-2",
+      "width": "390",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "admin-tour-3",
+      "width": "390",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "admin-tour-4",
+      "width": "390",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "admin-tour-5",
+      "width": "390",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "admin-empty-overview",
+      "width": "390",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "admin-empty-members",
+      "width": "390",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "admin-empty-member-detail",
+      "width": "390",
+      "theme": "light",
+      "violations": [
+        {
+          "id": "scrollable-region-focusable",
+          "impact": "serious",
+          "help": "Scrollable region must have keyboard access",
+          "nodes": 1,
+          "targets": [
+            ".table-wrap"
+          ]
+        }
+      ]
+    },
+    {
+      "page": "admin-empty-budgets",
+      "width": "390",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "admin-empty-settings",
+      "width": "390",
+      "theme": "light",
+      "violations": []
+    }
+  ]
+}

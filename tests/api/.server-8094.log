@@ -1,0 +1,2676 @@
+2026/10/10 15:34:39 Aknologia Usage listening on :8094 (dev=true)
+2026/10/10 15:34:50 GET /api/v1/health 0s
+2026/10/10 15:34:52 [dev] one-time code for qa1-realcheck-d42cc422@example.test (verify_signup): 222529
+2026/10/10 15:34:52 [mail] to=qa1-realcheck-d42cc422@example.test subject="Your Aknologia code: 222529"
+Your Aknologia code is 222529. Use it to verify your email and finish creating your workspace. It expires in 10 minutes.
+2026/10/10 15:34:52 POST /api/v1/auth/signup 320ms
+2026/10/10 15:34:52 POST /api/v1/auth/verify-email 54ms
+2026/10/10 15:34:52 POST /api/v1/admin/billing/seats 57ms
+2026/10/10 15:34:52 PUT /api/v1/admin/org 47ms
+2026/10/10 15:34:52 [dev] invite code for me-mv289vmz@example.test: 9UKT-V2MR
+2026/10/10 15:34:52 [mail] to=me-mv289vmz@example.test subject="Admin realcheck invited you to Org realcheck 4112d7d0"
+Admin realcheck invited you to Org realcheck 4112d7d0 on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: 9UKT-V2MR (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=me-mv289vmz@example.test
+
+2026/10/10 15:34:52 POST /api/v1/admin/members/invite 60ms
+2026/10/10 15:46:27 POST /api/v1/auth/invite/accept 495ms
+2026/10/10 15:46:27 GET /api/v1/agent/config 37ms
+2026/10/10 15:46:27 GET /api/v1/agent/config 50ms
+2026/10/10 15:46:28 POST /api/v1/ingest/batch 972ms
+2026/10/10 15:46:29 POST /api/v1/ingest/batch 909ms
+2026/10/10 15:46:30 POST /api/v1/ingest/batch 804ms
+2026/10/10 15:46:30 POST /api/v1/ingest/batch 780ms
+2026/10/10 15:46:31 [mail] to=qa1-realcheck-d42cc422@example.test subject="me-mv289vmz@example.test reached 80% of their budget"
+me-mv289vmz@example.test reached 80% of their budget: $159.47 of $150.00 (80%). Projected $511.89. http://localhost:8094/app/#/members/92d02dc6-6761-4cc7-ac53-fb86df9b416e
+2026/10/10 15:46:31 [mail] to=qa1-realcheck-d42cc422@example.test subject="me-mv289vmz@example.test reached 100% of their budget"
+me-mv289vmz@example.test reached 100% of their budget: $159.47 of $150.00 (100%). Projected $511.89. http://localhost:8094/app/#/members/92d02dc6-6761-4cc7-ac53-fb86df9b416e
+2026/10/10 15:46:31 POST /api/v1/ingest/batch 975ms
+2026/10/10 15:46:32 POST /api/v1/ingest/batch 773ms
+2026/10/10 15:46:33 POST /api/v1/ingest/batch 906ms
+2026/10/10 15:46:34 POST /api/v1/ingest/batch 628ms
+2026/10/10 15:46:35 POST /api/v1/ingest/batch 871ms
+2026/10/10 15:46:36 POST /api/v1/ingest/batch 1.137s
+2026/10/10 15:46:37 POST /api/v1/ingest/batch 1.247s
+2026/10/10 15:46:38 POST /api/v1/ingest/batch 979ms
+2026/10/10 15:46:39 POST /api/v1/ingest/batch 1.052s
+2026/10/10 15:46:40 POST /api/v1/ingest/batch 860ms
+2026/10/10 15:46:41 POST /api/v1/ingest/batch 483ms
+2026/10/10 15:46:41 GET /api/v1/agent/config 74ms
+2026/10/10 15:46:42 GET /api/v1/me/notifications 12ms
+2026/10/10 15:46:42 POST /api/v1/me/notifications/2/read 9ms
+2026/10/10 15:46:42 POST /api/v1/me/notifications/1/read 8ms
+2026/10/10 15:47:34 GET /api/v1/admin/members 42ms
+2026/10/10 15:47:35 GET /api/v1/admin/overview 62ms
+2026/10/10 15:47:35 GET /api/v1/admin/overview 59ms
+2026/10/10 15:47:35 GET /api/v1/admin/overview 68ms
+2026/10/10 15:47:35 GET /api/v1/admin/overview 59ms
+2026/10/10 15:47:35 GET /api/v1/admin/members/92d02dc6-6761-4cc7-ac53-fb86df9b416e/usage 93ms
+2026/10/10 15:50:14 GET /api/v1/agent/config 58ms
+2026/10/10 15:50:14 POST /api/v1/auth/invite/accept 6ms
+2026/10/10 15:50:14 POST /api/v1/ingest/batch 127ms
+2026/10/10 15:50:15 GET /api/v1/agent/config 28ms
+2026/10/10 15:50:15 GET /api/v1/me/notifications 14ms
+2026/10/10 15:50:21 GET /api/v1/admin/members 45ms
+2026/10/10 15:50:21 GET /api/v1/admin/overview 53ms
+2026/10/10 15:50:21 GET /api/v1/admin/overview 64ms
+2026/10/10 15:50:21 GET /api/v1/admin/overview 86ms
+2026/10/10 15:50:22 GET /api/v1/admin/overview 109ms
+2026/10/10 15:50:22 GET /api/v1/admin/members/92d02dc6-6761-4cc7-ac53-fb86df9b416e/usage 163ms
+2026/10/10 15:51:07 GET /api/v1/health 0s
+2026/10/10 15:51:07 [dev] one-time code for qa1-signup-366c01eb@example.test (verify_signup): 303428
+2026/10/10 15:51:07 [mail] to=qa1-signup-366c01eb@example.test subject="Your Aknologia code: 303428"
+Your Aknologia code is 303428. Use it to verify your email and finish creating your workspace. It expires in 10 minutes.
+2026/10/10 15:51:07 POST /api/v1/auth/signup 374ms
+2026/10/10 15:51:08 [dev] one-time code for qa1-signup-366c01eb@example.test (verify_signup): 839309
+2026/10/10 15:51:08 [mail] to=qa1-signup-366c01eb@example.test subject="Your Aknologia code: 839309"
+Your Aknologia code is 839309. Use it to verify your email and finish creating your workspace. It expires in 10 minutes.
+2026/10/10 15:51:08 POST /api/v1/auth/login 345ms
+2026/10/10 15:51:08 POST /api/v1/auth/verify-email 21ms
+2026/10/10 15:51:08 POST /api/v1/auth/login 365ms
+2026/10/10 15:51:08 GET /api/v1/me 12ms
+2026/10/10 15:51:09 POST /api/v1/auth/login 327ms
+2026/10/10 15:51:09 POST /api/v1/auth/login 5ms
+2026/10/10 15:51:09 GET /api/v1/me 0s
+2026/10/10 15:51:09 GET /api/v1/me 9ms
+2026/10/10 15:51:09 [dev] one-time code for qa1-main-57f729df@example.test (verify_signup): 478319
+2026/10/10 15:51:09 [mail] to=qa1-main-57f729df@example.test subject="Your Aknologia code: 478319"
+Your Aknologia code is 478319. Use it to verify your email and finish creating your workspace. It expires in 10 minutes.
+2026/10/10 15:51:09 POST /api/v1/auth/signup 346ms
+2026/10/10 15:51:09 POST /api/v1/auth/verify-email 23ms
+2026/10/10 15:51:09 POST /api/v1/admin/billing/seats 24ms
+2026/10/10 15:51:09 POST /api/v1/auth/signup 4ms
+2026/10/10 15:51:09 POST /api/v1/auth/signup 3ms
+2026/10/10 15:51:09 POST /api/v1/auth/signup 0s
+2026/10/10 15:51:09 POST /api/v1/auth/signup 1ms
+2026/10/10 15:51:10 POST /api/v1/auth/signup 0s
+2026/10/10 15:51:10 POST /api/v1/auth/signup 0s
+2026/10/10 15:51:10 POST /api/v1/auth/signup 0s
+2026/10/10 15:51:10 POST /api/v1/auth/signup 3ms
+2026/10/10 15:51:10 [dev] one-time code for qa1-pw-36ed11ff@example.test (verify_signup): 608942
+2026/10/10 15:51:10 [mail] to=qa1-pw-36ed11ff@example.test subject="Your Aknologia code: 608942"
+Your Aknologia code is 608942. Use it to verify your email and finish creating your workspace. It expires in 10 minutes.
+2026/10/10 15:51:10 POST /api/v1/auth/signup 352ms
+2026/10/10 15:51:10 [dev] invite code for qa1-member-79272e19@example.test: TG8R-JVXW
+2026/10/10 15:51:10 [mail] to=qa1-member-79272e19@example.test subject="Admin main invited you to Org main bbe61f17"
+Admin main invited you to Org main bbe61f17 on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: TG8R-JVXW (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-member-79272e19@example.test
+
+2026/10/10 15:51:10 POST /api/v1/admin/members/invite 37ms
+2026/10/10 15:51:10 POST /api/v1/auth/invite/accept 390ms
+2026/10/10 15:51:11 POST /api/v1/auth/login 314ms
+2026/10/10 15:51:11 POST /api/v1/auth/login 373ms
+2026/10/10 15:51:11 POST /api/v1/auth/login 334ms
+2026/10/10 15:51:12 [dev] one-time code for qa1-otpwrong-a21fe82e@example.test (verify_signup): 871683
+2026/10/10 15:51:12 [mail] to=qa1-otpwrong-a21fe82e@example.test subject="Your Aknologia code: 871683"
+Your Aknologia code is 871683. Use it to verify your email and finish creating your workspace. It expires in 10 minutes.
+2026/10/10 15:51:12 POST /api/v1/auth/signup 375ms
+2026/10/10 15:51:12 POST /api/v1/auth/verify-email 10ms
+2026/10/10 15:51:12 POST /api/v1/auth/verify-email 47ms
+2026/10/10 15:51:12 [dev] one-time code for qa1-otpexp-d6218c88@example.test (verify_signup): 864192
+2026/10/10 15:51:12 [mail] to=qa1-otpexp-d6218c88@example.test subject="Your Aknologia code: 864192"
+Your Aknologia code is 864192. Use it to verify your email and finish creating your workspace. It expires in 10 minutes.
+2026/10/10 15:51:12 POST /api/v1/auth/signup 375ms
+2026/10/10 15:51:13 POST /api/v1/auth/verify-email 4ms
+2026/10/10 15:51:13 [dev] one-time code for qa1-otpburn-f67bfb0a@example.test (verify_signup): 276352
+2026/10/10 15:51:13 [mail] to=qa1-otpburn-f67bfb0a@example.test subject="Your Aknologia code: 276352"
+Your Aknologia code is 276352. Use it to verify your email and finish creating your workspace. It expires in 10 minutes.
+2026/10/10 15:51:13 POST /api/v1/auth/signup 369ms
+2026/10/10 15:51:13 POST /api/v1/auth/verify-email 7ms
+2026/10/10 15:51:13 POST /api/v1/auth/verify-email 11ms
+2026/10/10 15:51:13 POST /api/v1/auth/verify-email 9ms
+2026/10/10 15:51:13 POST /api/v1/auth/verify-email 8ms
+2026/10/10 15:51:13 POST /api/v1/auth/verify-email 10ms
+2026/10/10 15:51:13 POST /api/v1/auth/verify-email 5ms
+2026/10/10 15:51:14 [dev] one-time code for qa1-otpreuse-ea28cb74@example.test (verify_signup): 494192
+2026/10/10 15:51:14 [mail] to=qa1-otpreuse-ea28cb74@example.test subject="Your Aknologia code: 494192"
+Your Aknologia code is 494192. Use it to verify your email and finish creating your workspace. It expires in 10 minutes.
+2026/10/10 15:51:14 POST /api/v1/auth/signup 340ms
+2026/10/10 15:51:14 POST /api/v1/auth/verify-email 25ms
+2026/10/10 15:51:14 POST /api/v1/auth/verify-email 3ms
+2026/10/10 15:51:14 [dev] one-time code for qa1-otprace-82abe7f5@example.test (verify_signup): 695398
+2026/10/10 15:51:14 [mail] to=qa1-otprace-82abe7f5@example.test subject="Your Aknologia code: 695398"
+Your Aknologia code is 695398. Use it to verify your email and finish creating your workspace. It expires in 10 minutes.
+2026/10/10 15:51:14 POST /api/v1/auth/signup 330ms
+2026/10/10 15:51:14 POST /api/v1/auth/verify-email 14ms
+2026/10/10 15:51:14 POST /api/v1/auth/verify-email 14ms
+2026/10/10 15:51:14 POST /api/v1/auth/verify-email 15ms
+2026/10/10 15:51:14 POST /api/v1/auth/verify-email 20ms
+2026/10/10 15:51:14 POST /api/v1/auth/verify-email 59ms
+2026/10/10 15:51:14 POST /api/v1/auth/verify-email 68ms
+2026/10/10 15:51:14 POST /api/v1/auth/verify-email 61ms
+2026/10/10 15:51:14 POST /api/v1/auth/verify-email 31ms
+2026/10/10 15:51:14 POST /api/v1/auth/verify-email 35ms
+2026/10/10 15:51:14 POST /api/v1/auth/verify-email 54ms
+2026/10/10 15:51:14 POST /api/v1/auth/verify-email 105ms
+2026/10/10 15:51:14 POST /api/v1/auth/verify-email 77ms
+2026/10/10 15:51:14 POST /api/v1/auth/verify-email 116ms
+2026/10/10 15:51:14 POST /api/v1/auth/verify-email 116ms
+2026/10/10 15:51:14 POST /api/v1/auth/verify-email 121ms
+2026/10/10 15:51:14 POST /api/v1/auth/verify-email 64ms
+2026/10/10 15:51:14 POST /api/v1/auth/verify-email 74ms
+2026/10/10 15:51:14 POST /api/v1/auth/verify-email 97ms
+2026/10/10 15:51:14 POST /api/v1/auth/verify-email 78ms
+2026/10/10 15:51:14 POST /api/v1/auth/verify-email 92ms
+2026/10/10 15:51:14 POST /api/v1/auth/verify-email 118ms
+2026/10/10 15:51:14 POST /api/v1/auth/verify-email 96ms
+2026/10/10 15:51:14 POST /api/v1/auth/verify-email 117ms
+2026/10/10 15:51:14 POST /api/v1/auth/verify-email 71ms
+2026/10/10 15:51:14 POST /api/v1/auth/verify-email 64ms
+2026/10/10 15:51:14 POST /api/v1/auth/verify-email 56ms
+2026/10/10 15:51:14 POST /api/v1/auth/verify-email 60ms
+2026/10/10 15:51:14 POST /api/v1/auth/verify-email 56ms
+2026/10/10 15:51:14 POST /api/v1/auth/verify-email 88ms
+2026/10/10 15:51:14 POST /api/v1/auth/verify-email 94ms
+2026/10/10 15:51:14 POST /api/v1/auth/verify-email 115ms
+2026/10/10 15:51:14 POST /api/v1/auth/verify-email 68ms
+2026/10/10 15:51:14 POST /api/v1/auth/verify-email 63ms
+2026/10/10 15:51:14 POST /api/v1/auth/verify-email 81ms
+2026/10/10 15:51:14 POST /api/v1/auth/verify-email 82ms
+2026/10/10 15:51:14 POST /api/v1/auth/verify-email 80ms
+2026/10/10 15:51:14 POST /api/v1/auth/verify-email 61ms
+2026/10/10 15:51:14 POST /api/v1/auth/verify-email 91ms
+2026/10/10 15:51:14 POST /api/v1/auth/verify-email 70ms
+2026/10/10 15:51:14 POST /api/v1/auth/verify-email 132ms
+2026/10/10 15:51:15 [dev] invite code for qa1-backup-519e76f2@example.test: SG3X-4W3A
+2026/10/10 15:51:15 [mail] to=qa1-backup-519e76f2@example.test subject="Admin main invited you to Org main bbe61f17"
+Admin main invited you to Org main bbe61f17 on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: SG3X-4W3A (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-backup-519e76f2@example.test
+
+2026/10/10 15:51:15 POST /api/v1/admin/members/invite 58ms
+2026/10/10 15:51:15 POST /api/v1/auth/invite/accept 400ms
+2026/10/10 15:51:15 [dev] one-time code for qa1-bk-7643edda@example.test (verify_backup): 858685
+2026/10/10 15:51:15 [mail] to=qa1-bk-7643edda@example.test subject="Your Aknologia code: 858685"
+Your Aknologia code is 858685. Use it to verify this backup email. It expires in 10 minutes.
+2026/10/10 15:51:15 POST /api/v1/me/backup-email 20ms
+2026/10/10 15:51:15 POST /api/v1/me/backup-email/verify 20ms
+2026/10/10 15:51:15 POST /api/v1/me/backup-email/verify 28ms
+2026/10/10 15:51:15 GET /api/v1/me 15ms
+2026/10/10 15:51:15 [dev] reset code for qa1-backup-519e76f2@example.test: 141639
+2026/10/10 15:51:15 [mail] to=qa1-bk-7643edda@example.test subject="Your Aknologia code: 141639"
+Your Aknologia code is 141639. Use it to reset your password. It expires in 10 minutes.
+2026/10/10 15:51:15 POST /api/v1/auth/password/forgot 20ms
+2026/10/10 15:51:15 POST /api/v1/auth/password/reset 17ms
+2026/10/10 15:51:15 POST /api/v1/auth/password/reset 11ms
+2026/10/10 15:51:15 POST /api/v1/auth/password/reset 4ms
+2026/10/10 15:51:16 [mail] to=qa1-backup-519e76f2@example.test subject="Your Aknologia password was changed"
+Your Aknologia password was changed (Changed with a reset code on 10 Oct at 15:51 IST). If this wasn't you, reset it now.
+2026/10/10 15:51:16 POST /api/v1/auth/password/reset 362ms
+2026/10/10 15:51:16 GET /api/v1/me 7ms
+2026/10/10 15:51:16 POST /api/v1/auth/login 302ms
+2026/10/10 15:51:16 POST /api/v1/auth/login 305ms
+2026/10/10 15:51:16 POST /api/v1/auth/password/reset 6ms
+2026/10/10 15:51:16 POST /api/v1/auth/password/forgot 6ms
+2026/10/10 15:51:16 [dev] invite code for qa1-chpw-7f36b931@example.test: HEMH-GJW9
+2026/10/10 15:51:16 [mail] to=qa1-chpw-7f36b931@example.test subject="Admin main invited you to Org main bbe61f17"
+Admin main invited you to Org main bbe61f17 on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: HEMH-GJW9 (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-chpw-7f36b931@example.test
+
+2026/10/10 15:51:16 POST /api/v1/admin/members/invite 59ms
+2026/10/10 15:51:17 POST /api/v1/auth/invite/accept 268ms
+2026/10/10 15:51:17 POST /api/v1/auth/login 364ms
+2026/10/10 15:51:17 POST /api/v1/me/password/start 346ms
+2026/10/10 15:51:18 [dev] one-time code for qa1-chpw-7f36b931@example.test (change_password): 934458
+2026/10/10 15:51:18 [mail] to=qa1-chpw-7f36b931@example.test subject="Your Aknologia code: 934458"
+Your Aknologia code is 934458. Use it to confirm your password change. It expires in 10 minutes.
+2026/10/10 15:51:18 POST /api/v1/me/password/start 638ms
+2026/10/10 15:51:18 POST /api/v1/me/password/confirm 18ms
+2026/10/10 15:51:18 [mail] to=qa1-chpw-7f36b931@example.test subject="Your Aknologia password was changed"
+Your Aknologia password was changed (Changed from your account settings on 10 Oct at 15:51 IST). If this wasn't you, reset it now.
+2026/10/10 15:51:18 POST /api/v1/me/password/confirm 23ms
+2026/10/10 15:51:18 GET /api/v1/me 13ms
+2026/10/10 15:51:18 GET /api/v1/me 3ms
+2026/10/10 15:51:19 [dev] one-time code for qa1-seats-40e4a838@example.test (verify_signup): 348715
+2026/10/10 15:51:19 [mail] to=qa1-seats-40e4a838@example.test subject="Your Aknologia code: 348715"
+Your Aknologia code is 348715. Use it to verify your email and finish creating your workspace. It expires in 10 minutes.
+2026/10/10 15:51:19 POST /api/v1/auth/signup 345ms
+2026/10/10 15:51:19 POST /api/v1/auth/verify-email 34ms
+2026/10/10 15:51:19 [dev] invite code for qa1-s1-0eddf8b6@example.test: 8J8N-FHGY
+2026/10/10 15:51:19 [mail] to=qa1-s1-0eddf8b6@example.test subject="Admin seats invited you to Org seats fc3aebba"
+Admin seats invited you to Org seats fc3aebba on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: 8J8N-FHGY (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-s1-0eddf8b6@example.test
+
+2026/10/10 15:51:19 [dev] invite code for qa1-s2-045d9e3c@example.test: REZC-36WB
+2026/10/10 15:51:19 [mail] to=qa1-s2-045d9e3c@example.test subject="Admin seats invited you to Org seats fc3aebba"
+Admin seats invited you to Org seats fc3aebba on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: REZC-36WB (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-s2-045d9e3c@example.test
+
+2026/10/10 15:51:19 POST /api/v1/admin/members/invite 43ms
+2026/10/10 15:51:19 POST /api/v1/admin/members/invite 15ms
+2026/10/10 15:51:19 POST /api/v1/admin/members/invite 15ms
+2026/10/10 15:51:19 DELETE /api/v1/admin/members/4ae2d357-836c-4d76-b84e-0b1c96fed829 19ms
+2026/10/10 15:51:19 [dev] invite code for qa1-s3-868a7ee7@example.test: FQ9J-W2Z7
+2026/10/10 15:51:19 [mail] to=qa1-s3-868a7ee7@example.test subject="Admin seats invited you to Org seats fc3aebba"
+Admin seats invited you to Org seats fc3aebba on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: FQ9J-W2Z7 (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-s3-868a7ee7@example.test
+
+2026/10/10 15:51:19 POST /api/v1/admin/members/invite 27ms
+2026/10/10 15:51:19 [dev] invite code for qa1-cancel-a92cb62c@example.test: C9AA-257G
+2026/10/10 15:51:19 [mail] to=qa1-cancel-a92cb62c@example.test subject="Admin main invited you to Org main bbe61f17"
+Admin main invited you to Org main bbe61f17 on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: C9AA-257G (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-cancel-a92cb62c@example.test
+
+2026/10/10 15:51:19 POST /api/v1/admin/members/invite 38ms
+2026/10/10 15:51:20 DELETE /api/v1/admin/members/0eaaa8b8-7694-47bd-8f89-035697223a08 13ms
+2026/10/10 15:51:20 POST /api/v1/auth/invite/accept 4ms
+2026/10/10 15:51:20 [dev] invite code for qa1-resend-05076266@example.test: T6WY-BMDR
+2026/10/10 15:51:20 [mail] to=qa1-resend-05076266@example.test subject="Admin main invited you to Org main bbe61f17"
+Admin main invited you to Org main bbe61f17 on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: T6WY-BMDR (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-resend-05076266@example.test
+
+2026/10/10 15:51:20 POST /api/v1/admin/members/invite 23ms
+2026/10/10 15:51:20 [dev] invite code for qa1-resend-05076266@example.test: A2F2-84QR
+2026/10/10 15:51:20 [mail] to=qa1-resend-05076266@example.test subject="Admin main invited you to Org main bbe61f17"
+Admin main invited you to Org main bbe61f17 on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: A2F2-84QR (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-resend-05076266@example.test
+
+2026/10/10 15:51:20 POST /api/v1/admin/members/4d06739b-d92c-4e5c-a2b6-9293146bb130/resend 16ms
+2026/10/10 15:51:20 POST /api/v1/auth/invite/accept 7ms
+2026/10/10 15:51:21 POST /api/v1/auth/invite/accept 369ms
+2026/10/10 15:51:21 POST /api/v1/auth/invite/accept 5ms
+2026/10/10 15:51:21 POST /api/v1/admin/members/4d06739b-d92c-4e5c-a2b6-9293146bb130/resend 17ms
+2026/10/10 15:51:21 [dev] invite code for qa1-invexp-0fbf2752@example.test: FWEG-K4TB
+2026/10/10 15:51:21 [mail] to=qa1-invexp-0fbf2752@example.test subject="Admin main invited you to Org main bbe61f17"
+Admin main invited you to Org main bbe61f17 on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: FWEG-K4TB (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-invexp-0fbf2752@example.test
+
+2026/10/10 15:51:21 POST /api/v1/admin/members/invite 36ms
+2026/10/10 15:51:21 POST /api/v1/auth/invite/accept 6ms
+2026/10/10 15:51:21 [dev] invite code for qa1-mis1-2c90baea@example.test: F6YR-7GJD
+2026/10/10 15:51:21 [mail] to=qa1-mis1-2c90baea@example.test subject="Admin main invited you to Org main bbe61f17"
+Admin main invited you to Org main bbe61f17 on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: F6YR-7GJD (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-mis1-2c90baea@example.test
+
+2026/10/10 15:51:21 [dev] invite code for qa1-mis2-26c53878@example.test: M5XK-HERF
+2026/10/10 15:51:21 [mail] to=qa1-mis2-26c53878@example.test subject="Admin main invited you to Org main bbe61f17"
+Admin main invited you to Org main bbe61f17 on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: M5XK-HERF (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-mis2-26c53878@example.test
+
+2026/10/10 15:51:21 POST /api/v1/admin/members/invite 43ms
+2026/10/10 15:51:21 POST /api/v1/auth/invite/accept 5ms
+2026/10/10 15:51:21 POST /api/v1/auth/invite/accept 4ms
+2026/10/10 15:51:22 POST /api/v1/auth/invite/accept 372ms
+2026/10/10 15:51:22 [dev] invite code for qa1-reinv-28353239@example.test: 2J7G-QHXT
+2026/10/10 15:51:22 [mail] to=qa1-reinv-28353239@example.test subject="Admin main invited you to Org main bbe61f17"
+Admin main invited you to Org main bbe61f17 on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: 2J7G-QHXT (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-reinv-28353239@example.test
+
+2026/10/10 15:51:22 POST /api/v1/admin/members/invite 29ms
+2026/10/10 15:51:22 POST /api/v1/auth/invite/accept 383ms
+2026/10/10 15:51:22 [mail] to=qa1-reinv-28353239@example.test subject="You’ve been removed from Org main bbe61f17"
+Admin main removed you from Org main bbe61f17. Tracking has stopped.
+2026/10/10 15:51:22 DELETE /api/v1/admin/members/70be6f33-83ad-4d40-946c-4080c8f1dfd3 36ms
+2026/10/10 15:51:22 POST /api/v1/auth/login 3ms
+2026/10/10 15:51:22 [dev] invite code for qa1-reinv-28353239@example.test: 9GBW-E9YR
+2026/10/10 15:51:22 [mail] to=qa1-reinv-28353239@example.test subject="Admin main invited you to Org main bbe61f17"
+Admin main invited you to Org main bbe61f17 on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: 9GBW-E9YR (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-reinv-28353239@example.test
+
+2026/10/10 15:51:22 POST /api/v1/admin/members/invite 38ms
+2026/10/10 15:51:22 POST /api/v1/auth/login 3ms
+2026/10/10 15:51:23 POST /api/v1/auth/invite/accept 359ms
+2026/10/10 15:51:23 GET /api/v1/me 3ms
+2026/10/10 15:51:23 POST /api/v1/auth/login 329ms
+2026/10/10 15:51:24 [dev] one-time code for qa1-other-1bae696e@example.test (verify_signup): 307716
+2026/10/10 15:51:24 [mail] to=qa1-other-1bae696e@example.test subject="Your Aknologia code: 307716"
+Your Aknologia code is 307716. Use it to verify your email and finish creating your workspace. It expires in 10 minutes.
+2026/10/10 15:51:24 POST /api/v1/auth/signup 357ms
+2026/10/10 15:51:24 POST /api/v1/auth/verify-email 28ms
+2026/10/10 15:51:24 POST /api/v1/admin/billing/seats 22ms
+2026/10/10 15:51:24 POST /api/v1/admin/members/invite 9ms
+2026/10/10 15:51:24 [dev] invite code for qa1-authz-430aa8ef@example.test: MNKM-9KFA
+2026/10/10 15:51:24 [mail] to=qa1-authz-430aa8ef@example.test subject="Admin main invited you to Org main bbe61f17"
+Admin main invited you to Org main bbe61f17 on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: MNKM-9KFA (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-authz-430aa8ef@example.test
+
+2026/10/10 15:51:24 POST /api/v1/admin/members/invite 26ms
+2026/10/10 15:51:24 POST /api/v1/auth/invite/accept 342ms
+2026/10/10 15:51:24 GET /api/v1/admin/overview 9ms
+2026/10/10 15:51:24 GET /api/v1/admin/members 11ms
+2026/10/10 15:51:24 POST /api/v1/admin/members/invite 14ms
+2026/10/10 15:51:24 POST /api/v1/admin/members/fa8bffe6-897e-46bf-9263-7ebbd594a3e7/resend 9ms
+2026/10/10 15:51:24 PATCH /api/v1/admin/members/fa8bffe6-897e-46bf-9263-7ebbd594a3e7 10ms
+2026/10/10 15:51:24 DELETE /api/v1/admin/members/fa8bffe6-897e-46bf-9263-7ebbd594a3e7 10ms
+2026/10/10 15:51:24 GET /api/v1/admin/members/fa8bffe6-897e-46bf-9263-7ebbd594a3e7/usage 9ms
+2026/10/10 15:51:24 GET /api/v1/admin/budgets 8ms
+2026/10/10 15:51:24 PUT /api/v1/admin/budgets 12ms
+2026/10/10 15:51:24 GET /api/v1/admin/org 13ms
+2026/10/10 15:51:24 PUT /api/v1/admin/org 16ms
+2026/10/10 15:51:24 GET /api/v1/admin/billing 11ms
+2026/10/10 15:51:24 POST /api/v1/admin/billing/seats 13ms
+2026/10/10 15:51:24 POST /api/v1/admin/refresh 11ms
+2026/10/10 15:51:24 GET /api/v1/admin/export.csv 11ms
+2026/10/10 15:51:24 POST /api/v1/admin/data/delete/start 11ms
+2026/10/10 15:51:24 POST /api/v1/admin/data/delete/confirm 8ms
+2026/10/10 15:51:24 GET /api/v1/admin/pricing 11ms
+2026/10/10 15:51:25 [dev] one-time code for qa1-orgb-bac8e734@example.test (verify_signup): 395132
+2026/10/10 15:51:25 [mail] to=qa1-orgb-bac8e734@example.test subject="Your Aknologia code: 395132"
+Your Aknologia code is 395132. Use it to verify your email and finish creating your workspace. It expires in 10 minutes.
+2026/10/10 15:51:25 POST /api/v1/auth/signup 317ms
+2026/10/10 15:51:25 POST /api/v1/auth/verify-email 26ms
+2026/10/10 15:51:25 POST /api/v1/admin/billing/seats 33ms
+2026/10/10 15:51:25 [dev] invite code for qa1-orgbm-9453b346@example.test: 7HT8-9YDS
+2026/10/10 15:51:25 [mail] to=qa1-orgbm-9453b346@example.test subject="Admin orgb invited you to Org orgb e078bee7"
+Admin orgb invited you to Org orgb e078bee7 on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: 7HT8-9YDS (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-orgbm-9453b346@example.test
+
+2026/10/10 15:51:25 POST /api/v1/admin/members/invite 28ms
+2026/10/10 15:51:26 POST /api/v1/auth/invite/accept 366ms
+2026/10/10 15:51:26 POST /api/v1/ingest/batch 99ms
+2026/10/10 15:51:26 [dev] invite code for qa1-orgbinv-9e6a77b8@example.test: S8WH-JHNV
+2026/10/10 15:51:26 [mail] to=qa1-orgbinv-9e6a77b8@example.test subject="Admin orgb invited you to Org orgb e078bee7"
+Admin orgb invited you to Org orgb e078bee7 on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: S8WH-JHNV (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-orgbinv-9e6a77b8@example.test
+
+2026/10/10 15:51:26 POST /api/v1/admin/members/invite 22ms
+2026/10/10 15:51:26 [dev] invite code for qa1-orgam-38956c09@example.test: WFKN-V4S7
+2026/10/10 15:51:26 [mail] to=qa1-orgam-38956c09@example.test subject="Admin main invited you to Org main bbe61f17"
+Admin main invited you to Org main bbe61f17 on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: WFKN-V4S7 (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-orgam-38956c09@example.test
+
+2026/10/10 15:51:26 POST /api/v1/admin/members/invite 40ms
+2026/10/10 15:51:27 POST /api/v1/auth/invite/accept 401ms
+2026/10/10 15:51:27 GET /api/v1/admin/members/b6b707a6-16d7-488f-90e4-449e062e848d/usage 11ms
+2026/10/10 15:51:27 PATCH /api/v1/admin/members/b6b707a6-16d7-488f-90e4-449e062e848d 13ms
+2026/10/10 15:51:27 DELETE /api/v1/admin/members/b6b707a6-16d7-488f-90e4-449e062e848d 11ms
+2026/10/10 15:51:27 POST /api/v1/admin/members/aa50485b-9ec5-42bc-9ab2-5833f8048a28/resend 9ms
+2026/10/10 15:51:27 DELETE /api/v1/admin/members/aa50485b-9ec5-42bc-9ab2-5833f8048a28 10ms
+2026/10/10 15:51:27 PUT /api/v1/admin/budgets 31ms
+2026/10/10 15:51:28 GET /api/v1/admin/overview 65ms
+2026/10/10 15:51:28 GET /api/v1/admin/members 36ms
+2026/10/10 15:51:28 GET /api/v1/admin/budgets 31ms
+2026/10/10 15:51:28 GET /api/v1/admin/export.csv 11ms
+2026/10/10 15:51:28 GET /api/v1/admin/org 17ms
+2026/10/10 15:51:28 GET /api/v1/me/notifications 10ms
+2026/10/10 15:51:28 [dev] invite code for qa1-tok-70d551aa@example.test: JQVB-DM82
+2026/10/10 15:51:28 [mail] to=qa1-tok-70d551aa@example.test subject="Admin main invited you to Org main bbe61f17"
+Admin main invited you to Org main bbe61f17 on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: JQVB-DM82 (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-tok-70d551aa@example.test
+
+2026/10/10 15:51:28 POST /api/v1/admin/members/invite 27ms
+2026/10/10 15:51:28 POST /api/v1/auth/invite/accept 420ms
+2026/10/10 15:51:29 POST /api/v1/auth/login 359ms
+2026/10/10 15:51:29 DELETE /api/v1/me/devices/8e312738-2cbc-4473-8eae-0283e217785f 20ms
+2026/10/10 15:51:29 GET /api/v1/agent/config 5ms
+2026/10/10 15:51:29 POST /api/v1/ingest/batch 7ms
+2026/10/10 15:51:29 POST /api/v1/auth/login 353ms
+2026/10/10 15:51:29 POST /api/v1/auth/logout 24ms
+2026/10/10 15:51:29 GET /api/v1/me 4ms
+2026/10/10 15:51:29 POST /api/v1/auth/login 387ms
+2026/10/10 15:51:30 GET /api/v1/me 4ms
+2026/10/10 15:51:30 [mail] to=qa1-tok-70d551aa@example.test subject="You’ve been removed from Org main bbe61f17"
+Admin main removed you from Org main bbe61f17. Tracking has stopped.
+2026/10/10 15:51:30 DELETE /api/v1/admin/members/272d7f24-0e02-480b-8ef5-132ffbed57bc 32ms
+2026/10/10 15:51:31 GET /api/v1/me 3ms
+2026/10/10 15:51:31 GET /api/v1/agent/config 4ms
+2026/10/10 15:51:31 POST /api/v1/ingest/batch 3ms
+2026/10/10 15:51:31 GET /api/v1/me/usage 4ms
+2026/10/10 15:51:31 DELETE /api/v1/admin/members/fa8bffe6-897e-46bf-9263-7ebbd594a3e7 25ms
+2026/10/10 15:51:31 GET /api/v1/me 16ms
+2026/10/10 15:51:31 [dev] invite code for qa1-ing-ec4d5487@example.test: EEGY-8TFP
+2026/10/10 15:51:31 [mail] to=qa1-ing-ec4d5487@example.test subject="Admin main invited you to Org main bbe61f17"
+Admin main invited you to Org main bbe61f17 on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: EEGY-8TFP (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-ing-ec4d5487@example.test
+
+2026/10/10 15:51:31 POST /api/v1/admin/members/invite 31ms
+2026/10/10 15:51:32 POST /api/v1/auth/invite/accept 382ms
+2026/10/10 15:51:32 POST /api/v1/ingest/batch 125ms
+2026/10/10 15:51:32 POST /api/v1/ingest/batch 75ms
+2026/10/10 15:51:32 POST /api/v1/ingest/batch 24ms
+2026/10/10 15:51:32 POST /api/v1/ingest/batch 11ms
+2026/10/10 15:51:32 POST /api/v1/ingest/batch 17ms
+2026/10/10 15:51:33 POST /api/v1/ingest/batch 72ms
+2026/10/10 15:51:33 POST /api/v1/ingest/batch 69ms
+2026/10/10 15:51:33 POST /api/v1/ingest/batch 47ms
+2026/10/10 15:51:35 POST /api/v1/ingest/batch 2.604s
+2026/10/10 15:51:35 POST /api/v1/ingest/batch 61ms
+2026/10/10 15:51:36 POST /api/v1/ingest/batch 118ms
+2026/10/10 15:51:36 [dev] invite code for qa1-victim-cf818763@example.test: S3F7-DGAU
+2026/10/10 15:51:36 [mail] to=qa1-victim-cf818763@example.test subject="Admin main invited you to Org main bbe61f17"
+Admin main invited you to Org main bbe61f17 on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: S3F7-DGAU (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-victim-cf818763@example.test
+
+2026/10/10 15:51:36 POST /api/v1/admin/members/invite 34ms
+2026/10/10 15:51:36 POST /api/v1/auth/invite/accept 397ms
+2026/10/10 15:51:36 POST /api/v1/ingest/batch 113ms
+2026/10/10 15:51:37 POST /api/v1/ingest/batch 99ms
+2026/10/10 15:51:37 [dev] one-time code for qa1-poison-e07846fc@example.test (verify_signup): 338338
+2026/10/10 15:51:37 [mail] to=qa1-poison-e07846fc@example.test subject="Your Aknologia code: 338338"
+Your Aknologia code is 338338. Use it to verify your email and finish creating your workspace. It expires in 10 minutes.
+2026/10/10 15:51:37 POST /api/v1/auth/signup 348ms
+2026/10/10 15:51:37 POST /api/v1/auth/verify-email 21ms
+2026/10/10 15:51:37 POST /api/v1/admin/billing/seats 28ms
+2026/10/10 15:51:37 [dev] invite code for qa1-bystander-01dfd12d@example.test: GEXU-D794
+2026/10/10 15:51:37 [mail] to=qa1-bystander-01dfd12d@example.test subject="Admin poison invited you to Org poison ac8d4c96"
+Admin poison invited you to Org poison ac8d4c96 on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: GEXU-D794 (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-bystander-01dfd12d@example.test
+
+2026/10/10 15:51:37 POST /api/v1/admin/members/invite 47ms
+2026/10/10 15:51:38 POST /api/v1/auth/invite/accept 395ms
+2026/10/10 15:51:38 [dev] invite code for qa1-poison-187a3a61@example.test: NKR6-3RGE
+2026/10/10 15:51:38 [mail] to=qa1-poison-187a3a61@example.test subject="Admin poison invited you to Org poison ac8d4c96"
+Admin poison invited you to Org poison ac8d4c96 on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: NKR6-3RGE (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-poison-187a3a61@example.test
+
+2026/10/10 15:51:38 POST /api/v1/admin/members/invite 37ms
+2026/10/10 15:51:38 POST /api/v1/auth/invite/accept 379ms
+2026/10/10 15:51:38 POST /api/v1/ingest/batch 117ms
+2026/10/10 15:51:39 POST /api/v1/ingest/batch 67ms
+2026/10/10 15:51:39 POST /api/v1/ingest/batch 93ms
+2026/10/10 15:51:39 POST /api/v1/ingest/batch 115ms
+2026/10/10 15:51:39 POST /api/v1/admin/refresh 131ms
+2026/10/10 15:51:40 [dev] one-time code for qa1-old-e721c83a@example.test (verify_signup): 857444
+2026/10/10 15:51:40 [mail] to=qa1-old-e721c83a@example.test subject="Your Aknologia code: 857444"
+Your Aknologia code is 857444. Use it to verify your email and finish creating your workspace. It expires in 10 minutes.
+2026/10/10 15:51:40 POST /api/v1/auth/signup 337ms
+2026/10/10 15:51:40 POST /api/v1/auth/verify-email 28ms
+2026/10/10 15:51:40 POST /api/v1/admin/billing/seats 40ms
+2026/10/10 15:51:40 [dev] invite code for qa1-oldm-38bd63f7@example.test: 62QS-YNZ4
+2026/10/10 15:51:40 [mail] to=qa1-oldm-38bd63f7@example.test subject="Admin old invited you to Org old 799e6f46"
+Admin old invited you to Org old 799e6f46 on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: 62QS-YNZ4 (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-oldm-38bd63f7@example.test
+
+2026/10/10 15:51:40 POST /api/v1/admin/members/invite 47ms
+2026/10/10 15:51:40 POST /api/v1/auth/invite/accept 369ms
+2026/10/10 15:51:40 POST /api/v1/ingest/batch 110ms
+2026/10/10 15:51:40 GET /api/v1/admin/overview 65ms
+2026/10/10 15:51:41 POST /api/v1/admin/refresh 138ms
+2026/10/10 15:51:41 GET /api/v1/admin/overview 50ms
+2026/10/10 15:51:41 [dev] one-time code for qa1-tznew_-48dc7d5a@example.test (verify_signup): 752989
+2026/10/10 15:51:41 [mail] to=qa1-tznew_-48dc7d5a@example.test subject="Your Aknologia code: 752989"
+Your Aknologia code is 752989. Use it to verify your email and finish creating your workspace. It expires in 10 minutes.
+2026/10/10 15:51:41 POST /api/v1/auth/signup 349ms
+2026/10/10 15:51:41 POST /api/v1/auth/verify-email 40ms
+2026/10/10 15:51:41 POST /api/v1/admin/billing/seats 39ms
+2026/10/10 15:51:41 PUT /api/v1/admin/org 21ms
+2026/10/10 15:51:41 [dev] invite code for qa1-tzm-d177cf1c@example.test: C7A4-X2DF
+2026/10/10 15:51:41 [mail] to=qa1-tzm-d177cf1c@example.test subject="Admin tznew_ invited you to Org tznew_ 41776e33"
+Admin tznew_ invited you to Org tznew_ 41776e33 on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: C7A4-X2DF (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-tzm-d177cf1c@example.test
+
+2026/10/10 15:51:41 POST /api/v1/admin/members/invite 60ms
+2026/10/10 15:51:41 POST /api/v1/auth/invite/accept 337ms
+2026/10/10 15:51:42 POST /api/v1/ingest/batch 156ms
+2026/10/10 15:51:42 POST /api/v1/ingest/batch 122ms
+2026/10/10 15:51:42 GET /api/v1/admin/members/7102b0fb-c64d-4d8f-871c-de9a7c6eb702/usage 86ms
+2026/10/10 15:51:42 POST /api/v1/ingest/batch 109ms
+2026/10/10 15:51:42 GET /api/v1/admin/members/7102b0fb-c64d-4d8f-871c-de9a7c6eb702/usage 69ms
+2026/10/10 15:51:43 POST /api/v1/admin/refresh 168ms
+2026/10/10 15:51:43 GET /api/v1/admin/members/7102b0fb-c64d-4d8f-871c-de9a7c6eb702/usage 73ms
+2026/10/10 15:51:43 [dev] one-time code for qa1-tzkolk-f1da1013@example.test (verify_signup): 534252
+2026/10/10 15:51:43 [mail] to=qa1-tzkolk-f1da1013@example.test subject="Your Aknologia code: 534252"
+Your Aknologia code is 534252. Use it to verify your email and finish creating your workspace. It expires in 10 minutes.
+2026/10/10 15:51:43 POST /api/v1/auth/signup 377ms
+2026/10/10 15:51:43 POST /api/v1/auth/verify-email 38ms
+2026/10/10 15:51:43 POST /api/v1/admin/billing/seats 40ms
+2026/10/10 15:51:43 PUT /api/v1/admin/org 22ms
+2026/10/10 15:51:43 [dev] invite code for qa1-tzm-83f17b2b@example.test: A5U2-ZPVQ
+2026/10/10 15:51:43 [mail] to=qa1-tzm-83f17b2b@example.test subject="Admin tzkolk invited you to Org tzkolk 49bd692b"
+Admin tzkolk invited you to Org tzkolk 49bd692b on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: A5U2-ZPVQ (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-tzm-83f17b2b@example.test
+
+2026/10/10 15:51:43 POST /api/v1/admin/members/invite 55ms
+2026/10/10 15:51:44 POST /api/v1/auth/invite/accept 398ms
+2026/10/10 15:51:44 POST /api/v1/ingest/batch 160ms
+2026/10/10 15:51:44 GET /api/v1/admin/export.csv 7ms
+2026/10/10 15:51:44 [dev] one-time code for qa1-ist-89f872ad@example.test (verify_signup): 014254
+2026/10/10 15:51:44 [mail] to=qa1-ist-89f872ad@example.test subject="Your Aknologia code: 014254"
+Your Aknologia code is 014254. Use it to verify your email and finish creating your workspace. It expires in 10 minutes.
+2026/10/10 15:51:44 POST /api/v1/auth/signup 387ms
+2026/10/10 15:51:45 POST /api/v1/auth/verify-email 32ms
+2026/10/10 15:51:45 POST /api/v1/admin/billing/seats 32ms
+2026/10/10 15:51:45 PUT /api/v1/admin/org 22ms
+2026/10/10 15:51:45 [dev] invite code for qa1-istm-64db68b4@example.test: BCB2-PBRK
+2026/10/10 15:51:45 [mail] to=qa1-istm-64db68b4@example.test subject="Admin ist invited you to Org ist bb56ccc9"
+Admin ist invited you to Org ist bb56ccc9 on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: BCB2-PBRK (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-istm-64db68b4@example.test
+
+2026/10/10 15:51:45 POST /api/v1/admin/members/invite 31ms
+2026/10/10 15:51:45 POST /api/v1/auth/invite/accept 366ms
+2026/10/10 15:51:45 POST /api/v1/ingest/batch 117ms
+2026/10/10 15:51:45 GET /api/v1/admin/overview 62ms
+2026/10/10 15:51:45 GET /api/v1/admin/overview 65ms
+2026/10/10 15:51:45 GET /api/v1/admin/members/c26f9354-669e-4aa1-a1d2-9ecb6407a705/usage 55ms
+2026/10/10 15:51:45 GET /api/v1/admin/members/c26f9354-669e-4aa1-a1d2-9ecb6407a705/usage 55ms
+2026/10/10 15:51:45 GET /api/v1/agent/config 26ms
+2026/10/10 15:51:45 GET /api/v1/admin/export.csv 12ms
+2026/10/10 15:51:46 [dev] one-time code for qa1-money-ff977745@example.test (verify_signup): 201771
+2026/10/10 15:51:46 [mail] to=qa1-money-ff977745@example.test subject="Your Aknologia code: 201771"
+Your Aknologia code is 201771. Use it to verify your email and finish creating your workspace. It expires in 10 minutes.
+2026/10/10 15:51:46 POST /api/v1/auth/signup 354ms
+2026/10/10 15:51:46 POST /api/v1/auth/verify-email 23ms
+2026/10/10 15:51:46 POST /api/v1/admin/billing/seats 25ms
+2026/10/10 15:51:46 [dev] invite code for qa1-moneym-4748e204@example.test: U3WD-MTN5
+2026/10/10 15:51:46 [mail] to=qa1-moneym-4748e204@example.test subject="Admin money invited you to Org money 0d82fac8"
+Admin money invited you to Org money 0d82fac8 on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: U3WD-MTN5 (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-moneym-4748e204@example.test
+
+2026/10/10 15:51:46 POST /api/v1/admin/members/invite 32ms
+2026/10/10 15:51:46 POST /api/v1/auth/invite/accept 312ms
+2026/10/10 15:51:46 GET /api/v1/admin/pricing 11ms
+2026/10/10 15:51:47 POST /api/v1/ingest/batch 121ms
+2026/10/10 15:51:47 GET /api/v1/admin/overview 24ms
+2026/10/10 15:51:47 GET /api/v1/admin/members/c0c426e8-ab1c-47bf-aef1-5406f01ba8b9/usage 33ms
+2026/10/10 15:51:47 GET /api/v1/me/usage 18ms
+2026/10/10 15:51:47 GET /api/v1/admin/export.csv 10ms
+2026/10/10 15:51:47 [dev] one-time code for qa1-active-eb84d14f@example.test (verify_signup): 081776
+2026/10/10 15:51:47 [mail] to=qa1-active-eb84d14f@example.test subject="Your Aknologia code: 081776"
+Your Aknologia code is 081776. Use it to verify your email and finish creating your workspace. It expires in 10 minutes.
+2026/10/10 15:51:47 POST /api/v1/auth/signup 323ms
+2026/10/10 15:51:47 POST /api/v1/auth/verify-email 20ms
+2026/10/10 15:51:47 POST /api/v1/admin/billing/seats 23ms
+2026/10/10 15:51:47 [dev] invite code for qa1-actm-362ac3d0@example.test: G3H3-GQRU
+2026/10/10 15:51:47 [mail] to=qa1-actm-362ac3d0@example.test subject="Admin active invited you to Org active 9d2bef8e"
+Admin active invited you to Org active 9d2bef8e on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: G3H3-GQRU (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-actm-362ac3d0@example.test
+
+2026/10/10 15:51:47 POST /api/v1/admin/members/invite 25ms
+2026/10/10 15:51:48 POST /api/v1/auth/invite/accept 360ms
+2026/10/10 15:51:48 POST /api/v1/ingest/batch 183ms
+2026/10/10 15:51:48 GET /api/v1/admin/members/a72246fc-0152-4c56-8027-666bd696dac3/usage 43ms
+2026/10/10 15:51:48 GET /api/v1/me/usage 49ms
+2026/10/10 15:51:49 [dev] one-time code for qa1-budget-689f24ba@example.test (verify_signup): 798539
+2026/10/10 15:51:49 [mail] to=qa1-budget-689f24ba@example.test subject="Your Aknologia code: 798539"
+Your Aknologia code is 798539. Use it to verify your email and finish creating your workspace. It expires in 10 minutes.
+2026/10/10 15:51:49 POST /api/v1/auth/signup 378ms
+2026/10/10 15:51:49 POST /api/v1/auth/verify-email 51ms
+2026/10/10 15:51:49 POST /api/v1/admin/billing/seats 40ms
+2026/10/10 15:51:49 PUT /api/v1/admin/budgets 57ms
+2026/10/10 15:51:49 [dev] invite code for qa1-budm-e6d58b6c@example.test: J7V9-T643
+2026/10/10 15:51:49 [mail] to=qa1-budm-e6d58b6c@example.test subject="Admin budget invited you to Org budget 3dece94b"
+Admin budget invited you to Org budget 3dece94b on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: J7V9-T643 (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-budm-e6d58b6c@example.test
+
+2026/10/10 15:51:49 POST /api/v1/admin/members/invite 50ms
+2026/10/10 15:51:49 POST /api/v1/auth/invite/accept 379ms
+2026/10/10 15:51:49 POST /api/v1/ingest/batch 135ms
+2026/10/10 15:51:50 POST /api/v1/ingest/batch 142ms
+2026/10/10 15:51:50 POST /api/v1/ingest/batch 121ms
+2026/10/10 15:51:51 POST /api/v1/ingest/batch 89ms
+2026/10/10 15:51:51 POST /api/v1/ingest/batch 115ms
+2026/10/10 15:51:51 POST /api/v1/admin/refresh 69ms
+2026/10/10 15:51:51 GET /api/v1/me/notifications 15ms
+2026/10/10 15:51:52 [dev] one-time code for qa1-reset-4a71bae1@example.test (verify_signup): 330809
+2026/10/10 15:51:52 [mail] to=qa1-reset-4a71bae1@example.test subject="Your Aknologia code: 330809"
+Your Aknologia code is 330809. Use it to verify your email and finish creating your workspace. It expires in 10 minutes.
+2026/10/10 15:51:52 POST /api/v1/auth/signup 352ms
+2026/10/10 15:51:52 POST /api/v1/auth/verify-email 31ms
+2026/10/10 15:51:52 POST /api/v1/admin/billing/seats 26ms
+2026/10/10 15:51:52 [dev] invite code for qa1-rstm-853c5a77@example.test: NKGM-XUST
+2026/10/10 15:51:52 [mail] to=qa1-rstm-853c5a77@example.test subject="Admin reset invited you to Org reset 4a2f736a"
+Admin reset invited you to Org reset 4a2f736a on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: NKGM-XUST (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-rstm-853c5a77@example.test
+
+2026/10/10 15:51:52 POST /api/v1/admin/members/invite 26ms
+2026/10/10 15:51:52 POST /api/v1/auth/invite/accept 381ms
+2026/10/10 15:51:52 POST /api/v1/ingest/batch 134ms
+2026/10/10 15:51:53 PATCH /api/v1/admin/members/342791d2-f9c4-4c1b-ae47-d4575ec6afbd 20ms
+2026/10/10 15:51:53 POST /api/v1/ingest/batch 128ms
+2026/10/10 15:51:54 POST /api/v1/ingest/batch 103ms
+2026/10/10 15:51:54 GET /api/v1/me/notifications 10ms
+2026/10/10 15:51:54 [dev] one-time code for qa1-putb-54c70013@example.test (verify_signup): 042459
+2026/10/10 15:51:54 [mail] to=qa1-putb-54c70013@example.test subject="Your Aknologia code: 042459"
+Your Aknologia code is 042459. Use it to verify your email and finish creating your workspace. It expires in 10 minutes.
+2026/10/10 15:51:54 POST /api/v1/auth/signup 360ms
+2026/10/10 15:51:54 POST /api/v1/auth/verify-email 25ms
+2026/10/10 15:51:54 POST /api/v1/admin/billing/seats 29ms
+2026/10/10 15:51:54 [dev] invite code for qa1-putm-6aaa5bcc@example.test: QE5W-S6B3
+2026/10/10 15:51:54 [mail] to=qa1-putm-6aaa5bcc@example.test subject="Admin putb invited you to Org putb 88bec9ec"
+Admin putb invited you to Org putb 88bec9ec on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: QE5W-S6B3 (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-putm-6aaa5bcc@example.test
+
+2026/10/10 15:51:54 POST /api/v1/admin/members/invite 31ms
+2026/10/10 15:51:55 POST /api/v1/auth/invite/accept 381ms
+2026/10/10 15:51:55 POST /api/v1/ingest/batch 114ms
+2026/10/10 15:51:55 PUT /api/v1/admin/budgets 49ms
+2026/10/10 15:51:55 POST /api/v1/ingest/batch 147ms
+2026/10/10 15:51:56 [dev] one-time code for qa1-tog-4b6c61fb@example.test (verify_signup): 847617
+2026/10/10 15:51:56 [mail] to=qa1-tog-4b6c61fb@example.test subject="Your Aknologia code: 847617"
+Your Aknologia code is 847617. Use it to verify your email and finish creating your workspace. It expires in 10 minutes.
+2026/10/10 15:51:56 POST /api/v1/auth/signup 350ms
+2026/10/10 15:51:56 POST /api/v1/auth/verify-email 17ms
+2026/10/10 15:51:56 POST /api/v1/admin/billing/seats 19ms
+2026/10/10 15:51:56 PUT /api/v1/admin/budgets 20ms
+2026/10/10 15:51:56 [dev] invite code for qa1-togm-bd06430f@example.test: ZFPF-HCQP
+2026/10/10 15:51:56 [mail] to=qa1-togm-bd06430f@example.test subject="Admin tog invited you to Org tog 130e26b8"
+Admin tog invited you to Org tog 130e26b8 on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: ZFPF-HCQP (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-togm-bd06430f@example.test
+
+2026/10/10 15:51:56 POST /api/v1/admin/members/invite 21ms
+2026/10/10 15:51:57 POST /api/v1/auth/invite/accept 371ms
+2026/10/10 15:51:57 POST /api/v1/ingest/batch 135ms
+2026/10/10 15:51:57 POST /api/v1/ingest/batch 129ms
+2026/10/10 15:51:58 [dev] one-time code for qa1-tog2-de4416de@example.test (verify_signup): 080264
+2026/10/10 15:51:58 [mail] to=qa1-tog2-de4416de@example.test subject="Your Aknologia code: 080264"
+Your Aknologia code is 080264. Use it to verify your email and finish creating your workspace. It expires in 10 minutes.
+2026/10/10 15:51:58 POST /api/v1/auth/signup 346ms
+2026/10/10 15:51:58 POST /api/v1/auth/verify-email 33ms
+2026/10/10 15:51:58 POST /api/v1/admin/billing/seats 26ms
+2026/10/10 15:51:58 PUT /api/v1/admin/budgets 26ms
+2026/10/10 15:51:58 [dev] invite code for qa1-tog2m-c95abba0@example.test: EFZ8-G5NP
+2026/10/10 15:51:58 [mail] to=qa1-tog2m-c95abba0@example.test subject="Admin tog2 invited you to Org tog2 56455e48"
+Admin tog2 invited you to Org tog2 56455e48 on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: EFZ8-G5NP (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-tog2m-c95abba0@example.test
+
+2026/10/10 15:51:58 POST /api/v1/admin/members/invite 16ms
+2026/10/10 15:51:58 POST /api/v1/auth/invite/accept 386ms
+2026/10/10 15:51:59 POST /api/v1/ingest/batch 140ms
+2026/10/10 15:51:59 GET /api/v1/me/notifications 26ms
+2026/10/10 15:51:59 [dev] one-time code for qa1-del-98ba9c87@example.test (verify_signup): 820304
+2026/10/10 15:51:59 [mail] to=qa1-del-98ba9c87@example.test subject="Your Aknologia code: 820304"
+Your Aknologia code is 820304. Use it to verify your email and finish creating your workspace. It expires in 10 minutes.
+2026/10/10 15:51:59 POST /api/v1/auth/signup 363ms
+2026/10/10 15:51:59 POST /api/v1/auth/verify-email 27ms
+2026/10/10 15:51:59 POST /api/v1/admin/billing/seats 25ms
+2026/10/10 15:51:59 [dev] invite code for qa1-delm-01e89278@example.test: 9TBR-TUW3
+2026/10/10 15:51:59 [mail] to=qa1-delm-01e89278@example.test subject="Admin del invited you to Org del ab14bfb0"
+Admin del invited you to Org del ab14bfb0 on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: 9TBR-TUW3 (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-delm-01e89278@example.test
+
+2026/10/10 15:51:59 POST /api/v1/admin/members/invite 31ms
+2026/10/10 15:52:00 POST /api/v1/auth/invite/accept 391ms
+2026/10/10 15:52:00 [dev] one-time code for qa1-keep-a9df8db0@example.test (verify_signup): 937137
+2026/10/10 15:52:00 [mail] to=qa1-keep-a9df8db0@example.test subject="Your Aknologia code: 937137"
+Your Aknologia code is 937137. Use it to verify your email and finish creating your workspace. It expires in 10 minutes.
+2026/10/10 15:52:00 POST /api/v1/auth/signup 358ms
+2026/10/10 15:52:00 POST /api/v1/auth/verify-email 37ms
+2026/10/10 15:52:00 POST /api/v1/admin/billing/seats 30ms
+2026/10/10 15:52:00 [dev] invite code for qa1-keepm-f0151122@example.test: 4EEU-U5Z3
+2026/10/10 15:52:00 [mail] to=qa1-keepm-f0151122@example.test subject="Admin keep invited you to Org keep 48d5e444"
+Admin keep invited you to Org keep 48d5e444 on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: 4EEU-U5Z3 (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-keepm-f0151122@example.test
+
+2026/10/10 15:52:00 POST /api/v1/admin/members/invite 36ms
+2026/10/10 15:52:01 POST /api/v1/auth/invite/accept 383ms
+2026/10/10 15:52:01 POST /api/v1/ingest/batch 135ms
+2026/10/10 15:52:01 POST /api/v1/ingest/batch 95ms
+2026/10/10 15:52:01 POST /api/v1/admin/data/delete/confirm 9ms
+2026/10/10 15:52:01 [dev] one-time code for qa1-del-98ba9c87@example.test (delete_data): 873129
+2026/10/10 15:52:01 [mail] to=qa1-del-98ba9c87@example.test subject="Your Aknologia code: 873129"
+Your Aknologia code is 873129. Use it to confirm deleting your organization’s usage data. It expires in 10 minutes.
+2026/10/10 15:52:01 POST /api/v1/admin/data/delete/start 13ms
+2026/10/10 15:52:01 POST /api/v1/admin/data/delete/confirm 15ms
+2026/10/10 15:52:01 POST /api/v1/admin/data/delete/confirm 37ms
+2026/10/10 15:52:02 GET /api/v1/admin/overview 37ms
+2026/10/10 15:52:03 [dev] one-time code for qa1-rm-5cdbdb59@example.test (verify_signup): 047966
+2026/10/10 15:52:03 [mail] to=qa1-rm-5cdbdb59@example.test subject="Your Aknologia code: 047966"
+Your Aknologia code is 047966. Use it to verify your email and finish creating your workspace. It expires in 10 minutes.
+2026/10/10 15:52:03 POST /api/v1/auth/signup 353ms
+2026/10/10 15:52:03 POST /api/v1/auth/verify-email 27ms
+2026/10/10 15:52:03 POST /api/v1/admin/billing/seats 28ms
+2026/10/10 15:52:03 [dev] invite code for qa1-rm1-69fff409@example.test: VB3N-FKXH
+2026/10/10 15:52:03 [mail] to=qa1-rm1-69fff409@example.test subject="Admin rm invited you to Org rm 66f52385"
+Admin rm invited you to Org rm 66f52385 on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: VB3N-FKXH (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-rm1-69fff409@example.test
+
+2026/10/10 15:52:03 POST /api/v1/admin/members/invite 31ms
+2026/10/10 15:52:03 POST /api/v1/auth/invite/accept 356ms
+2026/10/10 15:52:03 [dev] invite code for qa1-rm2-a4ee56c5@example.test: ZBHM-Z9NK
+2026/10/10 15:52:03 [mail] to=qa1-rm2-a4ee56c5@example.test subject="Admin rm invited you to Org rm 66f52385"
+Admin rm invited you to Org rm 66f52385 on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: ZBHM-Z9NK (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-rm2-a4ee56c5@example.test
+
+2026/10/10 15:52:03 POST /api/v1/admin/members/invite 27ms
+2026/10/10 15:52:03 POST /api/v1/auth/invite/accept 356ms
+2026/10/10 15:52:04 POST /api/v1/ingest/batch 104ms
+2026/10/10 15:52:04 POST /api/v1/ingest/batch 118ms
+2026/10/10 15:52:04 [mail] to=qa1-rm1-69fff409@example.test subject="You’ve been removed from Org rm 66f52385"
+Admin rm removed you from Org rm 66f52385. Tracking has stopped.
+2026/10/10 15:52:04 DELETE /api/v1/admin/members/0fd74721-b5ed-4eec-9a63-ddbaa6aedb67 67ms
+2026/10/10 15:52:04 [mail] to=qa1-rm2-a4ee56c5@example.test subject="You’ve been removed from Org rm 66f52385"
+Admin rm removed you from Org rm 66f52385. Tracking has stopped.
+2026/10/10 15:52:04 DELETE /api/v1/admin/members/4a61baa3-553b-48d7-afec-ce4816a410a5 33ms
+2026/10/10 15:52:05 GET /api/v1/admin/overview 66ms
+2026/10/10 15:52:05 GET /api/v1/health 0s
+2026/10/10 15:52:05 GET /api/v1/health 0s
+2026/10/10 15:52:05 GET /api/v1/health 0s
+2026/10/10 15:52:05 GET /api/v1/health 0s
+2026/10/10 15:52:05 GET /api/v1/health 1ms
+2026/10/10 15:52:05 GET /api/v1/health 0s
+2026/10/10 15:52:05 GET /api/v1/health 1ms
+2026/10/10 15:52:05 GET /api/v1/health 0s
+2026/10/10 15:52:05 GET /api/v1/me 0s
+2026/10/10 15:52:05 GET /api/v1/health 0s
+2026/10/10 15:52:05 [dev] invite code for qa1-csv-565759e1@example.test: 9RRV-DGVK
+2026/10/10 15:52:05 [mail] to=qa1-csv-565759e1@example.test subject="Admin main invited you to Org main bbe61f17"
+Admin main invited you to Org main bbe61f17 on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: 9RRV-DGVK (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-csv-565759e1@example.test
+
+2026/10/10 15:52:05 POST /api/v1/admin/members/invite 20ms
+2026/10/10 15:52:05 POST /api/v1/auth/invite/accept 397ms
+2026/10/10 15:52:05 PATCH /api/v1/me/settings 16ms
+2026/10/10 15:52:05 POST /api/v1/ingest/batch 94ms
+2026/10/10 15:52:06 GET /api/v1/admin/export.csv 11ms
+2026/10/10 15:52:06 error: pq: invalid input syntax for type date: "notadate"
+2026/10/10 15:52:06 GET /api/v1/admin/export.csv 13ms
+2026/10/10 15:52:06 [dev] one-time code for qa1-bill-c8f6c6bc@example.test (verify_signup): 676327
+2026/10/10 15:52:06 [mail] to=qa1-bill-c8f6c6bc@example.test subject="Your Aknologia code: 676327"
+Your Aknologia code is 676327. Use it to verify your email and finish creating your workspace. It expires in 10 minutes.
+2026/10/10 15:52:06 POST /api/v1/auth/signup 367ms
+2026/10/10 15:52:06 POST /api/v1/auth/verify-email 33ms
+2026/10/10 15:52:06 POST /api/v1/admin/billing/seats 30ms
+2026/10/10 15:52:06 POST /api/v1/admin/billing/seats 17ms
+2026/10/10 15:52:06 GET /api/v1/admin/billing 18ms
+2026/10/10 15:52:06 [dev] invite code for qa1-enum-32894fbf@example.test: 4S7B-9NSN
+2026/10/10 15:52:06 [mail] to=qa1-enum-32894fbf@example.test subject="Admin main invited you to Org main bbe61f17"
+Admin main invited you to Org main bbe61f17 on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: 4S7B-9NSN (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-enum-32894fbf@example.test
+
+2026/10/10 15:52:06 POST /api/v1/admin/members/invite 42ms
+2026/10/10 15:52:06 POST /api/v1/auth/invite/accept 403ms
+2026/10/10 15:52:07 [mail] to=qa1-enum-32894fbf@example.test subject="You’ve been removed from Org main bbe61f17"
+Admin main removed you from Org main bbe61f17. Tracking has stopped.
+2026/10/10 15:52:07 DELETE /api/v1/admin/members/d502c8f1-2a6b-42bf-9a29-102bdfb25e92 51ms
+2026/10/10 15:52:07 POST /api/v1/auth/login 7ms
+2026/10/10 15:52:07 [dev] invite code for qa1-enuminv-d6470928@example.test: UXNG-NWB5
+2026/10/10 15:52:07 [mail] to=qa1-enuminv-d6470928@example.test subject="Admin main invited you to Org main bbe61f17"
+Admin main invited you to Org main bbe61f17 on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: UXNG-NWB5 (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-enuminv-d6470928@example.test
+
+2026/10/10 15:52:07 POST /api/v1/admin/members/invite 63ms
+2026/10/10 15:52:07 POST /api/v1/auth/login 5ms
+2026/10/10 15:52:11 [dev] one-time code for qa1-mixed-703b88da@example.test (verify_signup): 257158
+2026/10/10 15:52:11 [mail] to=qa1-mixed-703b88da@example.test subject="Your Aknologia code: 257158"
+Your Aknologia code is 257158. Use it to verify your email and finish creating your workspace. It expires in 10 minutes.
+2026/10/10 15:52:11 POST /api/v1/auth/signup 334ms
+2026/10/10 15:52:11 POST /api/v1/auth/verify-email 31ms
+2026/10/10 15:52:11 POST /api/v1/admin/billing/seats 24ms
+2026/10/10 15:52:11 [dev] invite code for qa1-mix-dd759445@example.test: 5GA4-N2GG
+2026/10/10 15:52:11 [mail] to=qa1-mix-dd759445@example.test subject="Admin mixed invited you to Org mixed d03f56e1"
+Admin mixed invited you to Org mixed d03f56e1 on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: 5GA4-N2GG (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-mix-dd759445@example.test
+
+2026/10/10 15:52:11 POST /api/v1/admin/members/invite 26ms
+2026/10/10 15:52:11 POST /api/v1/auth/invite/accept 378ms
+2026/10/10 15:52:11 GET /api/v1/admin/pricing 9ms
+2026/10/10 15:52:11 POST /api/v1/ingest/batch 151ms
+2026/10/10 15:52:11 GET /api/v1/admin/members/eeabc8d9-2d2b-48a1-bbf3-b8623b446d4c/usage 92ms
+2026/10/10 15:52:12 [dev] one-time code for qa1-refresh-595be9e9@example.test (verify_signup): 118658
+2026/10/10 15:52:12 [mail] to=qa1-refresh-595be9e9@example.test subject="Your Aknologia code: 118658"
+Your Aknologia code is 118658. Use it to verify your email and finish creating your workspace. It expires in 10 minutes.
+2026/10/10 15:52:12 POST /api/v1/auth/signup 374ms
+2026/10/10 15:52:12 POST /api/v1/auth/verify-email 46ms
+2026/10/10 15:52:12 POST /api/v1/admin/billing/seats 42ms
+2026/10/10 15:52:12 [dev] invite code for qa1-ok-05f5442c@example.test: XR7Z-BJB9
+2026/10/10 15:52:12 [mail] to=qa1-ok-05f5442c@example.test subject="Admin refresh invited you to Org refresh b76ddd7f"
+Admin refresh invited you to Org refresh b76ddd7f on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: XR7Z-BJB9 (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-ok-05f5442c@example.test
+
+2026/10/10 15:52:12 POST /api/v1/admin/members/invite 46ms
+2026/10/10 15:52:12 POST /api/v1/auth/invite/accept 371ms
+2026/10/10 15:52:12 POST /api/v1/ingest/batch 114ms
+2026/10/10 15:52:12 POST /api/v1/ingest/batch 65ms
+2026/10/10 15:52:13 POST /api/v1/admin/refresh 96ms
+2026/10/10 15:52:13 [dev] one-time code for qa1-old2-504d20d0@example.test (verify_signup): 023161
+2026/10/10 15:52:13 [mail] to=qa1-old2-504d20d0@example.test subject="Your Aknologia code: 023161"
+Your Aknologia code is 023161. Use it to verify your email and finish creating your workspace. It expires in 10 minutes.
+2026/10/10 15:52:13 POST /api/v1/auth/signup 391ms
+2026/10/10 15:52:13 POST /api/v1/auth/verify-email 29ms
+2026/10/10 15:52:13 POST /api/v1/admin/billing/seats 30ms
+2026/10/10 15:52:13 [dev] invite code for qa1-old-52a5fb71@example.test: TKV2-8MXT
+2026/10/10 15:52:13 [mail] to=qa1-old-52a5fb71@example.test subject="Admin old2 invited you to Org old2 c1269574"
+Admin old2 invited you to Org old2 c1269574 on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: TKV2-8MXT (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-old-52a5fb71@example.test
+
+2026/10/10 15:52:13 POST /api/v1/admin/members/invite 29ms
+2026/10/10 15:52:13 POST /api/v1/auth/invite/accept 369ms
+2026/10/10 15:52:14 POST /api/v1/ingest/batch 123ms
+2026/10/10 15:52:14 GET /api/v1/admin/overview 54ms
+2026/10/10 15:52:39 GET /api/v1/health 0s
+2026/10/10 15:52:39 [dev] one-time code for qa1-signup-ed070ebd@example.test (verify_signup): 209464
+2026/10/10 15:52:39 [mail] to=qa1-signup-ed070ebd@example.test subject="Your Aknologia code: 209464"
+Your Aknologia code is 209464. Use it to verify your email and finish creating your workspace. It expires in 10 minutes.
+2026/10/10 15:52:39 POST /api/v1/auth/signup 378ms
+2026/10/10 15:52:40 [dev] one-time code for qa1-signup-ed070ebd@example.test (verify_signup): 022298
+2026/10/10 15:52:40 [mail] to=qa1-signup-ed070ebd@example.test subject="Your Aknologia code: 022298"
+Your Aknologia code is 022298. Use it to verify your email and finish creating your workspace. It expires in 10 minutes.
+2026/10/10 15:52:40 POST /api/v1/auth/login 373ms
+2026/10/10 15:52:40 POST /api/v1/auth/verify-email 35ms
+2026/10/10 15:52:40 POST /api/v1/auth/login 411ms
+2026/10/10 15:52:41 GET /api/v1/me 15ms
+2026/10/10 15:52:41 POST /api/v1/auth/login 367ms
+2026/10/10 15:52:41 POST /api/v1/auth/login 5ms
+2026/10/10 15:52:41 GET /api/v1/me 0s
+2026/10/10 15:52:41 GET /api/v1/me 6ms
+2026/10/10 15:52:41 [dev] one-time code for qa1-main-23f965e5@example.test (verify_signup): 269539
+2026/10/10 15:52:41 [mail] to=qa1-main-23f965e5@example.test subject="Your Aknologia code: 269539"
+Your Aknologia code is 269539. Use it to verify your email and finish creating your workspace. It expires in 10 minutes.
+2026/10/10 15:52:41 POST /api/v1/auth/signup 415ms
+2026/10/10 15:52:41 POST /api/v1/auth/verify-email 47ms
+2026/10/10 15:52:41 POST /api/v1/admin/billing/seats 37ms
+2026/10/10 15:52:41 POST /api/v1/auth/signup 5ms
+2026/10/10 15:52:41 POST /api/v1/auth/signup 3ms
+2026/10/10 15:52:42 POST /api/v1/auth/signup 0s
+2026/10/10 15:52:42 POST /api/v1/auth/signup 0s
+2026/10/10 15:52:42 POST /api/v1/auth/signup 0s
+2026/10/10 15:52:42 POST /api/v1/auth/signup 0s
+2026/10/10 15:52:42 POST /api/v1/auth/signup 0s
+2026/10/10 15:52:42 POST /api/v1/auth/signup 0s
+2026/10/10 15:52:42 [dev] one-time code for qa1-pw-304b516d@example.test (verify_signup): 312871
+2026/10/10 15:52:42 [mail] to=qa1-pw-304b516d@example.test subject="Your Aknologia code: 312871"
+Your Aknologia code is 312871. Use it to verify your email and finish creating your workspace. It expires in 10 minutes.
+2026/10/10 15:52:42 POST /api/v1/auth/signup 420ms
+2026/10/10 15:52:42 [dev] invite code for qa1-member-0805871c@example.test: ZJDN-C35Q
+2026/10/10 15:52:42 [mail] to=qa1-member-0805871c@example.test subject="Admin main invited you to Org main 7dcdf0bc"
+Admin main invited you to Org main 7dcdf0bc on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: ZJDN-C35Q (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-member-0805871c@example.test
+
+2026/10/10 15:52:42 POST /api/v1/admin/members/invite 45ms
+2026/10/10 15:52:43 POST /api/v1/auth/invite/accept 464ms
+2026/10/10 15:52:43 POST /api/v1/auth/login 401ms
+2026/10/10 15:52:44 POST /api/v1/auth/login 442ms
+2026/10/10 15:52:44 POST /api/v1/auth/login 378ms
+2026/10/10 15:52:45 [dev] one-time code for qa1-otpwrong-35f845be@example.test (verify_signup): 092180
+2026/10/10 15:52:45 [mail] to=qa1-otpwrong-35f845be@example.test subject="Your Aknologia code: 092180"
+Your Aknologia code is 092180. Use it to verify your email and finish creating your workspace. It expires in 10 minutes.
+2026/10/10 15:52:45 POST /api/v1/auth/signup 421ms
+2026/10/10 15:52:45 POST /api/v1/auth/verify-email 18ms
+2026/10/10 15:52:45 POST /api/v1/auth/verify-email 35ms
+2026/10/10 15:52:45 [dev] one-time code for qa1-otpexp-c166ab92@example.test (verify_signup): 730933
+2026/10/10 15:52:45 [mail] to=qa1-otpexp-c166ab92@example.test subject="Your Aknologia code: 730933"
+Your Aknologia code is 730933. Use it to verify your email and finish creating your workspace. It expires in 10 minutes.
+2026/10/10 15:52:45 POST /api/v1/auth/signup 378ms
+2026/10/10 15:52:45 POST /api/v1/auth/verify-email 4ms
+2026/10/10 15:52:46 [dev] one-time code for qa1-otpburn-0df501ea@example.test (verify_signup): 685404
+2026/10/10 15:52:46 [mail] to=qa1-otpburn-0df501ea@example.test subject="Your Aknologia code: 685404"
+Your Aknologia code is 685404. Use it to verify your email and finish creating your workspace. It expires in 10 minutes.
+2026/10/10 15:52:46 POST /api/v1/auth/signup 376ms
+2026/10/10 15:52:46 POST /api/v1/auth/verify-email 8ms
+2026/10/10 15:52:46 POST /api/v1/auth/verify-email 14ms
+2026/10/10 15:52:46 POST /api/v1/auth/verify-email 9ms
+2026/10/10 15:52:46 POST /api/v1/auth/verify-email 9ms
+2026/10/10 15:52:46 POST /api/v1/auth/verify-email 14ms
+2026/10/10 15:52:46 POST /api/v1/auth/verify-email 5ms
+2026/10/10 15:52:47 [dev] one-time code for qa1-otpreuse-d69fe41e@example.test (verify_signup): 688940
+2026/10/10 15:52:47 [mail] to=qa1-otpreuse-d69fe41e@example.test subject="Your Aknologia code: 688940"
+Your Aknologia code is 688940. Use it to verify your email and finish creating your workspace. It expires in 10 minutes.
+2026/10/10 15:52:47 POST /api/v1/auth/signup 429ms
+2026/10/10 15:52:47 POST /api/v1/auth/verify-email 43ms
+2026/10/10 15:52:47 POST /api/v1/auth/verify-email 6ms
+2026/10/10 15:52:47 [dev] one-time code for qa1-otprace-057eb200@example.test (verify_signup): 144996
+2026/10/10 15:52:47 [mail] to=qa1-otprace-057eb200@example.test subject="Your Aknologia code: 144996"
+Your Aknologia code is 144996. Use it to verify your email and finish creating your workspace. It expires in 10 minutes.
+2026/10/10 15:52:47 POST /api/v1/auth/signup 440ms
+2026/10/10 15:52:47 POST /api/v1/auth/verify-email 17ms
+2026/10/10 15:52:47 POST /api/v1/auth/verify-email 18ms
+2026/10/10 15:52:47 POST /api/v1/auth/verify-email 19ms
+2026/10/10 15:52:47 POST /api/v1/auth/verify-email 18ms
+2026/10/10 15:52:47 POST /api/v1/auth/verify-email 22ms
+2026/10/10 15:52:47 POST /api/v1/auth/verify-email 5ms
+2026/10/10 15:52:47 POST /api/v1/auth/verify-email 21ms
+2026/10/10 15:52:47 POST /api/v1/auth/verify-email 5ms
+2026/10/10 15:52:47 POST /api/v1/auth/verify-email 13ms
+2026/10/10 15:52:47 POST /api/v1/auth/verify-email 4ms
+2026/10/10 15:52:47 POST /api/v1/auth/verify-email 3ms
+2026/10/10 15:52:47 POST /api/v1/auth/verify-email 4ms
+2026/10/10 15:52:47 POST /api/v1/auth/verify-email 4ms
+2026/10/10 15:52:47 POST /api/v1/auth/verify-email 4ms
+2026/10/10 15:52:47 POST /api/v1/auth/verify-email 4ms
+2026/10/10 15:52:47 POST /api/v1/auth/verify-email 4ms
+2026/10/10 15:52:47 POST /api/v1/auth/verify-email 4ms
+2026/10/10 15:52:47 POST /api/v1/auth/verify-email 6ms
+2026/10/10 15:52:47 POST /api/v1/auth/verify-email 5ms
+2026/10/10 15:52:47 POST /api/v1/auth/verify-email 5ms
+2026/10/10 15:52:47 POST /api/v1/auth/verify-email 4ms
+2026/10/10 15:52:47 POST /api/v1/auth/verify-email 3ms
+2026/10/10 15:52:47 POST /api/v1/auth/verify-email 4ms
+2026/10/10 15:52:47 POST /api/v1/auth/verify-email 5ms
+2026/10/10 15:52:47 POST /api/v1/auth/verify-email 3ms
+2026/10/10 15:52:47 POST /api/v1/auth/verify-email 4ms
+2026/10/10 15:52:47 POST /api/v1/auth/verify-email 4ms
+2026/10/10 15:52:47 POST /api/v1/auth/verify-email 4ms
+2026/10/10 15:52:47 POST /api/v1/auth/verify-email 5ms
+2026/10/10 15:52:47 POST /api/v1/auth/verify-email 6ms
+2026/10/10 15:52:47 POST /api/v1/auth/verify-email 4ms
+2026/10/10 15:52:47 POST /api/v1/auth/verify-email 4ms
+2026/10/10 15:52:47 POST /api/v1/auth/verify-email 5ms
+2026/10/10 15:52:47 POST /api/v1/auth/verify-email 4ms
+2026/10/10 15:52:47 POST /api/v1/auth/verify-email 6ms
+2026/10/10 15:52:47 POST /api/v1/auth/verify-email 3ms
+2026/10/10 15:52:47 POST /api/v1/auth/verify-email 4ms
+2026/10/10 15:52:48 POST /api/v1/auth/verify-email 103ms
+2026/10/10 15:52:48 POST /api/v1/auth/verify-email 109ms
+2026/10/10 15:52:48 POST /api/v1/auth/verify-email 125ms
+2026/10/10 15:52:48 [dev] invite code for qa1-backup-c521da3d@example.test: N74T-5C5Y
+2026/10/10 15:52:48 [mail] to=qa1-backup-c521da3d@example.test subject="Admin main invited you to Org main 7dcdf0bc"
+Admin main invited you to Org main 7dcdf0bc on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: N74T-5C5Y (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-backup-c521da3d@example.test
+
+2026/10/10 15:52:48 POST /api/v1/admin/members/invite 35ms
+2026/10/10 15:52:48 POST /api/v1/auth/invite/accept 421ms
+2026/10/10 15:52:48 [dev] one-time code for qa1-bk-94d35192@example.test (verify_backup): 304182
+2026/10/10 15:52:48 [mail] to=qa1-bk-94d35192@example.test subject="Your Aknologia code: 304182"
+Your Aknologia code is 304182. Use it to verify this backup email. It expires in 10 minutes.
+2026/10/10 15:52:48 POST /api/v1/me/backup-email 15ms
+2026/10/10 15:52:48 POST /api/v1/me/backup-email/verify 20ms
+2026/10/10 15:52:48 POST /api/v1/me/backup-email/verify 26ms
+2026/10/10 15:52:49 GET /api/v1/me 18ms
+2026/10/10 15:52:49 [dev] reset code for qa1-backup-c521da3d@example.test: 414989
+2026/10/10 15:52:49 [mail] to=qa1-bk-94d35192@example.test subject="Your Aknologia code: 414989"
+Your Aknologia code is 414989. Use it to reset your password. It expires in 10 minutes.
+2026/10/10 15:52:49 POST /api/v1/auth/password/forgot 20ms
+2026/10/10 15:52:49 POST /api/v1/auth/password/reset 15ms
+2026/10/10 15:52:49 POST /api/v1/auth/password/reset 5ms
+2026/10/10 15:52:49 POST /api/v1/auth/password/reset 8ms
+2026/10/10 15:52:49 [mail] to=qa1-backup-c521da3d@example.test subject="Your Aknologia password was changed"
+Your Aknologia password was changed (Changed with a reset code on 10 Oct at 15:52 IST). If this wasn't you, reset it now.
+2026/10/10 15:52:49 POST /api/v1/auth/password/reset 415ms
+2026/10/10 15:52:49 GET /api/v1/me 4ms
+2026/10/10 15:52:49 POST /api/v1/auth/login 403ms
+2026/10/10 15:52:50 POST /api/v1/auth/login 362ms
+2026/10/10 15:52:50 POST /api/v1/auth/password/reset 11ms
+2026/10/10 15:52:50 POST /api/v1/auth/password/forgot 4ms
+2026/10/10 15:52:50 [dev] invite code for qa1-chpw-c4352c9c@example.test: HN2Q-EJQ7
+2026/10/10 15:52:50 [mail] to=qa1-chpw-c4352c9c@example.test subject="Admin main invited you to Org main 7dcdf0bc"
+Admin main invited you to Org main 7dcdf0bc on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: HN2Q-EJQ7 (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-chpw-c4352c9c@example.test
+
+2026/10/10 15:52:50 POST /api/v1/admin/members/invite 60ms
+2026/10/10 15:52:50 POST /api/v1/auth/invite/accept 407ms
+2026/10/10 15:52:51 POST /api/v1/auth/login 391ms
+2026/10/10 15:52:51 POST /api/v1/me/password/start 384ms
+2026/10/10 15:52:52 [dev] one-time code for qa1-chpw-c4352c9c@example.test (change_password): 083240
+2026/10/10 15:52:52 [mail] to=qa1-chpw-c4352c9c@example.test subject="Your Aknologia code: 083240"
+Your Aknologia code is 083240. Use it to confirm your password change. It expires in 10 minutes.
+2026/10/10 15:52:52 POST /api/v1/me/password/start 758ms
+2026/10/10 15:52:52 POST /api/v1/me/password/confirm 23ms
+2026/10/10 15:52:52 [mail] to=qa1-chpw-c4352c9c@example.test subject="Your Aknologia password was changed"
+Your Aknologia password was changed (Changed from your account settings on 10 Oct at 15:52 IST). If this wasn't you, reset it now.
+2026/10/10 15:52:52 POST /api/v1/me/password/confirm 27ms
+2026/10/10 15:52:52 GET /api/v1/me 17ms
+2026/10/10 15:52:52 GET /api/v1/me 4ms
+2026/10/10 15:52:52 [dev] one-time code for qa1-seats-b3144a97@example.test (verify_signup): 768154
+2026/10/10 15:52:52 [mail] to=qa1-seats-b3144a97@example.test subject="Your Aknologia code: 768154"
+Your Aknologia code is 768154. Use it to verify your email and finish creating your workspace. It expires in 10 minutes.
+2026/10/10 15:52:52 POST /api/v1/auth/signup 390ms
+2026/10/10 15:52:52 POST /api/v1/auth/verify-email 38ms
+2026/10/10 15:52:53 [dev] invite code for qa1-s1-c0344073@example.test: U5KQ-B2XP
+2026/10/10 15:52:53 [mail] to=qa1-s1-c0344073@example.test subject="Admin seats invited you to Org seats 8741ab19"
+Admin seats invited you to Org seats 8741ab19 on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: U5KQ-B2XP (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-s1-c0344073@example.test
+
+2026/10/10 15:52:53 [dev] invite code for qa1-s2-ec2a01c6@example.test: WDMJ-F3YG
+2026/10/10 15:52:53 [mail] to=qa1-s2-ec2a01c6@example.test subject="Admin seats invited you to Org seats 8741ab19"
+Admin seats invited you to Org seats 8741ab19 on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: WDMJ-F3YG (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-s2-ec2a01c6@example.test
+
+2026/10/10 15:52:53 POST /api/v1/admin/members/invite 79ms
+2026/10/10 15:52:53 POST /api/v1/admin/members/invite 17ms
+2026/10/10 15:52:53 POST /api/v1/admin/members/invite 18ms
+2026/10/10 15:52:53 DELETE /api/v1/admin/members/d450d6ca-def1-44f5-8dfc-061269def1f1 22ms
+2026/10/10 15:52:54 [dev] invite code for qa1-s3-03b2d1ef@example.test: V6C2-VXXZ
+2026/10/10 15:52:54 [mail] to=qa1-s3-03b2d1ef@example.test subject="Admin seats invited you to Org seats 8741ab19"
+Admin seats invited you to Org seats 8741ab19 on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: V6C2-VXXZ (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-s3-03b2d1ef@example.test
+
+2026/10/10 15:52:54 POST /api/v1/admin/members/invite 43ms
+2026/10/10 15:52:54 [dev] invite code for qa1-cancel-c14d3c99@example.test: 37ZM-7TTM
+2026/10/10 15:52:54 [mail] to=qa1-cancel-c14d3c99@example.test subject="Admin main invited you to Org main 7dcdf0bc"
+Admin main invited you to Org main 7dcdf0bc on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: 37ZM-7TTM (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-cancel-c14d3c99@example.test
+
+2026/10/10 15:52:54 POST /api/v1/admin/members/invite 57ms
+2026/10/10 15:52:54 DELETE /api/v1/admin/members/98959fa0-c3b8-42cc-aa68-184a8ed98881 26ms
+2026/10/10 15:52:54 POST /api/v1/auth/invite/accept 3ms
+2026/10/10 15:52:54 [dev] invite code for qa1-resend-bb67c4f6@example.test: 4V2M-BJE5
+2026/10/10 15:52:54 [mail] to=qa1-resend-bb67c4f6@example.test subject="Admin main invited you to Org main 7dcdf0bc"
+Admin main invited you to Org main 7dcdf0bc on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: 4V2M-BJE5 (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-resend-bb67c4f6@example.test
+
+2026/10/10 15:52:54 POST /api/v1/admin/members/invite 55ms
+2026/10/10 15:52:55 [dev] invite code for qa1-resend-bb67c4f6@example.test: KVQ7-QN59
+2026/10/10 15:52:55 [mail] to=qa1-resend-bb67c4f6@example.test subject="Admin main invited you to Org main 7dcdf0bc"
+Admin main invited you to Org main 7dcdf0bc on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: KVQ7-QN59 (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-resend-bb67c4f6@example.test
+
+2026/10/10 15:52:55 POST /api/v1/admin/members/d796609d-652c-42dc-b7e9-83f46eee349f/resend 43ms
+2026/10/10 15:52:55 POST /api/v1/auth/invite/accept 7ms
+2026/10/10 15:52:56 POST /api/v1/auth/invite/accept 471ms
+2026/10/10 15:52:56 POST /api/v1/auth/invite/accept 8ms
+2026/10/10 15:52:56 POST /api/v1/admin/members/d796609d-652c-42dc-b7e9-83f46eee349f/resend 24ms
+2026/10/10 15:52:56 [dev] invite code for qa1-invexp-58e837e8@example.test: THRC-QNE7
+2026/10/10 15:52:56 [mail] to=qa1-invexp-58e837e8@example.test subject="Admin main invited you to Org main 7dcdf0bc"
+Admin main invited you to Org main 7dcdf0bc on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: THRC-QNE7 (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-invexp-58e837e8@example.test
+
+2026/10/10 15:52:56 POST /api/v1/admin/members/invite 50ms
+2026/10/10 15:52:56 POST /api/v1/auth/invite/accept 7ms
+2026/10/10 15:52:56 [dev] invite code for qa1-mis1-f0972f2e@example.test: 72SE-PJ6H
+2026/10/10 15:52:56 [mail] to=qa1-mis1-f0972f2e@example.test subject="Admin main invited you to Org main 7dcdf0bc"
+Admin main invited you to Org main 7dcdf0bc on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: 72SE-PJ6H (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-mis1-f0972f2e@example.test
+
+2026/10/10 15:52:56 [dev] invite code for qa1-mis2-c09bc884@example.test: DM3D-PERS
+2026/10/10 15:52:56 [mail] to=qa1-mis2-c09bc884@example.test subject="Admin main invited you to Org main 7dcdf0bc"
+Admin main invited you to Org main 7dcdf0bc on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: DM3D-PERS (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-mis2-c09bc884@example.test
+
+2026/10/10 15:52:56 POST /api/v1/admin/members/invite 108ms
+2026/10/10 15:52:57 POST /api/v1/auth/invite/accept 6ms
+2026/10/10 15:52:57 POST /api/v1/auth/invite/accept 5ms
+2026/10/10 15:52:57 POST /api/v1/auth/invite/accept 526ms
+2026/10/10 15:52:58 [dev] invite code for qa1-reinv-2ef4d546@example.test: P457-X99K
+2026/10/10 15:52:58 [mail] to=qa1-reinv-2ef4d546@example.test subject="Admin main invited you to Org main 7dcdf0bc"
+Admin main invited you to Org main 7dcdf0bc on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: P457-X99K (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-reinv-2ef4d546@example.test
+
+2026/10/10 15:52:58 POST /api/v1/admin/members/invite 43ms
+2026/10/10 15:52:58 POST /api/v1/auth/invite/accept 443ms
+2026/10/10 15:52:58 [mail] to=qa1-reinv-2ef4d546@example.test subject="You’ve been removed from Org main 7dcdf0bc"
+Admin main removed you from Org main 7dcdf0bc. Tracking has stopped.
+2026/10/10 15:52:58 DELETE /api/v1/admin/members/2957ef67-f181-4163-905a-a53436c206e2 32ms
+2026/10/10 15:52:58 POST /api/v1/auth/login 4ms
+2026/10/10 15:52:58 [dev] invite code for qa1-reinv-2ef4d546@example.test: 7M6G-D6QM
+2026/10/10 15:52:58 [mail] to=qa1-reinv-2ef4d546@example.test subject="Admin main invited you to Org main 7dcdf0bc"
+Admin main invited you to Org main 7dcdf0bc on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: 7M6G-D6QM (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-reinv-2ef4d546@example.test
+
+2026/10/10 15:52:58 POST /api/v1/admin/members/invite 47ms
+2026/10/10 15:52:58 POST /api/v1/auth/login 5ms
+2026/10/10 15:52:59 POST /api/v1/auth/invite/accept 465ms
+2026/10/10 15:52:59 GET /api/v1/me 5ms
+2026/10/10 15:52:59 POST /api/v1/auth/login 446ms
+2026/10/10 15:53:00 [dev] one-time code for qa1-other-a74e4ca1@example.test (verify_signup): 308435
+2026/10/10 15:53:00 [mail] to=qa1-other-a74e4ca1@example.test subject="Your Aknologia code: 308435"
+Your Aknologia code is 308435. Use it to verify your email and finish creating your workspace. It expires in 10 minutes.
+2026/10/10 15:53:00 POST /api/v1/auth/signup 445ms
+2026/10/10 15:53:00 POST /api/v1/auth/verify-email 39ms
+2026/10/10 15:53:00 POST /api/v1/admin/billing/seats 44ms
+2026/10/10 15:53:00 POST /api/v1/admin/members/invite 26ms
+2026/10/10 15:53:00 [dev] invite code for qa1-authz-9dcd9926@example.test: EAEX-F4UY
+2026/10/10 15:53:00 [mail] to=qa1-authz-9dcd9926@example.test subject="Admin main invited you to Org main 7dcdf0bc"
+Admin main invited you to Org main 7dcdf0bc on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: EAEX-F4UY (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-authz-9dcd9926@example.test
+
+2026/10/10 15:53:00 POST /api/v1/admin/members/invite 46ms
+2026/10/10 15:53:00 POST /api/v1/auth/invite/accept 460ms
+2026/10/10 15:53:00 GET /api/v1/admin/overview 12ms
+2026/10/10 15:53:00 GET /api/v1/admin/members 8ms
+2026/10/10 15:53:00 POST /api/v1/admin/members/invite 16ms
+2026/10/10 15:53:00 POST /api/v1/admin/members/8471db4c-13db-420d-8739-f2706fd7d96b/resend 19ms
+2026/10/10 15:53:00 PATCH /api/v1/admin/members/8471db4c-13db-420d-8739-f2706fd7d96b 11ms
+2026/10/10 15:53:00 DELETE /api/v1/admin/members/8471db4c-13db-420d-8739-f2706fd7d96b 13ms
+2026/10/10 15:53:00 GET /api/v1/admin/members/8471db4c-13db-420d-8739-f2706fd7d96b/usage 10ms
+2026/10/10 15:53:00 GET /api/v1/admin/budgets 10ms
+2026/10/10 15:53:00 PUT /api/v1/admin/budgets 13ms
+2026/10/10 15:53:00 GET /api/v1/admin/org 12ms
+2026/10/10 15:53:00 PUT /api/v1/admin/org 14ms
+2026/10/10 15:53:01 GET /api/v1/admin/billing 16ms
+2026/10/10 15:53:01 POST /api/v1/admin/billing/seats 14ms
+2026/10/10 15:53:01 POST /api/v1/admin/refresh 15ms
+2026/10/10 15:53:01 GET /api/v1/admin/export.csv 16ms
+2026/10/10 15:53:01 POST /api/v1/admin/data/delete/start 18ms
+2026/10/10 15:53:01 POST /api/v1/admin/data/delete/confirm 16ms
+2026/10/10 15:53:01 GET /api/v1/admin/pricing 15ms
+2026/10/10 15:53:02 [dev] one-time code for qa1-orgb-5a81a63d@example.test (verify_signup): 830083
+2026/10/10 15:53:02 [mail] to=qa1-orgb-5a81a63d@example.test subject="Your Aknologia code: 830083"
+Your Aknologia code is 830083. Use it to verify your email and finish creating your workspace. It expires in 10 minutes.
+2026/10/10 15:53:02 POST /api/v1/auth/signup 479ms
+2026/10/10 15:53:02 POST /api/v1/auth/verify-email 52ms
+2026/10/10 15:53:02 POST /api/v1/admin/billing/seats 51ms
+2026/10/10 15:53:02 [dev] invite code for qa1-orgbm-473d4ae1@example.test: 3FCG-2FYR
+2026/10/10 15:53:02 [mail] to=qa1-orgbm-473d4ae1@example.test subject="Admin orgb invited you to Org orgb f2ad42f1"
+Admin orgb invited you to Org orgb f2ad42f1 on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: 3FCG-2FYR (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-orgbm-473d4ae1@example.test
+
+2026/10/10 15:53:02 POST /api/v1/admin/members/invite 47ms
+2026/10/10 15:53:03 POST /api/v1/auth/invite/accept 457ms
+2026/10/10 15:53:03 [mail] to=qa1-orgb-5a81a63d@example.test subject="qa1-orgbm-473d4ae1@example.test reached 80% of their budget"
+qa1-orgbm-473d4ae1@example.test reached 80% of their budget: $1.50 of $1.00 (80%). Projected $4.92. http://localhost:8094/app/#/members/a7994685-617b-460d-98de-fa5b698d4c8b
+2026/10/10 15:53:03 [mail] to=qa1-orgb-5a81a63d@example.test subject="qa1-orgbm-473d4ae1@example.test reached 100% of their budget"
+qa1-orgbm-473d4ae1@example.test reached 100% of their budget: $1.50 of $1.00 (100%). Projected $4.92. http://localhost:8094/app/#/members/a7994685-617b-460d-98de-fa5b698d4c8b
+2026/10/10 15:53:03 POST /api/v1/ingest/batch 141ms
+2026/10/10 15:53:03 [dev] invite code for qa1-orgbinv-15559234@example.test: 9D75-2DJF
+2026/10/10 15:53:03 [mail] to=qa1-orgbinv-15559234@example.test subject="Admin orgb invited you to Org orgb f2ad42f1"
+Admin orgb invited you to Org orgb f2ad42f1 on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: 9D75-2DJF (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-orgbinv-15559234@example.test
+
+2026/10/10 15:53:03 POST /api/v1/admin/members/invite 37ms
+2026/10/10 15:53:03 [dev] invite code for qa1-orgam-0d8dd23f@example.test: 5GP5-F28V
+2026/10/10 15:53:03 [mail] to=qa1-orgam-0d8dd23f@example.test subject="Admin main invited you to Org main 7dcdf0bc"
+Admin main invited you to Org main 7dcdf0bc on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: 5GP5-F28V (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-orgam-0d8dd23f@example.test
+
+2026/10/10 15:53:03 POST /api/v1/admin/members/invite 56ms
+2026/10/10 15:53:04 POST /api/v1/auth/invite/accept 389ms
+2026/10/10 15:53:04 GET /api/v1/admin/members/a7994685-617b-460d-98de-fa5b698d4c8b/usage 10ms
+2026/10/10 15:53:04 PATCH /api/v1/admin/members/a7994685-617b-460d-98de-fa5b698d4c8b 12ms
+2026/10/10 15:53:04 DELETE /api/v1/admin/members/a7994685-617b-460d-98de-fa5b698d4c8b 10ms
+2026/10/10 15:53:04 POST /api/v1/admin/members/a43140f4-28ba-4105-bcc2-0ff0676c99f8/resend 10ms
+2026/10/10 15:53:04 DELETE /api/v1/admin/members/a43140f4-28ba-4105-bcc2-0ff0676c99f8 15ms
+2026/10/10 15:53:04 PUT /api/v1/admin/budgets 36ms
+2026/10/10 15:53:05 GET /api/v1/admin/overview 63ms
+2026/10/10 15:53:05 GET /api/v1/admin/members 30ms
+2026/10/10 15:53:05 GET /api/v1/admin/budgets 34ms
+2026/10/10 15:53:05 GET /api/v1/admin/export.csv 21ms
+2026/10/10 15:53:05 GET /api/v1/admin/org 15ms
+2026/10/10 15:53:05 GET /api/v1/me/notifications 19ms
+2026/10/10 15:53:05 POST /api/v1/me/notifications/4/read 13ms
+2026/10/10 15:53:05 GET /api/v1/me/notifications 18ms
+2026/10/10 15:53:05 DELETE /api/v1/me/devices/313f1aee-a6d7-463b-8efa-f1821b158663 17ms
+2026/10/10 15:53:05 GET /api/v1/me 13ms
+2026/10/10 15:53:05 [dev] invite code for qa1-tok-43c44096@example.test: M8G3-9B3B
+2026/10/10 15:53:05 [mail] to=qa1-tok-43c44096@example.test subject="Admin main invited you to Org main 7dcdf0bc"
+Admin main invited you to Org main 7dcdf0bc on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: M8G3-9B3B (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-tok-43c44096@example.test
+
+2026/10/10 15:53:05 POST /api/v1/admin/members/invite 37ms
+2026/10/10 15:53:05 POST /api/v1/auth/invite/accept 427ms
+2026/10/10 15:53:06 POST /api/v1/auth/login 389ms
+2026/10/10 15:53:06 DELETE /api/v1/me/devices/9be6c625-b0c2-406c-babf-55d0c03f351f 27ms
+2026/10/10 15:53:06 GET /api/v1/agent/config 6ms
+2026/10/10 15:53:06 POST /api/v1/ingest/batch 4ms
+2026/10/10 15:53:06 POST /api/v1/auth/login 374ms
+2026/10/10 15:53:06 POST /api/v1/auth/logout 30ms
+2026/10/10 15:53:06 GET /api/v1/me 7ms
+2026/10/10 15:53:07 POST /api/v1/auth/login 370ms
+2026/10/10 15:53:07 GET /api/v1/me 4ms
+2026/10/10 15:53:08 [mail] to=qa1-tok-43c44096@example.test subject="You’ve been removed from Org main 7dcdf0bc"
+Admin main removed you from Org main 7dcdf0bc. Tracking has stopped.
+2026/10/10 15:53:08 DELETE /api/v1/admin/members/dacb31f9-8fc1-49b0-bc69-1a6d99a5c530 38ms
+2026/10/10 15:53:08 GET /api/v1/me 6ms
+2026/10/10 15:53:08 GET /api/v1/agent/config 6ms
+2026/10/10 15:53:08 POST /api/v1/ingest/batch 4ms
+2026/10/10 15:53:08 GET /api/v1/me/usage 5ms
+2026/10/10 15:53:08 DELETE /api/v1/admin/members/8471db4c-13db-420d-8739-f2706fd7d96b 29ms
+2026/10/10 15:53:08 GET /api/v1/me 12ms
+2026/10/10 15:53:08 [dev] invite code for qa1-ing-a4cd2989@example.test: Q4NT-MVFE
+2026/10/10 15:53:08 [mail] to=qa1-ing-a4cd2989@example.test subject="Admin main invited you to Org main 7dcdf0bc"
+Admin main invited you to Org main 7dcdf0bc on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: Q4NT-MVFE (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-ing-a4cd2989@example.test
+
+2026/10/10 15:53:08 POST /api/v1/admin/members/invite 62ms
+2026/10/10 15:53:09 POST /api/v1/auth/invite/accept 398ms
+2026/10/10 15:53:09 POST /api/v1/ingest/batch 108ms
+2026/10/10 15:53:09 POST /api/v1/ingest/batch 68ms
+2026/10/10 15:53:10 POST /api/v1/ingest/batch 29ms
+2026/10/10 15:53:10 POST /api/v1/ingest/batch 13ms
+2026/10/10 15:53:10 POST /api/v1/ingest/batch 12ms
+2026/10/10 15:53:10 POST /api/v1/ingest/batch 68ms
+2026/10/10 15:53:10 POST /api/v1/ingest/batch 77ms
+2026/10/10 15:53:10 POST /api/v1/ingest/batch 60ms
+2026/10/10 15:53:14 POST /api/v1/ingest/batch 4.26s
+2026/10/10 15:53:15 POST /api/v1/ingest/batch 65ms
+2026/10/10 15:53:15 POST /api/v1/ingest/batch 127ms
+2026/10/10 15:53:15 [dev] invite code for qa1-victim-f702727a@example.test: JUMT-YYQH
+2026/10/10 15:53:15 [mail] to=qa1-victim-f702727a@example.test subject="Admin main invited you to Org main 7dcdf0bc"
+Admin main invited you to Org main 7dcdf0bc on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: JUMT-YYQH (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-victim-f702727a@example.test
+
+2026/10/10 15:53:15 POST /api/v1/admin/members/invite 34ms
+2026/10/10 15:53:15 POST /api/v1/auth/invite/accept 386ms
+2026/10/10 15:53:15 POST /api/v1/ingest/batch 105ms
+2026/10/10 15:53:16 POST /api/v1/ingest/batch 96ms
+2026/10/10 15:53:16 [dev] one-time code for qa1-poison-50eaf5a0@example.test (verify_signup): 219751
+2026/10/10 15:53:16 [mail] to=qa1-poison-50eaf5a0@example.test subject="Your Aknologia code: 219751"
+Your Aknologia code is 219751. Use it to verify your email and finish creating your workspace. It expires in 10 minutes.
+2026/10/10 15:53:16 POST /api/v1/auth/signup 349ms
+2026/10/10 15:53:16 POST /api/v1/auth/verify-email 24ms
+2026/10/10 15:53:16 POST /api/v1/admin/billing/seats 34ms
+2026/10/10 15:53:16 [dev] invite code for qa1-bystander-fea58f2e@example.test: FRH9-R5UA
+2026/10/10 15:53:16 [mail] to=qa1-bystander-fea58f2e@example.test subject="Admin poison invited you to Org poison bbace657"
+Admin poison invited you to Org poison bbace657 on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: FRH9-R5UA (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-bystander-fea58f2e@example.test
+
+2026/10/10 15:53:16 POST /api/v1/admin/members/invite 43ms
+2026/10/10 15:53:17 POST /api/v1/auth/invite/accept 377ms
+2026/10/10 15:53:17 [dev] invite code for qa1-poison-39773e0f@example.test: VAR3-47UK
+2026/10/10 15:53:17 [mail] to=qa1-poison-39773e0f@example.test subject="Admin poison invited you to Org poison bbace657"
+Admin poison invited you to Org poison bbace657 on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: VAR3-47UK (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-poison-39773e0f@example.test
+
+2026/10/10 15:53:17 POST /api/v1/admin/members/invite 36ms
+2026/10/10 15:53:17 POST /api/v1/auth/invite/accept 387ms
+2026/10/10 15:53:17 POST /api/v1/ingest/batch 107ms
+2026/10/10 15:53:18 POST /api/v1/ingest/batch 57ms
+2026/10/10 15:53:18 POST /api/v1/ingest/batch 117ms
+2026/10/10 15:53:18 POST /api/v1/ingest/batch 165ms
+2026/10/10 15:53:19 POST /api/v1/admin/refresh 248ms
+2026/10/10 15:53:19 [dev] one-time code for qa1-old-1f68ca09@example.test (verify_signup): 511922
+2026/10/10 15:53:19 [mail] to=qa1-old-1f68ca09@example.test subject="Your Aknologia code: 511922"
+Your Aknologia code is 511922. Use it to verify your email and finish creating your workspace. It expires in 10 minutes.
+2026/10/10 15:53:19 POST /api/v1/auth/signup 400ms
+2026/10/10 15:53:19 POST /api/v1/auth/verify-email 40ms
+2026/10/10 15:53:19 POST /api/v1/admin/billing/seats 41ms
+2026/10/10 15:53:19 [dev] invite code for qa1-oldm-be7bd4ac@example.test: QHPU-ZQZ5
+2026/10/10 15:53:19 [mail] to=qa1-oldm-be7bd4ac@example.test subject="Admin old invited you to Org old e180f014"
+Admin old invited you to Org old e180f014 on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: QHPU-ZQZ5 (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-oldm-be7bd4ac@example.test
+
+2026/10/10 15:53:19 POST /api/v1/admin/members/invite 44ms
+2026/10/10 15:53:20 POST /api/v1/auth/invite/accept 420ms
+2026/10/10 15:53:20 POST /api/v1/ingest/batch 123ms
+2026/10/10 15:53:20 GET /api/v1/admin/overview 67ms
+2026/10/10 15:53:20 POST /api/v1/admin/refresh 140ms
+2026/10/10 15:53:20 GET /api/v1/admin/overview 86ms
+2026/10/10 15:53:20 [dev] one-time code for qa1-tznew_-f24bbd57@example.test (verify_signup): 377931
+2026/10/10 15:53:20 [mail] to=qa1-tznew_-f24bbd57@example.test subject="Your Aknologia code: 377931"
+Your Aknologia code is 377931. Use it to verify your email and finish creating your workspace. It expires in 10 minutes.
+2026/10/10 15:53:20 POST /api/v1/auth/signup 390ms
+2026/10/10 15:53:21 POST /api/v1/auth/verify-email 31ms
+2026/10/10 15:53:21 POST /api/v1/admin/billing/seats 33ms
+2026/10/10 15:53:21 PUT /api/v1/admin/org 21ms
+2026/10/10 15:53:21 [dev] invite code for qa1-tzm-095a0780@example.test: PBW3-3QE7
+2026/10/10 15:53:21 [mail] to=qa1-tzm-095a0780@example.test subject="Admin tznew_ invited you to Org tznew_ 6134697c"
+Admin tznew_ invited you to Org tznew_ 6134697c on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: PBW3-3QE7 (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-tzm-095a0780@example.test
+
+2026/10/10 15:53:21 POST /api/v1/admin/members/invite 44ms
+2026/10/10 15:53:21 POST /api/v1/auth/invite/accept 401ms
+2026/10/10 15:53:21 POST /api/v1/ingest/batch 119ms
+2026/10/10 15:53:21 POST /api/v1/ingest/batch 124ms
+2026/10/10 15:53:22 GET /api/v1/admin/members/b6b62707-b164-49b2-bfd9-edff7bbd4dca/usage 76ms
+2026/10/10 15:53:22 POST /api/v1/ingest/batch 134ms
+2026/10/10 15:53:22 GET /api/v1/admin/members/b6b62707-b164-49b2-bfd9-edff7bbd4dca/usage 84ms
+2026/10/10 15:53:22 POST /api/v1/admin/refresh 156ms
+2026/10/10 15:53:22 GET /api/v1/admin/members/b6b62707-b164-49b2-bfd9-edff7bbd4dca/usage 116ms
+2026/10/10 15:53:23 [dev] one-time code for qa1-tzkolk-a00ffaef@example.test (verify_signup): 569972
+2026/10/10 15:53:23 [mail] to=qa1-tzkolk-a00ffaef@example.test subject="Your Aknologia code: 569972"
+Your Aknologia code is 569972. Use it to verify your email and finish creating your workspace. It expires in 10 minutes.
+2026/10/10 15:53:23 POST /api/v1/auth/signup 397ms
+2026/10/10 15:53:23 POST /api/v1/auth/verify-email 31ms
+2026/10/10 15:53:23 POST /api/v1/admin/billing/seats 37ms
+2026/10/10 15:53:23 PUT /api/v1/admin/org 21ms
+2026/10/10 15:53:23 [dev] invite code for qa1-tzm-94a3668e@example.test: ADGP-UEA3
+2026/10/10 15:53:23 [mail] to=qa1-tzm-94a3668e@example.test subject="Admin tzkolk invited you to Org tzkolk 82a7539d"
+Admin tzkolk invited you to Org tzkolk 82a7539d on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: ADGP-UEA3 (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-tzm-94a3668e@example.test
+
+2026/10/10 15:53:23 POST /api/v1/admin/members/invite 55ms
+2026/10/10 15:53:23 POST /api/v1/auth/invite/accept 390ms
+2026/10/10 15:53:23 POST /api/v1/ingest/batch 102ms
+2026/10/10 15:53:24 GET /api/v1/admin/export.csv 14ms
+2026/10/10 15:53:24 [dev] one-time code for qa1-ist-adc4948c@example.test (verify_signup): 732439
+2026/10/10 15:53:24 [mail] to=qa1-ist-adc4948c@example.test subject="Your Aknologia code: 732439"
+Your Aknologia code is 732439. Use it to verify your email and finish creating your workspace. It expires in 10 minutes.
+2026/10/10 15:53:24 POST /api/v1/auth/signup 375ms
+2026/10/10 15:53:24 POST /api/v1/auth/verify-email 59ms
+2026/10/10 15:53:24 POST /api/v1/admin/billing/seats 51ms
+2026/10/10 15:53:24 PUT /api/v1/admin/org 34ms
+2026/10/10 15:53:24 [dev] invite code for qa1-istm-c09c27a0@example.test: ERE3-C8SY
+2026/10/10 15:53:24 [mail] to=qa1-istm-c09c27a0@example.test subject="Admin ist invited you to Org ist 505f65ce"
+Admin ist invited you to Org ist 505f65ce on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: ERE3-C8SY (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-istm-c09c27a0@example.test
+
+2026/10/10 15:53:24 POST /api/v1/admin/members/invite 52ms
+2026/10/10 15:53:25 POST /api/v1/auth/invite/accept 441ms
+2026/10/10 15:53:25 POST /api/v1/ingest/batch 130ms
+2026/10/10 15:53:25 GET /api/v1/admin/overview 57ms
+2026/10/10 15:53:25 GET /api/v1/admin/overview 45ms
+2026/10/10 15:53:25 GET /api/v1/admin/members/0c2aa32d-8a21-418e-99c6-0abb818a7e45/usage 81ms
+2026/10/10 15:53:25 GET /api/v1/admin/members/0c2aa32d-8a21-418e-99c6-0abb818a7e45/usage 76ms
+2026/10/10 15:53:25 GET /api/v1/agent/config 39ms
+2026/10/10 15:53:25 GET /api/v1/admin/export.csv 20ms
+2026/10/10 15:53:26 [dev] one-time code for qa1-money-65f32ce3@example.test (verify_signup): 782654
+2026/10/10 15:53:26 [mail] to=qa1-money-65f32ce3@example.test subject="Your Aknologia code: 782654"
+Your Aknologia code is 782654. Use it to verify your email and finish creating your workspace. It expires in 10 minutes.
+2026/10/10 15:53:26 POST /api/v1/auth/signup 400ms
+2026/10/10 15:53:26 POST /api/v1/auth/verify-email 40ms
+2026/10/10 15:53:26 POST /api/v1/admin/billing/seats 40ms
+2026/10/10 15:53:26 [dev] invite code for qa1-moneym-48904cbe@example.test: MAA7-5FNK
+2026/10/10 15:53:26 [mail] to=qa1-moneym-48904cbe@example.test subject="Admin money invited you to Org money b76bc1a5"
+Admin money invited you to Org money b76bc1a5 on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: MAA7-5FNK (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-moneym-48904cbe@example.test
+
+2026/10/10 15:53:26 POST /api/v1/admin/members/invite 35ms
+2026/10/10 15:53:26 POST /api/v1/auth/invite/accept 351ms
+2026/10/10 15:53:26 GET /api/v1/admin/pricing 9ms
+2026/10/10 15:53:27 POST /api/v1/ingest/batch 168ms
+2026/10/10 15:53:27 GET /api/v1/admin/overview 81ms
+2026/10/10 15:53:27 GET /api/v1/admin/members/640925f5-c0cf-45a6-976e-c0f670c04fa6/usage 95ms
+2026/10/10 15:53:27 GET /api/v1/me/usage 54ms
+2026/10/10 15:53:27 GET /api/v1/admin/export.csv 17ms
+2026/10/10 15:53:27 [dev] one-time code for qa1-active-c00cd0ac@example.test (verify_signup): 358786
+2026/10/10 15:53:27 [mail] to=qa1-active-c00cd0ac@example.test subject="Your Aknologia code: 358786"
+Your Aknologia code is 358786. Use it to verify your email and finish creating your workspace. It expires in 10 minutes.
+2026/10/10 15:53:27 POST /api/v1/auth/signup 419ms
+2026/10/10 15:53:28 POST /api/v1/auth/verify-email 39ms
+2026/10/10 15:53:28 POST /api/v1/admin/billing/seats 44ms
+2026/10/10 15:53:28 [dev] invite code for qa1-actm-9abb9a0f@example.test: KWN5-3A32
+2026/10/10 15:53:28 [mail] to=qa1-actm-9abb9a0f@example.test subject="Admin active invited you to Org active b38c7973"
+Admin active invited you to Org active b38c7973 on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: KWN5-3A32 (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-actm-9abb9a0f@example.test
+
+2026/10/10 15:53:28 POST /api/v1/admin/members/invite 59ms
+2026/10/10 15:53:28 POST /api/v1/auth/invite/accept 435ms
+2026/10/10 15:53:28 POST /api/v1/ingest/batch 307ms
+2026/10/10 15:53:29 GET /api/v1/admin/members/9e848104-dd70-4559-9703-4d604afea5b5/usage 85ms
+2026/10/10 15:53:29 GET /api/v1/me/usage 55ms
+2026/10/10 15:53:29 [dev] one-time code for qa1-budget-6f5e3640@example.test (verify_signup): 189806
+2026/10/10 15:53:29 [mail] to=qa1-budget-6f5e3640@example.test subject="Your Aknologia code: 189806"
+Your Aknologia code is 189806. Use it to verify your email and finish creating your workspace. It expires in 10 minutes.
+2026/10/10 15:53:29 POST /api/v1/auth/signup 354ms
+2026/10/10 15:53:29 POST /api/v1/auth/verify-email 33ms
+2026/10/10 15:53:29 POST /api/v1/admin/billing/seats 42ms
+2026/10/10 15:53:29 PUT /api/v1/admin/budgets 44ms
+2026/10/10 15:53:29 [dev] invite code for qa1-budm-67bc194a@example.test: CEEH-DNRG
+2026/10/10 15:53:29 [mail] to=qa1-budm-67bc194a@example.test subject="Admin budget invited you to Org budget d58de4ed"
+Admin budget invited you to Org budget d58de4ed on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: CEEH-DNRG (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-budm-67bc194a@example.test
+
+2026/10/10 15:53:29 POST /api/v1/admin/members/invite 47ms
+2026/10/10 15:53:30 POST /api/v1/auth/invite/accept 393ms
+2026/10/10 15:53:30 POST /api/v1/ingest/batch 202ms
+2026/10/10 15:53:31 [mail] to=qa1-fin-38a4c7a3@example.test,qa1-ops-eeb62ba1@example.test subject="qa1-budm-67bc194a@example.test reached 80% of their budget"
+qa1-budm-67bc194a@example.test reached 80% of their budget: $8.25 of $10.00 (80%). Projected $27.11. http://localhost:8094/app/#/members/784bef41-b255-438f-8b31-c3265432dfab
+2026/10/10 15:53:31 POST /api/v1/ingest/batch 137ms
+2026/10/10 15:53:32 POST /api/v1/ingest/batch 132ms
+2026/10/10 15:53:32 [mail] to=qa1-fin-38a4c7a3@example.test,qa1-ops-eeb62ba1@example.test subject="qa1-budm-67bc194a@example.test reached 100% of their budget"
+qa1-budm-67bc194a@example.test reached 100% of their budget: $10.50 of $10.00 (100%). Projected $34.50. http://localhost:8094/app/#/members/784bef41-b255-438f-8b31-c3265432dfab
+2026/10/10 15:53:32 POST /api/v1/ingest/batch 142ms
+2026/10/10 15:53:33 POST /api/v1/ingest/batch 136ms
+2026/10/10 15:53:33 POST /api/v1/admin/refresh 142ms
+2026/10/10 15:53:33 GET /api/v1/me/notifications 25ms
+2026/10/10 15:53:34 [dev] one-time code for qa1-reset-8db9e507@example.test (verify_signup): 621699
+2026/10/10 15:53:34 [mail] to=qa1-reset-8db9e507@example.test subject="Your Aknologia code: 621699"
+Your Aknologia code is 621699. Use it to verify your email and finish creating your workspace. It expires in 10 minutes.
+2026/10/10 15:53:34 POST /api/v1/auth/signup 366ms
+2026/10/10 15:53:34 POST /api/v1/auth/verify-email 26ms
+2026/10/10 15:53:34 POST /api/v1/admin/billing/seats 20ms
+2026/10/10 15:53:34 [dev] invite code for qa1-rstm-e2dd6cbc@example.test: AVNF-WHUP
+2026/10/10 15:53:34 [mail] to=qa1-rstm-e2dd6cbc@example.test subject="Admin reset invited you to Org reset b4171906"
+Admin reset invited you to Org reset b4171906 on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: AVNF-WHUP (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-rstm-e2dd6cbc@example.test
+
+2026/10/10 15:53:34 POST /api/v1/admin/members/invite 29ms
+2026/10/10 15:53:34 POST /api/v1/auth/invite/accept 370ms
+2026/10/10 15:53:34 [mail] to=qa1-reset-8db9e507@example.test subject="qa1-rstm-e2dd6cbc@example.test reached 80% of their budget"
+qa1-rstm-e2dd6cbc@example.test reached 80% of their budget: $11.25 of $10.00 (80%). Projected $36.97. http://localhost:8094/app/#/members/75828ee9-462e-4533-84f3-157978869c2c
+2026/10/10 15:53:34 [mail] to=qa1-reset-8db9e507@example.test subject="qa1-rstm-e2dd6cbc@example.test reached 100% of their budget"
+qa1-rstm-e2dd6cbc@example.test reached 100% of their budget: $11.25 of $10.00 (100%). Projected $36.97. http://localhost:8094/app/#/members/75828ee9-462e-4533-84f3-157978869c2c
+2026/10/10 15:53:34 POST /api/v1/ingest/batch 228ms
+2026/10/10 15:53:35 PATCH /api/v1/admin/members/75828ee9-462e-4533-84f3-157978869c2c 18ms
+2026/10/10 15:53:35 POST /api/v1/ingest/batch 115ms
+2026/10/10 15:53:36 [mail] to=qa1-reset-8db9e507@example.test subject="qa1-rstm-e2dd6cbc@example.test reached 80% of their budget"
+qa1-rstm-e2dd6cbc@example.test reached 80% of their budget: $19.50 of $20.00 (80%). Projected $64.08. http://localhost:8094/app/#/members/75828ee9-462e-4533-84f3-157978869c2c
+2026/10/10 15:53:36 POST /api/v1/ingest/batch 147ms
+2026/10/10 15:53:36 GET /api/v1/me/notifications 10ms
+2026/10/10 15:53:36 [dev] one-time code for qa1-putb-266c2bc5@example.test (verify_signup): 331391
+2026/10/10 15:53:36 [mail] to=qa1-putb-266c2bc5@example.test subject="Your Aknologia code: 331391"
+Your Aknologia code is 331391. Use it to verify your email and finish creating your workspace. It expires in 10 minutes.
+2026/10/10 15:53:36 POST /api/v1/auth/signup 384ms
+2026/10/10 15:53:36 POST /api/v1/auth/verify-email 25ms
+2026/10/10 15:53:36 POST /api/v1/admin/billing/seats 31ms
+2026/10/10 15:53:36 [dev] invite code for qa1-putm-21c27f3c@example.test: D3WC-TWKP
+2026/10/10 15:53:36 [mail] to=qa1-putm-21c27f3c@example.test subject="Admin putb invited you to Org putb 106de967"
+Admin putb invited you to Org putb 106de967 on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: D3WC-TWKP (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-putm-21c27f3c@example.test
+
+2026/10/10 15:53:36 POST /api/v1/admin/members/invite 20ms
+2026/10/10 15:53:37 POST /api/v1/auth/invite/accept 398ms
+2026/10/10 15:53:37 [mail] to=qa1-putb-266c2bc5@example.test subject="qa1-putm-21c27f3c@example.test reached 80% of their budget"
+qa1-putm-21c27f3c@example.test reached 80% of their budget: $8.25 of $10.00 (80%). Projected $27.11. http://localhost:8094/app/#/members/5298bfa8-945f-4694-9a5d-056b4d5c9315
+2026/10/10 15:53:37 POST /api/v1/ingest/batch 162ms
+2026/10/10 15:53:37 PUT /api/v1/admin/budgets 49ms
+2026/10/10 15:53:38 POST /api/v1/ingest/batch 142ms
+2026/10/10 15:53:39 [dev] one-time code for qa1-tog-849f71a3@example.test (verify_signup): 346693
+2026/10/10 15:53:39 [mail] to=qa1-tog-849f71a3@example.test subject="Your Aknologia code: 346693"
+Your Aknologia code is 346693. Use it to verify your email and finish creating your workspace. It expires in 10 minutes.
+2026/10/10 15:53:39 POST /api/v1/auth/signup 430ms
+2026/10/10 15:53:39 POST /api/v1/auth/verify-email 34ms
+2026/10/10 15:53:39 POST /api/v1/admin/billing/seats 29ms
+2026/10/10 15:53:39 PUT /api/v1/admin/budgets 62ms
+2026/10/10 15:53:39 [dev] invite code for qa1-togm-50c0c2d8@example.test: 5JK4-UVP7
+2026/10/10 15:53:39 [mail] to=qa1-togm-50c0c2d8@example.test subject="Admin tog invited you to Org tog c9f703b6"
+Admin tog invited you to Org tog c9f703b6 on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: 5JK4-UVP7 (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-togm-50c0c2d8@example.test
+
+2026/10/10 15:53:39 POST /api/v1/admin/members/invite 38ms
+2026/10/10 15:53:39 POST /api/v1/auth/invite/accept 383ms
+2026/10/10 15:53:39 POST /api/v1/ingest/batch 109ms
+2026/10/10 15:53:40 [mail] to=qa1-tog-849f71a3@example.test subject="qa1-togm-50c0c2d8@example.test reached 100% of their budget"
+qa1-togm-50c0c2d8@example.test reached 100% of their budget: $10.50 of $10.00 (100%). Projected $34.50. http://localhost:8094/app/#/members/01f4fa38-07f0-4f00-8c88-aff00c1f8c48
+2026/10/10 15:53:40 POST /api/v1/ingest/batch 129ms
+2026/10/10 15:53:41 [dev] one-time code for qa1-tog2-b5223da1@example.test (verify_signup): 056364
+2026/10/10 15:53:41 [mail] to=qa1-tog2-b5223da1@example.test subject="Your Aknologia code: 056364"
+Your Aknologia code is 056364. Use it to verify your email and finish creating your workspace. It expires in 10 minutes.
+2026/10/10 15:53:41 POST /api/v1/auth/signup 374ms
+2026/10/10 15:53:41 POST /api/v1/auth/verify-email 42ms
+2026/10/10 15:53:41 POST /api/v1/admin/billing/seats 33ms
+2026/10/10 15:53:41 PUT /api/v1/admin/budgets 46ms
+2026/10/10 15:53:41 [dev] invite code for qa1-tog2m-9a433878@example.test: AXH5-JTES
+2026/10/10 15:53:41 [mail] to=qa1-tog2m-9a433878@example.test subject="Admin tog2 invited you to Org tog2 488a5336"
+Admin tog2 invited you to Org tog2 488a5336 on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: AXH5-JTES (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-tog2m-9a433878@example.test
+
+2026/10/10 15:53:41 POST /api/v1/admin/members/invite 26ms
+2026/10/10 15:53:41 POST /api/v1/auth/invite/accept 373ms
+2026/10/10 15:53:41 [mail] to=qa1-tog2-b5223da1@example.test subject="qa1-tog2m-9a433878@example.test reached 80% of their budget"
+qa1-tog2m-9a433878@example.test reached 80% of their budget: $12.00 of $10.00 (80%). Projected $39.43. http://localhost:8094/app/#/members/55309a87-c5fe-4f29-b627-ed1196b7a1cd
+2026/10/10 15:53:41 POST /api/v1/ingest/batch 219ms
+2026/10/10 15:53:42 GET /api/v1/me/notifications 10ms
+2026/10/10 15:53:42 [dev] one-time code for qa1-del-024b799f@example.test (verify_signup): 083546
+2026/10/10 15:53:42 [mail] to=qa1-del-024b799f@example.test subject="Your Aknologia code: 083546"
+Your Aknologia code is 083546. Use it to verify your email and finish creating your workspace. It expires in 10 minutes.
+2026/10/10 15:53:42 POST /api/v1/auth/signup 364ms
+2026/10/10 15:53:42 POST /api/v1/auth/verify-email 42ms
+2026/10/10 15:53:42 POST /api/v1/admin/billing/seats 38ms
+2026/10/10 15:53:42 [dev] invite code for qa1-delm-5058e141@example.test: VHEY-7YPA
+2026/10/10 15:53:42 [mail] to=qa1-delm-5058e141@example.test subject="Admin del invited you to Org del 18ae17b3"
+Admin del invited you to Org del 18ae17b3 on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: VHEY-7YPA (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-delm-5058e141@example.test
+
+2026/10/10 15:53:42 POST /api/v1/admin/members/invite 38ms
+2026/10/10 15:53:43 POST /api/v1/auth/invite/accept 358ms
+2026/10/10 15:53:43 [dev] one-time code for qa1-keep-f7361436@example.test (verify_signup): 928099
+2026/10/10 15:53:43 [mail] to=qa1-keep-f7361436@example.test subject="Your Aknologia code: 928099"
+Your Aknologia code is 928099. Use it to verify your email and finish creating your workspace. It expires in 10 minutes.
+2026/10/10 15:53:43 POST /api/v1/auth/signup 317ms
+2026/10/10 15:53:43 POST /api/v1/auth/verify-email 21ms
+2026/10/10 15:53:43 POST /api/v1/admin/billing/seats 22ms
+2026/10/10 15:53:43 [dev] invite code for qa1-keepm-79a6df0d@example.test: SZYD-N8F8
+2026/10/10 15:53:43 [mail] to=qa1-keepm-79a6df0d@example.test subject="Admin keep invited you to Org keep b7126162"
+Admin keep invited you to Org keep b7126162 on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: SZYD-N8F8 (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-keepm-79a6df0d@example.test
+
+2026/10/10 15:53:43 POST /api/v1/admin/members/invite 27ms
+2026/10/10 15:53:44 POST /api/v1/auth/invite/accept 408ms
+2026/10/10 15:53:44 POST /api/v1/ingest/batch 127ms
+2026/10/10 15:53:44 POST /api/v1/ingest/batch 159ms
+2026/10/10 15:53:44 POST /api/v1/admin/data/delete/confirm 21ms
+2026/10/10 15:53:44 [dev] one-time code for qa1-del-024b799f@example.test (delete_data): 377161
+2026/10/10 15:53:44 [mail] to=qa1-del-024b799f@example.test subject="Your Aknologia code: 377161"
+Your Aknologia code is 377161. Use it to confirm deleting your organization’s usage data. It expires in 10 minutes.
+2026/10/10 15:53:44 POST /api/v1/admin/data/delete/start 21ms
+2026/10/10 15:53:44 POST /api/v1/admin/data/delete/confirm 22ms
+2026/10/10 15:53:44 POST /api/v1/admin/data/delete/confirm 32ms
+2026/10/10 15:53:45 GET /api/v1/admin/overview 33ms
+2026/10/10 15:53:45 [dev] one-time code for qa1-rm-c9aa1c03@example.test (verify_signup): 671499
+2026/10/10 15:53:45 [mail] to=qa1-rm-c9aa1c03@example.test subject="Your Aknologia code: 671499"
+Your Aknologia code is 671499. Use it to verify your email and finish creating your workspace. It expires in 10 minutes.
+2026/10/10 15:53:45 POST /api/v1/auth/signup 338ms
+2026/10/10 15:53:46 POST /api/v1/auth/verify-email 45ms
+2026/10/10 15:53:46 POST /api/v1/admin/billing/seats 44ms
+2026/10/10 15:53:46 [dev] invite code for qa1-rm1-7eb265cb@example.test: 23M9-SWNT
+2026/10/10 15:53:46 [mail] to=qa1-rm1-7eb265cb@example.test subject="Admin rm invited you to Org rm aa0a9a55"
+Admin rm invited you to Org rm aa0a9a55 on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: 23M9-SWNT (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-rm1-7eb265cb@example.test
+
+2026/10/10 15:53:46 POST /api/v1/admin/members/invite 57ms
+2026/10/10 15:53:46 POST /api/v1/auth/invite/accept 410ms
+2026/10/10 15:53:46 [dev] invite code for qa1-rm2-ee4c3af2@example.test: PNPS-4XNY
+2026/10/10 15:53:46 [mail] to=qa1-rm2-ee4c3af2@example.test subject="Admin rm invited you to Org rm aa0a9a55"
+Admin rm invited you to Org rm aa0a9a55 on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: PNPS-4XNY (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-rm2-ee4c3af2@example.test
+
+2026/10/10 15:53:46 POST /api/v1/admin/members/invite 57ms
+2026/10/10 15:53:46 POST /api/v1/auth/invite/accept 315ms
+2026/10/10 15:53:47 POST /api/v1/ingest/batch 135ms
+2026/10/10 15:53:47 POST /api/v1/ingest/batch 101ms
+2026/10/10 15:53:47 [mail] to=qa1-rm1-7eb265cb@example.test subject="You’ve been removed from Org rm aa0a9a55"
+Admin rm removed you from Org rm aa0a9a55. Tracking has stopped.
+2026/10/10 15:53:47 DELETE /api/v1/admin/members/a9ce6d78-7f23-4f09-bef2-b6a15284a29b 31ms
+2026/10/10 15:53:47 [mail] to=qa1-rm2-ee4c3af2@example.test subject="You’ve been removed from Org rm aa0a9a55"
+Admin rm removed you from Org rm aa0a9a55. Tracking has stopped.
+2026/10/10 15:53:47 DELETE /api/v1/admin/members/25961826-fbf2-4bc2-9f93-7990fac7a25c 23ms
+2026/10/10 15:53:48 GET /api/v1/admin/overview 46ms
+2026/10/10 15:53:48 GET /api/v1/health 0s
+2026/10/10 15:53:48 GET /api/v1/health 0s
+2026/10/10 15:53:48 GET /api/v1/health 0s
+2026/10/10 15:53:48 GET /api/v1/health 0s
+2026/10/10 15:53:48 GET /api/v1/health 0s
+2026/10/10 15:53:48 GET /api/v1/health 0s
+2026/10/10 15:53:48 GET /api/v1/health 0s
+2026/10/10 15:53:48 GET /api/v1/health 0s
+2026/10/10 15:53:48 GET /api/v1/me 0s
+2026/10/10 15:53:48 GET /api/v1/health 0s
+2026/10/10 15:53:48 [dev] invite code for qa1-csv-5e7cd9f2@example.test: MKFD-YKK8
+2026/10/10 15:53:48 [mail] to=qa1-csv-5e7cd9f2@example.test subject="Admin main invited you to Org main 7dcdf0bc"
+Admin main invited you to Org main 7dcdf0bc on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: MKFD-YKK8 (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-csv-5e7cd9f2@example.test
+
+2026/10/10 15:53:48 POST /api/v1/admin/members/invite 47ms
+2026/10/10 15:53:49 POST /api/v1/auth/invite/accept 354ms
+2026/10/10 15:53:49 PATCH /api/v1/me/settings 20ms
+2026/10/10 15:53:49 POST /api/v1/ingest/batch 129ms
+2026/10/10 15:53:49 GET /api/v1/admin/export.csv 24ms
+2026/10/10 15:53:49 error: pq: invalid input syntax for type date: "notadate"
+2026/10/10 15:53:49 GET /api/v1/admin/export.csv 21ms
+2026/10/10 15:53:49 [dev] one-time code for qa1-bill-6ba4eb94@example.test (verify_signup): 447366
+2026/10/10 15:53:49 [mail] to=qa1-bill-6ba4eb94@example.test subject="Your Aknologia code: 447366"
+Your Aknologia code is 447366. Use it to verify your email and finish creating your workspace. It expires in 10 minutes.
+2026/10/10 15:53:49 POST /api/v1/auth/signup 367ms
+2026/10/10 15:53:49 POST /api/v1/auth/verify-email 46ms
+2026/10/10 15:53:49 POST /api/v1/admin/billing/seats 43ms
+2026/10/10 15:53:49 POST /api/v1/admin/billing/seats 26ms
+2026/10/10 15:53:49 GET /api/v1/admin/billing 23ms
+2026/10/10 15:53:49 [dev] invite code for qa1-enum-0a792b67@example.test: K876-X9JH
+2026/10/10 15:53:49 [mail] to=qa1-enum-0a792b67@example.test subject="Admin main invited you to Org main 7dcdf0bc"
+Admin main invited you to Org main 7dcdf0bc on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: K876-X9JH (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-enum-0a792b67@example.test
+
+2026/10/10 15:53:49 POST /api/v1/admin/members/invite 49ms
+2026/10/10 15:53:50 POST /api/v1/auth/invite/accept 383ms
+2026/10/10 15:53:50 [mail] to=qa1-enum-0a792b67@example.test subject="You’ve been removed from Org main 7dcdf0bc"
+Admin main removed you from Org main 7dcdf0bc. Tracking has stopped.
+2026/10/10 15:53:50 DELETE /api/v1/admin/members/72ae87ed-3a9d-4721-be4a-2efd42762274 41ms
+2026/10/10 15:53:50 POST /api/v1/auth/login 6ms
+2026/10/10 15:53:50 [dev] invite code for qa1-enuminv-759f717c@example.test: AWJR-RA8K
+2026/10/10 15:53:50 [mail] to=qa1-enuminv-759f717c@example.test subject="Admin main invited you to Org main 7dcdf0bc"
+Admin main invited you to Org main 7dcdf0bc on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: AWJR-RA8K (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-enuminv-759f717c@example.test
+
+2026/10/10 15:53:50 POST /api/v1/admin/members/invite 44ms
+2026/10/10 15:53:50 POST /api/v1/auth/login 4ms
+2026/10/10 15:53:54 [dev] one-time code for qa1-mixed-4b7a6a36@example.test (verify_signup): 605238
+2026/10/10 15:53:54 [mail] to=qa1-mixed-4b7a6a36@example.test subject="Your Aknologia code: 605238"
+Your Aknologia code is 605238. Use it to verify your email and finish creating your workspace. It expires in 10 minutes.
+2026/10/10 15:53:54 POST /api/v1/auth/signup 354ms
+2026/10/10 15:53:55 POST /api/v1/auth/verify-email 35ms
+2026/10/10 15:53:55 POST /api/v1/admin/billing/seats 50ms
+2026/10/10 15:53:55 [dev] invite code for qa1-mix-4af1e39a@example.test: MRE4-H663
+2026/10/10 15:53:55 [mail] to=qa1-mix-4af1e39a@example.test subject="Admin mixed invited you to Org mixed 513a24fc"
+Admin mixed invited you to Org mixed 513a24fc on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: MRE4-H663 (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-mix-4af1e39a@example.test
+
+2026/10/10 15:53:55 POST /api/v1/admin/members/invite 47ms
+2026/10/10 15:53:55 POST /api/v1/auth/invite/accept 351ms
+2026/10/10 15:53:55 GET /api/v1/admin/pricing 11ms
+2026/10/10 15:53:55 POST /api/v1/ingest/batch 143ms
+2026/10/10 15:53:55 GET /api/v1/admin/members/d2b17d01-5296-464b-b1d0-5dc875181769/usage 74ms
+2026/10/10 15:53:56 [dev] one-time code for qa1-refresh-6621330f@example.test (verify_signup): 366591
+2026/10/10 15:53:56 [mail] to=qa1-refresh-6621330f@example.test subject="Your Aknologia code: 366591"
+Your Aknologia code is 366591. Use it to verify your email and finish creating your workspace. It expires in 10 minutes.
+2026/10/10 15:53:56 POST /api/v1/auth/signup 438ms
+2026/10/10 15:53:56 POST /api/v1/auth/verify-email 65ms
+2026/10/10 15:53:56 POST /api/v1/admin/billing/seats 62ms
+2026/10/10 15:53:56 [dev] invite code for qa1-ok-564080a6@example.test: 2V6K-YS7P
+2026/10/10 15:53:56 [mail] to=qa1-ok-564080a6@example.test subject="Admin refresh invited you to Org refresh 987454ba"
+Admin refresh invited you to Org refresh 987454ba on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: 2V6K-YS7P (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-ok-564080a6@example.test
+
+2026/10/10 15:53:56 POST /api/v1/admin/members/invite 52ms
+2026/10/10 15:53:56 POST /api/v1/auth/invite/accept 331ms
+2026/10/10 15:53:56 POST /api/v1/ingest/batch 120ms
+2026/10/10 15:53:57 POST /api/v1/ingest/batch 77ms
+2026/10/10 15:53:57 POST /api/v1/admin/refresh 157ms
+2026/10/10 15:53:57 [dev] one-time code for qa1-old2-63d61c8e@example.test (verify_signup): 180901
+2026/10/10 15:53:57 [mail] to=qa1-old2-63d61c8e@example.test subject="Your Aknologia code: 180901"
+Your Aknologia code is 180901. Use it to verify your email and finish creating your workspace. It expires in 10 minutes.
+2026/10/10 15:53:57 POST /api/v1/auth/signup 278ms
+2026/10/10 15:53:57 POST /api/v1/auth/verify-email 35ms
+2026/10/10 15:53:57 POST /api/v1/admin/billing/seats 42ms
+2026/10/10 15:53:57 [dev] invite code for qa1-old-c2d1c33d@example.test: WMRP-B59K
+2026/10/10 15:53:57 [mail] to=qa1-old-c2d1c33d@example.test subject="Admin old2 invited you to Org old2 8be4f4e7"
+Admin old2 invited you to Org old2 8be4f4e7 on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: WMRP-B59K (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-old-c2d1c33d@example.test
+
+2026/10/10 15:53:57 POST /api/v1/admin/members/invite 21ms
+2026/10/10 15:53:57 POST /api/v1/auth/invite/accept 363ms
+2026/10/10 15:53:58 POST /api/v1/ingest/batch 125ms
+2026/10/10 15:53:58 GET /api/v1/admin/overview 44ms
+2026/10/10 15:54:10 GET /api/v1/health 0s
+2026/10/10 15:54:15 GET /api/v1/health 0s
+2026/10/10 15:54:21 GET /api/v1/health 0s
+2026/10/10 15:54:21 [dev] one-time code for qa1-signup-4d61eae0@example.test (verify_signup): 422551
+2026/10/10 15:54:21 [mail] to=qa1-signup-4d61eae0@example.test subject="Your Aknologia code: 422551"
+Your Aknologia code is 422551. Use it to verify your email and finish creating your workspace. It expires in 10 minutes.
+2026/10/10 15:54:21 POST /api/v1/auth/signup 359ms
+2026/10/10 15:54:22 [dev] one-time code for qa1-signup-4d61eae0@example.test (verify_signup): 214260
+2026/10/10 15:54:22 [mail] to=qa1-signup-4d61eae0@example.test subject="Your Aknologia code: 214260"
+Your Aknologia code is 214260. Use it to verify your email and finish creating your workspace. It expires in 10 minutes.
+2026/10/10 15:54:22 POST /api/v1/auth/login 276ms
+2026/10/10 15:54:22 POST /api/v1/auth/verify-email 31ms
+2026/10/10 15:54:22 POST /api/v1/auth/login 294ms
+2026/10/10 15:54:22 GET /api/v1/me 12ms
+2026/10/10 15:54:22 POST /api/v1/auth/login 282ms
+2026/10/10 15:54:22 POST /api/v1/auth/login 5ms
+2026/10/10 15:54:22 GET /api/v1/me 0s
+2026/10/10 15:54:22 GET /api/v1/me 4ms
+2026/10/10 15:54:23 [dev] one-time code for qa1-main-c4b14907@example.test (verify_signup): 114222
+2026/10/10 15:54:23 [mail] to=qa1-main-c4b14907@example.test subject="Your Aknologia code: 114222"
+Your Aknologia code is 114222. Use it to verify your email and finish creating your workspace. It expires in 10 minutes.
+2026/10/10 15:54:23 POST /api/v1/auth/signup 303ms
+2026/10/10 15:54:23 POST /api/v1/auth/verify-email 27ms
+2026/10/10 15:54:23 POST /api/v1/admin/billing/seats 28ms
+2026/10/10 15:54:23 POST /api/v1/auth/signup 4ms
+2026/10/10 15:54:23 POST /api/v1/auth/signup 4ms
+2026/10/10 15:54:23 POST /api/v1/auth/signup 0s
+2026/10/10 15:54:23 POST /api/v1/auth/signup 0s
+2026/10/10 15:54:23 POST /api/v1/auth/signup 0s
+2026/10/10 15:54:23 POST /api/v1/auth/signup 0s
+2026/10/10 15:54:23 POST /api/v1/auth/signup 0s
+2026/10/10 15:54:23 POST /api/v1/auth/signup 0s
+2026/10/10 15:54:23 [dev] one-time code for qa1-pw-b4375002@example.test (verify_signup): 892117
+2026/10/10 15:54:23 [mail] to=qa1-pw-b4375002@example.test subject="Your Aknologia code: 892117"
+Your Aknologia code is 892117. Use it to verify your email and finish creating your workspace. It expires in 10 minutes.
+2026/10/10 15:54:23 POST /api/v1/auth/signup 293ms
+2026/10/10 15:54:23 [dev] invite code for qa1-member-86fe6b1e@example.test: FSTN-H4TZ
+2026/10/10 15:54:23 [mail] to=qa1-member-86fe6b1e@example.test subject="Admin main invited you to Org main 4d3df14b"
+Admin main invited you to Org main 4d3df14b on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: FSTN-H4TZ (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-member-86fe6b1e@example.test
+
+2026/10/10 15:54:23 POST /api/v1/admin/members/invite 21ms
+2026/10/10 15:54:24 POST /api/v1/auth/invite/accept 321ms
+2026/10/10 15:54:24 POST /api/v1/auth/login 333ms
+2026/10/10 15:54:24 POST /api/v1/auth/login 396ms
+2026/10/10 15:54:25 POST /api/v1/auth/login 369ms
+2026/10/10 15:54:25 [dev] one-time code for qa1-otpwrong-07a03f52@example.test (verify_signup): 873716
+2026/10/10 15:54:25 [mail] to=qa1-otpwrong-07a03f52@example.test subject="Your Aknologia code: 873716"
+Your Aknologia code is 873716. Use it to verify your email and finish creating your workspace. It expires in 10 minutes.
+2026/10/10 15:54:25 POST /api/v1/auth/signup 355ms
+2026/10/10 15:54:25 POST /api/v1/auth/verify-email 10ms
+2026/10/10 15:54:25 POST /api/v1/auth/verify-email 33ms
+2026/10/10 15:54:26 [dev] one-time code for qa1-otpexp-d4b93941@example.test (verify_signup): 131636
+2026/10/10 15:54:26 [mail] to=qa1-otpexp-d4b93941@example.test subject="Your Aknologia code: 131636"
+Your Aknologia code is 131636. Use it to verify your email and finish creating your workspace. It expires in 10 minutes.
+2026/10/10 15:54:26 POST /api/v1/auth/signup 372ms
+2026/10/10 15:54:26 POST /api/v1/auth/verify-email 5ms
+2026/10/10 15:54:26 [dev] one-time code for qa1-otpburn-2ec22153@example.test (verify_signup): 725061
+2026/10/10 15:54:26 [mail] to=qa1-otpburn-2ec22153@example.test subject="Your Aknologia code: 725061"
+Your Aknologia code is 725061. Use it to verify your email and finish creating your workspace. It expires in 10 minutes.
+2026/10/10 15:54:26 POST /api/v1/auth/signup 305ms
+2026/10/10 15:54:26 POST /api/v1/auth/verify-email 13ms
+2026/10/10 15:54:26 POST /api/v1/auth/verify-email 14ms
+2026/10/10 15:54:26 POST /api/v1/auth/verify-email 13ms
+2026/10/10 15:54:26 POST /api/v1/auth/verify-email 12ms
+2026/10/10 15:54:26 POST /api/v1/auth/verify-email 10ms
+2026/10/10 15:54:27 POST /api/v1/auth/verify-email 2ms
+2026/10/10 15:54:27 [dev] one-time code for qa1-otpreuse-ad32dd05@example.test (verify_signup): 918833
+2026/10/10 15:54:27 [mail] to=qa1-otpreuse-ad32dd05@example.test subject="Your Aknologia code: 918833"
+Your Aknologia code is 918833. Use it to verify your email and finish creating your workspace. It expires in 10 minutes.
+2026/10/10 15:54:27 POST /api/v1/auth/signup 333ms
+2026/10/10 15:54:27 POST /api/v1/auth/verify-email 34ms
+2026/10/10 15:54:27 POST /api/v1/auth/verify-email 4ms
+2026/10/10 15:54:28 [dev] one-time code for qa1-otprace-15600522@example.test (verify_signup): 683774
+2026/10/10 15:54:28 [mail] to=qa1-otprace-15600522@example.test subject="Your Aknologia code: 683774"
+Your Aknologia code is 683774. Use it to verify your email and finish creating your workspace. It expires in 10 minutes.
+2026/10/10 15:54:28 POST /api/v1/auth/signup 331ms
+2026/10/10 15:54:28 POST /api/v1/auth/verify-email 17ms
+2026/10/10 15:54:28 POST /api/v1/auth/verify-email 14ms
+2026/10/10 15:54:28 POST /api/v1/auth/verify-email 17ms
+2026/10/10 15:54:28 POST /api/v1/auth/verify-email 18ms
+2026/10/10 15:54:28 POST /api/v1/auth/verify-email 17ms
+2026/10/10 15:54:28 POST /api/v1/auth/verify-email 12ms
+2026/10/10 15:54:28 POST /api/v1/auth/verify-email 17ms
+2026/10/10 15:54:28 POST /api/v1/auth/verify-email 10ms
+2026/10/10 15:54:28 POST /api/v1/auth/verify-email 3ms
+2026/10/10 15:54:28 POST /api/v1/auth/verify-email 2ms
+2026/10/10 15:54:28 POST /api/v1/auth/verify-email 3ms
+2026/10/10 15:54:28 POST /api/v1/auth/verify-email 7ms
+2026/10/10 15:54:28 POST /api/v1/auth/verify-email 5ms
+2026/10/10 15:54:28 POST /api/v1/auth/verify-email 4ms
+2026/10/10 15:54:28 POST /api/v1/auth/verify-email 2ms
+2026/10/10 15:54:28 POST /api/v1/auth/verify-email 2ms
+2026/10/10 15:54:28 POST /api/v1/auth/verify-email 1ms
+2026/10/10 15:54:28 POST /api/v1/auth/verify-email 2ms
+2026/10/10 15:54:28 POST /api/v1/auth/verify-email 2ms
+2026/10/10 15:54:28 POST /api/v1/auth/verify-email 2ms
+2026/10/10 15:54:28 POST /api/v1/auth/verify-email 2ms
+2026/10/10 15:54:28 POST /api/v1/auth/verify-email 2ms
+2026/10/10 15:54:28 POST /api/v1/auth/verify-email 2ms
+2026/10/10 15:54:28 POST /api/v1/auth/verify-email 4ms
+2026/10/10 15:54:28 POST /api/v1/auth/verify-email 3ms
+2026/10/10 15:54:28 POST /api/v1/auth/verify-email 3ms
+2026/10/10 15:54:28 POST /api/v1/auth/verify-email 2ms
+2026/10/10 15:54:28 POST /api/v1/auth/verify-email 2ms
+2026/10/10 15:54:28 POST /api/v1/auth/verify-email 8ms
+2026/10/10 15:54:28 POST /api/v1/auth/verify-email 4ms
+2026/10/10 15:54:28 POST /api/v1/auth/verify-email 2ms
+2026/10/10 15:54:28 POST /api/v1/auth/verify-email 2ms
+2026/10/10 15:54:28 POST /api/v1/auth/verify-email 2ms
+2026/10/10 15:54:28 POST /api/v1/auth/verify-email 3ms
+2026/10/10 15:54:28 POST /api/v1/auth/verify-email 2ms
+2026/10/10 15:54:28 POST /api/v1/auth/verify-email 3ms
+2026/10/10 15:54:28 POST /api/v1/auth/verify-email 2ms
+2026/10/10 15:54:28 POST /api/v1/auth/verify-email 2ms
+2026/10/10 15:54:28 POST /api/v1/auth/verify-email 2ms
+2026/10/10 15:54:28 POST /api/v1/auth/verify-email 87ms
+2026/10/10 15:54:28 [dev] invite code for qa1-backup-e5c9949d@example.test: ZJGJ-594B
+2026/10/10 15:54:28 [mail] to=qa1-backup-e5c9949d@example.test subject="Admin main invited you to Org main 4d3df14b"
+Admin main invited you to Org main 4d3df14b on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: ZJGJ-594B (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-backup-e5c9949d@example.test
+
+2026/10/10 15:54:28 POST /api/v1/admin/members/invite 37ms
+2026/10/10 15:54:29 POST /api/v1/auth/invite/accept 318ms
+2026/10/10 15:54:29 [dev] one-time code for qa1-bk-3dced6a9@example.test (verify_backup): 491915
+2026/10/10 15:54:29 [mail] to=qa1-bk-3dced6a9@example.test subject="Your Aknologia code: 491915"
+Your Aknologia code is 491915. Use it to verify this backup email. It expires in 10 minutes.
+2026/10/10 15:54:29 POST /api/v1/me/backup-email 18ms
+2026/10/10 15:54:29 POST /api/v1/me/backup-email/verify 18ms
+2026/10/10 15:54:29 POST /api/v1/me/backup-email/verify 23ms
+2026/10/10 15:54:29 GET /api/v1/me 21ms
+2026/10/10 15:54:29 [dev] reset code for qa1-backup-e5c9949d@example.test: 401738
+2026/10/10 15:54:29 [mail] to=qa1-bk-3dced6a9@example.test subject="Your Aknologia code: 401738"
+Your Aknologia code is 401738. Use it to reset your password. It expires in 10 minutes.
+2026/10/10 15:54:29 POST /api/v1/auth/password/forgot 22ms
+2026/10/10 15:54:29 POST /api/v1/auth/password/reset 10ms
+2026/10/10 15:54:29 POST /api/v1/auth/password/reset 8ms
+2026/10/10 15:54:29 POST /api/v1/auth/password/reset 7ms
+2026/10/10 15:54:29 [mail] to=qa1-backup-e5c9949d@example.test subject="Your Aknologia password was changed"
+Your Aknologia password was changed (Changed with a reset code on 10 Oct at 15:54 IST). If this wasn't you, reset it now.
+2026/10/10 15:54:29 POST /api/v1/auth/password/reset 354ms
+2026/10/10 15:54:29 GET /api/v1/me 3ms
+2026/10/10 15:54:30 POST /api/v1/auth/login 332ms
+2026/10/10 15:54:30 POST /api/v1/auth/login 327ms
+2026/10/10 15:54:30 POST /api/v1/auth/password/reset 9ms
+2026/10/10 15:54:30 POST /api/v1/auth/password/forgot 7ms
+2026/10/10 15:54:30 [dev] invite code for qa1-chpw-0fa1ddd5@example.test: KFVG-VNVW
+2026/10/10 15:54:30 [mail] to=qa1-chpw-0fa1ddd5@example.test subject="Admin main invited you to Org main 4d3df14b"
+Admin main invited you to Org main 4d3df14b on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: KFVG-VNVW (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-chpw-0fa1ddd5@example.test
+
+2026/10/10 15:54:30 POST /api/v1/admin/members/invite 52ms
+2026/10/10 15:54:30 POST /api/v1/auth/invite/accept 360ms
+2026/10/10 15:54:31 POST /api/v1/auth/login 340ms
+2026/10/10 15:54:31 POST /api/v1/me/password/start 338ms
+2026/10/10 15:54:32 [dev] one-time code for qa1-chpw-0fa1ddd5@example.test (change_password): 348278
+2026/10/10 15:54:32 [mail] to=qa1-chpw-0fa1ddd5@example.test subject="Your Aknologia code: 348278"
+Your Aknologia code is 348278. Use it to confirm your password change. It expires in 10 minutes.
+2026/10/10 15:54:32 POST /api/v1/me/password/start 708ms
+2026/10/10 15:54:32 POST /api/v1/me/password/confirm 23ms
+2026/10/10 15:54:32 [mail] to=qa1-chpw-0fa1ddd5@example.test subject="Your Aknologia password was changed"
+Your Aknologia password was changed (Changed from your account settings on 10 Oct at 15:54 IST). If this wasn't you, reset it now.
+2026/10/10 15:54:32 POST /api/v1/me/password/confirm 34ms
+2026/10/10 15:54:32 GET /api/v1/me 25ms
+2026/10/10 15:54:32 GET /api/v1/me 4ms
+2026/10/10 15:54:32 [dev] one-time code for qa1-seats-08af8f98@example.test (verify_signup): 285624
+2026/10/10 15:54:32 [mail] to=qa1-seats-08af8f98@example.test subject="Your Aknologia code: 285624"
+Your Aknologia code is 285624. Use it to verify your email and finish creating your workspace. It expires in 10 minutes.
+2026/10/10 15:54:32 POST /api/v1/auth/signup 366ms
+2026/10/10 15:54:32 POST /api/v1/auth/verify-email 38ms
+2026/10/10 15:54:32 [dev] invite code for qa1-s1-b7b39add@example.test: 2Q47-GVJY
+2026/10/10 15:54:32 [mail] to=qa1-s1-b7b39add@example.test subject="Admin seats invited you to Org seats c9918d81"
+Admin seats invited you to Org seats c9918d81 on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: 2Q47-GVJY (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-s1-b7b39add@example.test
+
+2026/10/10 15:54:32 [dev] invite code for qa1-s2-04d7c478@example.test: YHB2-NBNB
+2026/10/10 15:54:32 [mail] to=qa1-s2-04d7c478@example.test subject="Admin seats invited you to Org seats c9918d81"
+Admin seats invited you to Org seats c9918d81 on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: YHB2-NBNB (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-s2-04d7c478@example.test
+
+2026/10/10 15:54:32 POST /api/v1/admin/members/invite 63ms
+2026/10/10 15:54:32 POST /api/v1/admin/members/invite 20ms
+2026/10/10 15:54:32 POST /api/v1/admin/members/invite 17ms
+2026/10/10 15:54:33 DELETE /api/v1/admin/members/72980d17-7afb-4c50-b713-7a04af80cafc 33ms
+2026/10/10 15:54:33 [dev] invite code for qa1-s3-3aad8846@example.test: 5PKA-E3KE
+2026/10/10 15:54:33 [mail] to=qa1-s3-3aad8846@example.test subject="Admin seats invited you to Org seats c9918d81"
+Admin seats invited you to Org seats c9918d81 on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: 5PKA-E3KE (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-s3-3aad8846@example.test
+
+2026/10/10 15:54:33 POST /api/v1/admin/members/invite 22ms
+2026/10/10 15:54:33 [dev] invite code for qa1-cancel-e46d07de@example.test: 6TYN-8VFQ
+2026/10/10 15:54:33 [mail] to=qa1-cancel-e46d07de@example.test subject="Admin main invited you to Org main 4d3df14b"
+Admin main invited you to Org main 4d3df14b on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: 6TYN-8VFQ (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-cancel-e46d07de@example.test
+
+2026/10/10 15:54:33 POST /api/v1/admin/members/invite 59ms
+2026/10/10 15:54:33 DELETE /api/v1/admin/members/ca4461dc-6d9c-4b24-be77-234e454014dd 14ms
+2026/10/10 15:54:33 POST /api/v1/auth/invite/accept 3ms
+2026/10/10 15:54:33 [dev] invite code for qa1-resend-094abe6d@example.test: WCD7-B8ZW
+2026/10/10 15:54:33 [mail] to=qa1-resend-094abe6d@example.test subject="Admin main invited you to Org main 4d3df14b"
+Admin main invited you to Org main 4d3df14b on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: WCD7-B8ZW (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-resend-094abe6d@example.test
+
+2026/10/10 15:54:33 POST /api/v1/admin/members/invite 27ms
+2026/10/10 15:54:34 [dev] invite code for qa1-resend-094abe6d@example.test: W8JP-HK23
+2026/10/10 15:54:34 [mail] to=qa1-resend-094abe6d@example.test subject="Admin main invited you to Org main 4d3df14b"
+Admin main invited you to Org main 4d3df14b on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: W8JP-HK23 (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-resend-094abe6d@example.test
+
+2026/10/10 15:54:34 POST /api/v1/admin/members/a7080948-a4a9-408f-bc7d-c583f1731b0d/resend 34ms
+2026/10/10 15:54:34 POST /api/v1/auth/invite/accept 4ms
+2026/10/10 15:54:35 POST /api/v1/auth/invite/accept 381ms
+2026/10/10 15:54:35 POST /api/v1/auth/invite/accept 7ms
+2026/10/10 15:54:35 POST /api/v1/admin/members/a7080948-a4a9-408f-bc7d-c583f1731b0d/resend 14ms
+2026/10/10 15:54:35 [dev] invite code for qa1-invexp-0a6cb2c2@example.test: 5VFN-A3DA
+2026/10/10 15:54:35 [mail] to=qa1-invexp-0a6cb2c2@example.test subject="Admin main invited you to Org main 4d3df14b"
+Admin main invited you to Org main 4d3df14b on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: 5VFN-A3DA (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-invexp-0a6cb2c2@example.test
+
+2026/10/10 15:54:35 POST /api/v1/admin/members/invite 47ms
+2026/10/10 15:54:35 POST /api/v1/auth/invite/accept 5ms
+2026/10/10 15:54:35 [dev] invite code for qa1-mis1-303e3b86@example.test: XGQG-CWDP
+2026/10/10 15:54:35 [mail] to=qa1-mis1-303e3b86@example.test subject="Admin main invited you to Org main 4d3df14b"
+Admin main invited you to Org main 4d3df14b on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: XGQG-CWDP (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-mis1-303e3b86@example.test
+
+2026/10/10 15:54:35 [dev] invite code for qa1-mis2-9e0f3aad@example.test: Y2VD-HT94
+2026/10/10 15:54:35 [mail] to=qa1-mis2-9e0f3aad@example.test subject="Admin main invited you to Org main 4d3df14b"
+Admin main invited you to Org main 4d3df14b on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: Y2VD-HT94 (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-mis2-9e0f3aad@example.test
+
+2026/10/10 15:54:35 POST /api/v1/admin/members/invite 46ms
+2026/10/10 15:54:35 POST /api/v1/auth/invite/accept 7ms
+2026/10/10 15:54:35 POST /api/v1/auth/invite/accept 5ms
+2026/10/10 15:54:35 POST /api/v1/auth/invite/accept 336ms
+2026/10/10 15:54:36 [dev] invite code for qa1-reinv-5b2650e4@example.test: T5M4-EAHC
+2026/10/10 15:54:36 [mail] to=qa1-reinv-5b2650e4@example.test subject="Admin main invited you to Org main 4d3df14b"
+Admin main invited you to Org main 4d3df14b on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: T5M4-EAHC (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-reinv-5b2650e4@example.test
+
+2026/10/10 15:54:36 POST /api/v1/admin/members/invite 27ms
+2026/10/10 15:54:36 POST /api/v1/auth/invite/accept 392ms
+2026/10/10 15:54:36 [mail] to=qa1-reinv-5b2650e4@example.test subject="You’ve been removed from Org main 4d3df14b"
+Admin main removed you from Org main 4d3df14b. Tracking has stopped.
+2026/10/10 15:54:36 DELETE /api/v1/admin/members/c03cb343-6d1e-4041-ba87-24671ff8cbc5 51ms
+2026/10/10 15:54:36 POST /api/v1/auth/login 5ms
+2026/10/10 15:54:36 [dev] invite code for qa1-reinv-5b2650e4@example.test: XVSB-8BWK
+2026/10/10 15:54:36 [mail] to=qa1-reinv-5b2650e4@example.test subject="Admin main invited you to Org main 4d3df14b"
+Admin main invited you to Org main 4d3df14b on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: XVSB-8BWK (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-reinv-5b2650e4@example.test
+
+2026/10/10 15:54:36 POST /api/v1/admin/members/invite 37ms
+2026/10/10 15:54:36 POST /api/v1/auth/login 5ms
+2026/10/10 15:54:37 POST /api/v1/auth/invite/accept 382ms
+2026/10/10 15:54:37 GET /api/v1/me 6ms
+2026/10/10 15:54:37 POST /api/v1/auth/login 272ms
+2026/10/10 15:54:37 [dev] one-time code for qa1-other-f5592aa4@example.test (verify_signup): 437610
+2026/10/10 15:54:37 [mail] to=qa1-other-f5592aa4@example.test subject="Your Aknologia code: 437610"
+Your Aknologia code is 437610. Use it to verify your email and finish creating your workspace. It expires in 10 minutes.
+2026/10/10 15:54:37 POST /api/v1/auth/signup 357ms
+2026/10/10 15:54:37 POST /api/v1/auth/verify-email 25ms
+2026/10/10 15:54:37 POST /api/v1/admin/billing/seats 35ms
+2026/10/10 15:54:37 POST /api/v1/admin/members/invite 19ms
+2026/10/10 15:54:37 [dev] invite code for qa1-authz-55aa3ebd@example.test: AU29-48AK
+2026/10/10 15:54:37 [mail] to=qa1-authz-55aa3ebd@example.test subject="Admin main invited you to Org main 4d3df14b"
+Admin main invited you to Org main 4d3df14b on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: AU29-48AK (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-authz-55aa3ebd@example.test
+
+2026/10/10 15:54:37 POST /api/v1/admin/members/invite 53ms
+2026/10/10 15:54:38 POST /api/v1/auth/invite/accept 405ms
+2026/10/10 15:54:38 GET /api/v1/admin/overview 9ms
+2026/10/10 15:54:38 GET /api/v1/admin/members 14ms
+2026/10/10 15:54:38 POST /api/v1/admin/members/invite 13ms
+2026/10/10 15:54:38 POST /api/v1/admin/members/462752e8-f264-4117-8c8a-b3406520dcc0/resend 20ms
+2026/10/10 15:54:38 PATCH /api/v1/admin/members/462752e8-f264-4117-8c8a-b3406520dcc0 14ms
+2026/10/10 15:54:38 DELETE /api/v1/admin/members/462752e8-f264-4117-8c8a-b3406520dcc0 12ms
+2026/10/10 15:54:38 GET /api/v1/admin/members/462752e8-f264-4117-8c8a-b3406520dcc0/usage 15ms
+2026/10/10 15:54:38 GET /api/v1/admin/budgets 12ms
+2026/10/10 15:54:38 PUT /api/v1/admin/budgets 8ms
+2026/10/10 15:54:38 GET /api/v1/admin/org 13ms
+2026/10/10 15:54:38 PUT /api/v1/admin/org 8ms
+2026/10/10 15:54:38 GET /api/v1/admin/billing 10ms
+2026/10/10 15:54:38 POST /api/v1/admin/billing/seats 9ms
+2026/10/10 15:54:38 POST /api/v1/admin/refresh 10ms
+2026/10/10 15:54:38 GET /api/v1/admin/export.csv 10ms
+2026/10/10 15:54:38 POST /api/v1/admin/data/delete/start 9ms
+2026/10/10 15:54:38 POST /api/v1/admin/data/delete/confirm 10ms
+2026/10/10 15:54:38 GET /api/v1/admin/pricing 9ms
+2026/10/10 15:54:39 [dev] one-time code for qa1-orgb-a6316a86@example.test (verify_signup): 530758
+2026/10/10 15:54:39 [mail] to=qa1-orgb-a6316a86@example.test subject="Your Aknologia code: 530758"
+Your Aknologia code is 530758. Use it to verify your email and finish creating your workspace. It expires in 10 minutes.
+2026/10/10 15:54:39 POST /api/v1/auth/signup 347ms
+2026/10/10 15:54:39 POST /api/v1/auth/verify-email 26ms
+2026/10/10 15:54:39 POST /api/v1/admin/billing/seats 34ms
+2026/10/10 15:54:39 [dev] invite code for qa1-orgbm-2dd4655c@example.test: D4YR-T895
+2026/10/10 15:54:39 [mail] to=qa1-orgbm-2dd4655c@example.test subject="Admin orgb invited you to Org orgb 1a8a7588"
+Admin orgb invited you to Org orgb 1a8a7588 on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: D4YR-T895 (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-orgbm-2dd4655c@example.test
+
+2026/10/10 15:54:39 POST /api/v1/admin/members/invite 37ms
+2026/10/10 15:54:40 POST /api/v1/auth/invite/accept 352ms
+2026/10/10 15:54:40 [mail] to=qa1-orgb-a6316a86@example.test subject="qa1-orgbm-2dd4655c@example.test reached 80% of their budget"
+qa1-orgbm-2dd4655c@example.test reached 80% of their budget: $1.50 of $1.00 (80%). Projected $4.92. http://localhost:8094/app/#/members/bfc56981-f0ba-4eff-9276-1e18421d2f43
+2026/10/10 15:54:40 [mail] to=qa1-orgb-a6316a86@example.test subject="qa1-orgbm-2dd4655c@example.test reached 100% of their budget"
+qa1-orgbm-2dd4655c@example.test reached 100% of their budget: $1.50 of $1.00 (100%). Projected $4.92. http://localhost:8094/app/#/members/bfc56981-f0ba-4eff-9276-1e18421d2f43
+2026/10/10 15:54:40 POST /api/v1/ingest/batch 183ms
+2026/10/10 15:54:40 [dev] invite code for qa1-orgbinv-51cdee3c@example.test: D454-EWJW
+2026/10/10 15:54:40 [mail] to=qa1-orgbinv-51cdee3c@example.test subject="Admin orgb invited you to Org orgb 1a8a7588"
+Admin orgb invited you to Org orgb 1a8a7588 on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: D454-EWJW (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-orgbinv-51cdee3c@example.test
+
+2026/10/10 15:54:40 POST /api/v1/admin/members/invite 47ms
+2026/10/10 15:54:40 [dev] invite code for qa1-orgam-8357aa43@example.test: ZPJW-FXTP
+2026/10/10 15:54:40 [mail] to=qa1-orgam-8357aa43@example.test subject="Admin main invited you to Org main 4d3df14b"
+Admin main invited you to Org main 4d3df14b on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: ZPJW-FXTP (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-orgam-8357aa43@example.test
+
+2026/10/10 15:54:40 POST /api/v1/admin/members/invite 36ms
+2026/10/10 15:54:41 POST /api/v1/auth/invite/accept 366ms
+2026/10/10 15:54:41 GET /api/v1/admin/members/bfc56981-f0ba-4eff-9276-1e18421d2f43/usage 14ms
+2026/10/10 15:54:41 PATCH /api/v1/admin/members/bfc56981-f0ba-4eff-9276-1e18421d2f43 14ms
+2026/10/10 15:54:41 DELETE /api/v1/admin/members/bfc56981-f0ba-4eff-9276-1e18421d2f43 15ms
+2026/10/10 15:54:41 POST /api/v1/admin/members/69a92050-a4e0-49d5-88c8-f4adc4d8d080/resend 11ms
+2026/10/10 15:54:41 DELETE /api/v1/admin/members/69a92050-a4e0-49d5-88c8-f4adc4d8d080 16ms
+2026/10/10 15:54:41 PUT /api/v1/admin/budgets 52ms
+2026/10/10 15:54:41 GET /api/v1/admin/overview 54ms
+2026/10/10 15:54:42 GET /api/v1/admin/members 51ms
+2026/10/10 15:54:42 GET /api/v1/admin/budgets 30ms
+2026/10/10 15:54:42 GET /api/v1/admin/export.csv 17ms
+2026/10/10 15:54:42 GET /api/v1/admin/org 15ms
+2026/10/10 15:54:42 GET /api/v1/me/notifications 16ms
+2026/10/10 15:54:42 POST /api/v1/me/notifications/14/read 23ms
+2026/10/10 15:54:42 GET /api/v1/me/notifications 29ms
+2026/10/10 15:54:42 DELETE /api/v1/me/devices/d7121f90-8d00-4370-8945-b4739e2aa6bf 23ms
+2026/10/10 15:54:42 GET /api/v1/me 23ms
+2026/10/10 15:54:42 [dev] invite code for qa1-tok-1924e72d@example.test: 6NMQ-HCGJ
+2026/10/10 15:54:42 [mail] to=qa1-tok-1924e72d@example.test subject="Admin main invited you to Org main 4d3df14b"
+Admin main invited you to Org main 4d3df14b on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: 6NMQ-HCGJ (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-tok-1924e72d@example.test
+
+2026/10/10 15:54:42 POST /api/v1/admin/members/invite 44ms
+2026/10/10 15:54:42 POST /api/v1/auth/invite/accept 352ms
+2026/10/10 15:54:42 POST /api/v1/auth/login 325ms
+2026/10/10 15:54:43 DELETE /api/v1/me/devices/e052dbea-e993-40c2-a28e-3a4883f39847 16ms
+2026/10/10 15:54:43 GET /api/v1/agent/config 8ms
+2026/10/10 15:54:43 POST /api/v1/ingest/batch 5ms
+2026/10/10 15:54:43 POST /api/v1/auth/login 348ms
+2026/10/10 15:54:43 POST /api/v1/auth/logout 22ms
+2026/10/10 15:54:43 GET /api/v1/me 4ms
+2026/10/10 15:54:43 POST /api/v1/auth/login 350ms
+2026/10/10 15:54:44 GET /api/v1/me 4ms
+2026/10/10 15:54:44 [mail] to=qa1-tok-1924e72d@example.test subject="You’ve been removed from Org main 4d3df14b"
+Admin main removed you from Org main 4d3df14b. Tracking has stopped.
+2026/10/10 15:54:44 DELETE /api/v1/admin/members/2e18ad9e-7a46-4732-bfad-e99b476c146e 15ms
+2026/10/10 15:54:44 GET /api/v1/me 7ms
+2026/10/10 15:54:44 GET /api/v1/agent/config 4ms
+2026/10/10 15:54:44 POST /api/v1/ingest/batch 7ms
+2026/10/10 15:54:44 GET /api/v1/me/usage 4ms
+2026/10/10 15:54:45 DELETE /api/v1/admin/members/462752e8-f264-4117-8c8a-b3406520dcc0 14ms
+2026/10/10 15:54:45 GET /api/v1/me 5ms
+2026/10/10 15:54:45 [dev] invite code for qa1-ing-b9b2c81e@example.test: Z79T-FM68
+2026/10/10 15:54:45 [mail] to=qa1-ing-b9b2c81e@example.test subject="Admin main invited you to Org main 4d3df14b"
+Admin main invited you to Org main 4d3df14b on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: Z79T-FM68 (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-ing-b9b2c81e@example.test
+
+2026/10/10 15:54:45 POST /api/v1/admin/members/invite 27ms
+2026/10/10 15:54:45 POST /api/v1/auth/invite/accept 359ms
+2026/10/10 15:54:45 POST /api/v1/ingest/batch 104ms
+2026/10/10 15:54:45 POST /api/v1/ingest/batch 65ms
+2026/10/10 15:54:46 POST /api/v1/ingest/batch 9ms
+2026/10/10 15:54:46 POST /api/v1/ingest/batch 7ms
+2026/10/10 15:54:46 POST /api/v1/ingest/batch 7ms
+2026/10/10 15:54:46 POST /api/v1/ingest/batch 70ms
+2026/10/10 15:54:46 POST /api/v1/ingest/batch 69ms
+2026/10/10 15:54:46 POST /api/v1/ingest/batch 29ms
+2026/10/10 15:54:50 POST /api/v1/ingest/batch 3.423s
+2026/10/10 15:54:50 POST /api/v1/ingest/batch 67ms
+2026/10/10 15:54:50 POST /api/v1/ingest/batch 172ms
+2026/10/10 15:54:50 [dev] invite code for qa1-victim-e1f90253@example.test: U4XK-Q5FH
+2026/10/10 15:54:50 [mail] to=qa1-victim-e1f90253@example.test subject="Admin main invited you to Org main 4d3df14b"
+Admin main invited you to Org main 4d3df14b on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: U4XK-Q5FH (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-victim-e1f90253@example.test
+
+2026/10/10 15:54:50 POST /api/v1/admin/members/invite 48ms
+2026/10/10 15:54:50 POST /api/v1/auth/invite/accept 377ms
+2026/10/10 15:54:51 POST /api/v1/ingest/batch 190ms
+2026/10/10 15:54:52 POST /api/v1/ingest/batch 137ms
+2026/10/10 15:54:52 [dev] one-time code for qa1-poison-7b7e2c56@example.test (verify_signup): 001668
+2026/10/10 15:54:52 [mail] to=qa1-poison-7b7e2c56@example.test subject="Your Aknologia code: 001668"
+Your Aknologia code is 001668. Use it to verify your email and finish creating your workspace. It expires in 10 minutes.
+2026/10/10 15:54:52 POST /api/v1/auth/signup 321ms
+2026/10/10 15:54:52 POST /api/v1/auth/verify-email 21ms
+2026/10/10 15:54:52 POST /api/v1/admin/billing/seats 21ms
+2026/10/10 15:54:52 [dev] invite code for qa1-bystander-cc7c4521@example.test: 9EHJ-WAST
+2026/10/10 15:54:52 [mail] to=qa1-bystander-cc7c4521@example.test subject="Admin poison invited you to Org poison 307a9678"
+Admin poison invited you to Org poison 307a9678 on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: 9EHJ-WAST (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-bystander-cc7c4521@example.test
+
+2026/10/10 15:54:52 POST /api/v1/admin/members/invite 24ms
+2026/10/10 15:54:52 POST /api/v1/auth/invite/accept 342ms
+2026/10/10 15:54:52 [dev] invite code for qa1-poison-bcce3c0b@example.test: WH5A-TKD3
+2026/10/10 15:54:52 [mail] to=qa1-poison-bcce3c0b@example.test subject="Admin poison invited you to Org poison 307a9678"
+Admin poison invited you to Org poison 307a9678 on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: WH5A-TKD3 (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-poison-bcce3c0b@example.test
+
+2026/10/10 15:54:52 POST /api/v1/admin/members/invite 47ms
+2026/10/10 15:54:53 POST /api/v1/auth/invite/accept 360ms
+2026/10/10 15:54:53 POST /api/v1/ingest/batch 138ms
+2026/10/10 15:54:53 POST /api/v1/ingest/batch 88ms
+2026/10/10 15:54:53 POST /api/v1/ingest/batch 134ms
+2026/10/10 15:54:54 POST /api/v1/ingest/batch 158ms
+2026/10/10 15:54:54 POST /api/v1/admin/refresh 192ms
+2026/10/10 15:54:54 [dev] one-time code for qa1-old-5ba94053@example.test (verify_signup): 293388
+2026/10/10 15:54:54 [mail] to=qa1-old-5ba94053@example.test subject="Your Aknologia code: 293388"
+Your Aknologia code is 293388. Use it to verify your email and finish creating your workspace. It expires in 10 minutes.
+2026/10/10 15:54:54 POST /api/v1/auth/signup 329ms
+2026/10/10 15:54:54 POST /api/v1/auth/verify-email 41ms
+2026/10/10 15:54:55 POST /api/v1/admin/billing/seats 38ms
+2026/10/10 15:54:55 [dev] invite code for qa1-oldm-9f963baa@example.test: DENU-8KWS
+2026/10/10 15:54:55 [mail] to=qa1-oldm-9f963baa@example.test subject="Admin old invited you to Org old 4979e8ee"
+Admin old invited you to Org old 4979e8ee on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: DENU-8KWS (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-oldm-9f963baa@example.test
+
+2026/10/10 15:54:55 POST /api/v1/admin/members/invite 33ms
+2026/10/10 15:54:55 POST /api/v1/auth/invite/accept 379ms
+2026/10/10 15:54:55 POST /api/v1/ingest/batch 122ms
+2026/10/10 15:54:55 GET /api/v1/admin/overview 78ms
+2026/10/10 15:54:55 POST /api/v1/admin/refresh 144ms
+2026/10/10 15:54:55 GET /api/v1/admin/overview 95ms
+2026/10/10 15:54:56 [dev] one-time code for qa1-tznew_-4044d593@example.test (verify_signup): 989259
+2026/10/10 15:54:56 [mail] to=qa1-tznew_-4044d593@example.test subject="Your Aknologia code: 989259"
+Your Aknologia code is 989259. Use it to verify your email and finish creating your workspace. It expires in 10 minutes.
+2026/10/10 15:54:56 POST /api/v1/auth/signup 361ms
+2026/10/10 15:54:56 POST /api/v1/auth/verify-email 32ms
+2026/10/10 15:54:56 POST /api/v1/admin/billing/seats 38ms
+2026/10/10 15:54:56 PUT /api/v1/admin/org 26ms
+2026/10/10 15:54:56 [dev] invite code for qa1-tzm-05907fdf@example.test: M9H9-UM53
+2026/10/10 15:54:56 [mail] to=qa1-tzm-05907fdf@example.test subject="Admin tznew_ invited you to Org tznew_ 23c976c5"
+Admin tznew_ invited you to Org tznew_ 23c976c5 on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: M9H9-UM53 (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-tzm-05907fdf@example.test
+
+2026/10/10 15:54:56 POST /api/v1/admin/members/invite 60ms
+2026/10/10 15:54:56 POST /api/v1/auth/invite/accept 293ms
+2026/10/10 15:54:56 POST /api/v1/ingest/batch 123ms
+2026/10/10 15:54:57 POST /api/v1/ingest/batch 104ms
+2026/10/10 15:54:57 GET /api/v1/admin/members/15a22d08-830a-4202-b2a1-658ec2959a4b/usage 50ms
+2026/10/10 15:54:57 POST /api/v1/ingest/batch 92ms
+2026/10/10 15:54:57 GET /api/v1/admin/members/15a22d08-830a-4202-b2a1-658ec2959a4b/usage 76ms
+2026/10/10 15:54:57 POST /api/v1/admin/refresh 99ms
+2026/10/10 15:54:58 GET /api/v1/admin/members/15a22d08-830a-4202-b2a1-658ec2959a4b/usage 104ms
+2026/10/10 15:54:58 [dev] one-time code for qa1-tzkolk-d6c7be1e@example.test (verify_signup): 812375
+2026/10/10 15:54:58 [mail] to=qa1-tzkolk-d6c7be1e@example.test subject="Your Aknologia code: 812375"
+Your Aknologia code is 812375. Use it to verify your email and finish creating your workspace. It expires in 10 minutes.
+2026/10/10 15:54:58 POST /api/v1/auth/signup 378ms
+2026/10/10 15:54:58 POST /api/v1/auth/verify-email 48ms
+2026/10/10 15:54:58 POST /api/v1/admin/billing/seats 34ms
+2026/10/10 15:54:58 PUT /api/v1/admin/org 19ms
+2026/10/10 15:54:58 [dev] invite code for qa1-tzm-e8e094e7@example.test: VU5B-5E38
+2026/10/10 15:54:58 [mail] to=qa1-tzm-e8e094e7@example.test subject="Admin tzkolk invited you to Org tzkolk 64f507d7"
+Admin tzkolk invited you to Org tzkolk 64f507d7 on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: VU5B-5E38 (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-tzm-e8e094e7@example.test
+
+2026/10/10 15:54:58 POST /api/v1/admin/members/invite 22ms
+2026/10/10 15:54:58 POST /api/v1/auth/invite/accept 331ms
+2026/10/10 15:54:59 POST /api/v1/ingest/batch 107ms
+2026/10/10 15:54:59 GET /api/v1/admin/export.csv 14ms
+2026/10/10 15:54:59 [dev] one-time code for qa1-ist-200c8199@example.test (verify_signup): 644116
+2026/10/10 15:54:59 [mail] to=qa1-ist-200c8199@example.test subject="Your Aknologia code: 644116"
+Your Aknologia code is 644116. Use it to verify your email and finish creating your workspace. It expires in 10 minutes.
+2026/10/10 15:54:59 POST /api/v1/auth/signup 350ms
+2026/10/10 15:54:59 POST /api/v1/auth/verify-email 34ms
+2026/10/10 15:54:59 POST /api/v1/admin/billing/seats 40ms
+2026/10/10 15:54:59 PUT /api/v1/admin/org 28ms
+2026/10/10 15:54:59 [dev] invite code for qa1-istm-509065bb@example.test: ME3B-WPC6
+2026/10/10 15:54:59 [mail] to=qa1-istm-509065bb@example.test subject="Admin ist invited you to Org ist afa6306b"
+Admin ist invited you to Org ist afa6306b on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: ME3B-WPC6 (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-istm-509065bb@example.test
+
+2026/10/10 15:54:59 POST /api/v1/admin/members/invite 37ms
+2026/10/10 15:55:00 POST /api/v1/auth/invite/accept 358ms
+2026/10/10 15:55:00 POST /api/v1/ingest/batch 135ms
+2026/10/10 15:55:00 GET /api/v1/admin/overview 71ms
+2026/10/10 15:55:00 GET /api/v1/admin/overview 72ms
+2026/10/10 15:55:00 GET /api/v1/admin/members/ef58e9b5-e73e-4110-bca2-de61b8187d98/usage 76ms
+2026/10/10 15:55:00 GET /api/v1/admin/members/ef58e9b5-e73e-4110-bca2-de61b8187d98/usage 53ms
+2026/10/10 15:55:00 GET /api/v1/agent/config 29ms
+2026/10/10 15:55:00 GET /api/v1/admin/export.csv 12ms
+2026/10/10 15:55:01 [dev] one-time code for qa1-money-e12d9631@example.test (verify_signup): 005828
+2026/10/10 15:55:01 [mail] to=qa1-money-e12d9631@example.test subject="Your Aknologia code: 005828"
+Your Aknologia code is 005828. Use it to verify your email and finish creating your workspace. It expires in 10 minutes.
+2026/10/10 15:55:01 POST /api/v1/auth/signup 364ms
+2026/10/10 15:55:01 POST /api/v1/auth/verify-email 31ms
+2026/10/10 15:55:01 POST /api/v1/admin/billing/seats 40ms
+2026/10/10 15:55:01 [dev] invite code for qa1-moneym-a75deca2@example.test: 7VB3-R69N
+2026/10/10 15:55:01 [mail] to=qa1-moneym-a75deca2@example.test subject="Admin money invited you to Org money a560caba"
+Admin money invited you to Org money a560caba on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: 7VB3-R69N (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-moneym-a75deca2@example.test
+
+2026/10/10 15:55:01 POST /api/v1/admin/members/invite 47ms
+2026/10/10 15:55:01 POST /api/v1/auth/invite/accept 339ms
+2026/10/10 15:55:01 GET /api/v1/admin/pricing 10ms
+2026/10/10 15:55:02 POST /api/v1/ingest/batch 140ms
+2026/10/10 15:55:02 GET /api/v1/admin/overview 69ms
+2026/10/10 15:55:02 GET /api/v1/admin/members/6a155c42-61f8-4d1a-ae19-3738b3c1105e/usage 72ms
+2026/10/10 15:55:02 GET /api/v1/me/usage 43ms
+2026/10/10 15:55:02 GET /api/v1/admin/export.csv 13ms
+2026/10/10 15:55:02 [dev] one-time code for qa1-active-ccce9d96@example.test (verify_signup): 591325
+2026/10/10 15:55:02 [mail] to=qa1-active-ccce9d96@example.test subject="Your Aknologia code: 591325"
+Your Aknologia code is 591325. Use it to verify your email and finish creating your workspace. It expires in 10 minutes.
+2026/10/10 15:55:02 POST /api/v1/auth/signup 327ms
+2026/10/10 15:55:02 POST /api/v1/auth/verify-email 32ms
+2026/10/10 15:55:02 POST /api/v1/admin/billing/seats 30ms
+2026/10/10 15:55:02 [dev] invite code for qa1-actm-25500651@example.test: RF4X-BX4V
+2026/10/10 15:55:02 [mail] to=qa1-actm-25500651@example.test subject="Admin active invited you to Org active b59563a2"
+Admin active invited you to Org active b59563a2 on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: RF4X-BX4V (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-actm-25500651@example.test
+
+2026/10/10 15:55:02 POST /api/v1/admin/members/invite 45ms
+2026/10/10 15:55:03 POST /api/v1/auth/invite/accept 393ms
+2026/10/10 15:55:03 POST /api/v1/ingest/batch 290ms
+2026/10/10 15:55:03 GET /api/v1/admin/members/58b71092-5ad3-442d-a6cd-fec20d4c0476/usage 63ms
+2026/10/10 15:55:03 GET /api/v1/me/usage 37ms
+2026/10/10 15:55:04 [dev] one-time code for qa1-budget-7047f7a6@example.test (verify_signup): 228597
+2026/10/10 15:55:04 [mail] to=qa1-budget-7047f7a6@example.test subject="Your Aknologia code: 228597"
+Your Aknologia code is 228597. Use it to verify your email and finish creating your workspace. It expires in 10 minutes.
+2026/10/10 15:55:04 POST /api/v1/auth/signup 404ms
+2026/10/10 15:55:04 POST /api/v1/auth/verify-email 28ms
+2026/10/10 15:55:04 POST /api/v1/admin/billing/seats 18ms
+2026/10/10 15:55:04 PUT /api/v1/admin/budgets 22ms
+2026/10/10 15:55:04 [dev] invite code for qa1-budm-e1e2a62b@example.test: RVW9-2TCM
+2026/10/10 15:55:04 [mail] to=qa1-budm-e1e2a62b@example.test subject="Admin budget invited you to Org budget a84d931b"
+Admin budget invited you to Org budget a84d931b on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: RVW9-2TCM (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-budm-e1e2a62b@example.test
+
+2026/10/10 15:55:04 POST /api/v1/admin/members/invite 29ms
+2026/10/10 15:55:04 POST /api/v1/auth/invite/accept 336ms
+2026/10/10 15:55:05 POST /api/v1/ingest/batch 165ms
+2026/10/10 15:55:05 [mail] to=qa1-fin-37ba162e@example.test,qa1-ops-3466a370@example.test subject="qa1-budm-e1e2a62b@example.test reached 80% of their budget"
+qa1-budm-e1e2a62b@example.test reached 80% of their budget: $8.25 of $10.00 (80%). Projected $27.10. http://localhost:8094/app/#/members/81958d4d-7149-489f-8607-34281499385b
+2026/10/10 15:55:05 POST /api/v1/ingest/batch 103ms
+2026/10/10 15:55:06 POST /api/v1/ingest/batch 122ms
+2026/10/10 15:55:06 [mail] to=qa1-fin-37ba162e@example.test,qa1-ops-3466a370@example.test subject="qa1-budm-e1e2a62b@example.test reached 100% of their budget"
+qa1-budm-e1e2a62b@example.test reached 100% of their budget: $10.50 of $10.00 (100%). Projected $34.50. http://localhost:8094/app/#/members/81958d4d-7149-489f-8607-34281499385b
+2026/10/10 15:55:06 POST /api/v1/ingest/batch 106ms
+2026/10/10 15:55:06 POST /api/v1/ingest/batch 129ms
+2026/10/10 15:55:06 POST /api/v1/admin/refresh 88ms
+2026/10/10 15:55:07 GET /api/v1/me/notifications 12ms
+2026/10/10 15:55:07 [dev] one-time code for qa1-reset-b33b446f@example.test (verify_signup): 718596
+2026/10/10 15:55:07 [mail] to=qa1-reset-b33b446f@example.test subject="Your Aknologia code: 718596"
+Your Aknologia code is 718596. Use it to verify your email and finish creating your workspace. It expires in 10 minutes.
+2026/10/10 15:55:07 POST /api/v1/auth/signup 340ms
+2026/10/10 15:55:07 POST /api/v1/auth/verify-email 23ms
+2026/10/10 15:55:07 POST /api/v1/admin/billing/seats 24ms
+2026/10/10 15:55:07 [dev] invite code for qa1-rstm-a77e8d6b@example.test: T7UX-EFD4
+2026/10/10 15:55:07 [mail] to=qa1-rstm-a77e8d6b@example.test subject="Admin reset invited you to Org reset 0c603e2f"
+Admin reset invited you to Org reset 0c603e2f on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: T7UX-EFD4 (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-rstm-a77e8d6b@example.test
+
+2026/10/10 15:55:07 POST /api/v1/admin/members/invite 26ms
+2026/10/10 15:55:08 POST /api/v1/auth/invite/accept 365ms
+2026/10/10 15:55:08 [mail] to=qa1-reset-b33b446f@example.test subject="qa1-rstm-a77e8d6b@example.test reached 80% of their budget"
+qa1-rstm-a77e8d6b@example.test reached 80% of their budget: $11.25 of $10.00 (80%). Projected $36.96. http://localhost:8094/app/#/members/437a3157-a2ac-4d33-bbcf-a236269a61f8
+2026/10/10 15:55:08 [mail] to=qa1-reset-b33b446f@example.test subject="qa1-rstm-a77e8d6b@example.test reached 100% of their budget"
+qa1-rstm-a77e8d6b@example.test reached 100% of their budget: $11.25 of $10.00 (100%). Projected $36.96. http://localhost:8094/app/#/members/437a3157-a2ac-4d33-bbcf-a236269a61f8
+2026/10/10 15:55:08 POST /api/v1/ingest/batch 165ms
+2026/10/10 15:55:08 PATCH /api/v1/admin/members/437a3157-a2ac-4d33-bbcf-a236269a61f8 24ms
+2026/10/10 15:55:09 POST /api/v1/ingest/batch 113ms
+2026/10/10 15:55:09 [mail] to=qa1-reset-b33b446f@example.test subject="qa1-rstm-a77e8d6b@example.test reached 80% of their budget"
+qa1-rstm-a77e8d6b@example.test reached 80% of their budget: $19.50 of $20.00 (80%). Projected $64.07. http://localhost:8094/app/#/members/437a3157-a2ac-4d33-bbcf-a236269a61f8
+2026/10/10 15:55:09 POST /api/v1/ingest/batch 121ms
+2026/10/10 15:55:09 GET /api/v1/me/notifications 24ms
+2026/10/10 15:55:10 [dev] one-time code for qa1-putb-9186402e@example.test (verify_signup): 849898
+2026/10/10 15:55:10 [mail] to=qa1-putb-9186402e@example.test subject="Your Aknologia code: 849898"
+Your Aknologia code is 849898. Use it to verify your email and finish creating your workspace. It expires in 10 minutes.
+2026/10/10 15:55:10 POST /api/v1/auth/signup 350ms
+2026/10/10 15:55:10 POST /api/v1/auth/verify-email 32ms
+2026/10/10 15:55:10 POST /api/v1/admin/billing/seats 33ms
+2026/10/10 15:55:10 [dev] invite code for qa1-putm-7536e3b9@example.test: 567W-6EG6
+2026/10/10 15:55:10 [mail] to=qa1-putm-7536e3b9@example.test subject="Admin putb invited you to Org putb ea95c211"
+Admin putb invited you to Org putb ea95c211 on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: 567W-6EG6 (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-putm-7536e3b9@example.test
+
+2026/10/10 15:55:10 POST /api/v1/admin/members/invite 40ms
+2026/10/10 15:55:10 POST /api/v1/auth/invite/accept 385ms
+2026/10/10 15:55:10 [mail] to=qa1-putb-9186402e@example.test subject="qa1-putm-7536e3b9@example.test reached 80% of their budget"
+qa1-putm-7536e3b9@example.test reached 80% of their budget: $8.25 of $10.00 (80%). Projected $27.10. http://localhost:8094/app/#/members/1a566945-511a-43a3-86f2-95a53ac683f7
+2026/10/10 15:55:10 POST /api/v1/ingest/batch 150ms
+2026/10/10 15:55:11 PUT /api/v1/admin/budgets 22ms
+2026/10/10 15:55:11 POST /api/v1/ingest/batch 143ms
+2026/10/10 15:55:12 [dev] one-time code for qa1-tog-a011a1bf@example.test (verify_signup): 061283
+2026/10/10 15:55:12 [mail] to=qa1-tog-a011a1bf@example.test subject="Your Aknologia code: 061283"
+Your Aknologia code is 061283. Use it to verify your email and finish creating your workspace. It expires in 10 minutes.
+2026/10/10 15:55:12 POST /api/v1/auth/signup 363ms
+2026/10/10 15:55:12 POST /api/v1/auth/verify-email 29ms
+2026/10/10 15:55:12 POST /api/v1/admin/billing/seats 27ms
+2026/10/10 15:55:12 PUT /api/v1/admin/budgets 29ms
+2026/10/10 15:55:12 [dev] invite code for qa1-togm-44d833aa@example.test: ZWS8-WB6Q
+2026/10/10 15:55:12 [mail] to=qa1-togm-44d833aa@example.test subject="Admin tog invited you to Org tog cf6cd9ee"
+Admin tog invited you to Org tog cf6cd9ee on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: ZWS8-WB6Q (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-togm-44d833aa@example.test
+
+2026/10/10 15:55:12 POST /api/v1/admin/members/invite 21ms
+2026/10/10 15:55:12 POST /api/v1/auth/invite/accept 371ms
+2026/10/10 15:55:12 POST /api/v1/ingest/batch 116ms
+2026/10/10 15:55:13 [mail] to=qa1-tog-a011a1bf@example.test subject="qa1-togm-44d833aa@example.test reached 100% of their budget"
+qa1-togm-44d833aa@example.test reached 100% of their budget: $10.50 of $10.00 (100%). Projected $34.50. http://localhost:8094/app/#/members/2a56ba23-057e-448e-9026-26f3abe54d13
+2026/10/10 15:55:13 POST /api/v1/ingest/batch 101ms
+2026/10/10 15:55:14 [dev] one-time code for qa1-tog2-d3748851@example.test (verify_signup): 063007
+2026/10/10 15:55:14 [mail] to=qa1-tog2-d3748851@example.test subject="Your Aknologia code: 063007"
+Your Aknologia code is 063007. Use it to verify your email and finish creating your workspace. It expires in 10 minutes.
+2026/10/10 15:55:14 POST /api/v1/auth/signup 328ms
+2026/10/10 15:55:14 POST /api/v1/auth/verify-email 14ms
+2026/10/10 15:55:14 POST /api/v1/admin/billing/seats 15ms
+2026/10/10 15:55:14 PUT /api/v1/admin/budgets 16ms
+2026/10/10 15:55:14 [dev] invite code for qa1-tog2m-39838b0a@example.test: 76SM-2T6A
+2026/10/10 15:55:14 [mail] to=qa1-tog2m-39838b0a@example.test subject="Admin tog2 invited you to Org tog2 64dc21df"
+Admin tog2 invited you to Org tog2 64dc21df on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: 76SM-2T6A (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-tog2m-39838b0a@example.test
+
+2026/10/10 15:55:14 POST /api/v1/admin/members/invite 15ms
+2026/10/10 15:55:14 POST /api/v1/auth/invite/accept 331ms
+2026/10/10 15:55:14 [mail] to=qa1-tog2-d3748851@example.test subject="qa1-tog2m-39838b0a@example.test reached 80% of their budget"
+qa1-tog2m-39838b0a@example.test reached 80% of their budget: $12.00 of $10.00 (80%). Projected $39.43. http://localhost:8094/app/#/members/097e9291-d8ea-462d-8d2b-899a674d0069
+2026/10/10 15:55:14 POST /api/v1/ingest/batch 151ms
+2026/10/10 15:55:14 GET /api/v1/me/notifications 20ms
+2026/10/10 15:55:15 [dev] one-time code for qa1-del-d951fafd@example.test (verify_signup): 101834
+2026/10/10 15:55:15 [mail] to=qa1-del-d951fafd@example.test subject="Your Aknologia code: 101834"
+Your Aknologia code is 101834. Use it to verify your email and finish creating your workspace. It expires in 10 minutes.
+2026/10/10 15:55:15 POST /api/v1/auth/signup 337ms
+2026/10/10 15:55:15 POST /api/v1/auth/verify-email 31ms
+2026/10/10 15:55:15 POST /api/v1/admin/billing/seats 24ms
+2026/10/10 15:55:15 [dev] invite code for qa1-delm-6a795b0d@example.test: CAJ7-E9BH
+2026/10/10 15:55:15 [mail] to=qa1-delm-6a795b0d@example.test subject="Admin del invited you to Org del 571af874"
+Admin del invited you to Org del 571af874 on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: CAJ7-E9BH (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-delm-6a795b0d@example.test
+
+2026/10/10 15:55:15 POST /api/v1/admin/members/invite 26ms
+2026/10/10 15:55:15 POST /api/v1/auth/invite/accept 367ms
+2026/10/10 15:55:16 [dev] one-time code for qa1-keep-b169deb9@example.test (verify_signup): 745240
+2026/10/10 15:55:16 [mail] to=qa1-keep-b169deb9@example.test subject="Your Aknologia code: 745240"
+Your Aknologia code is 745240. Use it to verify your email and finish creating your workspace. It expires in 10 minutes.
+2026/10/10 15:55:16 POST /api/v1/auth/signup 345ms
+2026/10/10 15:55:16 POST /api/v1/auth/verify-email 27ms
+2026/10/10 15:55:16 POST /api/v1/admin/billing/seats 20ms
+2026/10/10 15:55:16 [dev] invite code for qa1-keepm-b7dd983b@example.test: T4EW-GBKV
+2026/10/10 15:55:16 [mail] to=qa1-keepm-b7dd983b@example.test subject="Admin keep invited you to Org keep 9fc963b1"
+Admin keep invited you to Org keep 9fc963b1 on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: T4EW-GBKV (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-keepm-b7dd983b@example.test
+
+2026/10/10 15:55:16 POST /api/v1/admin/members/invite 23ms
+2026/10/10 15:55:16 POST /api/v1/auth/invite/accept 347ms
+2026/10/10 15:55:16 POST /api/v1/ingest/batch 103ms
+2026/10/10 15:55:16 POST /api/v1/ingest/batch 81ms
+2026/10/10 15:55:16 POST /api/v1/admin/data/delete/confirm 12ms
+2026/10/10 15:55:16 [dev] one-time code for qa1-del-d951fafd@example.test (delete_data): 491369
+2026/10/10 15:55:16 [mail] to=qa1-del-d951fafd@example.test subject="Your Aknologia code: 491369"
+Your Aknologia code is 491369. Use it to confirm deleting your organization’s usage data. It expires in 10 minutes.
+2026/10/10 15:55:16 POST /api/v1/admin/data/delete/start 22ms
+2026/10/10 15:55:16 POST /api/v1/admin/data/delete/confirm 17ms
+2026/10/10 15:55:17 POST /api/v1/admin/data/delete/confirm 31ms
+2026/10/10 15:55:18 GET /api/v1/admin/overview 48ms
+2026/10/10 15:55:18 [dev] one-time code for qa1-rm-cdcc6eb9@example.test (verify_signup): 049347
+2026/10/10 15:55:18 [mail] to=qa1-rm-cdcc6eb9@example.test subject="Your Aknologia code: 049347"
+Your Aknologia code is 049347. Use it to verify your email and finish creating your workspace. It expires in 10 minutes.
+2026/10/10 15:55:18 POST /api/v1/auth/signup 342ms
+2026/10/10 15:55:18 POST /api/v1/auth/verify-email 26ms
+2026/10/10 15:55:18 POST /api/v1/admin/billing/seats 22ms
+2026/10/10 15:55:18 [dev] invite code for qa1-rm1-d1ae6fc7@example.test: 2VSU-X8JR
+2026/10/10 15:55:18 [mail] to=qa1-rm1-d1ae6fc7@example.test subject="Admin rm invited you to Org rm 16f68dfc"
+Admin rm invited you to Org rm 16f68dfc on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: 2VSU-X8JR (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-rm1-d1ae6fc7@example.test
+
+2026/10/10 15:55:18 POST /api/v1/admin/members/invite 23ms
+2026/10/10 15:55:18 POST /api/v1/auth/invite/accept 359ms
+2026/10/10 15:55:18 [dev] invite code for qa1-rm2-926504a9@example.test: B485-466Z
+2026/10/10 15:55:18 [mail] to=qa1-rm2-926504a9@example.test subject="Admin rm invited you to Org rm 16f68dfc"
+Admin rm invited you to Org rm 16f68dfc on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: B485-466Z (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-rm2-926504a9@example.test
+
+2026/10/10 15:55:18 POST /api/v1/admin/members/invite 30ms
+2026/10/10 15:55:19 POST /api/v1/auth/invite/accept 370ms
+2026/10/10 15:55:19 POST /api/v1/ingest/batch 102ms
+2026/10/10 15:55:19 POST /api/v1/ingest/batch 95ms
+2026/10/10 15:55:19 [mail] to=qa1-rm1-d1ae6fc7@example.test subject="You’ve been removed from Org rm 16f68dfc"
+Admin rm removed you from Org rm 16f68dfc. Tracking has stopped.
+2026/10/10 15:55:19 DELETE /api/v1/admin/members/995bd08d-294b-4a11-bae2-ec78fcd20e40 40ms
+2026/10/10 15:55:19 [mail] to=qa1-rm2-926504a9@example.test subject="You’ve been removed from Org rm 16f68dfc"
+Admin rm removed you from Org rm 16f68dfc. Tracking has stopped.
+2026/10/10 15:55:19 DELETE /api/v1/admin/members/d4450f50-f2bc-41e0-92e3-1bbeeeaa9d18 31ms
+2026/10/10 15:55:20 GET /api/v1/admin/overview 45ms
+2026/10/10 15:55:20 GET /api/v1/health 0s
+2026/10/10 15:55:20 GET /api/v1/health 0s
+2026/10/10 15:55:20 GET /api/v1/health 0s
+2026/10/10 15:55:20 GET /api/v1/health 0s
+2026/10/10 15:55:20 GET /api/v1/health 0s
+2026/10/10 15:55:20 GET /api/v1/health 0s
+2026/10/10 15:55:20 GET /api/v1/health 0s
+2026/10/10 15:55:20 GET /api/v1/health 0s
+2026/10/10 15:55:20 GET /api/v1/me 0s
+2026/10/10 15:55:20 GET /api/v1/health 0s
+2026/10/10 15:55:20 [dev] invite code for qa1-csv-7bdcb618@example.test: 57QG-XA8N
+2026/10/10 15:55:20 [mail] to=qa1-csv-7bdcb618@example.test subject="Admin main invited you to Org main 4d3df14b"
+Admin main invited you to Org main 4d3df14b on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: 57QG-XA8N (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-csv-7bdcb618@example.test
+
+2026/10/10 15:55:20 POST /api/v1/admin/members/invite 25ms
+2026/10/10 15:55:20 POST /api/v1/auth/invite/accept 382ms
+2026/10/10 15:55:20 PATCH /api/v1/me/settings 25ms
+2026/10/10 15:55:21 POST /api/v1/ingest/batch 116ms
+2026/10/10 15:55:21 GET /api/v1/admin/export.csv 12ms
+2026/10/10 15:55:21 error: pq: invalid input syntax for type date: "notadate"
+2026/10/10 15:55:21 GET /api/v1/admin/export.csv 15ms
+2026/10/10 15:55:21 [dev] one-time code for qa1-bill-dd8bee99@example.test (verify_signup): 478510
+2026/10/10 15:55:21 [mail] to=qa1-bill-dd8bee99@example.test subject="Your Aknologia code: 478510"
+Your Aknologia code is 478510. Use it to verify your email and finish creating your workspace. It expires in 10 minutes.
+2026/10/10 15:55:21 POST /api/v1/auth/signup 359ms
+2026/10/10 15:55:21 POST /api/v1/auth/verify-email 33ms
+2026/10/10 15:55:21 POST /api/v1/admin/billing/seats 32ms
+2026/10/10 15:55:21 POST /api/v1/admin/billing/seats 21ms
+2026/10/10 15:55:21 GET /api/v1/admin/billing 31ms
+2026/10/10 15:55:21 [dev] invite code for qa1-enum-1d6389ab@example.test: 7VM8-VNGE
+2026/10/10 15:55:21 [mail] to=qa1-enum-1d6389ab@example.test subject="Admin main invited you to Org main 4d3df14b"
+Admin main invited you to Org main 4d3df14b on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: 7VM8-VNGE (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-enum-1d6389ab@example.test
+
+2026/10/10 15:55:21 POST /api/v1/admin/members/invite 51ms
+2026/10/10 15:55:22 POST /api/v1/auth/invite/accept 388ms
+2026/10/10 15:55:22 [mail] to=qa1-enum-1d6389ab@example.test subject="You’ve been removed from Org main 4d3df14b"
+Admin main removed you from Org main 4d3df14b. Tracking has stopped.
+2026/10/10 15:55:22 DELETE /api/v1/admin/members/ef928bcc-326f-449a-b2a9-10536b730af2 41ms
+2026/10/10 15:55:22 POST /api/v1/auth/login 7ms
+2026/10/10 15:55:22 [dev] invite code for qa1-enuminv-b1877a73@example.test: MKPR-GCUY
+2026/10/10 15:55:22 [mail] to=qa1-enuminv-b1877a73@example.test subject="Admin main invited you to Org main 4d3df14b"
+Admin main invited you to Org main 4d3df14b on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: MKPR-GCUY (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-enuminv-b1877a73@example.test
+
+2026/10/10 15:55:22 POST /api/v1/admin/members/invite 51ms
+2026/10/10 15:55:22 POST /api/v1/auth/login 6ms
+2026/10/10 15:55:37 [dev] one-time code for qa1-mixed-408c3dc4@example.test (verify_signup): 948649
+2026/10/10 15:55:37 [mail] to=qa1-mixed-408c3dc4@example.test subject="Your Aknologia code: 948649"
+Your Aknologia code is 948649. Use it to verify your email and finish creating your workspace. It expires in 10 minutes.
+2026/10/10 15:55:37 POST /api/v1/auth/signup 273ms
+2026/10/10 15:55:37 POST /api/v1/auth/verify-email 22ms
+2026/10/10 15:55:37 POST /api/v1/admin/billing/seats 24ms
+2026/10/10 15:55:37 [dev] invite code for qa1-mix-208eef7e@example.test: 8ART-RQYT
+2026/10/10 15:55:37 [mail] to=qa1-mix-208eef7e@example.test subject="Admin mixed invited you to Org mixed 47ee31c9"
+Admin mixed invited you to Org mixed 47ee31c9 on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: 8ART-RQYT (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-mix-208eef7e@example.test
+
+2026/10/10 15:55:37 POST /api/v1/admin/members/invite 28ms
+2026/10/10 15:55:38 POST /api/v1/auth/invite/accept 361ms
+2026/10/10 15:55:38 GET /api/v1/admin/pricing 8ms
+2026/10/10 15:55:38 POST /api/v1/ingest/batch 105ms
+2026/10/10 15:55:38 GET /api/v1/admin/members/46f43cb7-4408-40ba-aff4-9dd1585ed216/usage 46ms
+2026/10/10 15:55:38 [dev] one-time code for qa1-refresh-1bcba284@example.test (verify_signup): 646762
+2026/10/10 15:55:38 [mail] to=qa1-refresh-1bcba284@example.test subject="Your Aknologia code: 646762"
+Your Aknologia code is 646762. Use it to verify your email and finish creating your workspace. It expires in 10 minutes.
+2026/10/10 15:55:38 POST /api/v1/auth/signup 368ms
+2026/10/10 15:55:38 POST /api/v1/auth/verify-email 47ms
+2026/10/10 15:55:38 POST /api/v1/admin/billing/seats 40ms
+2026/10/10 15:55:38 [dev] invite code for qa1-ok-27a4a536@example.test: 3ERX-2F9G
+2026/10/10 15:55:38 [mail] to=qa1-ok-27a4a536@example.test subject="Admin refresh invited you to Org refresh 77e7e236"
+Admin refresh invited you to Org refresh 77e7e236 on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: 3ERX-2F9G (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-ok-27a4a536@example.test
+
+2026/10/10 15:55:38 POST /api/v1/admin/members/invite 33ms
+2026/10/10 15:55:39 POST /api/v1/auth/invite/accept 374ms
+2026/10/10 15:55:39 POST /api/v1/ingest/batch 119ms
+2026/10/10 15:55:39 POST /api/v1/ingest/batch 70ms
+2026/10/10 15:55:39 POST /api/v1/admin/refresh 90ms
+2026/10/10 15:55:39 [dev] one-time code for qa1-old2-4586070a@example.test (verify_signup): 834554
+2026/10/10 15:55:39 [mail] to=qa1-old2-4586070a@example.test subject="Your Aknologia code: 834554"
+Your Aknologia code is 834554. Use it to verify your email and finish creating your workspace. It expires in 10 minutes.
+2026/10/10 15:55:39 POST /api/v1/auth/signup 345ms
+2026/10/10 15:55:39 POST /api/v1/auth/verify-email 35ms
+2026/10/10 15:55:39 POST /api/v1/admin/billing/seats 21ms
+2026/10/10 15:55:39 [dev] invite code for qa1-old-7aee5e9e@example.test: W72N-62WV
+2026/10/10 15:55:39 [mail] to=qa1-old-7aee5e9e@example.test subject="Admin old2 invited you to Org old2 06f68a82"
+Admin old2 invited you to Org old2 06f68a82 on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: W72N-62WV (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-old-7aee5e9e@example.test
+
+2026/10/10 15:55:39 POST /api/v1/admin/members/invite 25ms
+2026/10/10 15:55:40 POST /api/v1/auth/invite/accept 352ms
+2026/10/10 15:55:40 POST /api/v1/ingest/batch 100ms
+2026/10/10 15:55:40 GET /api/v1/admin/overview 31ms
+2026/10/10 15:55:40 [dev] one-time code for qa1-grow-e80f47ab@example.test (verify_signup): 742964
+2026/10/10 15:55:40 [mail] to=qa1-grow-e80f47ab@example.test subject="Your Aknologia code: 742964"
+Your Aknologia code is 742964. Use it to verify your email and finish creating your workspace. It expires in 10 minutes.
+2026/10/10 15:55:40 POST /api/v1/auth/signup 370ms
+2026/10/10 15:55:40 POST /api/v1/auth/verify-email 43ms
+2026/10/10 15:55:40 POST /api/v1/admin/billing/seats 41ms
+2026/10/10 15:55:41 [dev] invite code for qa1-grow-04e84d3e@example.test: RA2A-HTQE
+2026/10/10 15:55:41 [mail] to=qa1-grow-04e84d3e@example.test subject="Admin grow invited you to Org grow a7393abd"
+Admin grow invited you to Org grow a7393abd on Aknologia Usage.
+Install the desktop app: http://localhost:8094/download/
+Invite code: RA2A-HTQE (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8094/app/#/accept?email=qa1-grow-04e84d3e@example.test
+
+2026/10/10 15:55:41 POST /api/v1/admin/members/invite 47ms
+2026/10/10 15:55:41 POST /api/v1/auth/invite/accept 368ms
+2026/10/10 15:55:41 POST /api/v1/ingest/batch 122ms
+2026/10/10 15:55:41 GET /api/v1/admin/members/a97c79b3-bcc3-4b82-b4bd-1f599d214ec3/usage 60ms
+2026/10/10 15:55:41 POST /api/v1/ingest/batch 60ms
+2026/10/10 15:55:41 POST /api/v1/ingest/batch 64ms
+2026/10/10 15:55:41 GET /api/v1/admin/members/a97c79b3-bcc3-4b82-b4bd-1f599d214ec3/usage 72ms
+2026/10/10 15:55:41 POST /api/v1/ingest/batch 114ms
+2026/10/10 15:55:42 GET /api/v1/admin/members/a97c79b3-bcc3-4b82-b4bd-1f599d214ec3/usage 97ms
+2026/10/10 15:55:42 POST /api/v1/ingest/batch 98ms
+2026/10/10 15:55:42 POST /api/v1/ingest/batch 63ms
+2026/10/10 15:55:42 GET /api/v1/admin/members/a97c79b3-bcc3-4b82-b4bd-1f599d214ec3/usage 33ms

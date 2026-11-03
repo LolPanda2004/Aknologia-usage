@@ -1,0 +1,13 @@
+{"timestamp":"2026-10-05T09:00:00.000Z","type":"session_meta","payload":{"id":"cx-qa-1","cwd":"D:\\work\\ünï 项目","instructions":"SECRET_PROMPT_MARKER_123","cli_version":"0.50.0"}}
+{"timestamp":"2026-10-05T09:00:01.000Z","type":"turn_context","payload":{"model":"gpt-5-codex","cwd":"D:\\work\\ünï 项目"}}
+{"timestamp":"2026-10-05T09:00:01.500Z","type":"response_item","payload":{"type":"message","role":"user","content":[{"type":"input_text","text":"SECRET_PROMPT_MARKER_123"}]}}
+{"timestamp":"2026-10-05T09:00:02.000Z","type":"event_msg","payload":{"type":"token_count","info":null}}
+{"timestamp":"2026-10-05T09:00:09.000Z","type":"event_msg","payload":{"type":"token_count","info":{"total_token_usage":{"input_tokens":5000,"cached_input_tokens":4000,"output_tokens":1200,"total_tokens":6200},"last_token_usage":{"input_tokens":5000,"cached_input_tokens":4000,"output_tokens":1200,"reasoning_output_tokens":300,"total_tokens":6200}}}}
+{"timestamp":"2026-10-05T09:00:10.000Z","type":"event_msg","payload":{"type":"token_count","info":{"total_token_usage":{"total_tokens":6200},"last_token_usage":{"input_tokens":5000,"cached_input_tokens":4000,"output_tokens":1200,"total_tokens":6200}}}}
+{"timestamp":"2026-10-05T09:00:20.000Z","type":"response_item","payload":{"type":"function_call_output","output":"SECRET_TOOL_MARKER_789"}}
+{"timestamp":"2026-10-05T09:00:30.000Z","type":"event_msg","payload":{"type":"agent_message","message":"SECRET_REPLY_MARKER_456"}}
+{"timestamp":"2026-10-05T09:01:00.000Z","type":"event_msg","payload":{"type":"token_count","info":{"total_token_usage":{"total_tokens":9000},"last_token_usage":{"input_tokens":2500,"cached_input_tokens":2000,"output_tokens":300,"total_tokens":2800}}}}
+{"timestamp":"2026-10-05T09:01:05Z","type":"event_msg","payload":{"type":"token_count", BROKEN
+{"type":"event_msg","payload":{"type":"token_count","info":{"total_token_usage":{"total_tokens":9100},"last_token_usage":{"input_tokens":1,"output_tokens":1}}}}
+{"timestamp":"2026-10-05T09:05:00.000Z","type":"event_msg","payload":{"type":"token_count","info":{"total_token_usage":{"total_tokens":9500},"last_token_usage":{"input_tokens":400,"cached_input_tokens":100,"output_tokens":100}}}}
+{"timestamp":"2026-10-05T09:06:00.000Z","type":"event_msg","payload":{"type":"token_count","info":{"total_token_usage":{"total_tokens":9500},"last_token_usage":{"input_tokens":400,"cached_input_tokens":100,"output_tokens":100}}}}

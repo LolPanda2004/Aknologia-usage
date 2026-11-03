@@ -1,0 +1,20 @@
+{
+  "C:\\Users\\Admin\\Downloads\\aknologia-usage\\aknologia\\tests\\.sandbox\\agent2\\homerot\\.claude\\projects\\p\\rot.jsonl": {
+    "size": 190,
+    "offset": 190,
+    "mod": 1791612055042381700,
+    "codex": {},
+    "unread": 0
+  },
+  "C:\\Users\\Admin\\Downloads\\aknologia-usage\\aknologia\\tests\\.sandbox\\agent2\\homerot\\.codex\\sessions\\2026\\10\\07\\rollout-x.jsonl": {
+    "size": 300,
+    "offset": 300,
+    "mod": 1791612055533966700,
+    "codex": {
+      "session": "cx-rw",
+      "cwd": "/r",
+      "lastTotal": 777
+    },
+    "unread": 0
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "saved": {
+    "ui/shared/theme.css": {
+      "before": "9056e3d58a5b8604"
+    },
+    "ui/shared/hooks.ts": {
+      "before": "6907d7a7062001ba"
+    },
+    "ui/shared/ui.tsx": {
+      "before": "54e4a0b99c1ee59a"
+    },
+    "ui/shared/icons.tsx": {
+      "before": "e319c13417af8431"
+    },
+    "ui/desktop/main.tsx": {
+      "before": "b01df83ee0bce1bd"
+    }
+  },
+  "created": [],
+  "undone": false
+}

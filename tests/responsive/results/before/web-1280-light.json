@@ -1,0 +1,1084 @@
+[
+  {
+    "group": "web",
+    "page": "landing",
+    "width": "1280",
+    "theme": "light",
+    "shot": "tests/responsive/screenshots/before/landing-1280-light.png",
+    "console": [],
+    "m": {
+      "vw": 1280,
+      "iw": 1280,
+      "ih": 800,
+      "scrollW": 1280,
+      "docH": 7308,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    }
+  },
+  {
+    "group": "web",
+    "page": "download",
+    "width": "1280",
+    "theme": "light",
+    "shot": "tests/responsive/screenshots/before/download-1280-light.png",
+    "console": [],
+    "m": {
+      "vw": 1280,
+      "iw": 1280,
+      "ih": 800,
+      "scrollW": 1280,
+      "docH": 800,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    }
+  },
+  {
+    "group": "web",
+    "page": "admin-signin",
+    "width": "1280",
+    "theme": "light",
+    "shot": "tests/responsive/screenshots/before/admin-signin-1280-light.png",
+    "console": [],
+    "m": {
+      "vw": 1280,
+      "iw": 1280,
+      "ih": 800,
+      "scrollW": 1280,
+      "docH": 972,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    }
+  },
+  {
+    "group": "web",
+    "page": "admin-signup",
+    "width": "1280",
+    "theme": "light",
+    "shot": "tests/responsive/screenshots/before/admin-signup-1280-light.png",
+    "console": [],
+    "m": {
+      "vw": 1280,
+      "iw": 1280,
+      "ih": 800,
+      "scrollW": 1280,
+      "docH": 1049,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    }
+  },
+  {
+    "group": "web",
+    "page": "admin-verify",
+    "width": "1280",
+    "theme": "light",
+    "shot": "tests/responsive/screenshots/before/admin-verify-1280-light.png",
+    "console": [],
+    "m": {
+      "vw": 1280,
+      "iw": 1280,
+      "ih": 800,
+      "scrollW": 1280,
+      "docH": 800,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    }
+  },
+  {
+    "group": "web",
+    "page": "admin-accept",
+    "width": "1280",
+    "theme": "light",
+    "shot": "tests/responsive/screenshots/before/admin-accept-1280-light.png",
+    "console": [],
+    "m": {
+      "vw": 1280,
+      "iw": 1280,
+      "ih": 800,
+      "scrollW": 1280,
+      "docH": 1000,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    }
+  },
+  {
+    "group": "web",
+    "page": "admin-forgot",
+    "width": "1280",
+    "theme": "light",
+    "shot": "tests/responsive/screenshots/before/admin-forgot-1280-light.png",
+    "console": [],
+    "m": {
+      "vw": 1280,
+      "iw": 1280,
+      "ih": 800,
+      "scrollW": 1280,
+      "docH": 800,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    }
+  },
+  {
+    "group": "web",
+    "page": "admin-otp",
+    "width": "1280",
+    "theme": "light",
+    "shot": "tests/responsive/screenshots/before/admin-otp-1280-light.png",
+    "console": [],
+    "m": {
+      "vw": 1280,
+      "iw": 1280,
+      "ih": 800,
+      "scrollW": 1280,
+      "docH": 800,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    }
+  },
+  {
+    "group": "web",
+    "page": "admin-newpw",
+    "width": "1280",
+    "theme": "light",
+    "shot": "tests/responsive/screenshots/before/admin-newpw-1280-light.png",
+    "console": [],
+    "m": {
+      "vw": 1280,
+      "iw": 1280,
+      "ih": 800,
+      "scrollW": 1280,
+      "docH": 920,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    }
+  },
+  {
+    "group": "web",
+    "page": "admin-overview",
+    "width": "1280",
+    "theme": "light",
+    "shot": "tests/responsive/screenshots/before/admin-overview-1280-light.png",
+    "console": [],
+    "m": {
+      "vw": 1280,
+      "iw": 1280,
+      "ih": 800,
+      "scrollW": 1280,
+      "docH": 2795,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [
+        {
+          "sel": "div.shell > div.main-col > main.content > section.card > div.table-wrap:nth-of-type(2)",
+          "scrollW": 900,
+          "clientW": 894,
+          "visiblePct": 99
+        }
+      ],
+      "clipped": [],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    }
+  },
+  {
+    "group": "web",
+    "page": "admin-members",
+    "width": "1280",
+    "theme": "light",
+    "shot": "tests/responsive/screenshots/before/admin-members-1280-light.png",
+    "console": [],
+    "m": {
+      "vw": 1280,
+      "iw": 1280,
+      "ih": 800,
+      "scrollW": 1280,
+      "docH": 1028,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [
+        {
+          "sel": "div.shell > div.main-col > main.content > section.card > div.table-wrap:nth-of-type(2)",
+          "scrollW": 940,
+          "clientW": 894,
+          "visiblePct": 95
+        }
+      ],
+      "clipped": [],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    }
+  },
+  {
+    "group": "web",
+    "page": "admin-member-detail",
+    "width": "1280",
+    "theme": "light",
+    "shot": "tests/responsive/screenshots/before/admin-member-detail-1280-light.png",
+    "console": [],
+    "m": {
+      "vw": 1280,
+      "iw": 1280,
+      "ih": 800,
+      "scrollW": 1280,
+      "docH": 1901,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [
+        {
+          "sel": "div.main-col > main.content > div.row:nth-of-type(4) > section.card:nth-of-type(1) > div.table-wrap:nth-of-type(2)",
+          "scrollW": 540,
+          "clientW": 517,
+          "visiblePct": 96
+        }
+      ],
+      "clipped": [],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    }
+  },
+  {
+    "group": "web",
+    "page": "admin-budgets",
+    "width": "1280",
+    "theme": "light",
+    "shot": "tests/responsive/screenshots/before/admin-budgets-1280-light.png",
+    "console": [],
+    "m": {
+      "vw": 1280,
+      "iw": 1280,
+      "ih": 800,
+      "scrollW": 1280,
+      "docH": 1677,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    }
+  },
+  {
+    "group": "web",
+    "page": "admin-support",
+    "width": "1280",
+    "theme": "light",
+    "shot": "tests/responsive/screenshots/before/admin-support-1280-light.png",
+    "console": [],
+    "m": {
+      "vw": 1280,
+      "iw": 1280,
+      "ih": 800,
+      "scrollW": 1280,
+      "docH": 1158,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    }
+  },
+  {
+    "group": "web",
+    "page": "admin-settings",
+    "width": "1280",
+    "theme": "light",
+    "shot": "tests/responsive/screenshots/before/admin-settings-1280-light.png",
+    "console": [],
+    "m": {
+      "vw": 1280,
+      "iw": 1280,
+      "ih": 800,
+      "scrollW": 1280,
+      "docH": 2513,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    }
+  },
+  {
+    "group": "web",
+    "page": "modal-invite",
+    "width": "1280",
+    "theme": "light",
+    "shot": "tests/responsive/screenshots/before/modal-invite-1280-light.png",
+    "console": [],
+    "m": {
+      "vw": 1280,
+      "iw": 1280,
+      "ih": 800,
+      "scrollW": 1280,
+      "docH": 1028,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [
+        {
+          "sel": "div.shell > div.main-col > main.content > section.card > div.table-wrap:nth-of-type(2)",
+          "scrollW": 940,
+          "clientW": 894,
+          "visiblePct": 95
+        }
+      ],
+      "clipped": [],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [
+        {
+          "sel": "div.shell > div.main-col > main.content > div.overlay:nth-of-type(3) > div.modal",
+          "top": 120,
+          "bottom": 596,
+          "left": 370,
+          "right": 910,
+          "h": 476,
+          "problems": []
+        }
+      ],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    }
+  },
+  {
+    "group": "web",
+    "page": "modal-remove",
+    "width": "1280",
+    "theme": "light",
+    "shot": "tests/responsive/screenshots/before/modal-remove-1280-light.png",
+    "console": [],
+    "m": {
+      "vw": 1280,
+      "iw": 1280,
+      "ih": 800,
+      "scrollW": 1280,
+      "docH": 1028,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [
+        {
+          "sel": "div.shell > div.main-col > main.content > section.card > div.table-wrap:nth-of-type(2)",
+          "scrollW": 940,
+          "clientW": 894,
+          "visiblePct": 95
+        }
+      ],
+      "clipped": [],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [
+        {
+          "sel": "div.shell > div.main-col > main.content > div.overlay:nth-of-type(3) > div.modal",
+          "top": 120,
+          "bottom": 525,
+          "left": 370,
+          "right": 910,
+          "h": 405,
+          "problems": []
+        }
+      ],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    }
+  },
+  {
+    "group": "web",
+    "page": "modal-budget",
+    "width": "1280",
+    "theme": "light",
+    "shot": "tests/responsive/screenshots/before/modal-budget-1280-light.png",
+    "console": [],
+    "m": {
+      "vw": 1280,
+      "iw": 1280,
+      "ih": 800,
+      "scrollW": 1280,
+      "docH": 1028,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [
+        {
+          "sel": "div.shell > div.main-col > main.content > section.card > div.table-wrap:nth-of-type(2)",
+          "scrollW": 940,
+          "clientW": 894,
+          "visiblePct": 95
+        }
+      ],
+      "clipped": [],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [
+        {
+          "sel": "div.shell > div.main-col > main.content > div.overlay:nth-of-type(3) > div.modal",
+          "top": 120,
+          "bottom": 404,
+          "left": 370,
+          "right": 910,
+          "h": 284,
+          "problems": []
+        }
+      ],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    }
+  },
+  {
+    "group": "web",
+    "page": "modal-plan",
+    "width": "1280",
+    "theme": "light",
+    "shot": "tests/responsive/screenshots/before/modal-plan-1280-light.png",
+    "console": [],
+    "m": {
+      "vw": 1280,
+      "iw": 1280,
+      "ih": 800,
+      "scrollW": 1280,
+      "docH": 2513,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [
+        {
+          "sel": "div.shell > div.main-col > main.content > div.overlay:nth-of-type(5) > div.modal",
+          "top": 120,
+          "bottom": 497,
+          "left": 370,
+          "right": 910,
+          "h": 377,
+          "problems": []
+        }
+      ],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    }
+  },
+  {
+    "group": "web",
+    "page": "modal-delete-data",
+    "width": "1280",
+    "theme": "light",
+    "shot": "tests/responsive/screenshots/before/modal-delete-data-1280-light.png",
+    "console": [],
+    "m": {
+      "vw": 1280,
+      "iw": 1280,
+      "ih": 800,
+      "scrollW": 1280,
+      "docH": 2513,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [
+        {
+          "sel": "div.shell > div.main-col > main.content > div.overlay:nth-of-type(5) > div.modal",
+          "top": 120,
+          "bottom": 434,
+          "left": 370,
+          "right": 910,
+          "h": 314,
+          "problems": []
+        }
+      ],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    }
+  },
+  {
+    "group": "web",
+    "page": "modal-password-1",
+    "width": "1280",
+    "theme": "light",
+    "shot": "tests/responsive/screenshots/before/modal-password-1-1280-light.png",
+    "console": [],
+    "m": {
+      "vw": 1280,
+      "iw": 1280,
+      "ih": 800,
+      "scrollW": 1280,
+      "docH": 2513,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [
+        {
+          "sel": "#security > section.card > div.overlay:nth-of-type(6) > div.modal",
+          "top": 120,
+          "bottom": 664,
+          "left": 370,
+          "right": 910,
+          "h": 544,
+          "problems": []
+        }
+      ],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    }
+  },
+  {
+    "group": "web",
+    "page": "modal-password-2",
+    "width": "1280",
+    "theme": "light",
+    "shot": "tests/responsive/screenshots/before/modal-password-2-1280-light.png",
+    "console": [],
+    "m": {
+      "vw": 1280,
+      "iw": 1280,
+      "ih": 800,
+      "scrollW": 1280,
+      "docH": 2513,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [
+        {
+          "sel": "#security > section.card > div.overlay:nth-of-type(6) > div.modal",
+          "top": 120,
+          "bottom": 467,
+          "left": 370,
+          "right": 910,
+          "h": 347,
+          "problems": []
+        }
+      ],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    }
+  },
+  {
+    "group": "web",
+    "page": "admin-tour-1",
+    "width": "1280",
+    "theme": "light",
+    "shot": "tests/responsive/screenshots/before/admin-tour-1-1280-light.png",
+    "console": [],
+    "m": {
+      "vw": 1280,
+      "iw": 1280,
+      "ih": 800,
+      "scrollW": 1280,
+      "docH": 2795,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [
+        {
+          "sel": "div.shell:nth-of-type(1) > div.main-col > main.content > section.card > div.table-wrap:nth-of-type(2)",
+          "scrollW": 900,
+          "clientW": 894,
+          "visiblePct": 99
+        }
+      ],
+      "clipped": [],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [
+        {
+          "sel": "#root > div.tour-card:nth-of-type(3)",
+          "top": 245,
+          "bottom": 459,
+          "left": 924,
+          "right": 1264,
+          "h": 215,
+          "problems": []
+        }
+      ],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    }
+  },
+  {
+    "group": "web",
+    "page": "admin-tour-2",
+    "width": "1280",
+    "theme": "light",
+    "shot": "tests/responsive/screenshots/before/admin-tour-2-1280-light.png",
+    "console": [],
+    "m": {
+      "vw": 1280,
+      "iw": 1280,
+      "ih": 800,
+      "scrollW": 1280,
+      "docH": 2795,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [
+        {
+          "sel": "div.shell:nth-of-type(1) > div.main-col > main.content > section.card > div.table-wrap:nth-of-type(2)",
+          "scrollW": 900,
+          "clientW": 894,
+          "visiblePct": 99
+        }
+      ],
+      "clipped": [],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [
+        {
+          "sel": "#root > div.tour-card:nth-of-type(3)",
+          "top": 414,
+          "bottom": 607,
+          "left": 300,
+          "right": 640,
+          "h": 194,
+          "problems": []
+        }
+      ],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    }
+  },
+  {
+    "group": "web",
+    "page": "admin-tour-3",
+    "width": "1280",
+    "theme": "light",
+    "shot": "tests/responsive/screenshots/before/admin-tour-3-1280-light.png",
+    "console": [],
+    "m": {
+      "vw": 1280,
+      "iw": 1280,
+      "ih": 800,
+      "scrollW": 1280,
+      "docH": 2795,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [
+        {
+          "sel": "div.shell:nth-of-type(1) > div.main-col > main.content > section.card > div.table-wrap:nth-of-type(2)",
+          "scrollW": 900,
+          "clientW": 894,
+          "visiblePct": 99
+        }
+      ],
+      "clipped": [],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [
+        {
+          "sel": "#root > div.tour-card:nth-of-type(3)",
+          "top": 16,
+          "bottom": 231,
+          "left": 300,
+          "right": 640,
+          "h": 215,
+          "problems": []
+        }
+      ],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    }
+  },
+  {
+    "group": "web",
+    "page": "admin-tour-4",
+    "width": "1280",
+    "theme": "light",
+    "shot": "tests/responsive/screenshots/before/admin-tour-4-1280-light.png",
+    "console": [],
+    "m": {
+      "vw": 1280,
+      "iw": 1280,
+      "ih": 800,
+      "scrollW": 1280,
+      "docH": 2795,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [
+        {
+          "sel": "div.shell:nth-of-type(1) > div.main-col > main.content > section.card > div.table-wrap:nth-of-type(2)",
+          "scrollW": 900,
+          "clientW": 894,
+          "visiblePct": 99
+        }
+      ],
+      "clipped": [],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [
+        {
+          "sel": "#root > div.tour-card:nth-of-type(3)",
+          "top": 70,
+          "bottom": 264,
+          "left": 924,
+          "right": 1264,
+          "h": 194,
+          "problems": []
+        }
+      ],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    }
+  },
+  {
+    "group": "web",
+    "page": "admin-tour-5",
+    "width": "1280",
+    "theme": "light",
+    "shot": "tests/responsive/screenshots/before/admin-tour-5-1280-light.png",
+    "console": [],
+    "m": {
+      "vw": 1280,
+      "iw": 1280,
+      "ih": 800,
+      "scrollW": 1280,
+      "docH": 2795,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [
+        {
+          "sel": "div.shell:nth-of-type(1) > div.main-col > main.content > section.card > div.table-wrap:nth-of-type(2)",
+          "scrollW": 900,
+          "clientW": 894,
+          "visiblePct": 99
+        }
+      ],
+      "clipped": [],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [
+        {
+          "sel": "#root > div.tour-card:nth-of-type(3)",
+          "top": 411,
+          "bottom": 625,
+          "left": 16,
+          "right": 356,
+          "h": 215,
+          "problems": []
+        }
+      ],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    }
+  },
+  {
+    "group": "web",
+    "page": "admin-empty-overview",
+    "width": "1280",
+    "theme": "light",
+    "shot": "tests/responsive/screenshots/before/admin-empty-overview-1280-light.png",
+    "console": [],
+    "m": {
+      "vw": 1280,
+      "iw": 1280,
+      "ih": 800,
+      "scrollW": 1280,
+      "docH": 2451,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [
+        {
+          "sel": "div.shell > div.main-col > main.content > section.card > div.table-wrap:nth-of-type(2)",
+          "scrollW": 900,
+          "clientW": 894,
+          "visiblePct": 99
+        }
+      ],
+      "clipped": [],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    }
+  },
+  {
+    "group": "web",
+    "page": "admin-empty-members",
+    "width": "1280",
+    "theme": "light",
+    "shot": "tests/responsive/screenshots/before/admin-empty-members-1280-light.png",
+    "console": [],
+    "m": {
+      "vw": 1280,
+      "iw": 1280,
+      "ih": 800,
+      "scrollW": 1280,
+      "docH": 853,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [
+        {
+          "sel": "div.shell > div.main-col > main.content > section.card > div.table-wrap:nth-of-type(2)",
+          "scrollW": 940,
+          "clientW": 894,
+          "visiblePct": 95
+        }
+      ],
+      "clipped": [],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    }
+  },
+  {
+    "group": "web",
+    "page": "admin-empty-member-detail",
+    "width": "1280",
+    "theme": "light",
+    "shot": "tests/responsive/screenshots/before/admin-empty-member-detail-1280-light.png",
+    "console": [],
+    "m": {
+      "vw": 1280,
+      "iw": 1280,
+      "ih": 800,
+      "scrollW": 1280,
+      "docH": 1605,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [
+        {
+          "sel": "div.main-col > main.content > div.row:nth-of-type(4) > section.card:nth-of-type(1) > div.table-wrap:nth-of-type(2)",
+          "scrollW": 540,
+          "clientW": 517,
+          "visiblePct": 96
+        }
+      ],
+      "clipped": [],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    }
+  },
+  {
+    "group": "web",
+    "page": "admin-empty-budgets",
+    "width": "1280",
+    "theme": "light",
+    "shot": "tests/responsive/screenshots/before/admin-empty-budgets-1280-light.png",
+    "console": [],
+    "m": {
+      "vw": 1280,
+      "iw": 1280,
+      "ih": 800,
+      "scrollW": 1280,
+      "docH": 1517,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    }
+  },
+  {
+    "group": "web",
+    "page": "admin-empty-settings",
+    "width": "1280",
+    "theme": "light",
+    "shot": "tests/responsive/screenshots/before/admin-empty-settings-1280-light.png",
+    "console": [],
+    "m": {
+      "vw": 1280,
+      "iw": 1280,
+      "ih": 800,
+      "scrollW": 1280,
+      "docH": 2433,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    }
+  }
+]

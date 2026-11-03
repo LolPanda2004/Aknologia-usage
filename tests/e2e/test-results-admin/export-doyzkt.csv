@@ -1,0 +1,4 @@
+day,email,name,tool,model,input_tokens,output_tokens,cache_write_tokens,cache_read_tokens,cost_usd
+2026-10-10,qa3-m1-xzz7y1@example.test,,claude_code,claude-opus-4-1,35000,700000,70000,1750000,56.9625
+2026-10-10,qa3-m1-xzz7y1@example.test,,codex,gpt-5-codex,30000,15000,0,60000,0.0000
+2026-10-10,qa3-m2-69lgha@example.test,,claude_code,claude-sonnet-4-5,8000,12000,0,40000,0.2160

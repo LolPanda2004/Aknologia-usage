@@ -1,0 +1,2797 @@
+[
+  {
+    "group": "web",
+    "page": "landing",
+    "width": "390",
+    "theme": "dark",
+    "shot": "tests/responsive/screenshots/before/landing-390-dark.png",
+    "console": [],
+    "m": {
+      "vw": 390,
+      "iw": 390,
+      "ih": 844,
+      "scrollW": 390,
+      "docH": 13771,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [
+        {
+          "sel": "#pricing > div > div:nth-of-type(3)",
+          "scrollW": 820,
+          "clientW": 348,
+          "visiblePct": 42
+        }
+      ],
+      "clipped": [],
+      "small": [
+        {
+          "sel": "div > header > div > a",
+          "text": "a aknologia",
+          "w": 153,
+          "h": 38,
+          "inline": false
+        },
+        {
+          "sel": "div > header > div > nav > a:nth-of-type(1)",
+          "text": "Platform",
+          "w": 88,
+          "h": 43,
+          "inline": false
+        },
+        {
+          "sel": "div > header > div > nav > a:nth-of-type(2)",
+          "text": "Security",
+          "w": 85,
+          "h": 43,
+          "inline": false
+        },
+        {
+          "sel": "div > header > div > nav > a:nth-of-type(3)",
+          "text": "Pricing",
+          "w": 75,
+          "h": 43,
+          "inline": false
+        },
+        {
+          "sel": "div > header > div > nav > a:nth-of-type(4)",
+          "text": "Demo",
+          "w": 68,
+          "h": 43,
+          "inline": false
+        },
+        {
+          "sel": "div > header > div > nav > a:nth-of-type(5)",
+          "text": "FAQ",
+          "w": 56,
+          "h": 43,
+          "inline": false
+        },
+        {
+          "sel": "div > header > div > div > a:nth-of-type(1)",
+          "text": "Sign in",
+          "w": 75,
+          "h": 43,
+          "inline": false
+        },
+        {
+          "sel": "footer > div > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+          "text": "Desktop app",
+          "w": 93,
+          "h": 32,
+          "inline": false
+        },
+        {
+          "sel": "footer > div > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(2)",
+          "text": "Admin console",
+          "w": 93,
+          "h": 32,
+          "inline": false
+        },
+        {
+          "sel": "footer > div > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(3)",
+          "text": "Pricing",
+          "w": 93,
+          "h": 32,
+          "inline": false
+        },
+        {
+          "sel": "footer > div > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(4)",
+          "text": "Changelog",
+          "w": 93,
+          "h": 32,
+          "inline": false
+        },
+        {
+          "sel": "footer > div > div:nth-of-type(1) > div:nth-of-type(3) > a:nth-of-type(1)",
+          "text": "About",
+          "w": 66,
+          "h": 32,
+          "inline": false
+        },
+        {
+          "sel": "footer > div > div:nth-of-type(1) > div:nth-of-type(3) > a:nth-of-type(2)",
+          "text": "Careers",
+          "w": 66,
+          "h": 32,
+          "inline": false
+        },
+        {
+          "sel": "footer > div > div:nth-of-type(1) > div:nth-of-type(3) > a:nth-of-type(3)",
+          "text": "Contact",
+          "w": 66,
+          "h": 32,
+          "inline": false
+        },
+        {
+          "sel": "footer > div > div:nth-of-type(1) > div:nth-of-type(4) > a:nth-of-type(1)",
+          "text": "Security",
+          "w": 89,
+          "h": 32,
+          "inline": false
+        },
+        {
+          "sel": "footer > div > div:nth-of-type(1) > div:nth-of-type(4) > a:nth-of-type(2)",
+          "text": "Privacy",
+          "w": 89,
+          "h": 32,
+          "inline": false
+        },
+        {
+          "sel": "footer > div > div:nth-of-type(1) > div:nth-of-type(4) > a:nth-of-type(3)",
+          "text": "System status",
+          "w": 89,
+          "h": 32,
+          "inline": false
+        },
+        {
+          "sel": "footer > div > div:nth-of-type(2) > span:nth-of-type(2) > a:nth-of-type(1)",
+          "text": "Privacy",
+          "w": 42,
+          "h": 17,
+          "inline": false
+        },
+        {
+          "sel": "footer > div > div:nth-of-type(2) > span:nth-of-type(2) > a:nth-of-type(2)",
+          "text": "Terms",
+          "w": 36,
+          "h": 17,
+          "inline": false
+        },
+        {
+          "sel": "footer > div > div:nth-of-type(2) > span:nth-of-type(2) > a:nth-of-type(3)",
+          "text": "Cookies",
+          "w": 46,
+          "h": 17,
+          "inline": false
+        }
+      ],
+      "smallCount": 20,
+      "dialogs": [],
+      "smallFont": [
+        {
+          "sel": "#d-name",
+          "px": 15
+        },
+        {
+          "sel": "#d-email",
+          "px": 15
+        },
+        {
+          "sel": "#d-co",
+          "px": 15
+        },
+        {
+          "sel": "#d-size",
+          "px": 15
+        },
+        {
+          "sel": "#d-msg",
+          "px": 15
+        }
+      ],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    },
+    "axe": [
+      {
+        "id": "color-contrast",
+        "impact": "serious",
+        "help": "Elements must meet minimum color contrast ratio thresholds",
+        "nodes": 1,
+        "targets": [
+          "section:nth-child(11) > div > div:nth-child(1) > span"
+        ]
+      },
+      {
+        "id": "scrollable-region-focusable",
+        "impact": "serious",
+        "help": "Scrollable region must have keyboard access",
+        "nodes": 1,
+        "targets": [
+          "#pricing > div > div:nth-child(3)"
+        ]
+      }
+    ]
+  },
+  {
+    "group": "web",
+    "page": "download",
+    "width": "390",
+    "theme": "dark",
+    "shot": "tests/responsive/screenshots/before/download-390-dark.png",
+    "console": [],
+    "m": {
+      "vw": 390,
+      "iw": 390,
+      "ih": 844,
+      "scrollW": 390,
+      "docH": 1456,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    },
+    "axe": []
+  },
+  {
+    "group": "web",
+    "page": "admin-signin",
+    "width": "390",
+    "theme": "dark",
+    "shot": "tests/responsive/screenshots/before/admin-signin-390-dark.png",
+    "console": [],
+    "m": {
+      "vw": 390,
+      "iw": 390,
+      "ih": 844,
+      "scrollW": 390,
+      "docH": 1128,
+      "hScroll": false,
+      "overflow": [
+        {
+          "sel": "#root > div.auth > header.auth-head > div",
+          "text": "Pricing Book a demo aknologia.com",
+          "by": 71,
+          "parent": "#root > div.auth > header.auth-head"
+        }
+      ],
+      "offscreen": [
+        {
+          "sel": "#root > div.auth > header.auth-head > div",
+          "text": "Pricing Book a demo aknologia.com",
+          "left": 48,
+          "right": 461,
+          "clippedBy": "#root > div.auth"
+        }
+      ],
+      "scrollers": [],
+      "clipped": [],
+      "small": [
+        {
+          "sel": "#root > div.auth > main.auth-main > span.text2 > a:nth-of-type(1)",
+          "text": "See pricing",
+          "w": 73,
+          "h": 18,
+          "inline": true
+        },
+        {
+          "sel": "#root > div.auth > main.auth-main > span.text2 > a:nth-of-type(2)",
+          "text": "book a demo",
+          "w": 84,
+          "h": 18,
+          "inline": true
+        },
+        {
+          "sel": "#root > div.auth > footer.footer > span:nth-of-type(2) > a:nth-of-type(1)",
+          "text": "Privacy",
+          "w": 42,
+          "h": 20,
+          "inline": false
+        },
+        {
+          "sel": "#root > div.auth > footer.footer > span:nth-of-type(2) > a:nth-of-type(2)",
+          "text": "Terms",
+          "w": 36,
+          "h": 20,
+          "inline": false
+        },
+        {
+          "sel": "#root > div.auth > footer.footer > span:nth-of-type(2) > a:nth-of-type(3)",
+          "text": "System status",
+          "w": 82,
+          "h": 20,
+          "inline": false
+        }
+      ],
+      "smallCount": 5,
+      "dialogs": [],
+      "smallFont": [
+        {
+          "sel": "#si-email",
+          "px": 15
+        },
+        {
+          "sel": "#si-pw",
+          "px": 15
+        }
+      ],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    },
+    "axe": []
+  },
+  {
+    "group": "web",
+    "page": "admin-signup",
+    "width": "390",
+    "theme": "dark",
+    "shot": "tests/responsive/screenshots/before/admin-signup-390-dark.png",
+    "console": [],
+    "m": {
+      "vw": 390,
+      "iw": 390,
+      "ih": 844,
+      "scrollW": 390,
+      "docH": 1289,
+      "hScroll": false,
+      "overflow": [
+        {
+          "sel": "#root > div.auth > header.auth-head > div",
+          "text": "Pricing Book a demo aknologia.com",
+          "by": 71,
+          "parent": "#root > div.auth > header.auth-head"
+        }
+      ],
+      "offscreen": [
+        {
+          "sel": "#root > div.auth > header.auth-head > div",
+          "text": "Pricing Book a demo aknologia.com",
+          "left": 48,
+          "right": 461,
+          "clippedBy": "#root > div.auth"
+        }
+      ],
+      "scrollers": [],
+      "clipped": [],
+      "small": [
+        {
+          "sel": "#root > div.auth > main.auth-main > span.text2 > a:nth-of-type(1)",
+          "text": "See pricing",
+          "w": 73,
+          "h": 18,
+          "inline": true
+        },
+        {
+          "sel": "#root > div.auth > main.auth-main > span.text2 > a:nth-of-type(2)",
+          "text": "book a demo",
+          "w": 84,
+          "h": 18,
+          "inline": true
+        },
+        {
+          "sel": "#root > div.auth > footer.footer > span:nth-of-type(2) > a:nth-of-type(1)",
+          "text": "Privacy",
+          "w": 42,
+          "h": 20,
+          "inline": false
+        },
+        {
+          "sel": "#root > div.auth > footer.footer > span:nth-of-type(2) > a:nth-of-type(2)",
+          "text": "Terms",
+          "w": 36,
+          "h": 20,
+          "inline": false
+        },
+        {
+          "sel": "#root > div.auth > footer.footer > span:nth-of-type(2) > a:nth-of-type(3)",
+          "text": "System status",
+          "w": 82,
+          "h": 20,
+          "inline": false
+        }
+      ],
+      "smallCount": 5,
+      "dialogs": [],
+      "smallFont": [
+        {
+          "sel": "#su-name",
+          "px": 15
+        },
+        {
+          "sel": "#su-email",
+          "px": 15
+        },
+        {
+          "sel": "#su-co",
+          "px": 15
+        },
+        {
+          "sel": "#su-size",
+          "px": 15
+        },
+        {
+          "sel": "#su-pw",
+          "px": 15
+        }
+      ],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    },
+    "axe": []
+  },
+  {
+    "group": "web",
+    "page": "admin-verify",
+    "width": "390",
+    "theme": "dark",
+    "shot": "tests/responsive/screenshots/before/admin-verify-390-dark.png",
+    "console": [],
+    "m": {
+      "vw": 390,
+      "iw": 390,
+      "ih": 844,
+      "scrollW": 390,
+      "docH": 897,
+      "hScroll": false,
+      "overflow": [
+        {
+          "sel": "#root > div.auth > header.auth-head > div",
+          "text": "Pricing Book a demo aknologia.com",
+          "by": 71,
+          "parent": "#root > div.auth > header.auth-head"
+        }
+      ],
+      "offscreen": [
+        {
+          "sel": "#root > div.auth > header.auth-head > div",
+          "text": "Pricing Book a demo aknologia.com",
+          "left": 48,
+          "right": 461,
+          "clippedBy": "#root > div.auth"
+        }
+      ],
+      "scrollers": [],
+      "clipped": [],
+      "small": [
+        {
+          "sel": "div.auth-card:nth-of-type(1) > form.col > fieldset > div.otp > input:nth-of-type(1)",
+          "text": "Digit 1",
+          "w": 39,
+          "h": 62,
+          "inline": false
+        },
+        {
+          "sel": "div.auth-card:nth-of-type(1) > form.col > fieldset > div.otp > input:nth-of-type(2)",
+          "text": "Digit 2",
+          "w": 39,
+          "h": 62,
+          "inline": false
+        },
+        {
+          "sel": "div.auth-card:nth-of-type(1) > form.col > fieldset > div.otp > input:nth-of-type(3)",
+          "text": "Digit 3",
+          "w": 39,
+          "h": 62,
+          "inline": false
+        },
+        {
+          "sel": "div.auth-card:nth-of-type(1) > form.col > fieldset > div.otp > input:nth-of-type(4)",
+          "text": "Digit 4",
+          "w": 39,
+          "h": 62,
+          "inline": false
+        },
+        {
+          "sel": "div.auth-card:nth-of-type(1) > form.col > fieldset > div.otp > input:nth-of-type(5)",
+          "text": "Digit 5",
+          "w": 39,
+          "h": 62,
+          "inline": false
+        },
+        {
+          "sel": "div.auth-card:nth-of-type(1) > form.col > fieldset > div.otp > input:nth-of-type(6)",
+          "text": "Digit 6",
+          "w": 39,
+          "h": 62,
+          "inline": false
+        },
+        {
+          "sel": "#root > div.auth > main.auth-main > span.text2 > a:nth-of-type(1)",
+          "text": "See pricing",
+          "w": 73,
+          "h": 18,
+          "inline": true
+        },
+        {
+          "sel": "#root > div.auth > main.auth-main > span.text2 > a:nth-of-type(2)",
+          "text": "book a demo",
+          "w": 84,
+          "h": 18,
+          "inline": true
+        },
+        {
+          "sel": "#root > div.auth > footer.footer > span:nth-of-type(2) > a:nth-of-type(1)",
+          "text": "Privacy",
+          "w": 42,
+          "h": 20,
+          "inline": false
+        },
+        {
+          "sel": "#root > div.auth > footer.footer > span:nth-of-type(2) > a:nth-of-type(2)",
+          "text": "Terms",
+          "w": 36,
+          "h": 20,
+          "inline": false
+        },
+        {
+          "sel": "#root > div.auth > footer.footer > span:nth-of-type(2) > a:nth-of-type(3)",
+          "text": "System status",
+          "w": 82,
+          "h": 20,
+          "inline": false
+        }
+      ],
+      "smallCount": 11,
+      "dialogs": [],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    },
+    "axe": []
+  },
+  {
+    "group": "web",
+    "page": "admin-accept",
+    "width": "390",
+    "theme": "dark",
+    "shot": "tests/responsive/screenshots/before/admin-accept-390-dark.png",
+    "console": [],
+    "m": {
+      "vw": 390,
+      "iw": 390,
+      "ih": 844,
+      "scrollW": 390,
+      "docH": 1152,
+      "hScroll": false,
+      "overflow": [
+        {
+          "sel": "#root > div.auth > header.auth-head > div",
+          "text": "Pricing Book a demo aknologia.com",
+          "by": 71,
+          "parent": "#root > div.auth > header.auth-head"
+        }
+      ],
+      "offscreen": [
+        {
+          "sel": "#root > div.auth > header.auth-head > div",
+          "text": "Pricing Book a demo aknologia.com",
+          "left": 48,
+          "right": 461,
+          "clippedBy": "#root > div.auth"
+        }
+      ],
+      "scrollers": [],
+      "clipped": [],
+      "small": [
+        {
+          "sel": "#root > div.auth > main.auth-main > span.text2 > a:nth-of-type(1)",
+          "text": "See pricing",
+          "w": 73,
+          "h": 18,
+          "inline": true
+        },
+        {
+          "sel": "#root > div.auth > main.auth-main > span.text2 > a:nth-of-type(2)",
+          "text": "book a demo",
+          "w": 84,
+          "h": 18,
+          "inline": true
+        },
+        {
+          "sel": "#root > div.auth > footer.footer > span:nth-of-type(2) > a:nth-of-type(1)",
+          "text": "Privacy",
+          "w": 42,
+          "h": 20,
+          "inline": false
+        },
+        {
+          "sel": "#root > div.auth > footer.footer > span:nth-of-type(2) > a:nth-of-type(2)",
+          "text": "Terms",
+          "w": 36,
+          "h": 20,
+          "inline": false
+        },
+        {
+          "sel": "#root > div.auth > footer.footer > span:nth-of-type(2) > a:nth-of-type(3)",
+          "text": "System status",
+          "w": 82,
+          "h": 20,
+          "inline": false
+        }
+      ],
+      "smallCount": 5,
+      "dialogs": [],
+      "smallFont": [
+        {
+          "sel": "#ac-email",
+          "px": 15
+        },
+        {
+          "sel": "#ac-code",
+          "px": 15
+        },
+        {
+          "sel": "#ac-pw",
+          "px": 15
+        }
+      ],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    },
+    "axe": []
+  },
+  {
+    "group": "web",
+    "page": "admin-forgot",
+    "width": "390",
+    "theme": "dark",
+    "shot": "tests/responsive/screenshots/before/admin-forgot-390-dark.png",
+    "console": [],
+    "m": {
+      "vw": 390,
+      "iw": 390,
+      "ih": 844,
+      "scrollW": 390,
+      "docH": 954,
+      "hScroll": false,
+      "overflow": [
+        {
+          "sel": "#root > div.auth > header.auth-head > div",
+          "text": "Pricing Book a demo aknologia.com",
+          "by": 71,
+          "parent": "#root > div.auth > header.auth-head"
+        }
+      ],
+      "offscreen": [
+        {
+          "sel": "#root > div.auth > header.auth-head > div",
+          "text": "Pricing Book a demo aknologia.com",
+          "left": 48,
+          "right": 461,
+          "clippedBy": "#root > div.auth"
+        }
+      ],
+      "scrollers": [],
+      "clipped": [],
+      "small": [
+        {
+          "sel": "#root > div.auth > main.auth-main > span.text2 > a:nth-of-type(1)",
+          "text": "See pricing",
+          "w": 73,
+          "h": 18,
+          "inline": true
+        },
+        {
+          "sel": "#root > div.auth > main.auth-main > span.text2 > a:nth-of-type(2)",
+          "text": "book a demo",
+          "w": 84,
+          "h": 18,
+          "inline": true
+        },
+        {
+          "sel": "#root > div.auth > footer.footer > span:nth-of-type(2) > a:nth-of-type(1)",
+          "text": "Privacy",
+          "w": 42,
+          "h": 20,
+          "inline": false
+        },
+        {
+          "sel": "#root > div.auth > footer.footer > span:nth-of-type(2) > a:nth-of-type(2)",
+          "text": "Terms",
+          "w": 36,
+          "h": 20,
+          "inline": false
+        },
+        {
+          "sel": "#root > div.auth > footer.footer > span:nth-of-type(2) > a:nth-of-type(3)",
+          "text": "System status",
+          "w": 82,
+          "h": 20,
+          "inline": false
+        }
+      ],
+      "smallCount": 5,
+      "dialogs": [],
+      "smallFont": [
+        {
+          "sel": "#fp-email",
+          "px": 15
+        }
+      ],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    },
+    "axe": []
+  },
+  {
+    "group": "web",
+    "page": "admin-otp",
+    "width": "390",
+    "theme": "dark",
+    "shot": "tests/responsive/screenshots/before/admin-otp-390-dark.png",
+    "console": [],
+    "m": {
+      "vw": 390,
+      "iw": 390,
+      "ih": 844,
+      "scrollW": 390,
+      "docH": 1001,
+      "hScroll": false,
+      "overflow": [
+        {
+          "sel": "#root > div.auth > header.auth-head > div",
+          "text": "Pricing Book a demo aknologia.com",
+          "by": 71,
+          "parent": "#root > div.auth > header.auth-head"
+        }
+      ],
+      "offscreen": [
+        {
+          "sel": "#root > div.auth > header.auth-head > div",
+          "text": "Pricing Book a demo aknologia.com",
+          "left": 48,
+          "right": 461,
+          "clippedBy": "#root > div.auth"
+        }
+      ],
+      "scrollers": [],
+      "clipped": [],
+      "small": [
+        {
+          "sel": "div.auth-card:nth-of-type(1) > form.col > fieldset > div.otp > input:nth-of-type(1)",
+          "text": "Digit 1",
+          "w": 39,
+          "h": 62,
+          "inline": false
+        },
+        {
+          "sel": "div.auth-card:nth-of-type(1) > form.col > fieldset > div.otp > input:nth-of-type(2)",
+          "text": "Digit 2",
+          "w": 39,
+          "h": 62,
+          "inline": false
+        },
+        {
+          "sel": "div.auth-card:nth-of-type(1) > form.col > fieldset > div.otp > input:nth-of-type(3)",
+          "text": "Digit 3",
+          "w": 39,
+          "h": 62,
+          "inline": false
+        },
+        {
+          "sel": "div.auth-card:nth-of-type(1) > form.col > fieldset > div.otp > input:nth-of-type(4)",
+          "text": "Digit 4",
+          "w": 39,
+          "h": 62,
+          "inline": false
+        },
+        {
+          "sel": "div.auth-card:nth-of-type(1) > form.col > fieldset > div.otp > input:nth-of-type(5)",
+          "text": "Digit 5",
+          "w": 39,
+          "h": 62,
+          "inline": false
+        },
+        {
+          "sel": "div.auth-card:nth-of-type(1) > form.col > fieldset > div.otp > input:nth-of-type(6)",
+          "text": "Digit 6",
+          "w": 39,
+          "h": 62,
+          "inline": false
+        },
+        {
+          "sel": "#root > div.auth > main.auth-main > span.text2 > a:nth-of-type(1)",
+          "text": "See pricing",
+          "w": 73,
+          "h": 18,
+          "inline": true
+        },
+        {
+          "sel": "#root > div.auth > main.auth-main > span.text2 > a:nth-of-type(2)",
+          "text": "book a demo",
+          "w": 84,
+          "h": 18,
+          "inline": true
+        },
+        {
+          "sel": "#root > div.auth > footer.footer > span:nth-of-type(2) > a:nth-of-type(1)",
+          "text": "Privacy",
+          "w": 42,
+          "h": 20,
+          "inline": false
+        },
+        {
+          "sel": "#root > div.auth > footer.footer > span:nth-of-type(2) > a:nth-of-type(2)",
+          "text": "Terms",
+          "w": 36,
+          "h": 20,
+          "inline": false
+        },
+        {
+          "sel": "#root > div.auth > footer.footer > span:nth-of-type(2) > a:nth-of-type(3)",
+          "text": "System status",
+          "w": 82,
+          "h": 20,
+          "inline": false
+        }
+      ],
+      "smallCount": 11,
+      "dialogs": [],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    },
+    "axe": []
+  },
+  {
+    "group": "web",
+    "page": "admin-newpw",
+    "width": "390",
+    "theme": "dark",
+    "shot": "tests/responsive/screenshots/before/admin-newpw-390-dark.png",
+    "console": [],
+    "m": {
+      "vw": 390,
+      "iw": 390,
+      "ih": 844,
+      "scrollW": 390,
+      "docH": 1117,
+      "hScroll": false,
+      "overflow": [
+        {
+          "sel": "#root > div.auth > header.auth-head > div",
+          "text": "Pricing Book a demo aknologia.com",
+          "by": 71,
+          "parent": "#root > div.auth > header.auth-head"
+        }
+      ],
+      "offscreen": [
+        {
+          "sel": "#root > div.auth > header.auth-head > div",
+          "text": "Pricing Book a demo aknologia.com",
+          "left": 48,
+          "right": 461,
+          "clippedBy": "#root > div.auth"
+        }
+      ],
+      "scrollers": [],
+      "clipped": [],
+      "small": [
+        {
+          "sel": "#root > div.auth > main.auth-main > span.text2 > a:nth-of-type(1)",
+          "text": "See pricing",
+          "w": 73,
+          "h": 18,
+          "inline": true
+        },
+        {
+          "sel": "#root > div.auth > main.auth-main > span.text2 > a:nth-of-type(2)",
+          "text": "book a demo",
+          "w": 84,
+          "h": 18,
+          "inline": true
+        },
+        {
+          "sel": "#root > div.auth > footer.footer > span:nth-of-type(2) > a:nth-of-type(1)",
+          "text": "Privacy",
+          "w": 42,
+          "h": 20,
+          "inline": false
+        },
+        {
+          "sel": "#root > div.auth > footer.footer > span:nth-of-type(2) > a:nth-of-type(2)",
+          "text": "Terms",
+          "w": 36,
+          "h": 20,
+          "inline": false
+        },
+        {
+          "sel": "#root > div.auth > footer.footer > span:nth-of-type(2) > a:nth-of-type(3)",
+          "text": "System status",
+          "w": 82,
+          "h": 20,
+          "inline": false
+        }
+      ],
+      "smallCount": 5,
+      "dialogs": [],
+      "smallFont": [
+        {
+          "sel": "#np-pw",
+          "px": 15
+        },
+        {
+          "sel": "#np-pw2",
+          "px": 15
+        }
+      ],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    },
+    "axe": []
+  },
+  {
+    "group": "web",
+    "page": "admin-overview",
+    "width": "390",
+    "theme": "dark",
+    "shot": "tests/responsive/screenshots/before/admin-overview-390-dark.png",
+    "console": [],
+    "m": {
+      "vw": 390,
+      "iw": 390,
+      "ih": 844,
+      "scrollW": 390,
+      "docH": 4532,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [
+        {
+          "sel": "div.shell > div.main-col > main.content > section.card > div.table-wrap:nth-of-type(2)",
+          "scrollW": 900,
+          "clientW": 304,
+          "visiblePct": 34
+        }
+      ],
+      "clipped": [],
+      "small": [
+        {
+          "sel": "div.main-col > main.content > div.between:nth-of-type(1) > div.seg:nth-of-type(1) > button:nth-of-type(1)",
+          "text": "This month",
+          "w": 96,
+          "h": 36,
+          "inline": false
+        },
+        {
+          "sel": "div.main-col > main.content > div.between:nth-of-type(1) > div.seg:nth-of-type(1) > button:nth-of-type(2)",
+          "text": "Last month",
+          "w": 96,
+          "h": 36,
+          "inline": false
+        },
+        {
+          "sel": "div.shell > div.main-col > footer.footer > span:nth-of-type(2) > a:nth-of-type(1)",
+          "text": "Privacy",
+          "w": 42,
+          "h": 20,
+          "inline": false
+        },
+        {
+          "sel": "div.shell > div.main-col > footer.footer > span:nth-of-type(2) > a:nth-of-type(2)",
+          "text": "Terms",
+          "w": 36,
+          "h": 20,
+          "inline": false
+        },
+        {
+          "sel": "div.shell > div.main-col > footer.footer > span:nth-of-type(2) > a:nth-of-type(3)",
+          "text": "System status",
+          "w": 82,
+          "h": 20,
+          "inline": false
+        }
+      ],
+      "smallCount": 5,
+      "dialogs": [],
+      "smallFont": [
+        {
+          "sel": "div.shell > div.main-col > div.topbar > div.search > input.input",
+          "px": 15
+        }
+      ],
+      "charts": [],
+      "navHidden": true,
+      "widest": []
+    },
+    "axe": []
+  },
+  {
+    "group": "web",
+    "page": "admin-members",
+    "width": "390",
+    "theme": "dark",
+    "shot": "tests/responsive/screenshots/before/admin-members-390-dark.png",
+    "console": [],
+    "m": {
+      "vw": 390,
+      "iw": 390,
+      "ih": 844,
+      "scrollW": 390,
+      "docH": 1887,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [
+        {
+          "sel": "div.shell > div.main-col > main.content > section.card > div.table-wrap:nth-of-type(2)",
+          "scrollW": 940,
+          "clientW": 304,
+          "visiblePct": 32
+        }
+      ],
+      "clipped": [],
+      "small": [
+        {
+          "sel": "div.main-col > main.content > section.card > div.row:nth-of-type(1) > button.btn.btn-sm:nth-of-type(1)",
+          "text": "All · 4",
+          "w": 61,
+          "h": 38,
+          "inline": false
+        },
+        {
+          "sel": "div.main-col > main.content > section.card > div.row:nth-of-type(1) > button.btn.btn-sm:nth-of-type(2)",
+          "text": "Active · 3",
+          "w": 83,
+          "h": 38,
+          "inline": false
+        },
+        {
+          "sel": "div.main-col > main.content > section.card > div.row:nth-of-type(1) > button.btn.btn-sm:nth-of-type(3)",
+          "text": "Invited · 1",
+          "w": 89,
+          "h": 38,
+          "inline": false
+        },
+        {
+          "sel": "div.main-col > main.content > section.card > div.row:nth-of-type(1) > button.btn.btn-sm:nth-of-type(4)",
+          "text": "Removed · 0",
+          "w": 101,
+          "h": 38,
+          "inline": false
+        },
+        {
+          "sel": "table.t > tbody > tr:nth-of-type(1) > td:nth-of-type(1) > a",
+          "text": "QA Quinn Access (you) qa5-vryubm@example.test",
+          "w": 225,
+          "h": 39,
+          "inline": false
+        },
+        {
+          "sel": "tbody > tr:nth-of-type(1) > td.r:nth-of-type(7) > span > button.btn.btn-secondary",
+          "text": "Edit budget",
+          "w": 96,
+          "h": 38,
+          "inline": false
+        },
+        {
+          "sel": "table.t > tbody > tr:nth-of-type(2) > td:nth-of-type(1) > a",
+          "text": "PR Priya Raman qa5m1-vryubm@example.test",
+          "w": 225,
+          "h": 39,
+          "inline": false
+        },
+        {
+          "sel": "tbody > tr:nth-of-type(2) > td.r:nth-of-type(7) > span > button.btn.btn-secondary:nth-of-type(1)",
+          "text": "Edit budget",
+          "w": 96,
+          "h": 38,
+          "inline": false
+        },
+        {
+          "sel": "tbody > tr:nth-of-type(2) > td.r:nth-of-type(7) > span > button.btn.btn-danger-outline:nth-of-type(2)",
+          "text": "Remove",
+          "w": 75,
+          "h": 38,
+          "inline": false
+        },
+        {
+          "sel": "table.t > tbody > tr:nth-of-type(3) > td:nth-of-type(1) > a",
+          "text": "DO Daniel Okafor qa5m2-vryubm@example.test",
+          "w": 225,
+          "h": 39,
+          "inline": false
+        },
+        {
+          "sel": "tbody > tr:nth-of-type(3) > td.r:nth-of-type(7) > span > button.btn.btn-secondary:nth-of-type(1)",
+          "text": "Edit budget",
+          "w": 96,
+          "h": 38,
+          "inline": false
+        },
+        {
+          "sel": "tbody > tr:nth-of-type(3) > td.r:nth-of-type(7) > span > button.btn.btn-danger-outline:nth-of-type(2)",
+          "text": "Remove",
+          "w": 75,
+          "h": 38,
+          "inline": false
+        },
+        {
+          "sel": "tbody > tr:nth-of-type(4) > td.r:nth-of-type(7) > span > button.btn.btn-secondary:nth-of-type(1)",
+          "text": "Resend invite",
+          "w": 109,
+          "h": 38,
+          "inline": false
+        },
+        {
+          "sel": "tbody > tr:nth-of-type(4) > td.r:nth-of-type(7) > span > button.btn.btn-danger-outline:nth-of-type(2)",
+          "text": "Cancel invite",
+          "w": 105,
+          "h": 38,
+          "inline": false
+        },
+        {
+          "sel": "div.shell > div.main-col > footer.footer > span:nth-of-type(2) > a:nth-of-type(1)",
+          "text": "Privacy",
+          "w": 42,
+          "h": 20,
+          "inline": false
+        },
+        {
+          "sel": "div.shell > div.main-col > footer.footer > span:nth-of-type(2) > a:nth-of-type(2)",
+          "text": "Terms",
+          "w": 36,
+          "h": 20,
+          "inline": false
+        },
+        {
+          "sel": "div.shell > div.main-col > footer.footer > span:nth-of-type(2) > a:nth-of-type(3)",
+          "text": "System status",
+          "w": 82,
+          "h": 20,
+          "inline": false
+        }
+      ],
+      "smallCount": 17,
+      "dialogs": [],
+      "smallFont": [
+        {
+          "sel": "div.shell > div.main-col > div.topbar > div.search > input.input",
+          "px": 15
+        }
+      ],
+      "charts": [],
+      "navHidden": true,
+      "widest": []
+    },
+    "axe": []
+  },
+  {
+    "group": "web",
+    "page": "admin-member-detail",
+    "width": "390",
+    "theme": "dark",
+    "shot": "tests/responsive/screenshots/before/admin-member-detail-390-dark.png",
+    "console": [],
+    "m": {
+      "vw": 390,
+      "iw": 390,
+      "ih": 844,
+      "scrollW": 390,
+      "docH": 3134,
+      "hScroll": false,
+      "overflow": [
+        {
+          "sel": "div.row:nth-of-type(3) > section.card:nth-of-type(1) > div.bars:nth-of-type(2) > div.b:nth-of-type(1) > span.v",
+          "text": "$1.8",
+          "by": 4,
+          "parent": "main.content > div.row:nth-of-type(3) > section.card:nth-of-type(1) > div.bars:nth-of-type(2) > div.b:nth-of-type(1)"
+        },
+        {
+          "sel": "div.row:nth-of-type(3) > section.card:nth-of-type(1) > div.bars:nth-of-type(2) > div.b:nth-of-type(2) > span.v",
+          "text": "$7.4",
+          "by": 4,
+          "parent": "main.content > div.row:nth-of-type(3) > section.card:nth-of-type(1) > div.bars:nth-of-type(2) > div.b:nth-of-type(2)"
+        },
+        {
+          "sel": "div.row:nth-of-type(3) > section.card:nth-of-type(1) > div.bars:nth-of-type(2) > div.b:nth-of-type(3) > span.v",
+          "text": "$1.8",
+          "by": 4,
+          "parent": "main.content > div.row:nth-of-type(3) > section.card:nth-of-type(1) > div.bars:nth-of-type(2) > div.b:nth-of-type(3)"
+        },
+        {
+          "sel": "div.row:nth-of-type(3) > section.card:nth-of-type(1) > div.bars:nth-of-type(2) > div.b:nth-of-type(4) > span.v",
+          "text": "$7.4",
+          "by": 4,
+          "parent": "main.content > div.row:nth-of-type(3) > section.card:nth-of-type(1) > div.bars:nth-of-type(2) > div.b:nth-of-type(4)"
+        },
+        {
+          "sel": "div.row:nth-of-type(3) > section.card:nth-of-type(1) > div.bars:nth-of-type(2) > div.b:nth-of-type(5) > span.v",
+          "text": "$1.8",
+          "by": 4,
+          "parent": "main.content > div.row:nth-of-type(3) > section.card:nth-of-type(1) > div.bars:nth-of-type(2) > div.b:nth-of-type(5)"
+        },
+        {
+          "sel": "div.row:nth-of-type(3) > section.card:nth-of-type(1) > div.bars:nth-of-type(2) > div.b:nth-of-type(6) > span.v",
+          "text": "$7.4",
+          "by": 4,
+          "parent": "main.content > div.row:nth-of-type(3) > section.card:nth-of-type(1) > div.bars:nth-of-type(2) > div.b:nth-of-type(6)"
+        },
+        {
+          "sel": "div.row:nth-of-type(3) > section.card:nth-of-type(1) > div.bars:nth-of-type(2) > div.b:nth-of-type(7) > span.v",
+          "text": "$1.8",
+          "by": 4,
+          "parent": "main.content > div.row:nth-of-type(3) > section.card:nth-of-type(1) > div.bars:nth-of-type(2) > div.b:nth-of-type(7)"
+        },
+        {
+          "sel": "div.row:nth-of-type(3) > section.card:nth-of-type(1) > div.bars:nth-of-type(2) > div.b:nth-of-type(8) > span.v",
+          "text": "$7.4",
+          "by": 4,
+          "parent": "main.content > div.row:nth-of-type(3) > section.card:nth-of-type(1) > div.bars:nth-of-type(2) > div.b:nth-of-type(8)"
+        },
+        {
+          "sel": "div.row:nth-of-type(3) > section.card:nth-of-type(1) > div.bars:nth-of-type(2) > div.b:nth-of-type(9) > span.v",
+          "text": "$1.8",
+          "by": 4,
+          "parent": "main.content > div.row:nth-of-type(3) > section.card:nth-of-type(1) > div.bars:nth-of-type(2) > div.b:nth-of-type(9)"
+        },
+        {
+          "sel": "div.row:nth-of-type(3) > section.card:nth-of-type(1) > div.bars:nth-of-type(2) > div.b:nth-of-type(10) > span.v",
+          "text": "$7.4",
+          "by": 4,
+          "parent": "main.content > div.row:nth-of-type(3) > section.card:nth-of-type(1) > div.bars:nth-of-type(2) > div.b:nth-of-type(10)"
+        }
+      ],
+      "offscreen": [],
+      "scrollers": [
+        {
+          "sel": "div.main-col > main.content > div.row:nth-of-type(4) > section.card:nth-of-type(1) > div.table-wrap:nth-of-type(2)",
+          "scrollW": 540,
+          "clientW": 304,
+          "visiblePct": 56
+        }
+      ],
+      "clipped": [],
+      "small": [
+        {
+          "sel": "div.shell > div.main-col > footer.footer > span:nth-of-type(2) > a:nth-of-type(1)",
+          "text": "Privacy",
+          "w": 42,
+          "h": 20,
+          "inline": false
+        },
+        {
+          "sel": "div.shell > div.main-col > footer.footer > span:nth-of-type(2) > a:nth-of-type(2)",
+          "text": "Terms",
+          "w": 36,
+          "h": 20,
+          "inline": false
+        },
+        {
+          "sel": "div.shell > div.main-col > footer.footer > span:nth-of-type(2) > a:nth-of-type(3)",
+          "text": "System status",
+          "w": 82,
+          "h": 20,
+          "inline": false
+        }
+      ],
+      "smallCount": 3,
+      "dialogs": [],
+      "smallFont": [
+        {
+          "sel": "div.shell > div.main-col > div.topbar > div.search > input.input",
+          "px": 15
+        }
+      ],
+      "charts": [
+        {
+          "sel": "div.main-col > main.content > div.row:nth-of-type(3) > section.card:nth-of-type(1) > div.bars:nth-of-type(2)",
+          "problem": "10/10 bar value labels wider than their bar (overlap)"
+        }
+      ],
+      "navHidden": true,
+      "widest": []
+    },
+    "axe": [
+      {
+        "id": "scrollable-region-focusable",
+        "impact": "serious",
+        "help": "Scrollable region must have keyboard access",
+        "nodes": 1,
+        "targets": [
+          ".table-wrap"
+        ]
+      }
+    ]
+  },
+  {
+    "group": "web",
+    "page": "admin-budgets",
+    "width": "390",
+    "theme": "dark",
+    "shot": "tests/responsive/screenshots/before/admin-budgets-390-dark.png",
+    "console": [],
+    "m": {
+      "vw": 390,
+      "iw": 390,
+      "ih": 844,
+      "scrollW": 423,
+      "docH": 2509,
+      "hScroll": true,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [
+        {
+          "sel": "div.shell > div.main-col > main.content > section.card:nth-of-type(1) > div.table-wrap:nth-of-type(2)",
+          "scrollW": 860,
+          "clientW": 304,
+          "visiblePct": 35
+        }
+      ],
+      "clipped": [],
+      "small": [
+        {
+          "sel": "#r80",
+          "text": "",
+          "w": 259,
+          "h": 23,
+          "inline": false
+        },
+        {
+          "sel": "#r100",
+          "text": "",
+          "w": 259,
+          "h": 23,
+          "inline": false
+        },
+        {
+          "sel": "#rw",
+          "text": "",
+          "w": 259,
+          "h": 23,
+          "inline": false
+        },
+        {
+          "sel": "#rm",
+          "text": "",
+          "w": 240,
+          "h": 23,
+          "inline": false
+        },
+        {
+          "sel": "tbody > tr:nth-of-type(1) > td:nth-of-type(2) > span > input.input.mono",
+          "text": "Budget for Priya Raman",
+          "w": 100,
+          "h": 40,
+          "inline": false
+        },
+        {
+          "sel": "tbody > tr:nth-of-type(2) > td:nth-of-type(2) > span > input.input.mono",
+          "text": "Budget for Daniel Okafor",
+          "w": 100,
+          "h": 40,
+          "inline": false
+        },
+        {
+          "sel": "tbody > tr:nth-of-type(3) > td:nth-of-type(2) > span > input.input.mono",
+          "text": "Budget for Quinn Access",
+          "w": 100,
+          "h": 40,
+          "inline": false
+        },
+        {
+          "sel": "tbody > tr:nth-of-type(4) > td:nth-of-type(2) > span > input.input.mono",
+          "text": "Budget for qa5m3-vryubm@example.test",
+          "w": 100,
+          "h": 40,
+          "inline": false
+        },
+        {
+          "sel": "div.shell > div.main-col > footer.footer > span:nth-of-type(2) > a:nth-of-type(1)",
+          "text": "Privacy",
+          "w": 42,
+          "h": 20,
+          "inline": false
+        },
+        {
+          "sel": "div.shell > div.main-col > footer.footer > span:nth-of-type(2) > a:nth-of-type(2)",
+          "text": "Terms",
+          "w": 36,
+          "h": 20,
+          "inline": false
+        },
+        {
+          "sel": "div.shell > div.main-col > footer.footer > span:nth-of-type(2) > a:nth-of-type(3)",
+          "text": "System status",
+          "w": 82,
+          "h": 20,
+          "inline": false
+        }
+      ],
+      "smallCount": 11,
+      "dialogs": [],
+      "smallFont": [
+        {
+          "sel": "div.shell > div.main-col > div.topbar > div.search > input.input",
+          "px": 15
+        },
+        {
+          "sel": "#def-budget",
+          "px": 15
+        },
+        {
+          "sel": "div.row:nth-of-type(2) > section.card:nth-of-type(2) > div.field:nth-of-type(3) > div:nth-of-type(2) > input.input",
+          "px": 15
+        },
+        {
+          "sel": "tbody > tr:nth-of-type(1) > td:nth-of-type(2) > span > input.input.mono",
+          "px": 15
+        },
+        {
+          "sel": "tbody > tr:nth-of-type(2) > td:nth-of-type(2) > span > input.input.mono",
+          "px": 15
+        },
+        {
+          "sel": "tbody > tr:nth-of-type(3) > td:nth-of-type(2) > span > input.input.mono",
+          "px": 15
+        },
+        {
+          "sel": "tbody > tr:nth-of-type(4) > td:nth-of-type(2) > span > input.input.mono",
+          "px": 15
+        }
+      ],
+      "charts": [],
+      "navHidden": true,
+      "widest": [
+        {
+          "sel": "div.main-col > main.content > section.card:nth-of-type(2) > div:nth-of-type(2) > span.text2:nth-of-type(2) (text)",
+          "text": "qa5-vryubm@example.test",
+          "right": 423,
+          "w": 141
+        },
+        {
+          "sel": "div.main-col > main.content > section.card:nth-of-type(2) > div:nth-of-type(3) > span.text2:nth-of-type(2) (text)",
+          "text": "qa5-vryubm@example.test",
+          "right": 423,
+          "w": 141
+        }
+      ]
+    },
+    "axe": []
+  },
+  {
+    "group": "web",
+    "page": "admin-support",
+    "width": "390",
+    "theme": "dark",
+    "shot": "tests/responsive/screenshots/before/admin-support-390-dark.png",
+    "console": [],
+    "m": {
+      "vw": 390,
+      "iw": 390,
+      "ih": 844,
+      "scrollW": 390,
+      "docH": 2104,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [],
+      "small": [
+        {
+          "sel": "div.shell > div.main-col > footer.footer > span:nth-of-type(2) > a:nth-of-type(1)",
+          "text": "Privacy",
+          "w": 42,
+          "h": 20,
+          "inline": false
+        },
+        {
+          "sel": "div.shell > div.main-col > footer.footer > span:nth-of-type(2) > a:nth-of-type(2)",
+          "text": "Terms",
+          "w": 36,
+          "h": 20,
+          "inline": false
+        },
+        {
+          "sel": "div.shell > div.main-col > footer.footer > span:nth-of-type(2) > a:nth-of-type(3)",
+          "text": "System status",
+          "w": 82,
+          "h": 20,
+          "inline": false
+        }
+      ],
+      "smallCount": 3,
+      "dialogs": [],
+      "smallFont": [
+        {
+          "sel": "div.shell > div.main-col > div.topbar > div.search > input.input",
+          "px": 15
+        },
+        {
+          "sel": "#sp-title",
+          "px": 15
+        },
+        {
+          "sel": "#sp-body",
+          "px": 15
+        },
+        {
+          "sel": "#sp-sev",
+          "px": 15
+        },
+        {
+          "sel": "#sp-when",
+          "px": 15
+        }
+      ],
+      "charts": [],
+      "navHidden": true,
+      "widest": []
+    },
+    "axe": []
+  },
+  {
+    "group": "web",
+    "page": "admin-settings",
+    "width": "390",
+    "theme": "dark",
+    "shot": "tests/responsive/screenshots/before/admin-settings-390-dark.png",
+    "console": [],
+    "m": {
+      "vw": 390,
+      "iw": 390,
+      "ih": 844,
+      "scrollW": 390,
+      "docH": 3902,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [],
+      "small": [
+        {
+          "sel": "#security > section.card > div.col:nth-of-type(5) > div.between:nth-of-type(2) > button.btn.btn-danger-outline",
+          "text": "Sign out",
+          "w": 76,
+          "h": 38,
+          "inline": false
+        },
+        {
+          "sel": "div.shell > div.main-col > footer.footer > span:nth-of-type(2) > a:nth-of-type(1)",
+          "text": "Privacy",
+          "w": 42,
+          "h": 20,
+          "inline": false
+        },
+        {
+          "sel": "div.shell > div.main-col > footer.footer > span:nth-of-type(2) > a:nth-of-type(2)",
+          "text": "Terms",
+          "w": 36,
+          "h": 20,
+          "inline": false
+        },
+        {
+          "sel": "div.shell > div.main-col > footer.footer > span:nth-of-type(2) > a:nth-of-type(3)",
+          "text": "System status",
+          "w": 82,
+          "h": 20,
+          "inline": false
+        }
+      ],
+      "smallCount": 4,
+      "dialogs": [],
+      "smallFont": [
+        {
+          "sel": "div.shell > div.main-col > div.topbar > div.search > input.input",
+          "px": 15
+        },
+        {
+          "sel": "#bk-email",
+          "px": 15
+        },
+        {
+          "sel": "#org-name",
+          "px": 15
+        },
+        {
+          "sel": "#org-tz",
+          "px": 15
+        }
+      ],
+      "charts": [],
+      "navHidden": true,
+      "widest": []
+    },
+    "axe": []
+  },
+  {
+    "group": "web",
+    "page": "modal-invite",
+    "width": "390",
+    "theme": "dark",
+    "shot": "tests/responsive/screenshots/before/modal-invite-390-dark.png",
+    "console": [],
+    "m": {
+      "vw": 390,
+      "iw": 390,
+      "ih": 844,
+      "scrollW": 390,
+      "docH": 1887,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [
+        {
+          "sel": "div.shell > div.main-col > main.content > section.card > div.table-wrap:nth-of-type(2)",
+          "scrollW": 940,
+          "clientW": 304,
+          "visiblePct": 32
+        }
+      ],
+      "clipped": [],
+      "small": [
+        {
+          "sel": "#inv-emails",
+          "text": "name@yourco.com",
+          "w": 262,
+          "h": 36,
+          "inline": false
+        }
+      ],
+      "smallCount": 1,
+      "dialogs": [
+        {
+          "sel": "div.shell > div.main-col > main.content > div.overlay:nth-of-type(3) > div.modal",
+          "top": 120,
+          "bottom": 637,
+          "left": 24,
+          "right": 366,
+          "h": 517,
+          "problems": []
+        }
+      ],
+      "smallFont": [
+        {
+          "sel": "#inv-emails",
+          "px": 15
+        },
+        {
+          "sel": "#inv-role",
+          "px": 15
+        },
+        {
+          "sel": "#inv-budget",
+          "px": 15
+        }
+      ],
+      "charts": [],
+      "navHidden": true,
+      "widest": []
+    },
+    "axe": []
+  },
+  {
+    "group": "web",
+    "page": "modal-remove",
+    "width": "390",
+    "theme": "dark",
+    "shot": "tests/responsive/screenshots/before/modal-remove-390-dark.png",
+    "console": [],
+    "m": {
+      "vw": 390,
+      "iw": 390,
+      "ih": 844,
+      "scrollW": 390,
+      "docH": 1887,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [
+        {
+          "sel": "div.shell > div.main-col > main.content > section.card > div.table-wrap:nth-of-type(2)",
+          "scrollW": 940,
+          "clientW": 304,
+          "visiblePct": 32
+        }
+      ],
+      "clipped": [],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [
+        {
+          "sel": "div.shell > div.main-col > main.content > div.overlay:nth-of-type(3) > div.modal",
+          "top": 120,
+          "bottom": 635,
+          "left": 24,
+          "right": 366,
+          "h": 515,
+          "problems": []
+        }
+      ],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": true,
+      "widest": []
+    },
+    "axe": []
+  },
+  {
+    "group": "web",
+    "page": "modal-budget",
+    "width": "390",
+    "theme": "dark",
+    "shot": "tests/responsive/screenshots/before/modal-budget-390-dark.png",
+    "console": [],
+    "m": {
+      "vw": 390,
+      "iw": 390,
+      "ih": 844,
+      "scrollW": 390,
+      "docH": 1887,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [
+        {
+          "sel": "div.shell > div.main-col > main.content > section.card > div.table-wrap:nth-of-type(2)",
+          "scrollW": 940,
+          "clientW": 304,
+          "visiblePct": 32
+        }
+      ],
+      "clipped": [],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [
+        {
+          "sel": "div.shell > div.main-col > main.content > div.overlay:nth-of-type(3) > div.modal",
+          "top": 120,
+          "bottom": 504,
+          "left": 24,
+          "right": 366,
+          "h": 384,
+          "problems": []
+        }
+      ],
+      "smallFont": [
+        {
+          "sel": "#mb-v",
+          "px": 15
+        }
+      ],
+      "charts": [],
+      "navHidden": true,
+      "widest": []
+    },
+    "axe": []
+  },
+  {
+    "group": "web",
+    "page": "modal-plan",
+    "width": "390",
+    "theme": "dark",
+    "shot": "tests/responsive/screenshots/before/modal-plan-390-dark.png",
+    "console": [],
+    "m": {
+      "vw": 390,
+      "iw": 390,
+      "ih": 844,
+      "scrollW": 390,
+      "docH": 3902,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [
+        {
+          "sel": "div.shell > div.main-col > main.content > div.overlay:nth-of-type(5) > div.modal",
+          "top": 120,
+          "bottom": 561,
+          "left": 24,
+          "right": 366,
+          "h": 441,
+          "problems": []
+        }
+      ],
+      "smallFont": [
+        {
+          "sel": "#pl",
+          "px": 15
+        },
+        {
+          "sel": "#st",
+          "px": 15
+        }
+      ],
+      "charts": [],
+      "navHidden": true,
+      "widest": []
+    },
+    "axe": []
+  },
+  {
+    "group": "web",
+    "page": "modal-delete-data",
+    "width": "390",
+    "theme": "dark",
+    "shot": "tests/responsive/screenshots/before/modal-delete-data-390-dark.png",
+    "console": [],
+    "m": {
+      "vw": 390,
+      "iw": 390,
+      "ih": 844,
+      "scrollW": 390,
+      "docH": 3902,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [],
+      "small": [
+        {
+          "sel": "div.overlay:nth-of-type(5) > div.modal > fieldset > div.otp > input:nth-of-type(1)",
+          "text": "Digit 1",
+          "w": 39,
+          "h": 62,
+          "inline": false
+        },
+        {
+          "sel": "div.overlay:nth-of-type(5) > div.modal > fieldset > div.otp > input:nth-of-type(2)",
+          "text": "Digit 2",
+          "w": 39,
+          "h": 62,
+          "inline": false
+        },
+        {
+          "sel": "div.overlay:nth-of-type(5) > div.modal > fieldset > div.otp > input:nth-of-type(3)",
+          "text": "Digit 3",
+          "w": 39,
+          "h": 62,
+          "inline": false
+        },
+        {
+          "sel": "div.overlay:nth-of-type(5) > div.modal > fieldset > div.otp > input:nth-of-type(4)",
+          "text": "Digit 4",
+          "w": 39,
+          "h": 62,
+          "inline": false
+        },
+        {
+          "sel": "div.overlay:nth-of-type(5) > div.modal > fieldset > div.otp > input:nth-of-type(5)",
+          "text": "Digit 5",
+          "w": 39,
+          "h": 62,
+          "inline": false
+        },
+        {
+          "sel": "div.overlay:nth-of-type(5) > div.modal > fieldset > div.otp > input:nth-of-type(6)",
+          "text": "Digit 6",
+          "w": 39,
+          "h": 62,
+          "inline": false
+        }
+      ],
+      "smallCount": 6,
+      "dialogs": [
+        {
+          "sel": "div.shell > div.main-col > main.content > div.overlay:nth-of-type(5) > div.modal",
+          "top": 120,
+          "bottom": 561,
+          "left": 24,
+          "right": 366,
+          "h": 441,
+          "problems": []
+        }
+      ],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": true,
+      "widest": []
+    },
+    "axe": []
+  },
+  {
+    "group": "web",
+    "page": "modal-password-1",
+    "width": "390",
+    "theme": "dark",
+    "shot": "tests/responsive/screenshots/before/modal-password-1-390-dark.png",
+    "console": [],
+    "m": {
+      "vw": 390,
+      "iw": 390,
+      "ih": 844,
+      "scrollW": 390,
+      "docH": 3902,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [
+        {
+          "sel": "#security > section.card > div.overlay:nth-of-type(6) > div.modal",
+          "top": 120,
+          "bottom": 737,
+          "left": 24,
+          "right": 366,
+          "h": 617,
+          "problems": []
+        }
+      ],
+      "smallFont": [
+        {
+          "sel": "#pw-cur",
+          "px": 15
+        },
+        {
+          "sel": "#pw-new",
+          "px": 15
+        },
+        {
+          "sel": "#pw-new2",
+          "px": 15
+        }
+      ],
+      "charts": [],
+      "navHidden": true,
+      "widest": []
+    },
+    "axe": []
+  },
+  {
+    "group": "web",
+    "page": "modal-password-2",
+    "width": "390",
+    "theme": "dark",
+    "shot": "tests/responsive/screenshots/before/modal-password-2-390-dark.png",
+    "console": [],
+    "m": {
+      "vw": 390,
+      "iw": 390,
+      "ih": 844,
+      "scrollW": 390,
+      "docH": 3902,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [],
+      "small": [
+        {
+          "sel": "div.modal > form.col > fieldset > div.otp > input:nth-of-type(1)",
+          "text": "Digit 1",
+          "w": 39,
+          "h": 62,
+          "inline": false
+        },
+        {
+          "sel": "div.modal > form.col > fieldset > div.otp > input:nth-of-type(2)",
+          "text": "Digit 2",
+          "w": 39,
+          "h": 62,
+          "inline": false
+        },
+        {
+          "sel": "div.modal > form.col > fieldset > div.otp > input:nth-of-type(3)",
+          "text": "Digit 3",
+          "w": 39,
+          "h": 62,
+          "inline": false
+        },
+        {
+          "sel": "div.modal > form.col > fieldset > div.otp > input:nth-of-type(4)",
+          "text": "Digit 4",
+          "w": 39,
+          "h": 62,
+          "inline": false
+        },
+        {
+          "sel": "div.modal > form.col > fieldset > div.otp > input:nth-of-type(5)",
+          "text": "Digit 5",
+          "w": 39,
+          "h": 62,
+          "inline": false
+        },
+        {
+          "sel": "div.modal > form.col > fieldset > div.otp > input:nth-of-type(6)",
+          "text": "Digit 6",
+          "w": 39,
+          "h": 62,
+          "inline": false
+        }
+      ],
+      "smallCount": 6,
+      "dialogs": [
+        {
+          "sel": "#security > section.card > div.overlay:nth-of-type(6) > div.modal",
+          "top": 120,
+          "bottom": 633,
+          "left": 24,
+          "right": 366,
+          "h": 513,
+          "problems": []
+        }
+      ],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": true,
+      "widest": []
+    },
+    "axe": []
+  },
+  {
+    "group": "web",
+    "page": "admin-tour-1",
+    "width": "390",
+    "theme": "dark",
+    "shot": "tests/responsive/screenshots/before/admin-tour-1-390-dark.png",
+    "console": [],
+    "m": {
+      "vw": 390,
+      "iw": 390,
+      "ih": 844,
+      "scrollW": 390,
+      "docH": 4532,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [
+        {
+          "sel": "div.shell:nth-of-type(1) > div.main-col > main.content > section.card > div.table-wrap:nth-of-type(2)",
+          "scrollW": 900,
+          "clientW": 304,
+          "visiblePct": 34
+        }
+      ],
+      "clipped": [],
+      "small": [
+        {
+          "sel": "#root > div.tour-card:nth-of-type(3) > div.between > span:nth-of-type(2) > button.btn.btn-ghost:nth-of-type(1)",
+          "text": "Skip",
+          "w": 53,
+          "h": 38,
+          "inline": false
+        },
+        {
+          "sel": "#root > div.tour-card:nth-of-type(3) > div.between > span:nth-of-type(2) > button.btn.btn-primary:nth-of-type(2)",
+          "text": "Next",
+          "w": 55,
+          "h": 38,
+          "inline": false
+        }
+      ],
+      "smallCount": 2,
+      "dialogs": [
+        {
+          "sel": "#root > div.tour-card:nth-of-type(3)",
+          "top": 338,
+          "bottom": 552,
+          "left": 34,
+          "right": 374,
+          "h": 215,
+          "problems": []
+        }
+      ],
+      "smallFont": [
+        {
+          "sel": "div.shell:nth-of-type(1) > div.main-col > div.topbar > div.search > input.input",
+          "px": 15
+        }
+      ],
+      "charts": [],
+      "navHidden": true,
+      "widest": []
+    },
+    "axe": []
+  },
+  {
+    "group": "web",
+    "page": "admin-tour-2",
+    "width": "390",
+    "theme": "dark",
+    "shot": "tests/responsive/screenshots/before/admin-tour-2-390-dark.png",
+    "console": [],
+    "m": {
+      "vw": 390,
+      "iw": 390,
+      "ih": 844,
+      "scrollW": 390,
+      "docH": 4532,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [
+        {
+          "sel": "div.shell:nth-of-type(1) > div.main-col > main.content > section.card > div.table-wrap:nth-of-type(2)",
+          "scrollW": 900,
+          "clientW": 304,
+          "visiblePct": 34
+        }
+      ],
+      "clipped": [],
+      "small": [
+        {
+          "sel": "#root > div.tour-card:nth-of-type(3) > div.between > span:nth-of-type(2) > button.btn.btn-ghost:nth-of-type(1)",
+          "text": "Skip",
+          "w": 53,
+          "h": 38,
+          "inline": false
+        },
+        {
+          "sel": "#root > div.tour-card:nth-of-type(3) > div.between > span:nth-of-type(2) > button.btn.btn-primary:nth-of-type(2)",
+          "text": "Next",
+          "w": 55,
+          "h": 38,
+          "inline": false
+        }
+      ],
+      "smallCount": 2,
+      "dialogs": [
+        {
+          "sel": "#root > div.tour-card:nth-of-type(3)",
+          "top": 530,
+          "bottom": 724,
+          "left": 20,
+          "right": 360,
+          "h": 194,
+          "problems": []
+        }
+      ],
+      "smallFont": [
+        {
+          "sel": "div.shell:nth-of-type(1) > div.main-col > div.topbar > div.search > input.input",
+          "px": 15
+        }
+      ],
+      "charts": [],
+      "navHidden": true,
+      "widest": []
+    },
+    "axe": []
+  },
+  {
+    "group": "web",
+    "page": "admin-tour-3",
+    "width": "390",
+    "theme": "dark",
+    "shot": "tests/responsive/screenshots/before/admin-tour-3-390-dark.png",
+    "console": [],
+    "m": {
+      "vw": 390,
+      "iw": 390,
+      "ih": 844,
+      "scrollW": 390,
+      "docH": 4532,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [
+        {
+          "sel": "div.shell:nth-of-type(1) > div.main-col > main.content > section.card > div.table-wrap:nth-of-type(2)",
+          "scrollW": 900,
+          "clientW": 304,
+          "visiblePct": 34
+        }
+      ],
+      "clipped": [],
+      "small": [
+        {
+          "sel": "#root > div.tour-card:nth-of-type(3) > div.between > span:nth-of-type(2) > button.btn.btn-ghost:nth-of-type(1)",
+          "text": "Skip",
+          "w": 53,
+          "h": 38,
+          "inline": false
+        },
+        {
+          "sel": "#root > div.tour-card:nth-of-type(3) > div.between > span:nth-of-type(2) > button.btn.btn-primary:nth-of-type(2)",
+          "text": "Next",
+          "w": 55,
+          "h": 38,
+          "inline": false
+        }
+      ],
+      "smallCount": 2,
+      "dialogs": [
+        {
+          "sel": "#root > div.tour-card:nth-of-type(3)",
+          "top": 16,
+          "bottom": 231,
+          "left": 20,
+          "right": 360,
+          "h": 215,
+          "problems": [
+            "primary action covered by div.shell:nth-of-type(1) > div.main-col > main.content > div.row.tour-target[data-tour=kpis]:nth-of-type(3) > div.card.kpi:nth-of-type(2)"
+          ]
+        }
+      ],
+      "smallFont": [
+        {
+          "sel": "div.shell:nth-of-type(1) > div.main-col > div.topbar > div.search > input.input",
+          "px": 15
+        }
+      ],
+      "charts": [],
+      "navHidden": true,
+      "widest": []
+    },
+    "axe": []
+  },
+  {
+    "group": "web",
+    "page": "admin-tour-4",
+    "width": "390",
+    "theme": "dark",
+    "shot": "tests/responsive/screenshots/before/admin-tour-4-390-dark.png",
+    "console": [],
+    "m": {
+      "vw": 390,
+      "iw": 390,
+      "ih": 844,
+      "scrollW": 390,
+      "docH": 4532,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [
+        {
+          "sel": "div.shell:nth-of-type(1) > div.main-col > main.content > section.card > div.table-wrap:nth-of-type(2)",
+          "scrollW": 900,
+          "clientW": 304,
+          "visiblePct": 34
+        }
+      ],
+      "clipped": [],
+      "small": [
+        {
+          "sel": "#root > div.tour-card:nth-of-type(3) > div.between > span:nth-of-type(2) > button.btn.btn-ghost:nth-of-type(1)",
+          "text": "Skip",
+          "w": 53,
+          "h": 38,
+          "inline": false
+        },
+        {
+          "sel": "#root > div.tour-card:nth-of-type(3) > div.between > span:nth-of-type(2) > button.btn.btn-primary:nth-of-type(2)",
+          "text": "Next",
+          "w": 55,
+          "h": 38,
+          "inline": false
+        }
+      ],
+      "smallCount": 2,
+      "dialogs": [
+        {
+          "sel": "#root > div.tour-card:nth-of-type(3)",
+          "top": 159,
+          "bottom": 353,
+          "left": 34,
+          "right": 374,
+          "h": 194,
+          "problems": []
+        }
+      ],
+      "smallFont": [
+        {
+          "sel": "div.shell:nth-of-type(1) > div.main-col > div.topbar > div.search > input.input",
+          "px": 15
+        }
+      ],
+      "charts": [],
+      "navHidden": true,
+      "widest": []
+    },
+    "axe": []
+  },
+  {
+    "group": "web",
+    "page": "admin-tour-5",
+    "width": "390",
+    "theme": "dark",
+    "shot": "tests/responsive/screenshots/before/admin-tour-5-390-dark.png",
+    "console": [],
+    "m": {
+      "vw": 390,
+      "iw": 390,
+      "ih": 844,
+      "scrollW": 390,
+      "docH": 4532,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [
+        {
+          "sel": "div.shell:nth-of-type(1) > div.main-col > main.content > section.card > div.table-wrap:nth-of-type(2)",
+          "scrollW": 900,
+          "clientW": 304,
+          "visiblePct": 34
+        }
+      ],
+      "clipped": [],
+      "small": [
+        {
+          "sel": "#root > div.tour-card:nth-of-type(3) > div.between > span:nth-of-type(2) > button.btn.btn-ghost:nth-of-type(1)",
+          "text": "Skip",
+          "w": 53,
+          "h": 38,
+          "inline": false
+        },
+        {
+          "sel": "#root > div.tour-card:nth-of-type(3) > div.between > span:nth-of-type(2) > button.btn.btn-primary:nth-of-type(2)",
+          "text": "Done",
+          "w": 57,
+          "h": 38,
+          "inline": false
+        }
+      ],
+      "smallCount": 2,
+      "dialogs": [
+        {
+          "sel": "#root > div.tour-card:nth-of-type(3)",
+          "top": 12,
+          "bottom": 227,
+          "left": 16,
+          "right": 356,
+          "h": 215,
+          "problems": []
+        }
+      ],
+      "smallFont": [
+        {
+          "sel": "div.shell:nth-of-type(1) > div.main-col > div.topbar > div.search > input.input",
+          "px": 15
+        }
+      ],
+      "charts": [],
+      "navHidden": true,
+      "widest": []
+    },
+    "axe": []
+  },
+  {
+    "group": "web",
+    "page": "admin-empty-overview",
+    "width": "390",
+    "theme": "dark",
+    "shot": "tests/responsive/screenshots/before/admin-empty-overview-390-dark.png",
+    "console": [],
+    "m": {
+      "vw": 390,
+      "iw": 390,
+      "ih": 844,
+      "scrollW": 390,
+      "docH": 4044,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [
+        {
+          "sel": "div.shell > div.main-col > main.content > section.card > div.table-wrap:nth-of-type(2)",
+          "scrollW": 900,
+          "clientW": 304,
+          "visiblePct": 34
+        }
+      ],
+      "clipped": [],
+      "small": [
+        {
+          "sel": "div.main-col > main.content > div.between:nth-of-type(1) > div.seg:nth-of-type(1) > button:nth-of-type(1)",
+          "text": "This month",
+          "w": 96,
+          "h": 36,
+          "inline": false
+        },
+        {
+          "sel": "div.main-col > main.content > div.between:nth-of-type(1) > div.seg:nth-of-type(1) > button:nth-of-type(2)",
+          "text": "Last month",
+          "w": 96,
+          "h": 36,
+          "inline": false
+        },
+        {
+          "sel": "div.shell > div.main-col > footer.footer > span:nth-of-type(2) > a:nth-of-type(1)",
+          "text": "Privacy",
+          "w": 42,
+          "h": 20,
+          "inline": false
+        },
+        {
+          "sel": "div.shell > div.main-col > footer.footer > span:nth-of-type(2) > a:nth-of-type(2)",
+          "text": "Terms",
+          "w": 36,
+          "h": 20,
+          "inline": false
+        },
+        {
+          "sel": "div.shell > div.main-col > footer.footer > span:nth-of-type(2) > a:nth-of-type(3)",
+          "text": "System status",
+          "w": 82,
+          "h": 20,
+          "inline": false
+        }
+      ],
+      "smallCount": 5,
+      "dialogs": [],
+      "smallFont": [
+        {
+          "sel": "div.shell > div.main-col > div.topbar > div.search > input.input",
+          "px": 15
+        }
+      ],
+      "charts": [],
+      "navHidden": true,
+      "widest": []
+    },
+    "axe": []
+  },
+  {
+    "group": "web",
+    "page": "admin-empty-members",
+    "width": "390",
+    "theme": "dark",
+    "shot": "tests/responsive/screenshots/before/admin-empty-members-390-dark.png",
+    "console": [],
+    "m": {
+      "vw": 390,
+      "iw": 390,
+      "ih": 844,
+      "scrollW": 390,
+      "docH": 1656,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [
+        {
+          "sel": "div.shell > div.main-col > main.content > section.card > div.table-wrap:nth-of-type(2)",
+          "scrollW": 940,
+          "clientW": 304,
+          "visiblePct": 32
+        }
+      ],
+      "clipped": [],
+      "small": [
+        {
+          "sel": "div.main-col > main.content > section.card > div.row:nth-of-type(1) > button.btn.btn-sm:nth-of-type(1)",
+          "text": "All · 1",
+          "w": 61,
+          "h": 38,
+          "inline": false
+        },
+        {
+          "sel": "div.main-col > main.content > section.card > div.row:nth-of-type(1) > button.btn.btn-sm:nth-of-type(2)",
+          "text": "Active · 1",
+          "w": 83,
+          "h": 38,
+          "inline": false
+        },
+        {
+          "sel": "div.main-col > main.content > section.card > div.row:nth-of-type(1) > button.btn.btn-sm:nth-of-type(3)",
+          "text": "Invited · 0",
+          "w": 89,
+          "h": 38,
+          "inline": false
+        },
+        {
+          "sel": "div.main-col > main.content > section.card > div.row:nth-of-type(1) > button.btn.btn-sm:nth-of-type(4)",
+          "text": "Removed · 0",
+          "w": 101,
+          "h": 38,
+          "inline": false
+        },
+        {
+          "sel": "table.t > tbody > tr > td:nth-of-type(1) > a",
+          "text": "RL Rhea Layout (you) resp-empty-6678jn@example.tes",
+          "w": 296,
+          "h": 39,
+          "inline": false
+        },
+        {
+          "sel": "tbody > tr > td.r:nth-of-type(7) > span > button.btn.btn-secondary",
+          "text": "Edit budget",
+          "w": 96,
+          "h": 38,
+          "inline": false
+        },
+        {
+          "sel": "div.shell > div.main-col > footer.footer > span:nth-of-type(2) > a:nth-of-type(1)",
+          "text": "Privacy",
+          "w": 42,
+          "h": 20,
+          "inline": false
+        },
+        {
+          "sel": "div.shell > div.main-col > footer.footer > span:nth-of-type(2) > a:nth-of-type(2)",
+          "text": "Terms",
+          "w": 36,
+          "h": 20,
+          "inline": false
+        },
+        {
+          "sel": "div.shell > div.main-col > footer.footer > span:nth-of-type(2) > a:nth-of-type(3)",
+          "text": "System status",
+          "w": 82,
+          "h": 20,
+          "inline": false
+        }
+      ],
+      "smallCount": 9,
+      "dialogs": [],
+      "smallFont": [
+        {
+          "sel": "div.shell > div.main-col > div.topbar > div.search > input.input",
+          "px": 15
+        }
+      ],
+      "charts": [],
+      "navHidden": true,
+      "widest": []
+    },
+    "axe": []
+  },
+  {
+    "group": "web",
+    "page": "admin-empty-member-detail",
+    "width": "390",
+    "theme": "dark",
+    "shot": "tests/responsive/screenshots/before/admin-empty-member-detail-390-dark.png",
+    "console": [],
+    "m": {
+      "vw": 390,
+      "iw": 390,
+      "ih": 844,
+      "scrollW": 390,
+      "docH": 2770,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [
+        {
+          "sel": "div.main-col > main.content > div.row:nth-of-type(4) > section.card:nth-of-type(1) > div.table-wrap:nth-of-type(2)",
+          "scrollW": 540,
+          "clientW": 304,
+          "visiblePct": 56
+        }
+      ],
+      "clipped": [],
+      "small": [
+        {
+          "sel": "div.shell > div.main-col > footer.footer > span:nth-of-type(2) > a:nth-of-type(1)",
+          "text": "Privacy",
+          "w": 42,
+          "h": 20,
+          "inline": false
+        },
+        {
+          "sel": "div.shell > div.main-col > footer.footer > span:nth-of-type(2) > a:nth-of-type(2)",
+          "text": "Terms",
+          "w": 36,
+          "h": 20,
+          "inline": false
+        },
+        {
+          "sel": "div.shell > div.main-col > footer.footer > span:nth-of-type(2) > a:nth-of-type(3)",
+          "text": "System status",
+          "w": 82,
+          "h": 20,
+          "inline": false
+        }
+      ],
+      "smallCount": 3,
+      "dialogs": [],
+      "smallFont": [
+        {
+          "sel": "div.shell > div.main-col > div.topbar > div.search > input.input",
+          "px": 15
+        }
+      ],
+      "charts": [],
+      "navHidden": true,
+      "widest": []
+    },
+    "axe": [
+      {
+        "id": "scrollable-region-focusable",
+        "impact": "serious",
+        "help": "Scrollable region must have keyboard access",
+        "nodes": 1,
+        "targets": [
+          ".table-wrap"
+        ]
+      }
+    ]
+  },
+  {
+    "group": "web",
+    "page": "admin-empty-budgets",
+    "width": "390",
+    "theme": "dark",
+    "shot": "tests/responsive/screenshots/before/admin-empty-budgets-390-dark.png",
+    "console": [],
+    "m": {
+      "vw": 390,
+      "iw": 390,
+      "ih": 844,
+      "scrollW": 390,
+      "docH": 2165,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [
+        {
+          "sel": "div.shell > div.main-col > main.content > section.card:nth-of-type(1) > div.table-wrap:nth-of-type(2)",
+          "scrollW": 860,
+          "clientW": 304,
+          "visiblePct": 35
+        }
+      ],
+      "clipped": [],
+      "small": [
+        {
+          "sel": "#r80",
+          "text": "",
+          "w": 259,
+          "h": 23,
+          "inline": false
+        },
+        {
+          "sel": "#r100",
+          "text": "",
+          "w": 259,
+          "h": 23,
+          "inline": false
+        },
+        {
+          "sel": "#rw",
+          "text": "",
+          "w": 259,
+          "h": 23,
+          "inline": false
+        },
+        {
+          "sel": "#rm",
+          "text": "",
+          "w": 240,
+          "h": 23,
+          "inline": false
+        },
+        {
+          "sel": "section.card:nth-of-type(2) > div.field:nth-of-type(3) > div:nth-of-type(1) > span.pill.pill-accent > button",
+          "text": "Remove resp-empty-6678jn@example.test",
+          "w": 12,
+          "h": 20,
+          "inline": false
+        },
+        {
+          "sel": "tbody > tr > td:nth-of-type(2) > span > input.input.mono",
+          "text": "Budget for Rhea Layout",
+          "w": 100,
+          "h": 40,
+          "inline": false
+        },
+        {
+          "sel": "div.shell > div.main-col > footer.footer > span:nth-of-type(2) > a:nth-of-type(1)",
+          "text": "Privacy",
+          "w": 42,
+          "h": 20,
+          "inline": false
+        },
+        {
+          "sel": "div.shell > div.main-col > footer.footer > span:nth-of-type(2) > a:nth-of-type(2)",
+          "text": "Terms",
+          "w": 36,
+          "h": 20,
+          "inline": false
+        },
+        {
+          "sel": "div.shell > div.main-col > footer.footer > span:nth-of-type(2) > a:nth-of-type(3)",
+          "text": "System status",
+          "w": 82,
+          "h": 20,
+          "inline": false
+        }
+      ],
+      "smallCount": 9,
+      "dialogs": [],
+      "smallFont": [
+        {
+          "sel": "div.shell > div.main-col > div.topbar > div.search > input.input",
+          "px": 15
+        },
+        {
+          "sel": "#def-budget",
+          "px": 15
+        },
+        {
+          "sel": "div.row:nth-of-type(2) > section.card:nth-of-type(2) > div.field:nth-of-type(3) > div:nth-of-type(2) > input.input",
+          "px": 15
+        },
+        {
+          "sel": "tbody > tr > td:nth-of-type(2) > span > input.input.mono",
+          "px": 15
+        }
+      ],
+      "charts": [],
+      "navHidden": true,
+      "widest": []
+    },
+    "axe": []
+  },
+  {
+    "group": "web",
+    "page": "admin-empty-settings",
+    "width": "390",
+    "theme": "dark",
+    "shot": "tests/responsive/screenshots/before/admin-empty-settings-390-dark.png",
+    "console": [],
+    "m": {
+      "vw": 390,
+      "iw": 390,
+      "ih": 844,
+      "scrollW": 390,
+      "docH": 3812,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [],
+      "small": [
+        {
+          "sel": "div.shell > div.main-col > footer.footer > span:nth-of-type(2) > a:nth-of-type(1)",
+          "text": "Privacy",
+          "w": 42,
+          "h": 20,
+          "inline": false
+        },
+        {
+          "sel": "div.shell > div.main-col > footer.footer > span:nth-of-type(2) > a:nth-of-type(2)",
+          "text": "Terms",
+          "w": 36,
+          "h": 20,
+          "inline": false
+        },
+        {
+          "sel": "div.shell > div.main-col > footer.footer > span:nth-of-type(2) > a:nth-of-type(3)",
+          "text": "System status",
+          "w": 82,
+          "h": 20,
+          "inline": false
+        }
+      ],
+      "smallCount": 3,
+      "dialogs": [],
+      "smallFont": [
+        {
+          "sel": "div.shell > div.main-col > div.topbar > div.search > input.input",
+          "px": 15
+        },
+        {
+          "sel": "#bk-email",
+          "px": 15
+        },
+        {
+          "sel": "#org-name",
+          "px": 15
+        },
+        {
+          "sel": "#org-tz",
+          "px": 15
+        }
+      ],
+      "charts": [],
+      "navHidden": true,
+      "widest": []
+    },
+    "axe": []
+  }
+]

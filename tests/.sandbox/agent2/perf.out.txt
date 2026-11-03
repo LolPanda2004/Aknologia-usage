@@ -1,0 +1,1 @@
+files=500 new_events=0 unread_lines=0 total_events=200000 err=<nil>

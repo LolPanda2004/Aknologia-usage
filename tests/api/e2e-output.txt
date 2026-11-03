@@ -1,0 +1,76 @@
+== signup
+{"sentTo":"j•••••@acme.test","status":"verify"}
+
+code=707800
+admin token ok: rRTqEFwU…
+== weak password rejected
+{"error":"invalid","message":"Use at least 12 characters."}
+
+== member login to web refused / seats
+('business', 25, 450)
+== invite
+{"results":[{"email":"priya@acme.test","result":"invited"},{"email":"tom@acme.test","result":"invited"}]}
+
+invite=PHX5-8EQD
+== invited cannot log in yet
+{"error":"invited","message":"You haven’t set a password yet. Choose “I have an invite” and enter the code from your email."}
+
+== accept invite (desktop)
+device token ok
+== member blocked from admin console
+{"error":"not_admin","message":"The admin console is for admins. Use the desktop app to see your own usage."}
+
+== agent config
+('active', 6000, 6, 32)
+== ingest (opus-heavy so it crosses the $60 budget)
+{"accepted":130,"duplicates":0,"rejected":0}
+
+== re-send is idempotent
+{"accepted":0,"duplicates":130,"rejected":0}
+
+== budget alert emails/notifications
+4
+['Monthly budget reached', 'You’ve used 80% of your monthly budget']
+== my usage
+(153.21, 4.4, 4, 194.63, 255)
+== admin overview
+({'activeHours': 4.4, 'activeMembers': 1, 'budgets': 270, 'cacheShare': 84, 'costPerHour': 34.95, 'members': 3, 'pendingInvites': 1, 'prevCostPerHour': 0, 'projected': 514, 'saved': 194.63, 'spend': 153.21}, {'near': [], 'over': ['priya@acme.test']}, {'near': 0, 'notStarted': 2, 'over': 1, 'under': 0}, 10, {'devices': 1, 'minVersion': '1.0.0', 'outdated': [], 'synced2h': 1, 'unreadDevices': 1, 'unreadLines': 3})
+== member detail
+({'activeHours': 4.4, 'cacheShare': 84, 'costPerHour': 34.95, 'sessions': 4, 'spend': 153.21, 'teamActiveHours': 4.4, 'teamCacheShare': 84, 'teamCostPerHour': 34.95, 'teamSpend': 153.21}, ['proj-5b8d71', 'proj-7f3a2c', 'proj-7f3a2c'], 2)
+== budgets
+(150, ['jordan@acme.test', 'finance@acme.test'], 270, [('priya@acme.test', 255, ['80%', '100%']), ('Jordan Lee', 0, None), ('tom@acme.test', 0, None)])
+== refresh
+(130, 35)
+== export
+day,email,name,tool,model,input_tokens,output_tokens,cache_write_tokens,cache_read_tokens,cost_usd
+2026-10-09,priya@acme.test,,claude_code,claude-opus-5-5,120000,360000,800000,4800000,51.0000
+== change password with code
+{"sentTo":"p•••••@acme.test"}
+
+{"ok":true}
+
+== forgot + reset
+{"sentTo":"p•••••@acme.test"}
+
+{"valid":true}
+
+{"ok":true}
+
+== old device session revoked by reset
+{"error":"unauthorized","message":"Your session has ended. Sign in again."}
+
+== support ticket
+{"id":1,"status":"Open"}
+
+== remove member
+{"ok":true}
+
+== removed device now gets:
+{"error":"removed","message":"You were removed from this organization. Tracking has stopped."}
+
+{"error":"removed","message":"You were removed from this organization. Ask your admin to re-invite you."}
+
+== demo request
+{"ok":true}
+
+ALL_PASSED

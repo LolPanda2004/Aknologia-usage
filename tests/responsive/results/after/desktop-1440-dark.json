@@ -1,0 +1,825 @@
+[
+  {
+    "group": "desktop",
+    "page": "desk-unpaired",
+    "width": "1440",
+    "theme": "dark",
+    "shot": "tests/responsive/screenshots/after/desk-unpaired-1440-dark.png",
+    "console": [],
+    "m": {
+      "vw": 1440,
+      "iw": 1440,
+      "ih": 900,
+      "scrollW": 1440,
+      "docH": 900,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    },
+    "axe": []
+  },
+  {
+    "group": "desktop",
+    "page": "desk-signin",
+    "width": "1440",
+    "theme": "dark",
+    "shot": "tests/responsive/screenshots/after/desk-signin-1440-dark.png",
+    "console": [],
+    "m": {
+      "vw": 1440,
+      "iw": 1440,
+      "ih": 900,
+      "scrollW": 1440,
+      "docH": 977,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    },
+    "axe": []
+  },
+  {
+    "group": "desktop",
+    "page": "desk-modal-server",
+    "width": "1440",
+    "theme": "dark",
+    "shot": "tests/responsive/screenshots/after/desk-modal-server-1440-dark.png",
+    "console": [],
+    "m": {
+      "vw": 1440,
+      "iw": 1440,
+      "ih": 900,
+      "scrollW": 1440,
+      "docH": 977,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [
+        {
+          "sel": "div.auth > main.auth-main > div.auth-card:nth-of-type(1) > div.overlay:nth-of-type(3) > div.modal",
+          "top": 108,
+          "bottom": 430,
+          "left": 450,
+          "right": 990,
+          "h": 322,
+          "problems": []
+        }
+      ],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    },
+    "axe": []
+  },
+  {
+    "group": "desktop",
+    "page": "desk-invite",
+    "width": "1440",
+    "theme": "dark",
+    "shot": "tests/responsive/screenshots/after/desk-invite-1440-dark.png",
+    "console": [],
+    "m": {
+      "vw": 1440,
+      "iw": 1440,
+      "ih": 900,
+      "scrollW": 1440,
+      "docH": 1136,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    },
+    "axe": []
+  },
+  {
+    "group": "desktop",
+    "page": "desk-forgot",
+    "width": "1440",
+    "theme": "dark",
+    "shot": "tests/responsive/screenshots/after/desk-forgot-1440-dark.png",
+    "console": [],
+    "m": {
+      "vw": 1440,
+      "iw": 1440,
+      "ih": 900,
+      "scrollW": 1440,
+      "docH": 900,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    },
+    "axe": []
+  },
+  {
+    "group": "desktop",
+    "page": "desk-otp",
+    "width": "1440",
+    "theme": "dark",
+    "shot": "tests/responsive/screenshots/after/desk-otp-1440-dark.png",
+    "console": [],
+    "m": {
+      "vw": 1440,
+      "iw": 1440,
+      "ih": 900,
+      "scrollW": 1440,
+      "docH": 900,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    },
+    "axe": []
+  },
+  {
+    "group": "desktop",
+    "page": "desk-newpw",
+    "width": "1440",
+    "theme": "dark",
+    "shot": "tests/responsive/screenshots/after/desk-newpw-1440-dark.png",
+    "console": [],
+    "m": {
+      "vw": 1440,
+      "iw": 1440,
+      "ih": 900,
+      "scrollW": 1440,
+      "docH": 920,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    },
+    "axe": []
+  },
+  {
+    "group": "desktop",
+    "page": "desk-removed",
+    "width": "1440",
+    "theme": "dark",
+    "shot": "tests/responsive/screenshots/after/desk-removed-1440-dark.png",
+    "console": [],
+    "m": {
+      "vw": 1440,
+      "iw": 1440,
+      "ih": 900,
+      "scrollW": 1440,
+      "docH": 900,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    },
+    "axe": []
+  },
+  {
+    "group": "desktop",
+    "page": "desk-overview",
+    "width": "1440",
+    "theme": "dark",
+    "shot": "tests/responsive/screenshots/after/desk-overview-1440-dark.png",
+    "console": [],
+    "m": {
+      "vw": 1440,
+      "iw": 1440,
+      "ih": 900,
+      "scrollW": 1440,
+      "docH": 2114,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [
+        {
+          "sel": "div.shell > div.main-col:nth-of-type(2) > div.topbar > nav.topbar-crumb > span.crumb-org:nth-of-type(1)",
+          "text": "Responsive Co 7ylnb1"
+        },
+        {
+          "sel": "div.shell > div.main-col:nth-of-type(2) > div.topbar > nav.topbar-crumb > span.crumb-title:nth-of-type(3)",
+          "text": "Good afternoon, Resp-member-8jmaha"
+        },
+        {
+          "sel": "div.donut-row:nth-of-type(2) > div.col > div:nth-of-type(2) > div.share-head:nth-of-type(1) > span.share-name:nth-of-type(1)",
+          "text": "claude-sonnet-4-5-20250929"
+        }
+      ],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    },
+    "axe": []
+  },
+  {
+    "group": "desktop",
+    "page": "desk-sessions",
+    "width": "1440",
+    "theme": "dark",
+    "shot": "tests/responsive/screenshots/after/desk-sessions-1440-dark.png",
+    "console": [],
+    "m": {
+      "vw": 1440,
+      "iw": 1440,
+      "ih": 900,
+      "scrollW": 1440,
+      "docH": 1026,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    },
+    "axe": []
+  },
+  {
+    "group": "desktop",
+    "page": "desk-support",
+    "width": "1440",
+    "theme": "dark",
+    "shot": "tests/responsive/screenshots/after/desk-support-1440-dark.png",
+    "console": [],
+    "m": {
+      "vw": 1440,
+      "iw": 1440,
+      "ih": 900,
+      "scrollW": 1440,
+      "docH": 1037,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    },
+    "axe": []
+  },
+  {
+    "group": "desktop",
+    "page": "desk-settings",
+    "width": "1440",
+    "theme": "dark",
+    "shot": "tests/responsive/screenshots/after/desk-settings-1440-dark.png",
+    "console": [],
+    "m": {
+      "vw": 1440,
+      "iw": 1440,
+      "ih": 900,
+      "scrollW": 1440,
+      "docH": 2379,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [
+        {
+          "sel": "div.shell > div.main-col:nth-of-type(2) > div.topbar > nav.topbar-crumb > span.crumb-org:nth-of-type(1)",
+          "text": "Responsive Co 7ylnb1"
+        },
+        {
+          "sel": "div.shell > div.main-col:nth-of-type(2) > div.topbar > nav.topbar-crumb > span.crumb-title:nth-of-type(3)",
+          "text": "Settings and security"
+        }
+      ],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    },
+    "axe": []
+  },
+  {
+    "group": "desktop",
+    "page": "desk-modal-password-1",
+    "width": "1440",
+    "theme": "dark",
+    "shot": "tests/responsive/screenshots/after/desk-modal-password-1-1440-dark.png",
+    "console": [],
+    "m": {
+      "vw": 1440,
+      "iw": 1440,
+      "ih": 900,
+      "scrollW": 1440,
+      "docH": 2379,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [
+        {
+          "sel": "div.shell > div.main-col:nth-of-type(2) > div.topbar > nav.topbar-crumb > span.crumb-org:nth-of-type(1)",
+          "text": "Responsive Co 7ylnb1"
+        },
+        {
+          "sel": "div.shell > div.main-col:nth-of-type(2) > div.topbar > nav.topbar-crumb > span.crumb-title:nth-of-type(3)",
+          "text": "Settings and security"
+        }
+      ],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [
+        {
+          "sel": "#security > section.card > div.overlay:nth-of-type(6) > div.modal",
+          "top": 108,
+          "bottom": 652,
+          "left": 450,
+          "right": 990,
+          "h": 544,
+          "problems": []
+        }
+      ],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    },
+    "axe": []
+  },
+  {
+    "group": "desktop",
+    "page": "desk-modal-password-2",
+    "width": "1440",
+    "theme": "dark",
+    "shot": "tests/responsive/screenshots/after/desk-modal-password-2-1440-dark.png",
+    "console": [],
+    "m": {
+      "vw": 1440,
+      "iw": 1440,
+      "ih": 900,
+      "scrollW": 1440,
+      "docH": 2379,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [
+        {
+          "sel": "div.shell > div.main-col:nth-of-type(2) > div.topbar > nav.topbar-crumb > span.crumb-org:nth-of-type(1)",
+          "text": "Responsive Co 7ylnb1"
+        },
+        {
+          "sel": "div.shell > div.main-col:nth-of-type(2) > div.topbar > nav.topbar-crumb > span.crumb-title:nth-of-type(3)",
+          "text": "Settings and security"
+        }
+      ],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [
+        {
+          "sel": "#security > section.card > div.overlay:nth-of-type(6) > div.modal",
+          "top": 108,
+          "bottom": 455,
+          "left": 450,
+          "right": 990,
+          "h": 347,
+          "problems": []
+        }
+      ],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    },
+    "axe": []
+  },
+  {
+    "group": "desktop",
+    "page": "desk-tour-1",
+    "width": "1440",
+    "theme": "dark",
+    "shot": "tests/responsive/screenshots/after/desk-tour-1-1440-dark.png",
+    "console": [],
+    "m": {
+      "vw": 1440,
+      "iw": 1440,
+      "ih": 900,
+      "scrollW": 1440,
+      "docH": 2114,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [
+        {
+          "sel": "div.shell:nth-of-type(1) > div.main-col:nth-of-type(2) > div.topbar > nav.topbar-crumb > span.crumb-org:nth-of-type(1)",
+          "text": "Responsive Co 7ylnb1"
+        },
+        {
+          "sel": "div.shell:nth-of-type(1) > div.main-col:nth-of-type(2) > div.topbar > nav.topbar-crumb > span.crumb-title:nth-of-type(3)",
+          "text": "Good afternoon, Resp-member-8jmaha"
+        },
+        {
+          "sel": "div.donut-row:nth-of-type(2) > div.col > div:nth-of-type(2) > div.share-head:nth-of-type(1) > span.share-name:nth-of-type(1)",
+          "text": "claude-sonnet-4-5-20250929"
+        }
+      ],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [
+        {
+          "sel": "#root > div.tour-card.shown:nth-of-type(3)",
+          "top": 450,
+          "bottom": 643,
+          "left": 300,
+          "right": 640,
+          "h": 194,
+          "problems": []
+        }
+      ],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    },
+    "axe": []
+  },
+  {
+    "group": "desktop",
+    "page": "desk-tour-2",
+    "width": "1440",
+    "theme": "dark",
+    "shot": "tests/responsive/screenshots/after/desk-tour-2-1440-dark.png",
+    "console": [],
+    "m": {
+      "vw": 1440,
+      "iw": 1440,
+      "ih": 900,
+      "scrollW": 1440,
+      "docH": 2114,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [
+        {
+          "sel": "div.shell:nth-of-type(1) > div.main-col:nth-of-type(2) > div.topbar > nav.topbar-crumb > span.crumb-org:nth-of-type(1)",
+          "text": "Responsive Co 7ylnb1"
+        },
+        {
+          "sel": "div.shell:nth-of-type(1) > div.main-col:nth-of-type(2) > div.topbar > nav.topbar-crumb > span.crumb-title:nth-of-type(3)",
+          "text": "Good afternoon, Resp-member-8jmaha"
+        },
+        {
+          "sel": "div.donut-row:nth-of-type(2) > div.col > div:nth-of-type(2) > div.share-head:nth-of-type(1) > span.share-name:nth-of-type(1)",
+          "text": "claude-sonnet-4-5-20250929"
+        }
+      ],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [
+        {
+          "sel": "#root > div.tour-card.shown:nth-of-type(3)",
+          "top": 540,
+          "bottom": 754,
+          "left": 300,
+          "right": 640,
+          "h": 215,
+          "problems": []
+        }
+      ],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    },
+    "axe": []
+  },
+  {
+    "group": "desktop",
+    "page": "desk-tour-3",
+    "width": "1440",
+    "theme": "dark",
+    "shot": "tests/responsive/screenshots/after/desk-tour-3-1440-dark.png",
+    "console": [],
+    "m": {
+      "vw": 1440,
+      "iw": 1440,
+      "ih": 900,
+      "scrollW": 1440,
+      "docH": 2114,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [
+        {
+          "sel": "div.shell:nth-of-type(1) > div.main-col:nth-of-type(2) > div.topbar > nav.topbar-crumb > span.crumb-org:nth-of-type(1)",
+          "text": "Responsive Co 7ylnb1"
+        },
+        {
+          "sel": "div.shell:nth-of-type(1) > div.main-col:nth-of-type(2) > div.topbar > nav.topbar-crumb > span.crumb-title:nth-of-type(3)",
+          "text": "Good afternoon, Resp-member-8jmaha"
+        },
+        {
+          "sel": "div.donut-row:nth-of-type(2) > div.col > div:nth-of-type(2) > div.share-head:nth-of-type(1) > span.share-name:nth-of-type(1)",
+          "text": "claude-sonnet-4-5-20250929"
+        }
+      ],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [
+        {
+          "sel": "#root > div.tour-card.shown:nth-of-type(3)",
+          "top": 189,
+          "bottom": 403,
+          "left": 1084,
+          "right": 1424,
+          "h": 215,
+          "problems": []
+        }
+      ],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    },
+    "axe": []
+  },
+  {
+    "group": "desktop",
+    "page": "desk-tour-4",
+    "width": "1440",
+    "theme": "dark",
+    "shot": "tests/responsive/screenshots/after/desk-tour-4-1440-dark.png",
+    "console": [],
+    "m": {
+      "vw": 1440,
+      "iw": 1440,
+      "ih": 900,
+      "scrollW": 1440,
+      "docH": 2114,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [
+        {
+          "sel": "div.shell:nth-of-type(1) > div.main-col:nth-of-type(2) > div.topbar.tour-raise > nav.topbar-crumb > span.crumb-org:nth-of-type(1)",
+          "text": "Responsive Co 7ylnb1"
+        },
+        {
+          "sel": "div.shell:nth-of-type(1) > div.main-col:nth-of-type(2) > div.topbar.tour-raise > nav.topbar-crumb > span.crumb-title:nth-of-type(3)",
+          "text": "Good afternoon, Resp-member-8jmaha"
+        },
+        {
+          "sel": "div.donut-row:nth-of-type(2) > div.col > div:nth-of-type(2) > div.share-head:nth-of-type(1) > span.share-name:nth-of-type(1)",
+          "text": "claude-sonnet-4-5-20250929"
+        }
+      ],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [
+        {
+          "sel": "#root > div.tour-card.shown:nth-of-type(3)",
+          "top": 70,
+          "bottom": 285,
+          "left": 1000,
+          "right": 1340,
+          "h": 215,
+          "problems": []
+        }
+      ],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    },
+    "axe": []
+  },
+  {
+    "group": "desktop",
+    "page": "desk-tour-5",
+    "width": "1440",
+    "theme": "dark",
+    "shot": "tests/responsive/screenshots/after/desk-tour-5-1440-dark.png",
+    "console": [],
+    "m": {
+      "vw": 1440,
+      "iw": 1440,
+      "ih": 900,
+      "scrollW": 1440,
+      "docH": 2114,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [
+        {
+          "sel": "div.shell:nth-of-type(1) > div.main-col:nth-of-type(2) > div.topbar > nav.topbar-crumb > span.crumb-org:nth-of-type(1)",
+          "text": "Responsive Co 7ylnb1"
+        },
+        {
+          "sel": "div.shell:nth-of-type(1) > div.main-col:nth-of-type(2) > div.topbar > nav.topbar-crumb > span.crumb-title:nth-of-type(3)",
+          "text": "Good afternoon, Resp-member-8jmaha"
+        },
+        {
+          "sel": "div.donut-row:nth-of-type(2) > div.col > div:nth-of-type(2) > div.share-head:nth-of-type(1) > span.share-name:nth-of-type(1)",
+          "text": "claude-sonnet-4-5-20250929"
+        }
+      ],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [
+        {
+          "sel": "#root > div.tour-card.shown:nth-of-type(3)",
+          "top": 364,
+          "bottom": 557,
+          "left": 16,
+          "right": 356,
+          "h": 194,
+          "problems": []
+        }
+      ],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    },
+    "axe": []
+  },
+  {
+    "group": "desktop",
+    "page": "desk-empty-overview",
+    "width": "1440",
+    "theme": "dark",
+    "shot": "tests/responsive/screenshots/after/desk-empty-overview-1440-dark.png",
+    "console": [],
+    "m": {
+      "vw": 1440,
+      "iw": 1440,
+      "ih": 900,
+      "scrollW": 1440,
+      "docH": 972,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [
+        {
+          "sel": "div.shell > div.main-col:nth-of-type(2) > div.topbar > nav.topbar-crumb > span.crumb-org:nth-of-type(1)",
+          "text": "Responsive Co 7ylnb1"
+        },
+        {
+          "sel": "div.shell > div.main-col:nth-of-type(2) > div.topbar > nav.topbar-crumb > span.crumb-title:nth-of-type(3)",
+          "text": "Good afternoon, Resp-member-8jmaha"
+        }
+      ],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    },
+    "axe": []
+  },
+  {
+    "group": "desktop",
+    "page": "desk-empty-sessions",
+    "width": "1440",
+    "theme": "dark",
+    "shot": "tests/responsive/screenshots/after/desk-empty-sessions-1440-dark.png",
+    "console": [],
+    "m": {
+      "vw": 1440,
+      "iw": 1440,
+      "ih": 900,
+      "scrollW": 1440,
+      "docH": 900,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    },
+    "axe": []
+  },
+  {
+    "group": "desktop",
+    "page": "desk-overview-over-budget",
+    "width": "1440",
+    "theme": "dark",
+    "shot": "tests/responsive/screenshots/after/desk-overview-over-budget-1440-dark.png",
+    "console": [],
+    "m": {
+      "vw": 1440,
+      "iw": 1440,
+      "ih": 900,
+      "scrollW": 1440,
+      "docH": 2215,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [
+        {
+          "sel": "div.shell > div.main-col:nth-of-type(2) > div.topbar > nav.topbar-crumb > span.crumb-org:nth-of-type(1)",
+          "text": "Responsive Co 7ylnb1"
+        },
+        {
+          "sel": "div.shell > div.main-col:nth-of-type(2) > div.topbar > nav.topbar-crumb > span.crumb-title:nth-of-type(3)",
+          "text": "Good afternoon, Resp-member-8jmaha"
+        },
+        {
+          "sel": "div.donut-row:nth-of-type(2) > div.col > div:nth-of-type(2) > div.share-head:nth-of-type(1) > span.share-name:nth-of-type(1)",
+          "text": "claude-sonnet-4-5-20250929"
+        }
+      ],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    },
+    "axe": []
+  }
+]

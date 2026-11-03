@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en" data-theme="dark">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Download Aknologia Usage</title>
+<link href="https://fonts.googleapis.com/css2?family=Sora:wght@600;700&family=IBM+Plex+Sans:wght@400;600;700&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#08120F;--surface:#0F1C17;--border:#1E332B;--text:#F2F7F4;--text2:#CFDDD5;--muted:#9FB5A9;--brand:#1E7D5E;--ink:#9FE0C6}
+@media (prefers-color-scheme: light){:root{--bg:#F4F7F5;--surface:#FFFFFF;--border:#DCE6E0;--text:#0F1F18;--text2:#33473D;--muted:#526A5E;--brand:#0E6B4E;--ink:#0A5139}}
+body{margin:0;background:var(--bg);color:var(--text);font-family:'IBM Plex Sans',system-ui,sans-serif}
+main{max-width:880px;margin:0 auto;padding:72px 24px;display:flex;flex-direction:column;gap:28px}
+h1{font-family:'Sora',sans-serif;font-size:44px;letter-spacing:-.04em;margin:0}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:16px}
+.card{background:var(--surface);border:1px solid var(--border);border-radius:20px;padding:24px;display:flex;flex-direction:column;gap:10px}
+a.btn{display:inline-flex;justify-content:center;min-height:48px;align-items:center;border-radius:12px;background:var(--brand);color:#fff;font-weight:700;text-decoration:none}
+ol{color:var(--text2);line-height:1.8} p{color:var(--text2);margin:0} small{color:var(--muted)}
+</style>
+</head>
+<body>
+<main>
+<span style="color:var(--ink);font-weight:700">aknologia · Desktop app</span>
+<h1>Download Aknologia Usage</h1>
+<p>Install the desktop app, choose “I have an invite”, and enter the code from your invitation email.</p>
+<div class="grid">
+<div class="card"><b>macOS</b><small>Apple silicon and Intel · macOS 12+</small><a class="btn" href="aknologia-usage-macos.zip">Download for Mac</a></div>
+<div class="card"><b>Windows</b><small>Windows 10 and 11 · 64-bit</small><a class="btn" href="aknologia-usage-windows.zip">Download for Windows</a></div>
+<div class="card"><b>Linux</b><small>x86-64 · needs WebKitGTK 4.0</small><a class="btn" href="aknologia-usage-linux.tar.gz">Download for Linux</a></div>
+</div>
+<div class="card"><b>After installing</b><ol><li>Open Aknologia Usage. It starts the background agent for you.</li><li>Choose <b>I have an invite</b>, enter your work email and invite code, and set a password.</li><li>Keep coding. Your numbers appear within the hour; use Force sync to send them now.</li></ol>
+<small>The app reads only token counts, model names, and timestamps. Prompts, code, and file names never leave your computer.</small></div>
+<small>© 2026 Aknologia. All rights reserved.</small>
+</main>
+</body>
+</html>

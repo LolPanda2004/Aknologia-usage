@@ -1,0 +1,112 @@
+{
+  "drawer-admin-390": "pass",
+  "drawer-admin-960": "pass",
+  "modals-360x740": {
+    "password": {
+      "top": 150,
+      "bottom": 740,
+      "vh": 740,
+      "inside": true,
+      "sheet": true,
+      "actionVisible": true,
+      "scrolls": false
+    },
+    "invite": {
+      "top": 152,
+      "bottom": 740,
+      "vh": 740,
+      "inside": true,
+      "sheet": true,
+      "actionVisible": true,
+      "scrolls": false
+    }
+  },
+  "modals-390x844": {
+    "password": {
+      "top": 254,
+      "bottom": 844,
+      "vh": 844,
+      "inside": true,
+      "sheet": true,
+      "actionVisible": true,
+      "scrolls": false
+    },
+    "invite": {
+      "top": 256,
+      "bottom": 844,
+      "vh": 844,
+      "inside": true,
+      "sheet": true,
+      "actionVisible": true,
+      "scrolls": false
+    }
+  },
+  "modals-960x640": {
+    "password": {
+      "top": 77,
+      "bottom": 616,
+      "vh": 640,
+      "inside": true,
+      "sheet": null,
+      "actionVisible": true,
+      "scrolls": true
+    },
+    "invite": {
+      "top": 77,
+      "bottom": 553,
+      "vh": 640,
+      "inside": true,
+      "sheet": null,
+      "actionVisible": true,
+      "scrolls": false
+    }
+  },
+  "modals-1440x900": {
+    "password": {
+      "top": 108,
+      "bottom": 652,
+      "vh": 900,
+      "inside": true,
+      "sheet": null,
+      "actionVisible": true,
+      "scrolls": false
+    },
+    "invite": {
+      "top": 108,
+      "bottom": 584,
+      "vh": 900,
+      "inside": true,
+      "sheet": null,
+      "actionVisible": true,
+      "scrolls": false
+    }
+  },
+  "reduced-motion": {
+    "first": {
+      "countUp": 0,
+      "anim": 0,
+      "long": 0
+    },
+    "afterRefresh": 0,
+    "landing": {
+      "revealOn": false,
+      "long": 0
+    }
+  },
+  "no-replay-admin-refresh": {
+    "chartAnims": 0,
+    "animClasses": 0,
+    "kpisSame": true
+  },
+  "drawer-desktop-390": "pass",
+  "desktop-960-compact-sidebar": {
+    "w": 220,
+    "menu": "none"
+  },
+  "no-replay-desktop-poll": {
+    "polls": 1,
+    "maxAnimations": 0,
+    "animClasses": 0,
+    "kpisSame": true
+  }
+}

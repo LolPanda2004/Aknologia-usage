@@ -1,0 +1,1333 @@
+[
+  {
+    "page": "landing /",
+    "theme": "light",
+    "url": "http://localhost:8080/",
+    "passes": 31,
+    "incomplete": [
+      {
+        "id": "aria-prohibited-attr",
+        "nodes": 1,
+        "detail": [
+          {
+            "target": "div[aria-label=\"Product facts\"]",
+            "summary": "Fix all of the following:\n  aria-label attribute is not well supported on a div with no valid role attribute."
+          }
+        ]
+      },
+      {
+        "id": "color-contrast",
+        "nodes": 16,
+        "detail": [
+          {
+            "target": "#top > div > div:nth-child(1) > span",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined due to a background gradient"
+          },
+          {
+            "target": "h1",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined due to a background gradient"
+          },
+          {
+            "target": "#top > div > div:nth-child(1) > p",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined due to a background gradient"
+          },
+          {
+            "target": "div:nth-child(1) > div:nth-child(5) > span:nth-child(1)",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined due to a background gradient"
+          },
+          {
+            "target": "div:nth-child(1) > div:nth-child(5) > span:nth-child(2)",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined due to a background gradient"
+          },
+          {
+            "target": "div:nth-child(1) > div:nth-child(5) > span:nth-child(3)",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined due to a background gradient"
+          },
+          {
+            "target": "text",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because it is overlapped by another element"
+          },
+          {
+            "target": "tr:nth-child(3) > td:nth-child(3)",
+            "summary": "Fix any of the following:\n  Element content contains only non-text characters"
+          },
+          {
+            "target": "tr:nth-child(3) > td:nth-child(4)",
+            "summary": "Fix any of the following:\n  Element content contains only non-text characters"
+          },
+          {
+            "target": "tr:nth-child(3) > td:nth-child(5)",
+            "summary": "Fix any of the following:\n  Element content contains only non-text characters"
+          },
+          {
+            "target": "tr:nth-child(5) > td:nth-child(4)",
+            "summary": "Fix any of the following:\n  Element content contains only non-text characters"
+          },
+          {
+            "target": "tr:nth-child(5) > td:nth-child(5)",
+            "summary": "Fix any of the following:\n  Element content contains only non-text characters"
+          },
+          {
+            "target": "tr:nth-child(6) > td:nth-child(3)",
+            "summary": "Fix any of the following:\n  Element content contains only non-text characters"
+          },
+          {
+            "target": "tr:nth-child(6) > td:nth-child(4)",
+            "summary": "Fix any of the following:\n  Element content contains only non-text characters"
+          },
+          {
+            "target": "tr:nth-child(6) > td:nth-child(5)",
+            "summary": "Fix any of the following:\n  Element content contains only non-text characters"
+          },
+          {
+            "target": "tr:nth-child(7) > td:nth-child(5)",
+            "summary": "Fix any of the following:\n  Element content contains only non-text characters"
+          }
+        ]
+      }
+    ],
+    "violations": []
+  },
+  {
+    "page": "download /download/",
+    "theme": "light",
+    "url": "http://localhost:8080/download/",
+    "passes": 12,
+    "incomplete": [],
+    "violations": []
+  },
+  {
+    "page": "admin sign in",
+    "theme": "light",
+    "url": "http://localhost:8080/app/#/",
+    "passes": 27,
+    "incomplete": [
+      {
+        "id": "color-contrast",
+        "nodes": 21,
+        "detail": [
+          {
+            "target": ".chip[aria-hidden=\"true\"]:nth-child(2) > .muted",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because it is overlapped by another element"
+          },
+          {
+            "target": ".chip[aria-hidden=\"true\"]:nth-child(2) > .mono",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because it is overlapped by another element"
+          },
+          {
+            "target": ".chip[aria-hidden=\"true\"]:nth-child(3) > .muted",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because it is overlapped by another element"
+          },
+          {
+            "target": ".chip[aria-hidden=\"true\"]:nth-child(3) > .mono",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because it is overlapped by another element"
+          },
+          {
+            "target": ".chip[aria-hidden=\"true\"]:nth-child(4) > span:nth-child(2)",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because it is overlapped by another element"
+          },
+          {
+            "target": ".display",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because element contains an image node"
+          },
+          {
+            "target": "span:nth-child(2) > .muted",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because element contains an image node"
+          },
+          {
+            "target": ".btn-ghost.btn[href$=\"/#pricing\"]",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because element contains an image node"
+          },
+          {
+            "target": ".btn-ghost.btn[href$=\"/#demo\"]",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because element contains an image node"
+          },
+          {
+            "target": ".btn-ghost.btn[href=\"/\"]",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because element contains an image node"
+          },
+          {
+            "target": ".text2:nth-child(2) > span:nth-child(1)",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because element contains an image node"
+          },
+          {
+            "target": ".text2:nth-child(2) > span:nth-child(2)",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because element contains an image node"
+          },
+          {
+            "target": ".text2:nth-child(2) > span:nth-child(3)",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because element contains an image node"
+          },
+          {
+            "target": ".text2:nth-child(3)",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because element contains an image node"
+          },
+          {
+            "target": ".text2:nth-child(3) > a[href$=\"/#pricing\"][target=\"_blank\"][rel=\"noreferrer\"]",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because element contains an image node"
+          },
+          {
+            "target": ".text2:nth-child(3) > a[href$=\"/#demo\"][target=\"_blank\"][rel=\"noreferrer\"]",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because element contains an image node"
+          },
+          {
+            "target": "footer > span:nth-child(1)",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because it is overlapped by another element"
+          },
+          {
+            "target": "a[href$=\"/#privacy\"]",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because it is overlapped by another element"
+          },
+          {
+            "target": "a[href$=\"/#terms\"]",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because it is overlapped by another element"
+          },
+          {
+            "target": "a[href$=\"/#status\"]",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because it is overlapped by another element"
+          },
+          {
+            "target": "footer > span:nth-child(2) > span",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined due to a background gradient"
+          }
+        ]
+      }
+    ],
+    "violations": []
+  },
+  {
+    "page": "admin create workspace",
+    "theme": "light",
+    "url": "http://localhost:8080/app/#/signup",
+    "passes": 28,
+    "incomplete": [
+      {
+        "id": "aria-prohibited-attr",
+        "nodes": 1,
+        "detail": [
+          {
+            "target": ".checklist",
+            "summary": "Fix all of the following:\n  aria-label attribute is not well supported on a div with no valid role attribute."
+          }
+        ]
+      },
+      {
+        "id": "color-contrast",
+        "nodes": 21,
+        "detail": [
+          {
+            "target": ".chip[aria-hidden=\"true\"]:nth-child(2) > .muted",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because it is overlapped by another element"
+          },
+          {
+            "target": ".chip[aria-hidden=\"true\"]:nth-child(2) > .mono",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because it is overlapped by another element"
+          },
+          {
+            "target": ".chip[aria-hidden=\"true\"]:nth-child(3) > .muted",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because it is overlapped by another element"
+          },
+          {
+            "target": ".chip[aria-hidden=\"true\"]:nth-child(3) > .mono",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because it is overlapped by another element"
+          },
+          {
+            "target": ".chip[aria-hidden=\"true\"]:nth-child(4) > span:nth-child(2)",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because it is overlapped by another element"
+          },
+          {
+            "target": ".display",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because element contains an image node"
+          },
+          {
+            "target": "span:nth-child(2) > .muted",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because element contains an image node"
+          },
+          {
+            "target": ".btn-ghost.btn[href$=\"/#pricing\"]",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because element contains an image node"
+          },
+          {
+            "target": ".btn-ghost.btn[href$=\"/#demo\"]",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because element contains an image node"
+          },
+          {
+            "target": ".btn-ghost.btn[href=\"/\"]",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because element contains an image node"
+          },
+          {
+            "target": ".text2:nth-child(2) > span:nth-child(1)",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because element contains an image node"
+          },
+          {
+            "target": ".text2:nth-child(2) > span:nth-child(2)",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because element contains an image node"
+          },
+          {
+            "target": ".text2:nth-child(2) > span:nth-child(3)",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because element contains an image node"
+          },
+          {
+            "target": ".text2:nth-child(3)",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because element contains an image node"
+          },
+          {
+            "target": ".text2:nth-child(3) > a[href$=\"/#pricing\"][target=\"_blank\"][rel=\"noreferrer\"]",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because element contains an image node"
+          },
+          {
+            "target": ".text2:nth-child(3) > a[href$=\"/#demo\"][target=\"_blank\"][rel=\"noreferrer\"]",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because element contains an image node"
+          },
+          {
+            "target": "footer > span:nth-child(1)",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because it is overlapped by another element"
+          },
+          {
+            "target": "a[href$=\"/#privacy\"]",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because it is overlapped by another element"
+          },
+          {
+            "target": "a[href$=\"/#terms\"]",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because it is overlapped by another element"
+          },
+          {
+            "target": "a[href$=\"/#status\"]",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because it is overlapped by another element"
+          },
+          {
+            "target": "footer > span:nth-child(2) > span",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined due to a background gradient"
+          }
+        ]
+      }
+    ],
+    "violations": []
+  },
+  {
+    "page": "admin accept invite",
+    "theme": "light",
+    "url": "http://localhost:8080/app/#/accept",
+    "passes": 22,
+    "incomplete": [
+      {
+        "id": "aria-prohibited-attr",
+        "nodes": 1,
+        "detail": [
+          {
+            "target": ".checklist",
+            "summary": "Fix all of the following:\n  aria-label attribute is not well supported on a div with no valid role attribute."
+          }
+        ]
+      },
+      {
+        "id": "color-contrast",
+        "nodes": 21,
+        "detail": [
+          {
+            "target": ".chip:nth-child(2) > .muted",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because it is overlapped by another element"
+          },
+          {
+            "target": ".chip:nth-child(2) > .mono",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because it is overlapped by another element"
+          },
+          {
+            "target": ".chip:nth-child(3) > .muted",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because it is overlapped by another element"
+          },
+          {
+            "target": ".chip:nth-child(3) > .mono",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because it is overlapped by another element"
+          },
+          {
+            "target": ".chip:nth-child(4) > span:nth-child(2)",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because it is overlapped by another element"
+          },
+          {
+            "target": ".display",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because element contains an image node"
+          },
+          {
+            "target": "span:nth-child(2) > .muted",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because element contains an image node"
+          },
+          {
+            "target": ".btn-ghost.btn[href$=\"/#pricing\"]",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because element contains an image node"
+          },
+          {
+            "target": ".btn-ghost.btn[href$=\"/#demo\"]",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because element contains an image node"
+          },
+          {
+            "target": ".btn-ghost.btn[href=\"/\"]",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because element contains an image node"
+          },
+          {
+            "target": ".text2:nth-child(2) > span:nth-child(1)",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because element contains an image node"
+          },
+          {
+            "target": ".text2:nth-child(2) > span:nth-child(2)",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because element contains an image node"
+          },
+          {
+            "target": ".text2:nth-child(2) > span:nth-child(3)",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because element contains an image node"
+          },
+          {
+            "target": ".text2:nth-child(3)",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because element contains an image node"
+          },
+          {
+            "target": ".text2:nth-child(3) > a[href$=\"/#pricing\"][target=\"_blank\"][rel=\"noreferrer\"]",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because element contains an image node"
+          },
+          {
+            "target": ".text2:nth-child(3) > a[href$=\"/#demo\"][target=\"_blank\"][rel=\"noreferrer\"]",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because element contains an image node"
+          },
+          {
+            "target": "footer > span:nth-child(1)",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because it is overlapped by another element"
+          },
+          {
+            "target": "a[href$=\"/#privacy\"]",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because it is overlapped by another element"
+          },
+          {
+            "target": "a[href$=\"/#terms\"]",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because it is overlapped by another element"
+          },
+          {
+            "target": "a[href$=\"/#status\"]",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because it is overlapped by another element"
+          },
+          {
+            "target": "footer > span:nth-child(2) > span",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined due to a background gradient"
+          }
+        ]
+      }
+    ],
+    "violations": []
+  },
+  {
+    "page": "admin forgot password",
+    "theme": "light",
+    "url": "http://localhost:8080/app/#/",
+    "passes": 23,
+    "incomplete": [
+      {
+        "id": "color-contrast",
+        "nodes": 21,
+        "detail": [
+          {
+            "target": ".chip:nth-child(2) > .muted",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because it is overlapped by another element"
+          },
+          {
+            "target": ".chip:nth-child(2) > .mono",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because it is overlapped by another element"
+          },
+          {
+            "target": ".chip:nth-child(3) > .muted",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because it is overlapped by another element"
+          },
+          {
+            "target": ".chip:nth-child(3) > .mono",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because it is overlapped by another element"
+          },
+          {
+            "target": ".chip:nth-child(4) > span:nth-child(2)",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because it is overlapped by another element"
+          },
+          {
+            "target": ".display",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because element contains an image node"
+          },
+          {
+            "target": "span:nth-child(2) > .muted",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because element contains an image node"
+          },
+          {
+            "target": ".btn-ghost.btn[href$=\"/#pricing\"]",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because element contains an image node"
+          },
+          {
+            "target": ".btn-ghost.btn[href$=\"/#demo\"]",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because element contains an image node"
+          },
+          {
+            "target": ".btn-ghost.btn[href=\"/\"]",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because element contains an image node"
+          },
+          {
+            "target": ".text2:nth-child(2) > span:nth-child(1)",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because element contains an image node"
+          },
+          {
+            "target": ".text2:nth-child(2) > span:nth-child(2)",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because element contains an image node"
+          },
+          {
+            "target": ".text2:nth-child(2) > span:nth-child(3)",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because element contains an image node"
+          },
+          {
+            "target": ".text2:nth-child(3)",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because element contains an image node"
+          },
+          {
+            "target": ".text2:nth-child(3) > a[href$=\"/#pricing\"][target=\"_blank\"][rel=\"noreferrer\"]",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because element contains an image node"
+          },
+          {
+            "target": ".text2:nth-child(3) > a[href$=\"/#demo\"][target=\"_blank\"][rel=\"noreferrer\"]",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because element contains an image node"
+          },
+          {
+            "target": "footer > span:nth-child(1)",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because it is overlapped by another element"
+          },
+          {
+            "target": "a[href$=\"/#privacy\"]",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because it is overlapped by another element"
+          },
+          {
+            "target": "a[href$=\"/#terms\"]",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because it is overlapped by another element"
+          },
+          {
+            "target": "a[href$=\"/#status\"]",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because it is overlapped by another element"
+          },
+          {
+            "target": "footer > span:nth-child(2) > span",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined due to a background gradient"
+          }
+        ]
+      }
+    ],
+    "violations": []
+  },
+  {
+    "page": "admin overview",
+    "theme": "light",
+    "url": "http://localhost:8080/app/#/",
+    "passes": 27,
+    "incomplete": [],
+    "violations": []
+  },
+  {
+    "page": "admin members",
+    "theme": "light",
+    "url": "http://localhost:8080/app/#/members",
+    "passes": 25,
+    "incomplete": [],
+    "violations": []
+  },
+  {
+    "page": "admin member detail",
+    "theme": "light",
+    "url": "http://localhost:8080/app/#/members/fe40c71f-740b-4a46-96b2-6074aebf1a7b",
+    "passes": 22,
+    "incomplete": [],
+    "violations": []
+  },
+  {
+    "page": "admin budgets",
+    "theme": "light",
+    "url": "http://localhost:8080/app/#/budgets",
+    "passes": 26,
+    "incomplete": [],
+    "violations": []
+  },
+  {
+    "page": "admin support",
+    "theme": "light",
+    "url": "http://localhost:8080/app/#/support",
+    "passes": 25,
+    "incomplete": [],
+    "violations": []
+  },
+  {
+    "page": "admin settings",
+    "theme": "light",
+    "url": "http://localhost:8080/app/#/settings",
+    "passes": 25,
+    "incomplete": [],
+    "violations": []
+  },
+  {
+    "page": "modal: invite members",
+    "theme": "light",
+    "url": "http://localhost:8080/app/#/members",
+    "passes": 27,
+    "incomplete": [
+      {
+        "id": "color-contrast",
+        "nodes": 1,
+        "detail": [
+          {
+            "target": ".modal > .text2",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because it partially overlaps other elements"
+          }
+        ]
+      }
+    ],
+    "violations": []
+  },
+  {
+    "page": "modal: remove member",
+    "theme": "light",
+    "url": "http://localhost:8080/app/#/members",
+    "passes": 28,
+    "incomplete": [
+      {
+        "id": "color-contrast",
+        "nodes": 2,
+        "detail": [
+          {
+            "target": "li:nth-child(2)",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because it partially overlaps other elements"
+          },
+          {
+            "target": "li:nth-child(3)",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because it partially overlaps other elements"
+          }
+        ]
+      }
+    ],
+    "violations": []
+  },
+  {
+    "page": "modal: member budget",
+    "theme": "light",
+    "url": "http://localhost:8080/app/#/members",
+    "passes": 26,
+    "incomplete": [],
+    "violations": []
+  },
+  {
+    "page": "modal: change plan",
+    "theme": "light",
+    "url": "http://localhost:8080/app/#/settings",
+    "passes": 25,
+    "incomplete": [],
+    "violations": []
+  },
+  {
+    "page": "modal: change password",
+    "theme": "light",
+    "url": "http://localhost:8080/app/#/settings",
+    "passes": 26,
+    "incomplete": [
+      {
+        "id": "aria-prohibited-attr",
+        "nodes": 1,
+        "detail": [
+          {
+            "target": ".checklist",
+            "summary": "Fix all of the following:\n  aria-label attribute is not well supported on a div with no valid role attribute."
+          }
+        ]
+      }
+    ],
+    "violations": []
+  },
+  {
+    "page": "tour step 1",
+    "theme": "light",
+    "url": "http://localhost:8080/app/#/",
+    "passes": 27,
+    "incomplete": [
+      {
+        "id": "color-contrast",
+        "nodes": 1,
+        "detail": [
+          {
+            "target": ".tour-card > span:nth-child(1)",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because it partially overlaps other elements"
+          }
+        ]
+      }
+    ],
+    "violations": []
+  },
+  {
+    "page": "landing /",
+    "theme": "dark",
+    "url": "http://localhost:8080/",
+    "passes": 31,
+    "incomplete": [
+      {
+        "id": "aria-prohibited-attr",
+        "nodes": 1,
+        "detail": [
+          {
+            "target": "div[aria-label=\"Product facts\"]",
+            "summary": "Fix all of the following:\n  aria-label attribute is not well supported on a div with no valid role attribute."
+          }
+        ]
+      },
+      {
+        "id": "color-contrast",
+        "nodes": 16,
+        "detail": [
+          {
+            "target": "#top > div > div:nth-child(1) > span",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined due to a background gradient"
+          },
+          {
+            "target": "h1",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined due to a background gradient"
+          },
+          {
+            "target": "#top > div > div:nth-child(1) > p",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined due to a background gradient"
+          },
+          {
+            "target": "div:nth-child(1) > div:nth-child(5) > span:nth-child(1)",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined due to a background gradient"
+          },
+          {
+            "target": "div:nth-child(1) > div:nth-child(5) > span:nth-child(2)",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined due to a background gradient"
+          },
+          {
+            "target": "div:nth-child(1) > div:nth-child(5) > span:nth-child(3)",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined due to a background gradient"
+          },
+          {
+            "target": "text",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because it is overlapped by another element"
+          },
+          {
+            "target": "tr:nth-child(3) > td:nth-child(3)",
+            "summary": "Fix any of the following:\n  Element content contains only non-text characters"
+          },
+          {
+            "target": "tr:nth-child(3) > td:nth-child(4)",
+            "summary": "Fix any of the following:\n  Element content contains only non-text characters"
+          },
+          {
+            "target": "tr:nth-child(3) > td:nth-child(5)",
+            "summary": "Fix any of the following:\n  Element content contains only non-text characters"
+          },
+          {
+            "target": "tr:nth-child(5) > td:nth-child(4)",
+            "summary": "Fix any of the following:\n  Element content contains only non-text characters"
+          },
+          {
+            "target": "tr:nth-child(5) > td:nth-child(5)",
+            "summary": "Fix any of the following:\n  Element content contains only non-text characters"
+          },
+          {
+            "target": "tr:nth-child(6) > td:nth-child(3)",
+            "summary": "Fix any of the following:\n  Element content contains only non-text characters"
+          },
+          {
+            "target": "tr:nth-child(6) > td:nth-child(4)",
+            "summary": "Fix any of the following:\n  Element content contains only non-text characters"
+          },
+          {
+            "target": "tr:nth-child(6) > td:nth-child(5)",
+            "summary": "Fix any of the following:\n  Element content contains only non-text characters"
+          },
+          {
+            "target": "tr:nth-child(7) > td:nth-child(5)",
+            "summary": "Fix any of the following:\n  Element content contains only non-text characters"
+          }
+        ]
+      }
+    ],
+    "violations": [
+      {
+        "id": "color-contrast",
+        "impact": "serious",
+        "help": "Elements must meet minimum color contrast ratio thresholds",
+        "tags": [
+          "wcag2aa",
+          "wcag143"
+        ],
+        "nodes": [
+          {
+            "target": "section:nth-child(11) > div > div:nth-child(1) > span",
+            "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.98 (foreground color: #cdebdf, background color: #1e7d5e, font size: 13.5pt (18px), font weight: normal). Expected contrast ratio of 4.5:1",
+            "html": "<span style=\"font-size: 18px; color: var(--cta-sub)\">Start free with three members, or book a demo for the whole team.</span>"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page": "download /download/",
+    "theme": "dark",
+    "url": "http://localhost:8080/download/",
+    "passes": 12,
+    "incomplete": [],
+    "violations": []
+  },
+  {
+    "page": "admin sign in",
+    "theme": "dark",
+    "url": "http://localhost:8080/app/#/",
+    "passes": 27,
+    "incomplete": [
+      {
+        "id": "color-contrast",
+        "nodes": 21,
+        "detail": [
+          {
+            "target": ".chip[aria-hidden=\"true\"]:nth-child(2) > .muted",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because it is overlapped by another element"
+          },
+          {
+            "target": ".chip[aria-hidden=\"true\"]:nth-child(2) > .mono",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because it is overlapped by another element"
+          },
+          {
+            "target": ".chip[aria-hidden=\"true\"]:nth-child(3) > .muted",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because it is overlapped by another element"
+          },
+          {
+            "target": ".chip[aria-hidden=\"true\"]:nth-child(3) > .mono",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because it is overlapped by another element"
+          },
+          {
+            "target": ".chip[aria-hidden=\"true\"]:nth-child(4) > span:nth-child(2)",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because it is overlapped by another element"
+          },
+          {
+            "target": ".display",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because element contains an image node"
+          },
+          {
+            "target": "span:nth-child(2) > .muted",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because element contains an image node"
+          },
+          {
+            "target": ".btn-ghost.btn[href$=\"/#pricing\"]",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because element contains an image node"
+          },
+          {
+            "target": ".btn-ghost.btn[href$=\"/#demo\"]",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because element contains an image node"
+          },
+          {
+            "target": ".btn-ghost.btn[href=\"/\"]",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because element contains an image node"
+          },
+          {
+            "target": ".text2:nth-child(2) > span:nth-child(1)",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because element contains an image node"
+          },
+          {
+            "target": ".text2:nth-child(2) > span:nth-child(2)",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because element contains an image node"
+          },
+          {
+            "target": ".text2:nth-child(2) > span:nth-child(3)",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because element contains an image node"
+          },
+          {
+            "target": ".text2:nth-child(3)",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because element contains an image node"
+          },
+          {
+            "target": ".text2:nth-child(3) > a[href$=\"/#pricing\"][target=\"_blank\"][rel=\"noreferrer\"]",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because element contains an image node"
+          },
+          {
+            "target": ".text2:nth-child(3) > a[href$=\"/#demo\"][target=\"_blank\"][rel=\"noreferrer\"]",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because element contains an image node"
+          },
+          {
+            "target": "footer > span:nth-child(1)",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because it is overlapped by another element"
+          },
+          {
+            "target": "a[href$=\"/#privacy\"]",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because it is overlapped by another element"
+          },
+          {
+            "target": "a[href$=\"/#terms\"]",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because it is overlapped by another element"
+          },
+          {
+            "target": "a[href$=\"/#status\"]",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because it is overlapped by another element"
+          },
+          {
+            "target": "footer > span:nth-child(2) > span",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined due to a background gradient"
+          }
+        ]
+      }
+    ],
+    "violations": []
+  },
+  {
+    "page": "admin create workspace",
+    "theme": "dark",
+    "url": "http://localhost:8080/app/#/signup",
+    "passes": 28,
+    "incomplete": [
+      {
+        "id": "aria-prohibited-attr",
+        "nodes": 1,
+        "detail": [
+          {
+            "target": ".checklist",
+            "summary": "Fix all of the following:\n  aria-label attribute is not well supported on a div with no valid role attribute."
+          }
+        ]
+      },
+      {
+        "id": "color-contrast",
+        "nodes": 21,
+        "detail": [
+          {
+            "target": ".chip[aria-hidden=\"true\"]:nth-child(2) > .muted",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because it is overlapped by another element"
+          },
+          {
+            "target": ".chip[aria-hidden=\"true\"]:nth-child(2) > .mono",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because it is overlapped by another element"
+          },
+          {
+            "target": ".chip[aria-hidden=\"true\"]:nth-child(3) > .muted",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because it is overlapped by another element"
+          },
+          {
+            "target": ".chip[aria-hidden=\"true\"]:nth-child(3) > .mono",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because it is overlapped by another element"
+          },
+          {
+            "target": ".chip[aria-hidden=\"true\"]:nth-child(4) > span:nth-child(2)",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because it is overlapped by another element"
+          },
+          {
+            "target": ".display",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because element contains an image node"
+          },
+          {
+            "target": "span:nth-child(2) > .muted",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because element contains an image node"
+          },
+          {
+            "target": ".btn-ghost.btn[href$=\"/#pricing\"]",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because element contains an image node"
+          },
+          {
+            "target": ".btn-ghost.btn[href$=\"/#demo\"]",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because element contains an image node"
+          },
+          {
+            "target": ".btn-ghost.btn[href=\"/\"]",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because element contains an image node"
+          },
+          {
+            "target": ".text2:nth-child(2) > span:nth-child(1)",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because element contains an image node"
+          },
+          {
+            "target": ".text2:nth-child(2) > span:nth-child(2)",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because element contains an image node"
+          },
+          {
+            "target": ".text2:nth-child(2) > span:nth-child(3)",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because element contains an image node"
+          },
+          {
+            "target": ".text2:nth-child(3)",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because element contains an image node"
+          },
+          {
+            "target": ".text2:nth-child(3) > a[href$=\"/#pricing\"][target=\"_blank\"][rel=\"noreferrer\"]",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because element contains an image node"
+          },
+          {
+            "target": ".text2:nth-child(3) > a[href$=\"/#demo\"][target=\"_blank\"][rel=\"noreferrer\"]",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because element contains an image node"
+          },
+          {
+            "target": "footer > span:nth-child(1)",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because it is overlapped by another element"
+          },
+          {
+            "target": "a[href$=\"/#privacy\"]",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because it is overlapped by another element"
+          },
+          {
+            "target": "a[href$=\"/#terms\"]",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because it is overlapped by another element"
+          },
+          {
+            "target": "a[href$=\"/#status\"]",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because it is overlapped by another element"
+          },
+          {
+            "target": "footer > span:nth-child(2) > span",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined due to a background gradient"
+          }
+        ]
+      }
+    ],
+    "violations": []
+  },
+  {
+    "page": "admin accept invite",
+    "theme": "dark",
+    "url": "http://localhost:8080/app/#/accept",
+    "passes": 22,
+    "incomplete": [
+      {
+        "id": "aria-prohibited-attr",
+        "nodes": 1,
+        "detail": [
+          {
+            "target": ".checklist",
+            "summary": "Fix all of the following:\n  aria-label attribute is not well supported on a div with no valid role attribute."
+          }
+        ]
+      },
+      {
+        "id": "color-contrast",
+        "nodes": 21,
+        "detail": [
+          {
+            "target": ".chip:nth-child(2) > .muted",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because it is overlapped by another element"
+          },
+          {
+            "target": ".chip:nth-child(2) > .mono",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because it is overlapped by another element"
+          },
+          {
+            "target": ".chip:nth-child(3) > .muted",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because it is overlapped by another element"
+          },
+          {
+            "target": ".chip:nth-child(3) > .mono",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because it is overlapped by another element"
+          },
+          {
+            "target": ".chip:nth-child(4) > span:nth-child(2)",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because it is overlapped by another element"
+          },
+          {
+            "target": ".display",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because element contains an image node"
+          },
+          {
+            "target": "span:nth-child(2) > .muted",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because element contains an image node"
+          },
+          {
+            "target": ".btn-ghost.btn[href$=\"/#pricing\"]",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because element contains an image node"
+          },
+          {
+            "target": ".btn-ghost.btn[href$=\"/#demo\"]",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because element contains an image node"
+          },
+          {
+            "target": ".btn-ghost.btn[href=\"/\"]",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because element contains an image node"
+          },
+          {
+            "target": ".text2:nth-child(2) > span:nth-child(1)",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because element contains an image node"
+          },
+          {
+            "target": ".text2:nth-child(2) > span:nth-child(2)",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because element contains an image node"
+          },
+          {
+            "target": ".text2:nth-child(2) > span:nth-child(3)",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because element contains an image node"
+          },
+          {
+            "target": ".text2:nth-child(3)",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because element contains an image node"
+          },
+          {
+            "target": ".text2:nth-child(3) > a[href$=\"/#pricing\"][target=\"_blank\"][rel=\"noreferrer\"]",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because element contains an image node"
+          },
+          {
+            "target": ".text2:nth-child(3) > a[href$=\"/#demo\"][target=\"_blank\"][rel=\"noreferrer\"]",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because element contains an image node"
+          },
+          {
+            "target": "footer > span:nth-child(1)",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because it is overlapped by another element"
+          },
+          {
+            "target": "a[href$=\"/#privacy\"]",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because it is overlapped by another element"
+          },
+          {
+            "target": "a[href$=\"/#terms\"]",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because it is overlapped by another element"
+          },
+          {
+            "target": "a[href$=\"/#status\"]",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because it is overlapped by another element"
+          },
+          {
+            "target": "footer > span:nth-child(2) > span",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined due to a background gradient"
+          }
+        ]
+      }
+    ],
+    "violations": []
+  },
+  {
+    "page": "admin forgot password",
+    "theme": "dark",
+    "url": "http://localhost:8080/app/#/",
+    "passes": 23,
+    "incomplete": [
+      {
+        "id": "color-contrast",
+        "nodes": 21,
+        "detail": [
+          {
+            "target": ".chip:nth-child(2) > .muted",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because it is overlapped by another element"
+          },
+          {
+            "target": ".chip:nth-child(2) > .mono",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because it is overlapped by another element"
+          },
+          {
+            "target": ".chip:nth-child(3) > .muted",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because it is overlapped by another element"
+          },
+          {
+            "target": ".chip:nth-child(3) > .mono",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because it is overlapped by another element"
+          },
+          {
+            "target": ".chip:nth-child(4) > span:nth-child(2)",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because it is overlapped by another element"
+          },
+          {
+            "target": ".display",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because element contains an image node"
+          },
+          {
+            "target": "span:nth-child(2) > .muted",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because element contains an image node"
+          },
+          {
+            "target": ".btn-ghost.btn[href$=\"/#pricing\"]",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because element contains an image node"
+          },
+          {
+            "target": ".btn-ghost.btn[href$=\"/#demo\"]",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because element contains an image node"
+          },
+          {
+            "target": ".btn-ghost.btn[href=\"/\"]",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because element contains an image node"
+          },
+          {
+            "target": ".text2:nth-child(2) > span:nth-child(1)",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because element contains an image node"
+          },
+          {
+            "target": ".text2:nth-child(2) > span:nth-child(2)",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because element contains an image node"
+          },
+          {
+            "target": ".text2:nth-child(2) > span:nth-child(3)",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because element contains an image node"
+          },
+          {
+            "target": ".text2:nth-child(3)",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because element contains an image node"
+          },
+          {
+            "target": ".text2:nth-child(3) > a[href$=\"/#pricing\"][target=\"_blank\"][rel=\"noreferrer\"]",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because element contains an image node"
+          },
+          {
+            "target": ".text2:nth-child(3) > a[href$=\"/#demo\"][target=\"_blank\"][rel=\"noreferrer\"]",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because element contains an image node"
+          },
+          {
+            "target": "footer > span:nth-child(1)",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because it is overlapped by another element"
+          },
+          {
+            "target": "a[href$=\"/#privacy\"]",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because it is overlapped by another element"
+          },
+          {
+            "target": "a[href$=\"/#terms\"]",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because it is overlapped by another element"
+          },
+          {
+            "target": "a[href$=\"/#status\"]",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because it is overlapped by another element"
+          },
+          {
+            "target": "footer > span:nth-child(2) > span",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined due to a background gradient"
+          }
+        ]
+      }
+    ],
+    "violations": []
+  },
+  {
+    "page": "admin overview",
+    "theme": "dark",
+    "url": "http://localhost:8080/app/#/",
+    "passes": 27,
+    "incomplete": [],
+    "violations": []
+  },
+  {
+    "page": "admin members",
+    "theme": "dark",
+    "url": "http://localhost:8080/app/#/members",
+    "passes": 25,
+    "incomplete": [],
+    "violations": []
+  },
+  {
+    "page": "admin member detail",
+    "theme": "dark",
+    "url": "http://localhost:8080/app/#/members/fe40c71f-740b-4a46-96b2-6074aebf1a7b",
+    "passes": 22,
+    "incomplete": [],
+    "violations": []
+  },
+  {
+    "page": "admin budgets",
+    "theme": "dark",
+    "url": "http://localhost:8080/app/#/budgets",
+    "passes": 26,
+    "incomplete": [],
+    "violations": []
+  },
+  {
+    "page": "admin support",
+    "theme": "dark",
+    "url": "http://localhost:8080/app/#/support",
+    "passes": 25,
+    "incomplete": [],
+    "violations": []
+  },
+  {
+    "page": "admin settings",
+    "theme": "dark",
+    "url": "http://localhost:8080/app/#/settings",
+    "passes": 25,
+    "incomplete": [],
+    "violations": []
+  },
+  {
+    "page": "modal: invite members",
+    "theme": "dark",
+    "url": "http://localhost:8080/app/#/members",
+    "passes": 27,
+    "incomplete": [
+      {
+        "id": "color-contrast",
+        "nodes": 1,
+        "detail": [
+          {
+            "target": ".modal > .text2",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because it partially overlaps other elements"
+          }
+        ]
+      }
+    ],
+    "violations": []
+  },
+  {
+    "page": "modal: remove member",
+    "theme": "dark",
+    "url": "http://localhost:8080/app/#/members",
+    "passes": 28,
+    "incomplete": [
+      {
+        "id": "color-contrast",
+        "nodes": 2,
+        "detail": [
+          {
+            "target": "li:nth-child(2)",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because it partially overlaps other elements"
+          },
+          {
+            "target": "li:nth-child(3)",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because it partially overlaps other elements"
+          }
+        ]
+      }
+    ],
+    "violations": []
+  },
+  {
+    "page": "modal: member budget",
+    "theme": "dark",
+    "url": "http://localhost:8080/app/#/members",
+    "passes": 26,
+    "incomplete": [],
+    "violations": []
+  },
+  {
+    "page": "modal: change plan",
+    "theme": "dark",
+    "url": "http://localhost:8080/app/#/settings",
+    "passes": 25,
+    "incomplete": [],
+    "violations": []
+  },
+  {
+    "page": "modal: change password",
+    "theme": "dark",
+    "url": "http://localhost:8080/app/#/settings",
+    "passes": 26,
+    "incomplete": [
+      {
+        "id": "aria-prohibited-attr",
+        "nodes": 1,
+        "detail": [
+          {
+            "target": ".checklist",
+            "summary": "Fix all of the following:\n  aria-label attribute is not well supported on a div with no valid role attribute."
+          }
+        ]
+      }
+    ],
+    "violations": []
+  },
+  {
+    "page": "tour step 1",
+    "theme": "dark",
+    "url": "http://localhost:8080/app/#/",
+    "passes": 27,
+    "incomplete": [
+      {
+        "id": "color-contrast",
+        "nodes": 1,
+        "detail": [
+          {
+            "target": ".tour-card > span:nth-child(1)",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined because it partially overlaps other elements"
+          }
+        ]
+      }
+    ],
+    "violations": []
+  }
+]

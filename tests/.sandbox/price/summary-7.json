@@ -1,0 +1,807 @@
+{
+    "days":  7,
+    "from":  "2026-10-04T00:00:00+05:30",
+    "activeHours":  13.1,
+    "prevActiveHours":  4.2,
+    "cost":  292.58,
+    "tokens":  828168305,
+    "cacheShare":  98,
+    "saved":  3042.37,
+    "sessions":  9,
+    "sessionsByTool":  {
+                           "claude_code":  9
+                       },
+    "costByTool":  {
+                       "claude_code":  292.58
+                   },
+    "daily":  [
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-10-04",
+                      "label":  "Sun"
+                  },
+                  {
+                      "activeHours":  5.4,
+                      "claude":  97.78,
+                      "codex":  0,
+                      "day":  "2026-10-05",
+                      "label":  "Mon"
+                  },
+                  {
+                      "activeHours":  4,
+                      "claude":  91.7,
+                      "codex":  0,
+                      "day":  "2026-10-06",
+                      "label":  "Tue"
+                  },
+                  {
+                      "activeHours":  0.5,
+                      "claude":  12.59,
+                      "codex":  0,
+                      "day":  "2026-10-07",
+                      "label":  "Wed"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-10-08",
+                      "label":  "Thu"
+                  },
+                  {
+                      "activeHours":  0.2,
+                      "claude":  4.42,
+                      "codex":  0,
+                      "day":  "2026-10-09",
+                      "label":  "Fri"
+                  },
+                  {
+                      "activeHours":  3.1,
+                      "claude":  86.1,
+                      "codex":  0,
+                      "day":  "2026-10-10",
+                      "label":  "Sat"
+                  }
+              ],
+    "heat":  [
+                 [
+                     0,
+                     0,
+                     0,
+                     0,
+                     0,
+                     1,
+                     4,
+                     0,
+                     0,
+                     0,
+                     0,
+                     0
+                 ],
+                 [
+                     0,
+                     0,
+                     0,
+                     0,
+                     0,
+                     4,
+                     0,
+                     0,
+                     0,
+                     0,
+                     0,
+                     0
+                 ],
+                 [
+                     0,
+                     0,
+                     0,
+                     0,
+                     0,
+                     1,
+                     1,
+                     1,
+                     0,
+                     0,
+                     0,
+                     0
+                 ],
+                 [
+                     0,
+                     0,
+                     0,
+                     0,
+                     0,
+                     0,
+                     0,
+                     0,
+                     0,
+                     0,
+                     0,
+                     0
+                 ],
+                 [
+                     0,
+                     0,
+                     0,
+                     0,
+                     0,
+                     0,
+                     0,
+                     0,
+                     1,
+                     0,
+                     0,
+                     0
+                 ],
+                 [
+                     0,
+                     0,
+                     0,
+                     0,
+                     0,
+                     3,
+                     0,
+                     0,
+                     0,
+                     0,
+                     0,
+                     0
+                 ],
+                 [
+                     0,
+                     0,
+                     0,
+                     0,
+                     0,
+                     0,
+                     0,
+                     0,
+                     0,
+                     0,
+                     0,
+                     0
+                 ]
+             ],
+    "peak":  "Mondays, 12pm â 2pm",
+    "models":  [
+                   {
+                       "cost":  292.49,
+                       "name":  "claude-opus-5-5",
+                       "share":  100,
+                       "tool":  "claude_code"
+                   },
+                   {
+                       "cost":  0.09,
+                       "name":  "claude-sonnet-5-5",
+                       "share":  0,
+                       "tool":  "claude_code"
+                   }
+               ],
+    "projects":  [
+                     {
+                         "cost":  146.11,
+                         "hours":  9.2,
+                         "name":  "BDVue",
+                         "pct":  100
+                     },
+                     {
+                         "cost":  82.63,
+                         "hours":  3.1,
+                         "name":  "aknologia",
+                         "pct":  33
+                     },
+                     {
+                         "cost":  45.67,
+                         "hours":  0.7,
+                         "name":  "ui-reboot",
+                         "pct":  7
+                     },
+                     {
+                         "cost":  4.07,
+                         "hours":  0.2,
+                         "name":  "e2e",
+                         "pct":  2
+                     },
+                     {
+                         "cost":  0.09,
+                         "hours":  0.1,
+                         "name":  "workdir",
+                         "pct":  1
+                     }
+                 ],
+    "recent":  [
+                   {
+                       "id":  "9cb37613-cd62-4f57-ae02-44de32b82856",
+                       "tool":  "claude_code",
+                       "model":  "claude-opus-5-5",
+                       "project":  "aknologia",
+                       "start":  "2026-10-10T05:48:28.447Z",
+                       "end":  "2026-10-10T10:20:07.369Z",
+                       "activeMinutes":  183,
+                       "turns":  791,
+                       "tokens":  185676697,
+                       "cost":  86.1,
+                       "split":  [
+                                     {
+                                         "label":  "Output",
+                                         "tokens":  509278,
+                                         "cost":  10.19,
+                                         "pct":  0
+                                     },
+                                     {
+                                         "label":  "Input",
+                                         "tokens":  1598,
+                                         "cost":  0.01,
+                                         "pct":  0
+                                     },
+                                     {
+                                         "label":  "Cache write",
+                                         "tokens":  7720087,
+                                         "cost":  40.41,
+                                         "pct":  4
+                                     },
+                                     {
+                                         "label":  "Cache read",
+                                         "tokens":  177445734,
+                                         "cost":  35.49,
+                                         "pct":  96
+                                     }
+                                 ],
+                       "activity":  [
+                                        12451978,
+                                        16105754,
+                                        12164033,
+                                        4340722,
+                                        6315946,
+                                        5182523,
+                                        10487538,
+                                        3547228,
+                                        6118507,
+                                        4150723,
+                                        7368355,
+                                        11366591,
+                                        16155083,
+                                        8154320,
+                                        3313721,
+                                        2389048,
+                                        4866100,
+                                        2849210,
+                                        9705558,
+                                        3772919,
+                                        499821,
+                                        19850506,
+                                        8962108,
+                                        5558405
+                                    ],
+                       "insight":  "Cache reads carried most of the cost because the same context was re-read on many turns."
+                   },
+                   {
+                       "id":  "f5181b9b-d51c-44a1-b44d-109ba3c0a908",
+                       "tool":  "claude_code",
+                       "model":  "claude-opus-5-5",
+                       "project":  "e2e",
+                       "start":  "2026-10-09T12:05:35.441Z",
+                       "end":  "2026-10-09T12:14:32.48Z",
+                       "activeMinutes":  9,
+                       "turns":  67,
+                       "tokens":  6827645,
+                       "cost":  4.42,
+                       "split":  [
+                                     {
+                                         "label":  "Output",
+                                         "tokens":  28009,
+                                         "cost":  0.56,
+                                         "pct":  0
+                                     },
+                                     {
+                                         "label":  "Input",
+                                         "tokens":  134,
+                                         "cost":  0,
+                                         "pct":  0
+                                     },
+                                     {
+                                         "label":  "Cache write",
+                                         "tokens":  497680,
+                                         "cost":  2.6,
+                                         "pct":  7
+                                     },
+                                     {
+                                         "label":  "Cache read",
+                                         "tokens":  6301822,
+                                         "cost":  1.26,
+                                         "pct":  92
+                                     }
+                                 ],
+                       "activity":  [
+                                        99090,
+                                        102877,
+                                        60449,
+                                        61074,
+                                        61557,
+                                        0,
+                                        0,
+                                        0,
+                                        68252,
+                                        0,
+                                        450594,
+                                        711698,
+                                        970439,
+                                        683302,
+                                        287302,
+                                        247397,
+                                        441064,
+                                        148661,
+                                        565708,
+                                        788645,
+                                        286101,
+                                        159716,
+                                        0,
+                                        633719
+                                    ],
+                       "insight":  "A balanced session with most input served from cache."
+                   },
+                   {
+                       "id":  "a7e828e2-5c2c-4664-b23f-8a5bc39aa8f7",
+                       "tool":  "claude_code",
+                       "model":  "claude-opus-5-5",
+                       "project":  "ui-reboot",
+                       "start":  "2026-10-07T10:17:58.32Z",
+                       "end":  "2026-10-07T10:32:07.609Z",
+                       "activeMinutes":  15,
+                       "turns":  203,
+                       "tokens":  25486153,
+                       "cost":  8.76,
+                       "split":  [
+                                     {
+                                         "label":  "Output",
+                                         "tokens":  12093,
+                                         "cost":  0.24,
+                                         "pct":  0
+                                     },
+                                     {
+                                         "label":  "Input",
+                                         "tokens":  414,
+                                         "cost":  0,
+                                         "pct":  0
+                                     },
+                                     {
+                                         "label":  "Cache write",
+                                         "tokens":  690841,
+                                         "cost":  3.56,
+                                         "pct":  3
+                                     },
+                                     {
+                                         "label":  "Cache read",
+                                         "tokens":  24782805,
+                                         "cost":  4.96,
+                                         "pct":  97
+                                     }
+                                 ],
+                       "activity":  [
+                                        52189,
+                                        52350,
+                                        0,
+                                        52732,
+                                        108769,
+                                        476286,
+                                        376445,
+                                        326643,
+                                        938705,
+                                        1637854,
+                                        2008088,
+                                        2356562,
+                                        1714151,
+                                        1834159,
+                                        2204912,
+                                        2086380,
+                                        1860172,
+                                        2166965,
+                                        856689,
+                                        788341,
+                                        1032698,
+                                        879661,
+                                        908559,
+                                        766843
+                                    ],
+                       "insight":  "Cache reads carried most of the cost because the same context was re-read on many turns."
+                   },
+                   {
+                       "id":  "e7b53ca4-a871-4ded-9c9f-0b75c462afb8",
+                       "tool":  "claude_code",
+                       "model":  "claude-sonnet-5-5",
+                       "project":  "workdir",
+                       "start":  "2026-10-07T09:29:35.715Z",
+                       "end":  "2026-10-07T10:23:21.829Z",
+                       "activeMinutes":  1,
+                       "turns":  5,
+                       "tokens":  34650,
+                       "cost":  0.05,
+                       "split":  [
+                                     {
+                                         "label":  "Output",
+                                         "tokens":  831,
+                                         "cost":  0.01,
+                                         "pct":  2
+                                     },
+                                     {
+                                         "label":  "Input",
+                                         "tokens":  10,
+                                         "cost":  0,
+                                         "pct":  0
+                                     },
+                                     {
+                                         "label":  "Cache write",
+                                         "tokens":  14079,
+                                         "cost":  0.04,
+                                         "pct":  41
+                                     },
+                                     {
+                                         "label":  "Cache read",
+                                         "tokens":  19730,
+                                         "cost":  0,
+                                         "pct":  57
+                                     }
+                                 ],
+                       "activity":  [
+                                        19992,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        14658
+                                    ],
+                       "insight":  "A balanced session with most input served from cache."
+                   },
+                   {
+                       "id":  "8c88c840-9731-4a7d-a71a-1222406edfa1",
+                       "tool":  "claude_code",
+                       "model":  "claude-sonnet-5-5",
+                       "project":  "workdir",
+                       "start":  "2026-10-07T07:37:48.467Z",
+                       "end":  "2026-10-07T09:20:29.682Z",
+                       "activeMinutes":  2,
+                       "turns":  6,
+                       "tokens":  35489,
+                       "cost":  0.05,
+                       "split":  [
+                                     {
+                                         "label":  "Output",
+                                         "tokens":  990,
+                                         "cost":  0.01,
+                                         "pct":  3
+                                     },
+                                     {
+                                         "label":  "Input",
+                                         "tokens":  12,
+                                         "cost":  0,
+                                         "pct":  0
+                                     },
+                                     {
+                                         "label":  "Cache write",
+                                         "tokens":  14852,
+                                         "cost":  0.04,
+                                         "pct":  42
+                                     },
+                                     {
+                                         "label":  "Cache read",
+                                         "tokens":  19635,
+                                         "cost":  0,
+                                         "pct":  55
+                                     }
+                                 ],
+                       "activity":  [
+                                        1143,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        19879,
+                                        14467
+                                    ],
+                       "insight":  "A balanced session with most input served from cache."
+                   },
+                   {
+                       "id":  "4283ebb3-85a8-4e64-83ca-302606dfb555",
+                       "tool":  "claude_code",
+                       "model":  "claude-opus-5-5",
+                       "project":  "BDVue",
+                       "start":  "2026-10-07T04:52:16.819Z",
+                       "end":  "2026-10-07T05:29:12.111Z",
+                       "activeMinutes":  14,
+                       "turns":  37,
+                       "tokens":  6553089,
+                       "cost":  3.73,
+                       "split":  [
+                                     {
+                                         "label":  "Output",
+                                         "tokens":  14456,
+                                         "cost":  0.29,
+                                         "pct":  0
+                                     },
+                                     {
+                                         "label":  "Input",
+                                         "tokens":  74,
+                                         "cost":  0,
+                                         "pct":  0
+                                     },
+                                     {
+                                         "label":  "Cache write",
+                                         "tokens":  273401,
+                                         "cost":  2.19,
+                                         "pct":  4
+                                     },
+                                     {
+                                         "label":  "Cache read",
+                                         "tokens":  6265158,
+                                         "cost":  1.25,
+                                         "pct":  96
+                                     }
+                                 ],
+                       "activity":  [
+                                        324721,
+                                        229702,
+                                        325613,
+                                        0,
+                                        0,
+                                        0,
+                                        431028,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        435417,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        1185621,
+                                        297620,
+                                        298245,
+                                        897623,
+                                        2127499
+                                    ],
+                       "insight":  "A balanced session with most input served from cache."
+                   },
+                   {
+                       "id":  "068d6f28-f4fd-4b11-8557-21871bf11c55",
+                       "tool":  "claude_code",
+                       "model":  "claude-opus-5-5",
+                       "project":  "BDVue",
+                       "start":  "2026-10-06T05:27:21.926Z",
+                       "end":  "2026-10-06T10:30:14.971Z",
+                       "activeMinutes":  240,
+                       "turns":  1179,
+                       "tokens":  289572237,
+                       "cost":  91.7,
+                       "split":  [
+                                     {
+                                         "label":  "Output",
+                                         "tokens":  333751,
+                                         "cost":  6.68,
+                                         "pct":  0
+                                     },
+                                     {
+                                         "label":  "Input",
+                                         "tokens":  2444,
+                                         "cost":  0.01,
+                                         "pct":  0
+                                     },
+                                     {
+                                         "label":  "Cache write",
+                                         "tokens":  5045736,
+                                         "cost":  28.17,
+                                         "pct":  2
+                                     },
+                                     {
+                                         "label":  "Cache read",
+                                         "tokens":  284190306,
+                                         "cost":  56.84,
+                                         "pct":  98
+                                     }
+                                 ],
+                       "activity":  [
+                                        1753828,
+                                        2775982,
+                                        898125,
+                                        1904052,
+                                        10782697,
+                                        18407816,
+                                        13862034,
+                                        10920060,
+                                        16306426,
+                                        8899362,
+                                        11315740,
+                                        19479957,
+                                        15432201,
+                                        29868839,
+                                        38068686,
+                                        10466997,
+                                        6351523,
+                                        7257942,
+                                        891543,
+                                        10166753,
+                                        16738570,
+                                        16298362,
+                                        17814698,
+                                        2910044
+                                    ],
+                       "insight":  "Cache reads carried most of the cost because the same context was re-read on many turns."
+                   },
+                   {
+                       "id":  "61cc963d-460e-4079-845b-cc2ebb4cf29b",
+                       "tool":  "claude_code",
+                       "model":  "claude-opus-5-5",
+                       "project":  "BDVue",
+                       "start":  "2026-10-05T06:51:40.413Z",
+                       "end":  "2026-10-05T12:40:23.547Z",
+                       "activeMinutes":  299,
+                       "turns":  1098,
+                       "tokens":  305585393,
+                       "cost":  93.36,
+                       "split":  [
+                                     {
+                                         "label":  "Output",
+                                         "tokens":  471465,
+                                         "cost":  9.43,
+                                         "pct":  0
+                                     },
+                                     {
+                                         "label":  "Input",
+                                         "tokens":  2212,
+                                         "cost":  0.01,
+                                         "pct":  0
+                                     },
+                                     {
+                                         "label":  "Cache write",
+                                         "tokens":  3974910,
+                                         "cost":  23.7,
+                                         "pct":  1
+                                     },
+                                     {
+                                         "label":  "Cache read",
+                                         "tokens":  301136806,
+                                         "cost":  60.23,
+                                         "pct":  99
+                                     }
+                                 ],
+                       "activity":  [
+                                        4113895,
+                                        2621238,
+                                        6195814,
+                                        19168897,
+                                        13110290,
+                                        13443619,
+                                        10949691,
+                                        3104539,
+                                        3701345,
+                                        20048712,
+                                        18584553,
+                                        7427957,
+                                        5928096,
+                                        15662339,
+                                        16061543,
+                                        13779353,
+                                        15252383,
+                                        20547256,
+                                        20961140,
+                                        8917155,
+                                        12439702,
+                                        18463557,
+                                        16505237,
+                                        18597082
+                                    ],
+                       "insight":  "Cache reads carried most of the cost because the same context was re-read on many turns."
+                   }
+               ],
+    "priciest":  {
+                     "id":  "61cc963d-460e-4079-845b-cc2ebb4cf29b",
+                     "tool":  "claude_code",
+                     "model":  "claude-opus-5-5",
+                     "project":  "BDVue",
+                     "start":  "2026-10-05T06:51:40.413Z",
+                     "end":  "2026-10-05T12:40:23.547Z",
+                     "activeMinutes":  299,
+                     "turns":  1098,
+                     "tokens":  305585393,
+                     "cost":  93.36,
+                     "split":  [
+                                   {
+                                       "label":  "Output",
+                                       "tokens":  471465,
+                                       "cost":  9.43,
+                                       "pct":  0
+                                   },
+                                   {
+                                       "label":  "Input",
+                                       "tokens":  2212,
+                                       "cost":  0.01,
+                                       "pct":  0
+                                   },
+                                   {
+                                       "label":  "Cache write",
+                                       "tokens":  3974910,
+                                       "cost":  23.7,
+                                       "pct":  1
+                                   },
+                                   {
+                                       "label":  "Cache read",
+                                       "tokens":  301136806,
+                                       "cost":  60.23,
+                                       "pct":  99
+                                   }
+                               ],
+                     "activity":  [
+                                      4113895,
+                                      2621238,
+                                      6195814,
+                                      19168897,
+                                      13110290,
+                                      13443619,
+                                      10949691,
+                                      3104539,
+                                      3701345,
+                                      20048712,
+                                      18584553,
+                                      7427957,
+                                      5928096,
+                                      15662339,
+                                      16061543,
+                                      13779353,
+                                      15252383,
+                                      20547256,
+                                      20961140,
+                                      8917155,
+                                      12439702,
+                                      18463557,
+                                      16505237,
+                                      18597082
+                                  ],
+                     "insight":  "Cache reads carried most of the cost because the same context was re-read on many turns."
+                 },
+    "busiestDay":  {
+                       "day":  "Monday",
+                       "hours":  5.4
+                   },
+    "projectedMonth":  939
+}

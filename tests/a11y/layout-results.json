@@ -1,0 +1,608 @@
+[
+  {
+    "name": "landing-light-1440",
+    "scrollW": 1440,
+    "vw": 1440,
+    "outOfViewport": [],
+    "clipped": [],
+    "footer": "a\naknologia\nUsage intelligence and budgets for teams building with AI coding tools.\nPLATFORM\nDesktop app\nAdmin console\nPricing\nChangelog\nCOMPANY\nAbout\nCareers\nContact\nTRUST\nSecurity\nPrivacy\nSystem status\n© 2026 Aknologia. All rights reserved.\nPrivacy\nTerms\nCookies",
+    "h1": [
+      "The control room for your team’s AI coding."
+    ]
+  },
+  {
+    "name": "download-light-1440",
+    "scrollW": 1440,
+    "vw": 1440,
+    "outOfViewport": [],
+    "clipped": [],
+    "footer": "© 2026 Aknologia. All rights reserved.",
+    "h1": [
+      "Download Aknologia Usage"
+    ]
+  },
+  {
+    "name": "admin-signin-light-1440",
+    "scrollW": 1440,
+    "vw": 1440,
+    "outOfViewport": [],
+    "clipped": [],
+    "footer": "© 2026 Aknologia. All rights reserved.\nPrivacy\nTerms\nSystem status\nVersion 1.0.0",
+    "h1": []
+  },
+  {
+    "name": "admin-signup-light-1440",
+    "scrollW": 1440,
+    "vw": 1440,
+    "outOfViewport": [],
+    "clipped": [],
+    "footer": "© 2026 Aknologia. All rights reserved.\nPrivacy\nTerms\nSystem status\nVersion 1.0.0",
+    "h1": []
+  },
+  {
+    "name": "admin-overview-light-1440",
+    "scrollW": 1440,
+    "vw": 1440,
+    "outOfViewport": [],
+    "clipped": [],
+    "footer": "© 2026 Aknologia. All rights reserved.\nPrivacy\nTerms\nSystem status\nVersion 1.0.0",
+    "h1": [
+      "Team overview"
+    ]
+  },
+  {
+    "name": "admin-members-light-1440",
+    "scrollW": 1440,
+    "vw": 1440,
+    "outOfViewport": [],
+    "clipped": [],
+    "footer": "© 2026 Aknologia. All rights reserved.\nPrivacy\nTerms\nSystem status\nVersion 1.0.0",
+    "h1": [
+      "Members"
+    ]
+  },
+  {
+    "name": "admin-member-detail-light-1440",
+    "scrollW": 1440,
+    "vw": 1440,
+    "outOfViewport": [],
+    "clipped": [],
+    "footer": "© 2026 Aknologia. All rights reserved.\nPrivacy\nTerms\nSystem status\nVersion 1.0.0",
+    "h1": [
+      "Member detail"
+    ]
+  },
+  {
+    "name": "admin-budgets-light-1440",
+    "scrollW": 1440,
+    "vw": 1440,
+    "outOfViewport": [],
+    "clipped": [],
+    "footer": "© 2026 Aknologia. All rights reserved.\nPrivacy\nTerms\nSystem status\nVersion 1.0.0",
+    "h1": [
+      "Budgets and alerts"
+    ]
+  },
+  {
+    "name": "admin-support-light-1440",
+    "scrollW": 1440,
+    "vw": 1440,
+    "outOfViewport": [],
+    "clipped": [],
+    "footer": "© 2026 Aknologia. All rights reserved.\nPrivacy\nTerms\nSystem status\nVersion 1.0.0",
+    "h1": [
+      "Support"
+    ]
+  },
+  {
+    "name": "admin-settings-light-1440",
+    "scrollW": 1440,
+    "vw": 1440,
+    "outOfViewport": [],
+    "clipped": [],
+    "footer": "© 2026 Aknologia. All rights reserved.\nPrivacy\nTerms\nSystem status\nVersion 1.0.0",
+    "h1": [
+      "Settings and billing"
+    ]
+  },
+  {
+    "name": "admin-modal-invite-light-1440",
+    "scrollW": 1440,
+    "vw": 1440,
+    "outOfViewport": [],
+    "clipped": [],
+    "footer": "© 2026 Aknologia. All rights reserved.\nPrivacy\nTerms\nSystem status\nVersion 1.0.0",
+    "h1": [
+      "Members"
+    ]
+  },
+  {
+    "name": "admin-modal-remove-light-1440",
+    "scrollW": 1440,
+    "vw": 1440,
+    "outOfViewport": [],
+    "clipped": [],
+    "footer": "© 2026 Aknologia. All rights reserved.\nPrivacy\nTerms\nSystem status\nVersion 1.0.0",
+    "h1": [
+      "Members"
+    ]
+  },
+  {
+    "name": "admin-tour-light-1440",
+    "scrollW": 1440,
+    "vw": 1440,
+    "outOfViewport": [],
+    "clipped": [],
+    "footer": "© 2026 Aknologia. All rights reserved.\nPrivacy\nTerms\nSystem status\nVersion 1.0.0",
+    "h1": [
+      "Team overview"
+    ]
+  },
+  {
+    "name": "landing-light-390",
+    "scrollW": 390,
+    "vw": 390,
+    "outOfViewport": [
+      "table. \"Compare plans\nFeature\tStarter\t\" [21..841]",
+      "caption. \"Compare plans\" [21..841]",
+      "thead. \"Feature\tStarter\tTeam\tBusiness\t\" [21..841]",
+      "tr. \"Feature\tStarter\tTeam\tBusiness\t\" [21..841]",
+      "th. \"Team\" [387..510]",
+      "th. \"Business\" [510..654]",
+      "th. \"Enterprise\" [654..841]",
+      "tbody. \"Members\tUp to 3\tUp to 50\tUnlim\" [21..841]",
+      "tr. \"Members\tUp to 3\tUp to 50\tUnlim\" [21..841]",
+      "td. \"Up to 50\" [387..510]",
+      "td. \"Unlimited\" [510..654]",
+      "td. \"Unlimited\" [654..841]"
+    ],
+    "clipped": [],
+    "footer": "a\naknologia\nUsage intelligence and budgets for teams building with AI coding tools.\nPLATFORM\nDesktop app\nAdmin console\nPricing\nChangelog\nCOMPANY\nAbout\nCareers\nContact\nTRUST\nSecurity\nPrivacy\nSystem status\n© 2026 Aknologia. All rights reserved.\nPrivacy\nTerms\nCookies",
+    "h1": [
+      "The control room for your team’s AI coding."
+    ]
+  },
+  {
+    "name": "download-light-390",
+    "scrollW": 390,
+    "vw": 390,
+    "outOfViewport": [],
+    "clipped": [],
+    "footer": "© 2026 Aknologia. All rights reserved.",
+    "h1": [
+      "Download Aknologia Usage"
+    ]
+  },
+  {
+    "name": "admin-signin-light-390",
+    "scrollW": 390,
+    "vw": 390,
+    "outOfViewport": [
+      "div. \"Pricing\nBook a demo\naknologia.\" [48..461]",
+      "a.btn \"aknologia.com\" [259..411]",
+      "button.icon-btn \"\" [417..461]"
+    ],
+    "clipped": [
+      "div \"a\naknologia\nAdmin console\nPricing\nBook a\""
+    ],
+    "footer": "© 2026 Aknologia. All rights reserved.\nPrivacy\nTerms\nSystem status\nVersion 1.0.0",
+    "h1": []
+  },
+  {
+    "name": "admin-signup-light-390",
+    "scrollW": 390,
+    "vw": 390,
+    "outOfViewport": [
+      "div. \"Pricing\nBook a demo\naknologia.\" [48..461]",
+      "a.btn \"aknologia.com\" [259..411]",
+      "button.icon-btn \"\" [417..461]"
+    ],
+    "clipped": [
+      "div \"a\naknologia\nAdmin console\nPricing\nBook a\""
+    ],
+    "footer": "© 2026 Aknologia. All rights reserved.\nPrivacy\nTerms\nSystem status\nVersion 1.0.0",
+    "h1": []
+  },
+  {
+    "name": "admin-overview-light-390",
+    "scrollW": 390,
+    "vw": 390,
+    "outOfViewport": [],
+    "clipped": [],
+    "footer": "© 2026 Aknologia. All rights reserved.\nPrivacy\nTerms\nSystem status\nVersion 1.0.0",
+    "h1": [
+      "Team overview"
+    ]
+  },
+  {
+    "name": "admin-members-light-390",
+    "scrollW": 390,
+    "vw": 390,
+    "outOfViewport": [],
+    "clipped": [],
+    "footer": "© 2026 Aknologia. All rights reserved.\nPrivacy\nTerms\nSystem status\nVersion 1.0.0",
+    "h1": [
+      "Members"
+    ]
+  },
+  {
+    "name": "admin-member-detail-light-390",
+    "scrollW": 390,
+    "vw": 390,
+    "outOfViewport": [],
+    "clipped": [],
+    "footer": "© 2026 Aknologia. All rights reserved.\nPrivacy\nTerms\nSystem status\nVersion 1.0.0",
+    "h1": [
+      "Member detail"
+    ]
+  },
+  {
+    "name": "admin-budgets-light-390",
+    "scrollW": 423,
+    "vw": 390,
+    "outOfViewport": [],
+    "clipped": [],
+    "footer": "© 2026 Aknologia. All rights reserved.\nPrivacy\nTerms\nSystem status\nVersion 1.0.0",
+    "h1": [
+      "Budgets and alerts"
+    ]
+  },
+  {
+    "name": "admin-support-light-390",
+    "scrollW": 390,
+    "vw": 390,
+    "outOfViewport": [],
+    "clipped": [],
+    "footer": "© 2026 Aknologia. All rights reserved.\nPrivacy\nTerms\nSystem status\nVersion 1.0.0",
+    "h1": [
+      "Support"
+    ]
+  },
+  {
+    "name": "admin-settings-light-390",
+    "scrollW": 390,
+    "vw": 390,
+    "outOfViewport": [],
+    "clipped": [],
+    "footer": "© 2026 Aknologia. All rights reserved.\nPrivacy\nTerms\nSystem status\nVersion 1.0.0",
+    "h1": [
+      "Settings and billing"
+    ]
+  },
+  {
+    "name": "admin-modal-invite-light-390",
+    "scrollW": 390,
+    "vw": 390,
+    "outOfViewport": [],
+    "clipped": [],
+    "footer": "© 2026 Aknologia. All rights reserved.\nPrivacy\nTerms\nSystem status\nVersion 1.0.0",
+    "h1": [
+      "Members"
+    ]
+  },
+  {
+    "name": "admin-modal-remove-light-390",
+    "scrollW": 390,
+    "vw": 390,
+    "outOfViewport": [],
+    "clipped": [],
+    "footer": "© 2026 Aknologia. All rights reserved.\nPrivacy\nTerms\nSystem status\nVersion 1.0.0",
+    "h1": [
+      "Members"
+    ]
+  },
+  {
+    "name": "admin-tour-light-390",
+    "scrollW": 390,
+    "vw": 390,
+    "outOfViewport": [],
+    "clipped": [],
+    "footer": "© 2026 Aknologia. All rights reserved.\nPrivacy\nTerms\nSystem status\nVersion 1.0.0",
+    "h1": [
+      "Team overview"
+    ]
+  },
+  {
+    "name": "landing-dark-1440",
+    "scrollW": 1440,
+    "vw": 1440,
+    "outOfViewport": [],
+    "clipped": [],
+    "footer": "a\naknologia\nUsage intelligence and budgets for teams building with AI coding tools.\nPLATFORM\nDesktop app\nAdmin console\nPricing\nChangelog\nCOMPANY\nAbout\nCareers\nContact\nTRUST\nSecurity\nPrivacy\nSystem status\n© 2026 Aknologia. All rights reserved.\nPrivacy\nTerms\nCookies",
+    "h1": [
+      "The control room for your team’s AI coding."
+    ]
+  },
+  {
+    "name": "download-dark-1440",
+    "scrollW": 1440,
+    "vw": 1440,
+    "outOfViewport": [],
+    "clipped": [],
+    "footer": "© 2026 Aknologia. All rights reserved.",
+    "h1": [
+      "Download Aknologia Usage"
+    ]
+  },
+  {
+    "name": "admin-signin-dark-1440",
+    "scrollW": 1440,
+    "vw": 1440,
+    "outOfViewport": [],
+    "clipped": [],
+    "footer": "© 2026 Aknologia. All rights reserved.\nPrivacy\nTerms\nSystem status\nVersion 1.0.0",
+    "h1": []
+  },
+  {
+    "name": "admin-signup-dark-1440",
+    "scrollW": 1440,
+    "vw": 1440,
+    "outOfViewport": [],
+    "clipped": [],
+    "footer": "© 2026 Aknologia. All rights reserved.\nPrivacy\nTerms\nSystem status\nVersion 1.0.0",
+    "h1": []
+  },
+  {
+    "name": "admin-overview-dark-1440",
+    "scrollW": 1440,
+    "vw": 1440,
+    "outOfViewport": [],
+    "clipped": [],
+    "footer": "© 2026 Aknologia. All rights reserved.\nPrivacy\nTerms\nSystem status\nVersion 1.0.0",
+    "h1": [
+      "Team overview"
+    ]
+  },
+  {
+    "name": "admin-members-dark-1440",
+    "scrollW": 1440,
+    "vw": 1440,
+    "outOfViewport": [],
+    "clipped": [],
+    "footer": "© 2026 Aknologia. All rights reserved.\nPrivacy\nTerms\nSystem status\nVersion 1.0.0",
+    "h1": [
+      "Members"
+    ]
+  },
+  {
+    "name": "admin-member-detail-dark-1440",
+    "scrollW": 1440,
+    "vw": 1440,
+    "outOfViewport": [],
+    "clipped": [],
+    "footer": "© 2026 Aknologia. All rights reserved.\nPrivacy\nTerms\nSystem status\nVersion 1.0.0",
+    "h1": [
+      "Member detail"
+    ]
+  },
+  {
+    "name": "admin-budgets-dark-1440",
+    "scrollW": 1440,
+    "vw": 1440,
+    "outOfViewport": [],
+    "clipped": [],
+    "footer": "© 2026 Aknologia. All rights reserved.\nPrivacy\nTerms\nSystem status\nVersion 1.0.0",
+    "h1": [
+      "Budgets and alerts"
+    ]
+  },
+  {
+    "name": "admin-support-dark-1440",
+    "scrollW": 1440,
+    "vw": 1440,
+    "outOfViewport": [],
+    "clipped": [],
+    "footer": "© 2026 Aknologia. All rights reserved.\nPrivacy\nTerms\nSystem status\nVersion 1.0.0",
+    "h1": [
+      "Support"
+    ]
+  },
+  {
+    "name": "admin-settings-dark-1440",
+    "scrollW": 1440,
+    "vw": 1440,
+    "outOfViewport": [],
+    "clipped": [],
+    "footer": "© 2026 Aknologia. All rights reserved.\nPrivacy\nTerms\nSystem status\nVersion 1.0.0",
+    "h1": [
+      "Settings and billing"
+    ]
+  },
+  {
+    "name": "admin-modal-invite-dark-1440",
+    "scrollW": 1440,
+    "vw": 1440,
+    "outOfViewport": [],
+    "clipped": [],
+    "footer": "© 2026 Aknologia. All rights reserved.\nPrivacy\nTerms\nSystem status\nVersion 1.0.0",
+    "h1": [
+      "Members"
+    ]
+  },
+  {
+    "name": "admin-modal-remove-dark-1440",
+    "scrollW": 1440,
+    "vw": 1440,
+    "outOfViewport": [],
+    "clipped": [],
+    "footer": "© 2026 Aknologia. All rights reserved.\nPrivacy\nTerms\nSystem status\nVersion 1.0.0",
+    "h1": [
+      "Members"
+    ]
+  },
+  {
+    "name": "admin-tour-dark-1440",
+    "scrollW": 1440,
+    "vw": 1440,
+    "outOfViewport": [],
+    "clipped": [],
+    "footer": "© 2026 Aknologia. All rights reserved.\nPrivacy\nTerms\nSystem status\nVersion 1.0.0",
+    "h1": [
+      "Team overview"
+    ]
+  },
+  {
+    "name": "landing-dark-390",
+    "scrollW": 390,
+    "vw": 390,
+    "outOfViewport": [
+      "table. \"Compare plans\nFeature\tStarter\t\" [21..841]",
+      "caption. \"Compare plans\" [21..841]",
+      "thead. \"Feature\tStarter\tTeam\tBusiness\t\" [21..841]",
+      "tr. \"Feature\tStarter\tTeam\tBusiness\t\" [21..841]",
+      "th. \"Team\" [387..510]",
+      "th. \"Business\" [510..654]",
+      "th. \"Enterprise\" [654..841]",
+      "tbody. \"Members\tUp to 3\tUp to 50\tUnlim\" [21..841]",
+      "tr. \"Members\tUp to 3\tUp to 50\tUnlim\" [21..841]",
+      "td. \"Up to 50\" [387..510]",
+      "td. \"Unlimited\" [510..654]",
+      "td. \"Unlimited\" [654..841]"
+    ],
+    "clipped": [],
+    "footer": "a\naknologia\nUsage intelligence and budgets for teams building with AI coding tools.\nPLATFORM\nDesktop app\nAdmin console\nPricing\nChangelog\nCOMPANY\nAbout\nCareers\nContact\nTRUST\nSecurity\nPrivacy\nSystem status\n© 2026 Aknologia. All rights reserved.\nPrivacy\nTerms\nCookies",
+    "h1": [
+      "The control room for your team’s AI coding."
+    ]
+  },
+  {
+    "name": "download-dark-390",
+    "scrollW": 390,
+    "vw": 390,
+    "outOfViewport": [],
+    "clipped": [],
+    "footer": "© 2026 Aknologia. All rights reserved.",
+    "h1": [
+      "Download Aknologia Usage"
+    ]
+  },
+  {
+    "name": "admin-signin-dark-390",
+    "scrollW": 390,
+    "vw": 390,
+    "outOfViewport": [
+      "div. \"Pricing\nBook a demo\naknologia.\" [48..461]",
+      "a.btn \"aknologia.com\" [259..411]",
+      "button.icon-btn \"\" [417..461]"
+    ],
+    "clipped": [
+      "div \"a\naknologia\nAdmin console\nPricing\nBook a\""
+    ],
+    "footer": "© 2026 Aknologia. All rights reserved.\nPrivacy\nTerms\nSystem status\nVersion 1.0.0",
+    "h1": []
+  },
+  {
+    "name": "admin-signup-dark-390",
+    "scrollW": 390,
+    "vw": 390,
+    "outOfViewport": [
+      "div. \"Pricing\nBook a demo\naknologia.\" [48..461]",
+      "a.btn \"aknologia.com\" [259..411]",
+      "button.icon-btn \"\" [417..461]"
+    ],
+    "clipped": [
+      "div \"a\naknologia\nAdmin console\nPricing\nBook a\""
+    ],
+    "footer": "© 2026 Aknologia. All rights reserved.\nPrivacy\nTerms\nSystem status\nVersion 1.0.0",
+    "h1": []
+  },
+  {
+    "name": "admin-overview-dark-390",
+    "scrollW": 390,
+    "vw": 390,
+    "outOfViewport": [],
+    "clipped": [],
+    "footer": "© 2026 Aknologia. All rights reserved.\nPrivacy\nTerms\nSystem status\nVersion 1.0.0",
+    "h1": [
+      "Team overview"
+    ]
+  },
+  {
+    "name": "admin-members-dark-390",
+    "scrollW": 390,
+    "vw": 390,
+    "outOfViewport": [],
+    "clipped": [],
+    "footer": "© 2026 Aknologia. All rights reserved.\nPrivacy\nTerms\nSystem status\nVersion 1.0.0",
+    "h1": [
+      "Members"
+    ]
+  },
+  {
+    "name": "admin-member-detail-dark-390",
+    "scrollW": 390,
+    "vw": 390,
+    "outOfViewport": [],
+    "clipped": [],
+    "footer": "© 2026 Aknologia. All rights reserved.\nPrivacy\nTerms\nSystem status\nVersion 1.0.0",
+    "h1": [
+      "Member detail"
+    ]
+  },
+  {
+    "name": "admin-budgets-dark-390",
+    "scrollW": 423,
+    "vw": 390,
+    "outOfViewport": [],
+    "clipped": [],
+    "footer": "© 2026 Aknologia. All rights reserved.\nPrivacy\nTerms\nSystem status\nVersion 1.0.0",
+    "h1": [
+      "Budgets and alerts"
+    ]
+  },
+  {
+    "name": "admin-support-dark-390",
+    "scrollW": 390,
+    "vw": 390,
+    "outOfViewport": [],
+    "clipped": [],
+    "footer": "© 2026 Aknologia. All rights reserved.\nPrivacy\nTerms\nSystem status\nVersion 1.0.0",
+    "h1": [
+      "Support"
+    ]
+  },
+  {
+    "name": "admin-settings-dark-390",
+    "scrollW": 390,
+    "vw": 390,
+    "outOfViewport": [],
+    "clipped": [],
+    "footer": "© 2026 Aknologia. All rights reserved.\nPrivacy\nTerms\nSystem status\nVersion 1.0.0",
+    "h1": [
+      "Settings and billing"
+    ]
+  },
+  {
+    "name": "admin-modal-invite-dark-390",
+    "scrollW": 390,
+    "vw": 390,
+    "outOfViewport": [],
+    "clipped": [],
+    "footer": "© 2026 Aknologia. All rights reserved.\nPrivacy\nTerms\nSystem status\nVersion 1.0.0",
+    "h1": [
+      "Members"
+    ]
+  },
+  {
+    "name": "admin-modal-remove-dark-390",
+    "scrollW": 390,
+    "vw": 390,
+    "outOfViewport": [],
+    "clipped": [],
+    "footer": "© 2026 Aknologia. All rights reserved.\nPrivacy\nTerms\nSystem status\nVersion 1.0.0",
+    "h1": [
+      "Members"
+    ]
+  },
+  {
+    "name": "admin-tour-dark-390",
+    "scrollW": 390,
+    "vw": 390,
+    "outOfViewport": [],
+    "clipped": [],
+    "footer": "© 2026 Aknologia. All rights reserved.\nPrivacy\nTerms\nSystem status\nVersion 1.0.0",
+    "h1": [
+      "Team overview"
+    ]
+  }
+]

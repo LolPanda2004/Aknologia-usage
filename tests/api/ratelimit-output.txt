@@ -1,0 +1,8 @@
+Target http://localhost:8091
+PASS  ratelimit: 21st auth request from one IP in 10 min gets 429 (4 checks, 421 ms)
+FAIL  ratelimit: spoofed X-Forwarded-For bypasses the limiter (1 checks, 461 ms)
+      - with a new X-Forwarded-For per request, 30 requests after the limit should still be 429; got 401
+FAIL  prod mode without SMTP: one-time codes are written to the server log (2 checks, 457 ms)
+      - with DEV_MODE=false and no SMTP the code should not be logged (server should refuse/fail to send) | evidence: [mail] to=qa1-nosmtp-d99a37c7@example.test subject="Your Aknologia code: 125708"
+
+1/3 tests passed

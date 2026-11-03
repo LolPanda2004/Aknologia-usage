@@ -1,0 +1,5 @@
+2026/10/10 17:44:55 WARNING: SMTP_HOST is not set: sign-up and sign-in codes, invites and budget alerts can't be emailed until it is (docs/DEPLOY.md, step 2)
+2026/10/10 17:44:55 Aknologia Usage listening on :8098 (dev=false)
+2026/10/10 17:44:55 priced stored requests for 2 users
+2026/10/10 17:45:00 [mail] an email was not sent: SMTP_HOST is not set
+2026/10/10 17:45:00 POST /api/v1/auth/signup 222ms

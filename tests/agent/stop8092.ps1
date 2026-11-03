@@ -1,0 +1,1 @@
+Get-CimInstance Win32_Process -Filter "Name='akn-server.exe'" | Where-Object { $_.ExecutablePath -like '*\tests\agent\.bin\*' } | ForEach-Object { Stop-Process -Id $_.ProcessId -Force; "killed $($_.ProcessId)" }

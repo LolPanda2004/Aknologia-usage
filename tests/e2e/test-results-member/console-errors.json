@@ -1,0 +1,32 @@
+[
+  {
+    "step": "invite",
+    "text": "Failed to load resource: the server responded with a status of 400 (Bad Request)",
+    "url": "http://127.0.0.1:47811/v1/auth/accept-invite",
+    "allowed": true
+  },
+  {
+    "step": "invite",
+    "text": "Failed to load resource: the server responded with a status of 400 (Bad Request)",
+    "url": "http://127.0.0.1:47811/v1/auth/accept-invite",
+    "allowed": true
+  },
+  {
+    "step": "settings-security",
+    "text": "Failed to load resource: the server responded with a status of 400 (Bad Request)",
+    "url": "http://127.0.0.1:47811/v1/server/me/password/start",
+    "allowed": true
+  },
+  {
+    "step": "signout",
+    "text": "Failed to load resource: the server responded with a status of 401 (Unauthorized)",
+    "url": "http://127.0.0.1:47811/v1/auth/login",
+    "allowed": true
+  },
+  {
+    "step": "forgot",
+    "text": "Failed to load resource: the server responded with a status of 400 (Bad Request)",
+    "url": "http://127.0.0.1:47811/v1/auth/reset",
+    "allowed": true
+  }
+]

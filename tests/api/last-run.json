@@ -1,0 +1,237 @@
+[
+  {
+    "name": "auth: signup -> verify email -> login (web admin), /me has no secrets",
+    "checks": 15,
+    "fails": []
+  },
+  {
+    "name": "auth: duplicate signup (same email, also upper-case) is 409",
+    "checks": 4,
+    "fails": []
+  },
+  {
+    "name": "auth: password rules (12+, number, symbol, not email name / name)",
+    "checks": 13,
+    "fails": []
+  },
+  {
+    "name": "auth: member cannot use admin console (login web -> 403 not_admin), desktop ok",
+    "checks": 4,
+    "fails": []
+  },
+  {
+    "name": "otp: wrong code rejected, right code still works",
+    "checks": 2,
+    "fails": []
+  },
+  {
+    "name": "otp: expired code rejected",
+    "checks": 1,
+    "fails": []
+  },
+  {
+    "name": "otp: 5 wrong attempts burn the code",
+    "checks": 2,
+    "fails": []
+  },
+  {
+    "name": "otp: a used code cannot be reused",
+    "checks": 2,
+    "fails": []
+  },
+  {
+    "name": "otp: parallel wrong guesses must not exceed the 5-attempt limit",
+    "checks": 2,
+    "fails": []
+  },
+  {
+    "name": "otp: reset code sent to verified backup email works; revokes old sessions",
+    "checks": 16,
+    "fails": []
+  },
+  {
+    "name": "otp: change password needs current password + emailed code, revokes other sessions",
+    "checks": 6,
+    "fails": []
+  },
+  {
+    "name": "invites: seat limit returns 402; cancel frees a seat",
+    "checks": 8,
+    "fails": []
+  },
+  {
+    "name": "invites: cancelled invite code no longer works",
+    "checks": 1,
+    "fails": []
+  },
+  {
+    "name": "invites: resend invalidates old code",
+    "checks": 6,
+    "fails": []
+  },
+  {
+    "name": "invites: expired invite rejected",
+    "checks": 1,
+    "fails": []
+  },
+  {
+    "name": "invites: code for another email rejected; weak password on accept rejected",
+    "checks": 4,
+    "fails": []
+  },
+  {
+    "name": "invites: re-invite of a removed member",
+    "checks": 8,
+    "fails": []
+  },
+  {
+    "name": "invites: email of another org is refused",
+    "checks": 1,
+    "fails": []
+  },
+  {
+    "name": "authz: a member gets 403 on every /admin endpoint",
+    "checks": 20,
+    "fails": []
+  },
+  {
+    "name": "authz: admin of org A cannot read/change org B",
+    "checks": 15,
+    "fails": []
+  },
+  {
+    "name": "authz: revoked device token, logout, expired token, removed member",
+    "checks": 16,
+    "fails": []
+  },
+  {
+    "name": "authz: token accepted without \"Bearer \" prefix (note)",
+    "checks": 1,
+    "fails": []
+  },
+  {
+    "name": "ingest: same batch twice is idempotent",
+    "checks": 4,
+    "fails": []
+  },
+  {
+    "name": "ingest: malformed batches and events rejected",
+    "checks": 5,
+    "fails": []
+  },
+  {
+    "name": "ingest: 2001 events rejected, 2000 accepted",
+    "checks": 3,
+    "fails": []
+  },
+  {
+    "name": "ingest: timestamps far past / future rejected",
+    "checks": 2,
+    "fails": []
+  },
+  {
+    "name": "ingest: events attributed only to the token user",
+    "checks": 4,
+    "fails": []
+  },
+  {
+    "name": "ingest: huge token counts poison the member rollup (bigint overflow)",
+    "checks": 4,
+    "fails": []
+  },
+  {
+    "name": "rollup: events older than 40 days are accepted but not counted until Refresh",
+    "checks": 3,
+    "fails": []
+  },
+  {
+    "name": "rollup: America/New_York org - later ingests stop updating totals (daily_usage PK conflict)",
+    "checks": 8,
+    "fails": []
+  },
+  {
+    "name": "rollup: Asia/Kolkata org - event early on the oldest day is dropped from daily_usage",
+    "checks": 3,
+    "fails": []
+  },
+  {
+    "name": "time: month boundary in Asia/Kolkata (18:29Z vs 18:31Z on the last day)",
+    "checks": 9,
+    "fails": []
+  },
+  {
+    "name": "money: hand-computed cost matches overview, member usage, /me/usage and CSV to the cent",
+    "checks": 60,
+    "fails": []
+  },
+  {
+    "name": "time: active-time rule (gaps <= 5 min summed, longer gap or first turn = 30 s)",
+    "checks": 6,
+    "fails": []
+  },
+  {
+    "name": "budgets: 80% then 100% alert exactly once each; inboxes respected",
+    "checks": 12,
+    "fails": []
+  },
+  {
+    "name": "budgets: PATCH member budget resets this month's alerts",
+    "checks": 6,
+    "fails": []
+  },
+  {
+    "name": "budgets: PUT admin/budgets per-member budget also resets alerts",
+    "checks": 3,
+    "fails": []
+  },
+  {
+    "name": "budgets: alert_80 / alert_100 toggles respected; empty inboxes fall back to admins",
+    "checks": 6,
+    "fails": []
+  },
+  {
+    "name": "data deletion requires emailed code; scoped to the org",
+    "checks": 9,
+    "fails": []
+  },
+  {
+    "name": "removal: deleteHistory=true deletes usage, default keeps it",
+    "checks": 6,
+    "fails": []
+  },
+  {
+    "name": "headers: CORS only for allowed origins; nosniff",
+    "checks": 9,
+    "fails": []
+  },
+  {
+    "name": "csv: export neutralises spreadsheet formulas in member names",
+    "checks": 1,
+    "fails": []
+  },
+  {
+    "name": "csv: invalid from/to date gives 400, not 500",
+    "checks": 1,
+    "fails": []
+  },
+  {
+    "name": "billing: rejected Starter downgrade must not change the plan",
+    "checks": 2,
+    "fails": []
+  },
+  {
+    "name": "login: account state leaks without a correct password (enumeration, note)",
+    "checks": 2,
+    "fails": []
+  },
+  {
+    "name": "secrets: DB stores only hashes; no plaintext passwords/tokens/invite codes",
+    "checks": 6,
+    "fails": []
+  },
+  {
+    "name": "secrets: no response body contains password_hash / code_hash / token_hash",
+    "checks": 1,
+    "fails": []
+  }
+]

@@ -1,0 +1,10 @@
+node_modules/
+ui/dist/
+desktop/frontend/dist/
+desktop/build/
+dist/
+*.env
+.env
+!.env.example
+landing/download/*.zip
+landing/download/*.tar.gz

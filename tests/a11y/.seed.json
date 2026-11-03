@@ -1,0 +1,16 @@
+{
+  "email": "qa5-vryubm@example.test",
+  "password": "Qa5!access-vryubm-zz9",
+  "token": "Ii2lM6lYD3160MXI8RaUOcmNNj6dX_CCFyD48n7ROho",
+  "memberIds": {
+    "qa5-vryubm@example.test": "bc244275-f8ad-4421-857c-c60209e55b63",
+    "qa5m1-vryubm@example.test": "fe40c71f-740b-4a46-96b2-6074aebf1a7b",
+    "qa5m2-vryubm@example.test": "271cbb9f-abf4-4e06-93aa-a7eeed0b0482",
+    "qa5m3-vryubm@example.test": "8c7660b2-89d0-4944-994f-a258078efde4"
+  },
+  "members": [
+    "qa5m1-vryubm@example.test",
+    "qa5m2-vryubm@example.test",
+    "qa5m3-vryubm@example.test"
+  ]
+}

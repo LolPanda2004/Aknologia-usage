@@ -1,0 +1,667 @@
+{
+  "C:\\Users\\Admin\\.claude\\projects\\C--Users-Admin-Downloads-aknologia-usage-aknologia\\9cb37613-cd62-4f57-ae02-44de32b82856.jsonl": {
+    "size": 3421846,
+    "offset": 3421846,
+    "mod": 1791627607485824300,
+    "codex": {},
+    "unread": 0
+  },
+  "C:\\Users\\Admin\\.claude\\projects\\C--Users-Admin-Downloads-aknologia-usage-aknologia\\9cb37613-cd62-4f57-ae02-44de32b82856\\subagents\\agent-a124e2a1ea5e5d7e8.jsonl": {
+    "size": 4883880,
+    "offset": 4883880,
+    "mod": 1791616748720290100,
+    "codex": {},
+    "unread": 0
+  },
+  "C:\\Users\\Admin\\.claude\\projects\\C--Users-Admin-Downloads-aknologia-usage-aknologia\\9cb37613-cd62-4f57-ae02-44de32b82856\\subagents\\agent-a223e5f3e0fdcddfd.jsonl": {
+    "size": 904917,
+    "offset": 904917,
+    "mod": 1791613216620891300,
+    "codex": {},
+    "unread": 0
+  },
+  "C:\\Users\\Admin\\.claude\\projects\\C--Users-Admin-Downloads-aknologia-usage-aknologia\\9cb37613-cd62-4f57-ae02-44de32b82856\\subagents\\agent-a26b91cddceb752bc.jsonl": {
+    "size": 2890882,
+    "offset": 2890882,
+    "mod": 1791613607919470400,
+    "codex": {},
+    "unread": 0
+  },
+  "C:\\Users\\Admin\\.claude\\projects\\C--Users-Admin-Downloads-aknologia-usage-aknologia\\9cb37613-cd62-4f57-ae02-44de32b82856\\subagents\\agent-a27d0c17d484593a0.jsonl": {
+    "size": 7681834,
+    "offset": 7681834,
+    "mod": 1791627607490360900,
+    "codex": {},
+    "unread": 0
+  },
+  "C:\\Users\\Admin\\.claude\\projects\\C--Users-Admin-Downloads-aknologia-usage-aknologia\\9cb37613-cd62-4f57-ae02-44de32b82856\\subagents\\agent-a56b445036480f402.jsonl": {
+    "size": 1002684,
+    "offset": 1002684,
+    "mod": 1791613000257636800,
+    "codex": {},
+    "unread": 0
+  },
+  "C:\\Users\\Admin\\.claude\\projects\\C--Users-Admin-Downloads-aknologia-usage-aknologia\\9cb37613-cd62-4f57-ae02-44de32b82856\\subagents\\agent-a9a67f01e6a0d2d27.jsonl": {
+    "size": 4721076,
+    "offset": 4721076,
+    "mod": 1791613045067731700,
+    "codex": {},
+    "unread": 0
+  },
+  "C:\\Users\\Admin\\.claude\\projects\\C--Users-Admin-Downloads-aknologia-usage-aknologia\\9cb37613-cd62-4f57-ae02-44de32b82856\\subagents\\agent-aae09c6c199f1834a.jsonl": {
+    "size": 2823811,
+    "offset": 2823811,
+    "mod": 1791613705499709900,
+    "codex": {},
+    "unread": 0
+  },
+  "C:\\Users\\Admin\\.claude\\projects\\C--Users-Admin-Downloads-aknologia-usage-aknologia\\9cb37613-cd62-4f57-ae02-44de32b82856\\subagents\\agent-adb622d5c3cac4843.jsonl": {
+    "size": 1291142,
+    "offset": 1291142,
+    "mod": 1791612801099307300,
+    "codex": {},
+    "unread": 0
+  },
+  "C:\\Users\\Admin\\.claude\\projects\\C--Users-Admin-Downloads-aknologia-usage-aknologia\\f5181b9b-d51c-44a1-b44d-109ba3c0a908.jsonl": {
+    "size": 420820,
+    "offset": 420820,
+    "mod": 1791611218543295400,
+    "codex": {},
+    "unread": 0
+  },
+  "C:\\Users\\Admin\\.claude\\projects\\C--Users-Admin-Downloads-aknologia-usage-aknologia\\f5181b9b-d51c-44a1-b44d-109ba3c0a908\\subagents\\agent-a6502a4fe846ea82d.jsonl": {
+    "size": 923091,
+    "offset": 923091,
+    "mod": 1791547973812460700,
+    "codex": {},
+    "unread": 0
+  },
+  "C:\\Users\\Admin\\.claude\\projects\\C--Users-Admin-Downloads-aknologia-usage-aknologia\\f5181b9b-d51c-44a1-b44d-109ba3c0a908\\subagents\\agent-ab2de07357016dc66.jsonl": {
+    "size": 689131,
+    "offset": 689131,
+    "mod": 1791548072581994200,
+    "codex": {},
+    "unread": 0
+  },
+  "C:\\Users\\Admin\\.claude\\projects\\C--Users-Admin-Downloads-aknologia-usage-aknologia\\f5181b9b-d51c-44a1-b44d-109ba3c0a908\\subagents\\agent-acf28f1fa305f4970.jsonl": {
+    "size": 988070,
+    "offset": 988070,
+    "mod": 1791548071280283600,
+    "codex": {},
+    "unread": 0
+  },
+  "C:\\Users\\Admin\\.claude\\projects\\C--Users-Admin-Downloads-facilityvue-landing-redesign-v1\\3c585657-7223-4e18-99fc-86356fb3ae4f.jsonl": {
+    "size": 625017,
+    "offset": 625017,
+    "mod": 1790076572235242200,
+    "codex": {},
+    "unread": 0
+  },
+  "C:\\Users\\Admin\\.claude\\projects\\D--Anthropic---Fast-API\\0e7ef2d2-15c1-4c07-acf0-d0819b51ea39.jsonl": {
+    "size": 1510699,
+    "offset": 1510699,
+    "mod": 1789127260451873100,
+    "codex": {},
+    "unread": 0
+  },
+  "C:\\Users\\Admin\\.claude\\projects\\D--Anthropic---Fast-API\\18ee795e-8738-4204-88e0-600a902968d1.jsonl": {
+    "size": 323463,
+    "offset": 323463,
+    "mod": 1789469117156885300,
+    "codex": {},
+    "unread": 0
+  },
+  "C:\\Users\\Admin\\.claude\\projects\\D--Anthropic---Fast-API\\531e63f0-f208-4ad7-b413-a346eb889203.jsonl": {
+    "size": 1601270,
+    "offset": 1601270,
+    "mod": 1789125072540529300,
+    "codex": {},
+    "unread": 0
+  },
+  "C:\\Users\\Admin\\.claude\\projects\\D--Anthropic---Fast-API\\56e8c391-3a9f-4afc-8021-541c3487d411.jsonl": {
+    "size": 2133132,
+    "offset": 2133132,
+    "mod": 1789561006242855000,
+    "codex": {},
+    "unread": 0
+  },
+  "C:\\Users\\Admin\\.claude\\projects\\D--Anthropic---Fast-API\\9a3d6ef2-6b02-4f8a-a6da-4b872fa406f8.jsonl": {
+    "size": 1079304,
+    "offset": 1079304,
+    "mod": 1789557357705938200,
+    "codex": {},
+    "unread": 0
+  },
+  "C:\\Users\\Admin\\.claude\\projects\\D--Anthropic---Fast-API\\a7c29ee6-55f2-4c02-a061-354226e67916.jsonl": {
+    "size": 1836705,
+    "offset": 1836705,
+    "mod": 1789126278007000000,
+    "codex": {},
+    "unread": 0
+  },
+  "C:\\Users\\Admin\\.claude\\projects\\D--Anthropic---Fast-API\\d57dc9e1-de31-4cb8-bb30-5dc2e52f1ad2.jsonl": {
+    "size": 425775,
+    "offset": 425775,
+    "mod": 1789470266355710100,
+    "codex": {},
+    "unread": 0
+  },
+  "C:\\Users\\Admin\\.claude\\projects\\D--BDVue\\068d6f28-f4fd-4b11-8557-21871bf11c55.jsonl": {
+    "size": 20585222,
+    "offset": 20585222,
+    "mod": 1791282776376998700,
+    "codex": {},
+    "unread": 0
+  },
+  "C:\\Users\\Admin\\.claude\\projects\\D--BDVue\\068d6f28-f4fd-4b11-8557-21871bf11c55\\subagents\\agent-a05895f498c1c028b.jsonl": {
+    "size": 16302225,
+    "offset": 16302225,
+    "mod": 1791280688186457200,
+    "codex": {},
+    "unread": 0
+  },
+  "C:\\Users\\Admin\\.claude\\projects\\D--BDVue\\068d6f28-f4fd-4b11-8557-21871bf11c55\\subagents\\agent-a1fbce51694a6d7d3.jsonl": {
+    "size": 1057418,
+    "offset": 1057418,
+    "mod": 1791271034046592700,
+    "codex": {},
+    "unread": 0
+  },
+  "C:\\Users\\Admin\\.claude\\projects\\D--BDVue\\068d6f28-f4fd-4b11-8557-21871bf11c55\\subagents\\agent-a68921032a6fb9838.jsonl": {
+    "size": 771887,
+    "offset": 771887,
+    "mod": 1791268893706190200,
+    "codex": {},
+    "unread": 0
+  },
+  "C:\\Users\\Admin\\.claude\\projects\\D--BDVue\\068d6f28-f4fd-4b11-8557-21871bf11c55\\subagents\\agent-a6b9580c870c46ded.jsonl": {
+    "size": 1052308,
+    "offset": 1052308,
+    "mod": 1791272340924974400,
+    "codex": {},
+    "unread": 0
+  },
+  "C:\\Users\\Admin\\.claude\\projects\\D--BDVue\\068d6f28-f4fd-4b11-8557-21871bf11c55\\subagents\\agent-a7dc8571970012f9c.jsonl": {
+    "size": 975655,
+    "offset": 975655,
+    "mod": 1791272526212256800,
+    "codex": {},
+    "unread": 0
+  },
+  "C:\\Users\\Admin\\.claude\\projects\\D--BDVue\\068d6f28-f4fd-4b11-8557-21871bf11c55\\subagents\\agent-a890341d69c6d6980.jsonl": {
+    "size": 1092573,
+    "offset": 1092573,
+    "mod": 1791271234953276900,
+    "codex": {},
+    "unread": 0
+  },
+  "C:\\Users\\Admin\\.claude\\projects\\D--BDVue\\068d6f28-f4fd-4b11-8557-21871bf11c55\\subagents\\agent-ab8e5119caee24b0b.jsonl": {
+    "size": 1058316,
+    "offset": 1058316,
+    "mod": 1791275093870536300,
+    "codex": {},
+    "unread": 0
+  },
+  "C:\\Users\\Admin\\.claude\\projects\\D--BDVue\\068d6f28-f4fd-4b11-8557-21871bf11c55\\subagents\\agent-acad42f68238beb71.jsonl": {
+    "size": 870371,
+    "offset": 870371,
+    "mod": 1791269938764640600,
+    "codex": {},
+    "unread": 0
+  },
+  "C:\\Users\\Admin\\.claude\\projects\\D--BDVue\\068d6f28-f4fd-4b11-8557-21871bf11c55\\subagents\\agent-aea341e538f125d86.jsonl": {
+    "size": 1797700,
+    "offset": 1797700,
+    "mod": 1791271919043031600,
+    "codex": {},
+    "unread": 0
+  },
+  "C:\\Users\\Admin\\.claude\\projects\\D--BDVue\\2b77ed90-1150-4f1d-9079-c85a4b0ea804.jsonl": {
+    "size": 495049,
+    "offset": 495049,
+    "mod": 1790768385272571600,
+    "codex": {},
+    "unread": 0
+  },
+  "C:\\Users\\Admin\\.claude\\projects\\D--BDVue\\4283ebb3-85a8-4e64-83ca-302606dfb555.jsonl": {
+    "size": 1826843,
+    "offset": 1826843,
+    "mod": 1791351314789063800,
+    "codex": {},
+    "unread": 0
+  },
+  "C:\\Users\\Admin\\.claude\\projects\\D--BDVue\\61cc963d-460e-4079-845b-cc2ebb4cf29b.jsonl": {
+    "size": 18884524,
+    "offset": 18884524,
+    "mod": 1791204476042812400,
+    "codex": {},
+    "unread": 0
+  },
+  "C:\\Users\\Admin\\.claude\\projects\\D--BDVue\\61cc963d-460e-4079-845b-cc2ebb4cf29b\\subagents\\agent-a00a043c90d2b02b7.jsonl": {
+    "size": 1114672,
+    "offset": 1114672,
+    "mod": 1791203217769591900,
+    "codex": {},
+    "unread": 0
+  },
+  "C:\\Users\\Admin\\.claude\\projects\\D--BDVue\\61cc963d-460e-4079-845b-cc2ebb4cf29b\\subagents\\agent-a130c646523ad9469.jsonl": {
+    "size": 1136568,
+    "offset": 1136568,
+    "mod": 1791203171128695500,
+    "codex": {},
+    "unread": 0
+  },
+  "C:\\Users\\Admin\\.claude\\projects\\D--BDVue\\61cc963d-460e-4079-845b-cc2ebb4cf29b\\subagents\\agent-a1599b5e6ca7fbad4.jsonl": {
+    "size": 1551128,
+    "offset": 1551128,
+    "mod": 1791196655742857300,
+    "codex": {},
+    "unread": 0
+  },
+  "C:\\Users\\Admin\\.claude\\projects\\D--BDVue\\61cc963d-460e-4079-845b-cc2ebb4cf29b\\subagents\\agent-a19a5543ad9b1517b.jsonl": {
+    "size": 1685467,
+    "offset": 1685467,
+    "mod": 1791196871968201700,
+    "codex": {},
+    "unread": 0
+  },
+  "C:\\Users\\Admin\\.claude\\projects\\D--BDVue\\61cc963d-460e-4079-845b-cc2ebb4cf29b\\subagents\\agent-a584f02d491af6163.jsonl": {
+    "size": 929351,
+    "offset": 929351,
+    "mod": 1791202445481023100,
+    "codex": {},
+    "unread": 0
+  },
+  "C:\\Users\\Admin\\.claude\\projects\\D--BDVue\\61cc963d-460e-4079-845b-cc2ebb4cf29b\\subagents\\agent-a594de09e2c24f60d.jsonl": {
+    "size": 909980,
+    "offset": 909980,
+    "mod": 1791202217954992500,
+    "codex": {},
+    "unread": 0
+  },
+  "C:\\Users\\Admin\\.claude\\projects\\D--BDVue\\61cc963d-460e-4079-845b-cc2ebb4cf29b\\subagents\\agent-a7324a974e34bdc0e.jsonl": {
+    "size": 1742947,
+    "offset": 1742947,
+    "mod": 1791197149359719100,
+    "codex": {},
+    "unread": 0
+  },
+  "C:\\Users\\Admin\\.claude\\projects\\D--BDVue\\61cc963d-460e-4079-845b-cc2ebb4cf29b\\subagents\\agent-a7f8e73b77b4de129.jsonl": {
+    "size": 1057789,
+    "offset": 1057789,
+    "mod": 1791203314587045600,
+    "codex": {},
+    "unread": 0
+  },
+  "C:\\Users\\Admin\\.claude\\projects\\D--BDVue\\61cc963d-460e-4079-845b-cc2ebb4cf29b\\subagents\\agent-a949f61f1e4530393.jsonl": {
+    "size": 1417870,
+    "offset": 1417870,
+    "mod": 1791203187287072400,
+    "codex": {},
+    "unread": 0
+  },
+  "C:\\Users\\Admin\\.claude\\projects\\D--BDVue\\61cc963d-460e-4079-845b-cc2ebb4cf29b\\subagents\\agent-aa279592d443129d7.jsonl": {
+    "size": 605010,
+    "offset": 605010,
+    "mod": 1791193611958571900,
+    "codex": {},
+    "unread": 0
+  },
+  "C:\\Users\\Admin\\.claude\\projects\\D--BDVue\\61cc963d-460e-4079-845b-cc2ebb4cf29b\\subagents\\agent-aaf49778492ad5fd9.jsonl": {
+    "size": 1416174,
+    "offset": 1416174,
+    "mod": 1791203143939536700,
+    "codex": {},
+    "unread": 0
+  },
+  "C:\\Users\\Admin\\.claude\\projects\\D--BDVue\\61cc963d-460e-4079-845b-cc2ebb4cf29b\\subagents\\agent-ab17bb8efcd2ba552.jsonl": {
+    "size": 537172,
+    "offset": 537172,
+    "mod": 1791193553173782900,
+    "codex": {},
+    "unread": 0
+  },
+  "C:\\Users\\Admin\\.claude\\projects\\D--BDVue\\61cc963d-460e-4079-845b-cc2ebb4cf29b\\subagents\\agent-aed5dc04d1b4fd250.jsonl": {
+    "size": 732470,
+    "offset": 732470,
+    "mod": 1791193562922103600,
+    "codex": {},
+    "unread": 0
+  },
+  "C:\\Users\\Admin\\.claude\\projects\\D--BDVue\\977561da-07a8-4fa0-ad8d-24d0afc7fa23.jsonl": {
+    "size": 2659,
+    "offset": 2659,
+    "mod": 1791183067840036100,
+    "codex": {},
+    "unread": 0
+  },
+  "C:\\Users\\Admin\\.claude\\projects\\D--BDVue\\a7e828e2-5c2c-4664-b23f-8a5bc39aa8f7.jsonl": {
+    "size": 427631,
+    "offset": 427631,
+    "mod": 1791370013621559800,
+    "codex": {},
+    "unread": 0
+  },
+  "C:\\Users\\Admin\\.claude\\projects\\D--BDVue\\a7e828e2-5c2c-4664-b23f-8a5bc39aa8f7\\subagents\\agent-a3de61cca2af75df4.jsonl": {
+    "size": 1440335,
+    "offset": 1440335,
+    "mod": 1791369125539919000,
+    "codex": {},
+    "unread": 0
+  },
+  "C:\\Users\\Admin\\.claude\\projects\\D--BDVue\\a7e828e2-5c2c-4664-b23f-8a5bc39aa8f7\\subagents\\agent-a5116da07d240987a.jsonl": {
+    "size": 867369,
+    "offset": 867369,
+    "mod": 1791368798012719100,
+    "codex": {},
+    "unread": 0
+  },
+  "C:\\Users\\Admin\\.claude\\projects\\D--BDVue\\a7e828e2-5c2c-4664-b23f-8a5bc39aa8f7\\subagents\\agent-a736b45d3c76bd413.jsonl": {
+    "size": 1303992,
+    "offset": 1303992,
+    "mod": 1791368933539034200,
+    "codex": {},
+    "unread": 0
+  },
+  "C:\\Users\\Admin\\.claude\\projects\\D--BDVue\\a7e828e2-5c2c-4664-b23f-8a5bc39aa8f7\\subagents\\agent-af7731ba29b7f79ea.jsonl": {
+    "size": 880073,
+    "offset": 880073,
+    "mod": 1791368830010496000,
+    "codex": {},
+    "unread": 0
+  },
+  "C:\\Users\\Admin\\.claude\\projects\\D--BDVue\\e8b9cb55-9759-4d8b-8105-ee93b20cd2a6.jsonl": {
+    "size": 1214778,
+    "offset": 1214778,
+    "mod": 1791182112271141800,
+    "codex": {},
+    "unread": 0
+  },
+  "C:\\Users\\Admin\\.claude\\projects\\D--BDVue\\e8b9cb55-9759-4d8b-8105-ee93b20cd2a6\\subagents\\agent-a1957334a664ff93e.jsonl": {
+    "size": 331181,
+    "offset": 331181,
+    "mod": 1791178145961113200,
+    "codex": {},
+    "unread": 0
+  },
+  "C:\\Users\\Admin\\.claude\\projects\\D--BDVue\\e8b9cb55-9759-4d8b-8105-ee93b20cd2a6\\subagents\\agent-ab81d4aa3fbff0d4e.jsonl": {
+    "size": 609497,
+    "offset": 609497,
+    "mod": 1791178360029214700,
+    "codex": {},
+    "unread": 0
+  },
+  "C:\\Users\\Admin\\.claude\\projects\\D--BDVue\\e8b9cb55-9759-4d8b-8105-ee93b20cd2a6\\subagents\\agent-ae4be0d61af89e743.jsonl": {
+    "size": 373570,
+    "offset": 373570,
+    "mod": 1791178360178507700,
+    "codex": {},
+    "unread": 0
+  },
+  "C:\\Users\\Admin\\.claude\\projects\\D--BDVue\\fb5110a2-ec56-4c10-97d0-641dbea36037.jsonl": {
+    "size": 667483,
+    "offset": 667483,
+    "mod": 1790675725660523100,
+    "codex": {},
+    "unread": 0
+  },
+  "C:\\Users\\Admin\\.claude\\projects\\D--Demo-Video---FacilityVUE-facilityvue-demo-recorder\\ba1e5ff0-3032-461e-b8c2-aa7e2e146f1c.jsonl": {
+    "size": 14926018,
+    "offset": 14926018,
+    "mod": 1790252283459497900,
+    "codex": {},
+    "unread": 0
+  },
+  "C:\\Users\\Admin\\.claude\\projects\\D--Demo-Video---FacilityVUE-facilityvue-demo-recorder\\d418e5de-5a73-426d-a5dc-98489f97f3fd.jsonl": {
+    "size": 18242880,
+    "offset": 18242880,
+    "mod": 1790241287803577500,
+    "codex": {},
+    "unread": 0
+  },
+  "C:\\Users\\Admin\\.claude\\projects\\D--Demo-Video---FacilityVUE\\19be4e03-7879-4b49-84e8-fa1388be7b60.jsonl": {
+    "size": 22092759,
+    "offset": 22092759,
+    "mod": 1789993300530135200,
+    "codex": {},
+    "unread": 0
+  },
+  "C:\\Users\\Admin\\.claude\\projects\\D--FS-Chat-fs-chat-workdir\\8c88c840-9731-4a7d-a71a-1222406edfa1.jsonl": {
+    "size": 59369,
+    "offset": 59369,
+    "mod": 1791364830278884600,
+    "codex": {},
+    "unread": 0
+  },
+  "C:\\Users\\Admin\\.claude\\projects\\D--FS-Chat-fs-chat-workdir\\e7b53ca4-a871-4ded-9c9f-0b75c462afb8.jsonl": {
+    "size": 51009,
+    "offset": 51009,
+    "mod": 1791368602590702800,
+    "codex": {},
+    "unread": 0
+  },
+  "C:\\Users\\Admin\\.claude\\projects\\D--InitVue\\59cd5ec7-fef6-4c3f-ac90-3a3291fef149.jsonl": {
+    "size": 626111,
+    "offset": 626111,
+    "mod": 1790675723167297100,
+    "codex": {},
+    "unread": 0
+  },
+  "C:\\Users\\Admin\\.claude\\projects\\D--Landing---FacilityVUE-facilityvue-landing-handoff\\67000ea5-68f2-4de5-8b13-27d1cd9fabec.jsonl": {
+    "size": 416863,
+    "offset": 416863,
+    "mod": 1790065941310525100,
+    "codex": {},
+    "unread": 0
+  },
+  "C:\\Users\\Admin\\.claude\\projects\\D--Landing-ReDesign---FacilityVUE-facilityvue-landing-redesign\\7fd54ef0-7f33-460b-96bb-438f9041ada8.jsonl": {
+    "size": 393108,
+    "offset": 393108,
+    "mod": 1790067405547948900,
+    "codex": {},
+    "unread": 0
+  },
+  "C:\\Users\\Admin\\.claude\\projects\\D--MOREGroup---CloudFinX\\4989b5aa-137a-44be-a1ce-26f6fafe6696.jsonl": {
+    "size": 1726279,
+    "offset": 1726279,
+    "mod": 1790683339308050200,
+    "codex": {},
+    "unread": 0
+  },
+  "C:\\Users\\Admin\\.claude\\projects\\D--MOREGroup---CloudFinX\\7123a44e-9f61-4ad7-beb1-6a2d2bf1dd0c.jsonl": {
+    "size": 9539540,
+    "offset": 9539540,
+    "mod": 1790759685515468500,
+    "codex": {},
+    "unread": 0
+  },
+  "C:\\Users\\Admin\\.claude\\projects\\D--MoreGroup-facility-vue-2\\10339743-29cd-4cdd-8750-ea977706a5eb.jsonl": {
+    "size": 724176,
+    "offset": 724176,
+    "mod": 1789114464427861100,
+    "codex": {},
+    "unread": 0
+  },
+  "C:\\Users\\Admin\\.claude\\projects\\D--MoreGroup-facility-vue-2\\1418e778-73ff-4789-a9f9-2c0323b72fcb.jsonl": {
+    "size": 12303096,
+    "offset": 12303096,
+    "mod": 1790166806565263000,
+    "codex": {},
+    "unread": 0
+  },
+  "C:\\Users\\Admin\\.claude\\projects\\D--MoreGroup-facility-vue-2\\2bfd1094-15a6-412c-bee9-af9b49f0dc01.jsonl": {
+    "size": 621846,
+    "offset": 621846,
+    "mod": 1789993488032844600,
+    "codex": {},
+    "unread": 0
+  },
+  "C:\\Users\\Admin\\.claude\\projects\\D--MoreGroup-facility-vue-2\\2eba29bc-a611-4c27-87f7-bacb9c8e53a4.jsonl": {
+    "size": 786505,
+    "offset": 786505,
+    "mod": 1790315441792861800,
+    "codex": {},
+    "unread": 0
+  },
+  "C:\\Users\\Admin\\.claude\\projects\\D--MoreGroup-facility-vue-2\\8372e5ff-7abf-4e73-aae0-7776b14885e1.jsonl": {
+    "size": 867611,
+    "offset": 867611,
+    "mod": 1790242709578417900,
+    "codex": {},
+    "unread": 0
+  },
+  "C:\\Users\\Admin\\.claude\\projects\\D--MoreGroup-facility-vue-2\\926d6f81-6b57-4e60-b90c-52940a2b52ae.jsonl": {
+    "size": 577295,
+    "offset": 577295,
+    "mod": 1790076577577440100,
+    "codex": {},
+    "unread": 0
+  },
+  "C:\\Users\\Admin\\.claude\\projects\\D--MoreGroup-facility-vue-2\\f0f17085-90e5-4cf4-ac36-60857af4ba1c.jsonl": {
+    "size": 15291734,
+    "offset": 15291734,
+    "mod": 1790337936275094500,
+    "codex": {},
+    "unread": 0
+  },
+  "C:\\Users\\Admin\\.claude\\projects\\D--MoreGroup-facility-vue-2\\f0f17085-90e5-4cf4-ac36-60857af4ba1c\\subagents\\agent-abb7db23802b6df66.jsonl": {
+    "size": 325378,
+    "offset": 325378,
+    "mod": 1790315891923639600,
+    "codex": {},
+    "unread": 0
+  },
+  "C:\\Users\\Admin\\.claude\\projects\\D--MoreGroup-facility-vue-2\\f0f17085-90e5-4cf4-ac36-60857af4ba1c\\subagents\\agent-ac7c3f7bf95a5fee5.jsonl": {
+    "size": 412683,
+    "offset": 412683,
+    "mod": 1790315905314320300,
+    "codex": {},
+    "unread": 0
+  },
+  "C:\\Users\\Admin\\.claude\\projects\\D--MoreGroup-facility-vue-2\\f0f17085-90e5-4cf4-ac36-60857af4ba1c\\subagents\\agent-ae1ae80c2ab432b1c.jsonl": {
+    "size": 338609,
+    "offset": 338609,
+    "mod": 1790315906370355200,
+    "codex": {},
+    "unread": 0
+  },
+  "C:\\Users\\Admin\\.claude\\projects\\D--MoreGroup\\0dcb0150-2849-4684-b80a-dc0e6f8f8d3b.jsonl": {
+    "size": 1240182,
+    "offset": 1240182,
+    "mod": 1789023171276676700,
+    "codex": {},
+    "unread": 0
+  },
+  "C:\\Users\\Admin\\.claude\\projects\\D--MoreGroup\\0dcb0150-2849-4684-b80a-dc0e6f8f8d3b\\subagents\\agent-a58740d7b1b1880f3.jsonl": {
+    "size": 400030,
+    "offset": 400030,
+    "mod": 1789022405022280500,
+    "codex": {},
+    "unread": 0
+  },
+  "C:\\Users\\Admin\\.claude\\projects\\D--MoreGroup\\16ba03cd-da3b-40cb-8d44-9cdbb97ead5a.jsonl": {
+    "size": 3108326,
+    "offset": 3108326,
+    "mod": 1789041711522228900,
+    "codex": {},
+    "unread": 0
+  },
+  "C:\\Users\\Admin\\.claude\\projects\\D--MoreGroup\\a0a01b73-40a9-4215-8c67-111507bacdff.jsonl": {
+    "size": 1924273,
+    "offset": 1924273,
+    "mod": 1789032060834611200,
+    "codex": {},
+    "unread": 0
+  },
+  "C:\\Users\\Admin\\.claude\\projects\\d--CloudFinX\\b19c3e73-f58d-40f1-9f6a-866bc5b6bb44.jsonl": {
+    "size": 500224,
+    "offset": 500224,
+    "mod": 1789126163053878300,
+    "codex": {},
+    "unread": 0
+  },
+  "C:\\Users\\Admin\\.codex\\sessions\\2026\\05\\14\\rollout-2026-05-14T16-39-12-019e262d-2231-79d2-b065-180e70cb5656.jsonl": {
+    "size": 209935,
+    "offset": 209935,
+    "mod": 1778757123150404800,
+    "codex": {
+      "session": "019e262d-2231-79d2-b065-180e70cb5656",
+      "model": "gpt-5.5",
+      "cwd": "C:\\Users\\Admin\\Documents\\Codex\\2026-05-14\\files-mentioned-by-the-user-scp",
+      "lastTotal": 206223
+    },
+    "unread": 0
+  },
+  "C:\\Users\\Admin\\.codex\\sessions\\2026\\05\\14\\rollout-2026-05-14T16-41-34-019e262f-4ccd-7862-908d-f5361042387d.jsonl": {
+    "size": 263077,
+    "offset": 263077,
+    "mod": 1778757286722434100,
+    "codex": {
+      "session": "019e262f-4ccd-7862-908d-f5361042387d",
+      "model": "gpt-5.5",
+      "cwd": "C:\\Users\\Admin\\Documents\\Codex\\2026-05-14\\files-mentioned-by-the-user-scp-2",
+      "lastTotal": 219661
+    },
+    "unread": 0
+  },
+  "C:\\Users\\Admin\\.codex\\sessions\\2026\\05\\18\\rollout-2026-05-18T14-14-55-019e3a42-7abf-7103-9ece-e4cdc0b8f067.jsonl": {
+    "size": 157357,
+    "offset": 157357,
+    "mod": 1779094681694039300,
+    "codex": {
+      "session": "019e3a42-7abf-7103-9ece-e4cdc0b8f067",
+      "model": "gpt-5.5",
+      "cwd": "C:\\Users\\Admin\\Desktop\\Pokemon_Working_Prod\\tpci_fusion_monitoring_prod\\Pokemon_FusionInsight",
+      "lastTotal": 240639
+    },
+    "unread": 0
+  },
+  "C:\\Users\\Admin\\.codex\\sessions\\2026\\05\\19\\rollout-2026-05-19T11-20-49-019e3ec9-6f96-7831-a93a-0d617858401c.jsonl": {
+    "size": 346483,
+    "offset": 346483,
+    "mod": 1779170217463258600,
+    "codex": {
+      "session": "019e3ec9-6f96-7831-a93a-0d617858401c",
+      "model": "gpt-5.5",
+      "cwd": "C:\\Users\\Admin\\Desktop\\Pokemon_Working_Prod\\tpci_fusion_monitoring_prod\\Pokemon_FusionInsight",
+      "lastTotal": 1475814
+    },
+    "unread": 0
+  },
+  "C:\\Users\\Admin\\.codex\\sessions\\2026\\05\\19\\rollout-2026-05-19T12-36-49-019e3f0f-054b-7a73-8617-08a5643c5375.jsonl": {
+    "size": 983763,
+    "offset": 983763,
+    "mod": 1779189926463324100,
+    "codex": {
+      "session": "019e3f0f-054b-7a73-8617-08a5643c5375",
+      "model": "gpt-5.5",
+      "cwd": "C:\\Users\\Admin\\Desktop\\Environment Sizing\\Wallet_FUSIONAPPS",
+      "lastTotal": 6055031
+    },
+    "unread": 0
+  },
+  "C:\\Users\\Admin\\.codex\\sessions\\2026\\05\\19\\rollout-2026-05-19T15-08-20-019e3f99-bbb2-70c1-9466-efc94c845506.jsonl": {
+    "size": 149627,
+    "offset": 149627,
+    "mod": 1779183650262232200,
+    "codex": {
+      "session": "019e3f99-bbb2-70c1-9466-efc94c845506",
+      "model": "gpt-5.5",
+      "cwd": "C:\\Users\\Admin\\Desktop\\Pokemon_Working_Prod\\tpci_fusion_monitoring_prod\\Pokemon_FusionInsight",
+      "lastTotal": 222405
+    },
+    "unread": 0
+  },
+  "C:\\Users\\Admin\\.codex\\sessions\\2026\\06\\10\\rollout-2026-06-10T12-06-33-019eb03f-231d-78e3-8c10-8d95f475a771.jsonl": {
+    "size": 215971,
+    "offset": 215971,
+    "mod": 1781073840826526000,
+    "codex": {
+      "session": "019eb03f-231d-78e3-8c10-8d95f475a771",
+      "model": "gpt-5.5",
+      "cwd": "C:\\Users\\Admin\\Desktop\\Pokemon_Working_Prod\\tpci_fusion_monitoring_prod\\Pokemon_FusionInsight",
+      "lastTotal": 226559
+    },
+    "unread": 0
+  }
+}

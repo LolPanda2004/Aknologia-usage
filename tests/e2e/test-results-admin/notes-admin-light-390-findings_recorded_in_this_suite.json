@@ -1,0 +1,5 @@
+{
+  "mobileNavVisible": true,
+  "selfRecentSessionsEmptyState": "Recent sessions\nProjects are hashed. Prompts, code, and file names are never collected.\nStarted\tProject\tModel\tActive\tCost",
+  "mobileSignOutVisible": true
+}

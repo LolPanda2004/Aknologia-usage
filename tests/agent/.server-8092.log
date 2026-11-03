@@ -1,0 +1,43 @@
+2026/10/10 11:28:16 Aknologia Usage listening on :8092 (dev=true)
+2026/10/10 11:28:17 GET /api/v1/health 0s
+2026/10/10 11:29:03 [dev] one-time code for qa2admin@example.com (verify_signup): 745154
+2026/10/10 11:29:03 [mail] to=qa2admin@example.com subject="Your Aknologia code: 745154"
+Your Aknologia code is 745154. Use it to verify your email and finish creating your workspace. It expires in 10 minutes.
+2026/10/10 11:29:03 POST /api/v1/auth/signup 360ms
+2026/10/10 11:29:14 POST /api/v1/auth/verify-email 43ms
+2026/10/10 11:29:16 [dev] invite code for qa2member@example.com: P8VX-XYXY
+2026/10/10 11:29:16 [mail] to=qa2member@example.com subject="QA Admin invited you to QA2 Co"
+QA Admin invited you to QA2 Co on Aknologia Usage.
+Install the desktop app: http://localhost:8080/download/
+Invite code: P8VX-XYXY (expires 24 Oct 2026)
+Admins can also set a password here: http://localhost:8080/app/#/accept?email=qa2member@example.com
+
+2026/10/10 11:29:16 POST /api/v1/admin/members/invite 30ms
+2026/10/10 11:31:34 POST /api/v1/auth/invite/accept 388ms
+2026/10/10 11:31:34 GET /api/v1/agent/config 34ms
+2026/10/10 11:31:34 GET /api/v1/agent/config 31ms
+2026/10/10 11:31:35 POST /api/v1/ingest/batch 361ms
+2026/10/10 11:31:35 GET /api/v1/agent/config 54ms
+2026/10/10 11:31:35 GET /api/v1/me/notifications 22ms
+2026/10/10 11:33:52 Aknologia Usage listening on :8092 (dev=true)
+2026/10/10 11:33:52 GET /api/v1/health 0s
+2026/10/10 11:33:54 POST /api/v1/ingest/batch 891ms
+2026/10/10 11:33:55 POST /api/v1/ingest/batch 977ms
+2026/10/10 11:33:56 POST /api/v1/ingest/batch 435ms
+2026/10/10 11:33:56 GET /api/v1/agent/config 38ms
+2026/10/10 11:33:56 GET /api/v1/me/notifications 14ms
+2026/10/10 11:34:40 POST /api/v1/ingest/batch 13ms
+2026/10/10 11:34:48 POST /api/v1/auth/login 407ms
+2026/10/10 11:34:48 GET /api/v1/agent/config 110ms
+2026/10/10 11:34:48 POST /api/v1/ingest/batch 233ms
+2026/10/10 11:34:49 GET /api/v1/agent/config 31ms
+2026/10/10 11:34:49 GET /api/v1/me/notifications 12ms
+2026/10/10 11:35:02 GET /api/v1/me 7ms
+2026/10/10 11:35:04 POST /api/v1/auth/login 364ms
+2026/10/10 11:35:06 GET /api/v1/agent/config 42ms
+2026/10/10 11:35:11 GET /api/v1/agent/config 46ms
+2026/10/10 11:35:11 GET /api/v1/me/notifications 16ms
+2026/10/10 11:35:25 [mail] to=qa2member@example.com subject="You’ve been removed from QA2 Co"
+QA Admin removed you from QA2 Co. Tracking has stopped.
+2026/10/10 11:35:25 DELETE /api/v1/admin/members/d4a6ce8c-a39e-484f-9325-f17640ac3b6c 40ms
+2026/10/10 11:35:26 POST /api/v1/ingest/batch 3ms

@@ -1,0 +1,6 @@
+{"timestamp":"2026-10-09T09:00:00.000Z","type":"session_meta","payload":{"id":"cx-1","cwd":"/Users/priya/code/web-dashboard","instructions":"secret"}}
+{"timestamp":"2026-10-09T09:00:01.000Z","type":"turn_context","payload":{"model":"gpt-5-codex","cwd":"/Users/priya/code/web-dashboard"}}
+{"timestamp":"2026-10-09T09:00:02.000Z","type":"event_msg","payload":{"type":"token_count","info":null}}
+{"timestamp":"2026-10-09T09:00:09.000Z","type":"event_msg","payload":{"type":"token_count","info":{"total_token_usage":{"total_tokens":6200},"last_token_usage":{"input_tokens":5000,"cached_input_tokens":4000,"output_tokens":1200,"reasoning_output_tokens":300,"total_tokens":6200}}}}
+{"timestamp":"2026-10-09T09:00:10.000Z","type":"event_msg","payload":{"type":"token_count","info":{"total_token_usage":{"total_tokens":6200},"last_token_usage":{"input_tokens":5000,"cached_input_tokens":4000,"output_tokens":1200}}}}
+{"timestamp":"2026-10-09T09:00:30.000Z","type":"event_msg","payload":{"type":"agent_message","message":"secret"}}

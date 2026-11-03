@@ -1,0 +1,598 @@
+{
+  "obs": {
+    "inviteCodeFormat": "GHRQ-UWUE",
+    "afterInviteStatus": {
+      "queued": 0,
+      "org": "QA4 Member Co moge4p",
+      "role": "member"
+    },
+    "inviteReuse": 400,
+    "budgetCardOnTour": 1,
+    "oracle": {
+      "d1": {
+        "events": 5,
+        "tokens": 661000,
+        "sessions": 1,
+        "activeSec": 240
+      },
+      "d7": {
+        "events": 22,
+        "tokens": 1688900,
+        "sessions": 5,
+        "activeSec": 2220
+      },
+      "d30": {
+        "events": 24,
+        "tokens": 1953300,
+        "sessions": 6,
+        "activeSec": 2370
+      }
+    },
+    "windowSummaries": {
+      "1": {
+        "ui": {
+          "active": "0.1 h",
+          "spend": "$0.57",
+          "tokens": "661K",
+          "sessions": "1"
+        },
+        "agent": {
+          "activeHours": 0.1,
+          "cost": 0.57,
+          "tokens": 661000,
+          "sessions": 1,
+          "cacheShare": 93,
+          "saved": 1.59
+        }
+      },
+      "7": {
+        "ui": {
+          "active": "0.6 h",
+          "spend": "$3.60",
+          "tokens": "1.7M",
+          "sessions": "5"
+        },
+        "agent": {
+          "activeHours": 0.6,
+          "cost": 3.6,
+          "tokens": 1688900,
+          "sessions": 5,
+          "cacheShare": 87,
+          "saved": 6.23
+        }
+      },
+      "30": {
+        "ui": {
+          "active": "0.7 h",
+          "spend": "$3.83",
+          "tokens": "2.0M",
+          "sessions": "6"
+        },
+        "agent": {
+          "activeHours": 0.7,
+          "cost": 3.83,
+          "tokens": 1953300,
+          "sessions": 6,
+          "cacheShare": 88,
+          "saved": 6.87
+        }
+      }
+    },
+    "activeOracle7h": 0.6,
+    "heatCells": 84,
+    "recentRows": 5,
+    "budgetBefore": {
+      "budgetCents": 15000,
+      "spentCents": 360,
+      "pct": 2,
+      "projectedCents": 1172,
+      "resetsOn": "2026-11-01",
+      "month": "October 2026",
+      "custom": false
+    },
+    "adminBeforeSync": {
+      "activeHours": 0.6,
+      "cacheShare": 87,
+      "costPerHour": 5.84,
+      "sessions": 5,
+      "spend": 3.6,
+      "teamActiveHours": 0.6,
+      "teamCacheShare": 87,
+      "teamCostPerHour": 5.84,
+      "teamSpend": 3.6
+    },
+    "forceSyncToast": "Synced. 0 events waiting.",
+    "numberMatch": {
+      "window7": {
+        "ui": {
+          "active": "0.6 h",
+          "spend": "$3.60",
+          "tokens": "1.7M",
+          "sessions": "5"
+        },
+        "activeHours": 0.6,
+        "cost": 3.6,
+        "tokens": 1688900,
+        "sessions": 5,
+        "cacheShare": 87
+      },
+      "window30": {
+        "activeHours": 0.7,
+        "cost": 3.83,
+        "tokens": 1953300,
+        "sessions": 6
+      },
+      "adminMonth": {
+        "activeHours": 0.6,
+        "cacheShare": 87,
+        "costPerHour": 5.84,
+        "sessions": 5,
+        "spend": 3.6,
+        "teamActiveHours": 0.6,
+        "teamCacheShare": 87,
+        "teamCostPerHour": 5.84,
+        "teamSpend": 3.6
+      },
+      "adminBudget": {
+        "budgetCents": 15000,
+        "custom": false,
+        "month": "October 2026",
+        "pct": 2,
+        "projectedCents": 1172,
+        "resetsOn": "2026-11-01",
+        "spentCents": 360
+      },
+      "adminSessions": [
+        {
+          "started": "2026-10-10T03:00:00Z",
+          "project": "proj-a5ece7",
+          "tool": "claude_code",
+          "model": "claude-sonnet-4-5-20250929",
+          "activeMinutes": 4,
+          "cost": 0.57,
+          "tokens": 661000
+        },
+        {
+          "started": "2026-10-09T09:00:00Z",
+          "project": "proj-a5ece7",
+          "tool": "claude_code",
+          "model": "claude-opus-4-1-20250805",
+          "activeMinutes": 10,
+          "cost": 2.52,
+          "tokens": 375000
+        },
+        {
+          "started": "2026-10-08T11:00:00Z",
+          "project": "proj-d291b4",
+          "tool": "codex",
+          "model": "gpt-5-codex",
+          "activeMinutes": 9,
+          "cost": 0,
+          "tokens": 138000
+        },
+        {
+          "started": "2026-10-07T14:00:00Z",
+          "project": "proj-d291b4",
+          "tool": "claude_code",
+          "model": "claude-haiku-4-5-20251001",
+          "activeMinutes": 13,
+          "cost": 0.28,
+          "tokens": 376900
+        },
+        {
+          "started": "2026-10-06T16:00:00Z",
+          "project": "proj-dcaa89",
+          "tool": "codex",
+          "model": "gpt-5",
+          "activeMinutes": 3,
+          "cost": 0.23,
+          "tokens": 138000
+        },
+        {
+          "started": "2026-09-26T10:00:00Z",
+          "project": "proj-7fa576",
+          "tool": "claude_code",
+          "model": "claude-sonnet-4-5-20250929",
+          "activeMinutes": 3,
+          "cost": 0.23,
+          "tokens": 264400
+        }
+      ],
+      "dbAll": "1953300|24|6",
+      "dbMonth": "1688900|22",
+      "windowSessions": [
+        {
+          "project": "billing-service",
+          "tool": "claude_code",
+          "start": "2026-10-10T03:00:00Z",
+          "active": 4,
+          "tokens": 661000,
+          "cost": 0.57,
+          "model": "claude-sonnet-4-5-20250929"
+        },
+        {
+          "project": "billing-service",
+          "tool": "claude_code",
+          "start": "2026-10-09T09:00:00Z",
+          "active": 10,
+          "tokens": 375000,
+          "cost": 2.52,
+          "model": "claude-opus-4-1-20250805"
+        },
+        {
+          "project": "web-dashboard",
+          "tool": "codex",
+          "start": "2026-10-08T11:00:00Z",
+          "active": 9,
+          "tokens": 138000,
+          "cost": 0,
+          "model": "gpt-5-codex"
+        },
+        {
+          "project": "web-dashboard",
+          "tool": "claude_code",
+          "start": "2026-10-07T14:00:00Z",
+          "active": 13,
+          "tokens": 376900,
+          "cost": 0.28,
+          "model": "claude-haiku-4-5-20251001"
+        },
+        {
+          "project": "ml-pipeline",
+          "tool": "codex",
+          "start": "2026-10-06T16:00:00Z",
+          "active": 3,
+          "tokens": 138000,
+          "cost": 0.23,
+          "model": "gpt-5"
+        },
+        {
+          "project": "legacy-app",
+          "tool": "claude_code",
+          "start": "2026-09-26T10:00:00Z",
+          "active": 3,
+          "tokens": 264400,
+          "cost": 0.23,
+          "model": "claude-sonnet-4-5-20250929"
+        }
+      ]
+    },
+    "adminConsoleKpis": [
+      "Active coding time | 0.6 h | Team average 0.6 h",
+      "Spend | $3.60 | Team average $3.60",
+      "Cost per active hour | $5.84 | Team average $5.84",
+      "Sessions | 5 | This month",
+      "Served from cache | 87% | Team 87%"
+    ],
+    "budgetVisibleBeforeSync": 0,
+    "budgetAfter": {
+      "budgetCents": 100,
+      "spentCents": 360,
+      "pct": 360,
+      "projectedCents": 1172,
+      "resetsOn": "2026-11-01",
+      "month": "October 2026",
+      "custom": true
+    },
+    "budgetAlertsAfterBannerNoNewEvents": "2",
+    "budgetAlertsAfterNewEvent": "80|qa4-moge4p@example.test\n100|qa4-moge4p@example.test",
+    "sessionCount30": 6,
+    "searchByModel": 0,
+    "noResultCopy": "No sessions in the last 30 days",
+    "opusTurns": 6,
+    "splitCostSum": 2.53,
+    "sessionCost": 2.52,
+    "detailAfterFilter": "web-dashboard",
+    "topSearchChangedRows": false,
+    "pwWrongCurrent": "Your current password isn’t right.",
+    "backupSentTo": "Enter the code we sent to b•••••@example.test.",
+    "revokedDeviceMe": 401,
+    "newDeviceLogin": {
+      "loginStatus": 200,
+      "gotToken": true
+    },
+    "sources": [
+      {
+        "tool": "claude_code",
+        "found": true,
+        "files": 4,
+        "unread": 0,
+        "eventsToday": 6
+      },
+      {
+        "tool": "codex",
+        "found": true,
+        "files": 2,
+        "unread": 0,
+        "eventsToday": 0
+      }
+    ],
+    "sourcePills": [
+      "Reading normally",
+      "Reading normally"
+    ],
+    "forceSyncWhilePausedToast": "Synced. 0 events waiting.",
+    "pause": {
+      "before": {
+        "lines": 25,
+        "queued": 0
+      },
+      "during": {
+        "lines": 25,
+        "queued": 0
+      },
+      "afterResume": {
+        "lines": 26,
+        "dbPausedTurn": "1"
+      }
+    },
+    "autostart": {
+      "initialChecked": true,
+      "keyAtStart": "\"C:\\Users\\Admin\\Downloads\\aknologia-usage\\aknologia\\tests\\bin\\aknologia-agent.exe\"",
+      "keyWhenOn": "\"C:\\Users\\Admin\\Downloads\\aknologia-usage\\aknologia\\tests\\bin\\aknologia-agent.exe\"",
+      "keyHasServerArgs": false
+    },
+    "systemTheme": "light",
+    "themeAfterReloadSystem": "light",
+    "themePersisted": true,
+    "settingsPillPrimary": "none (D10)",
+    "ticket": {
+      "id": "67",
+      "row": "bug|Numbers look wrong|{\"queued\": 0, \"sources\": [{\"path\": \"C:\\\\Users\\\\Admin\\\\Downloads\\\\aknologia-usage\\\\aknologia\\\\tests\\\\.sandbox\\\\member\\\\home\\\\.claude\\\\projects\", \"tool\": \"claude_code\", \"files\": 4, \"found\": true, \"roots\": [\"C:\\\\Users\\\\Admin\\\\Downloads\\\\aknologia-usage\\\\aknologia\\\\tests\\\\.sandbox\\\\member\\\\home\\\\.claude\\\\projects\"], \"unread\": 0, \"eventsToday\": 7}, {\"path\": \"C:\\\\Users\\\\Admin\\\\Downloads\\\\aknologia-usage\\\\aknologia\\\\tests\\\\.sandbox\\\\member\\\\home\\\\.codex\\\\sessions\", \"tool\": \"codex\", \"files\": 2, \"found\": true, \"roots\": [\"C:\\\\Users\\\\Admin\\\\Downloads\\\\aknologia-usage\\\\aknologia\\\\tests\\\\.sandbox\\\\member\\\\home\\\\.codex\\\\sessions\"], \"unread\": 0, \"eventsToday\": 0}], \"lastSync\": \"2026-10-10T17:58:09.3428919+05:30\", \"lastError\": \"\", \"userAgent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.8078.4 Safari/537.36\", \"appVersion\": \"1.0.0\"}"
+    },
+    "ticketHasLocalPaths": true,
+    "ticketNoDiag": "NULL",
+    "markerInAgentData": [],
+    "markerInDb": "0",
+    "signinEmailPrefilled": "member-qa4-moge4p@example.test",
+    "forgotSentTo": "Enter the 6-digit code we sent to m•••••@example.test. It expires in 10 minutes.",
+    "forgotBackupSentTo": "Enter the 6-digit code we sent to b•••••@example.test. It expires in 10 minutes.",
+    "backupResetLogged": false,
+    "wrongResetCode": "That code is wrong or has expired. Request a new one.",
+    "tourAfterResignin": false,
+    "removedShownWithoutSync": false,
+    "removedStatus": {
+      "signedIn": false,
+      "removed": true
+    },
+    "removedAfterReload": true,
+    "removalEmail": true,
+    "registryAfter": "\"C:\\Users\\Admin\\Downloads\\aknologia-usage\\aknologia\\prebuilt\\aknologia-agent-windows-amd64.exe\"",
+    "registryBefore": "\"C:\\Users\\Admin\\Downloads\\aknologia-usage\\aknologia\\prebuilt\\aknologia-agent-windows-amd64.exe\"",
+    "registryRestored": true
+  },
+  "consoleErrors": [
+    {
+      "step": "invite",
+      "text": "Failed to load resource: the server responded with a status of 400 (Bad Request)",
+      "url": "http://127.0.0.1:47811/v1/auth/accept-invite",
+      "allowed": true
+    },
+    {
+      "step": "invite",
+      "text": "Failed to load resource: the server responded with a status of 400 (Bad Request)",
+      "url": "http://127.0.0.1:47811/v1/auth/accept-invite",
+      "allowed": true
+    },
+    {
+      "step": "settings-security",
+      "text": "Failed to load resource: the server responded with a status of 400 (Bad Request)",
+      "url": "http://127.0.0.1:47811/v1/server/me/password/start",
+      "allowed": true
+    },
+    {
+      "step": "signout",
+      "text": "Failed to load resource: the server responded with a status of 401 (Unauthorized)",
+      "url": "http://127.0.0.1:47811/v1/auth/login",
+      "allowed": true
+    },
+    {
+      "step": "forgot",
+      "text": "Failed to load resource: the server responded with a status of 400 (Bad Request)",
+      "url": "http://127.0.0.1:47811/v1/auth/reset",
+      "allowed": true
+    }
+  ],
+  "layout": [
+    {
+      "page": "signin-first-run",
+      "theme": "light",
+      "overflowPx390": 0
+    },
+    {
+      "page": "signin-first-run",
+      "theme": "dark",
+      "overflowPx390": 0
+    },
+    {
+      "page": "invite",
+      "theme": "light",
+      "overflowPx390": 0
+    },
+    {
+      "page": "invite",
+      "theme": "dark",
+      "overflowPx390": 0
+    },
+    {
+      "page": "tour-step1",
+      "theme": "light",
+      "overflowPx390": 0
+    },
+    {
+      "page": "tour-step1",
+      "theme": "dark",
+      "overflowPx390": 0
+    },
+    {
+      "page": "overview",
+      "theme": "light",
+      "overflowPx390": 0
+    },
+    {
+      "page": "overview",
+      "theme": "dark",
+      "overflowPx390": 0
+    },
+    {
+      "page": "overview-budget-reached",
+      "theme": "light",
+      "overflowPx390": 0
+    },
+    {
+      "page": "overview-budget-reached",
+      "theme": "dark",
+      "overflowPx390": 0
+    },
+    {
+      "page": "sessions",
+      "theme": "light",
+      "overflowPx390": 0
+    },
+    {
+      "page": "sessions",
+      "theme": "dark",
+      "overflowPx390": 0
+    },
+    {
+      "page": "settings",
+      "theme": "light",
+      "overflowPx390": 0
+    },
+    {
+      "page": "settings",
+      "theme": "dark",
+      "overflowPx390": 0
+    },
+    {
+      "page": "support",
+      "theme": "light",
+      "overflowPx390": 0
+    },
+    {
+      "page": "support",
+      "theme": "dark",
+      "overflowPx390": 0
+    },
+    {
+      "page": "signin",
+      "theme": "light",
+      "overflowPx390": 0
+    },
+    {
+      "page": "signin",
+      "theme": "dark",
+      "overflowPx390": 0
+    },
+    {
+      "page": "forgot-email",
+      "theme": "light",
+      "overflowPx390": 0
+    },
+    {
+      "page": "forgot-email",
+      "theme": "dark",
+      "overflowPx390": 0
+    },
+    {
+      "page": "forgot-code",
+      "theme": "light",
+      "overflowPx390": 0
+    },
+    {
+      "page": "forgot-code",
+      "theme": "dark",
+      "overflowPx390": 0
+    },
+    {
+      "page": "forgot-new-password",
+      "theme": "light",
+      "overflowPx390": 0
+    },
+    {
+      "page": "forgot-new-password",
+      "theme": "dark",
+      "overflowPx390": 0
+    },
+    {
+      "page": "removed",
+      "theme": "light",
+      "overflowPx390": 0
+    },
+    {
+      "page": "removed",
+      "theme": "dark",
+      "overflowPx390": 0
+    }
+  ],
+  "shots": [
+    "tests/e2e/screenshots/member/unpaired-bad-token-light-1440.png",
+    "tests/e2e/screenshots/member/signin-first-run-light-1440.png",
+    "tests/e2e/screenshots/member/signin-first-run-light-390.png",
+    "tests/e2e/screenshots/member/signin-first-run-dark-1440.png",
+    "tests/e2e/screenshots/member/signin-first-run-dark-390.png",
+    "tests/e2e/screenshots/member/invite-light-1440.png",
+    "tests/e2e/screenshots/member/invite-light-390.png",
+    "tests/e2e/screenshots/member/invite-dark-1440.png",
+    "tests/e2e/screenshots/member/invite-dark-390.png",
+    "tests/e2e/screenshots/member/invite-rules-met-light-1440.png",
+    "tests/e2e/screenshots/member/invite-wrong-code-light-1440.png",
+    "tests/e2e/screenshots/member/tour-step1-light-1440.png",
+    "tests/e2e/screenshots/member/tour-step1-light-390.png",
+    "tests/e2e/screenshots/member/tour-step1-dark-1440.png",
+    "tests/e2e/screenshots/member/tour-step1-dark-390.png",
+    "tests/e2e/screenshots/member/overview-light-1440.png",
+    "tests/e2e/screenshots/member/overview-light-390.png",
+    "tests/e2e/screenshots/member/overview-dark-1440.png",
+    "tests/e2e/screenshots/member/overview-dark-390.png",
+    "tests/e2e/screenshots/member/overview-30days-light-1440.png",
+    "tests/e2e/screenshots/member/admin-console-member-detail.png",
+    "tests/e2e/screenshots/member/overview-budget-reached-light-1440.png",
+    "tests/e2e/screenshots/member/overview-budget-reached-light-390.png",
+    "tests/e2e/screenshots/member/overview-budget-reached-dark-1440.png",
+    "tests/e2e/screenshots/member/overview-budget-reached-dark-390.png",
+    "tests/e2e/screenshots/member/sessions-light-1440.png",
+    "tests/e2e/screenshots/member/sessions-light-390.png",
+    "tests/e2e/screenshots/member/sessions-dark-1440.png",
+    "tests/e2e/screenshots/member/sessions-dark-390.png",
+    "tests/e2e/screenshots/member/sessions-no-results-light-1440.png",
+    "tests/e2e/screenshots/member/sessions-detail-opus-light-1440.png",
+    "tests/e2e/screenshots/member/settings-light-1440.png",
+    "tests/e2e/screenshots/member/settings-light-390.png",
+    "tests/e2e/screenshots/member/settings-dark-1440.png",
+    "tests/e2e/screenshots/member/settings-dark-390.png",
+    "tests/e2e/screenshots/member/settings-password-modal-light-1440.png",
+    "tests/e2e/screenshots/member/settings-password-modal-dark-1440.png",
+    "tests/e2e/screenshots/member/settings-password-code-light-1440.png",
+    "tests/e2e/screenshots/member/settings-password-code-dark-1440.png",
+    "tests/e2e/screenshots/member/settings-devices-two-light-1440.png",
+    "tests/e2e/screenshots/member/settings-paused-light-1440.png",
+    "tests/e2e/screenshots/member/support-light-1440.png",
+    "tests/e2e/screenshots/member/support-light-390.png",
+    "tests/e2e/screenshots/member/support-dark-1440.png",
+    "tests/e2e/screenshots/member/support-dark-390.png",
+    "tests/e2e/screenshots/member/support-after-submit-light-1440.png",
+    "tests/e2e/screenshots/member/signin-light-1440.png",
+    "tests/e2e/screenshots/member/signin-light-390.png",
+    "tests/e2e/screenshots/member/signin-dark-1440.png",
+    "tests/e2e/screenshots/member/signin-dark-390.png",
+    "tests/e2e/screenshots/member/signin-server-modal-light-1440.png",
+    "tests/e2e/screenshots/member/signin-server-modal-dark-1440.png",
+    "tests/e2e/screenshots/member/forgot-email-light-1440.png",
+    "tests/e2e/screenshots/member/forgot-email-light-390.png",
+    "tests/e2e/screenshots/member/forgot-email-dark-1440.png",
+    "tests/e2e/screenshots/member/forgot-email-dark-390.png",
+    "tests/e2e/screenshots/member/forgot-code-light-1440.png",
+    "tests/e2e/screenshots/member/forgot-code-light-390.png",
+    "tests/e2e/screenshots/member/forgot-code-dark-1440.png",
+    "tests/e2e/screenshots/member/forgot-code-dark-390.png",
+    "tests/e2e/screenshots/member/forgot-new-password-light-1440.png",
+    "tests/e2e/screenshots/member/forgot-new-password-light-390.png",
+    "tests/e2e/screenshots/member/forgot-new-password-dark-1440.png",
+    "tests/e2e/screenshots/member/forgot-new-password-dark-390.png",
+    "tests/e2e/screenshots/member/removed-light-1440.png",
+    "tests/e2e/screenshots/member/removed-light-390.png",
+    "tests/e2e/screenshots/member/removed-dark-1440.png",
+    "tests/e2e/screenshots/member/removed-dark-390.png"
+  ]
+}

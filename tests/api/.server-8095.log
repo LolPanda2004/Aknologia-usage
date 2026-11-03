@@ -1,0 +1,4 @@
+2026/10/10 16:00:13 Aknologia Usage listening on :8095 (dev=true)
+2026/10/10 16:00:13 price unpriced rollup f7c22a0b-2704-48d0-88be-6fdc3c6102f8: sql: Scan error on column index 4, name "sum": converting driver.Value type []uint8 ("10000000000000000000") to a int64: value out of range
+2026/10/10 16:00:15 price unpriced rollup 5fc9d78e-b7cb-4883-bb00-b03339e51bed: sql: Scan error on column index 4, name "sum": converting driver.Value type []uint8 ("10000000000000000000") to a int64: value out of range
+2026/10/10 16:00:16 priced stored requests for 140 users

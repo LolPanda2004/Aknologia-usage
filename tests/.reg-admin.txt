@@ -1,0 +1,90 @@
+
+Running 84 tests using 3 workers
+
+[1/84] [admin-light-1440] › admin.spec.ts:143:7 › full flow › sign up with the emailed code
+[2/84] [admin-light-1440] › admin.spec.ts:626:7 › pages pass › auth screens + sign up
+[3/84] [admin-dark-1440] › admin.spec.ts:143:7 › full flow › sign up with the emailed code
+[4/84] [admin-dark-1440] › admin.spec.ts:165:7 › full flow › in-app tour: every step points at a real, visible element; replay from help
+[5/84] [admin-dark-1440] › admin.spec.ts:185:7 › full flow › fresh org: overview empty states and numbers match the API
+[6/84] [admin-dark-1440] › admin.spec.ts:197:7 › full flow › set plan and seats
+[7/84] [admin-dark-1440] › admin.spec.ts:224:7 › full flow › invite members: chips, paste a list, budget, role
+[8/84] [admin-dark-1440] › admin.spec.ts:273:7 › full flow › resend and cancel invites
+[9/84] [admin-dark-1440] › admin.spec.ts:292:7 › full flow › members accept, usage ingested (API), Refresh data
+[10/84] [admin-dark-1440] › admin.spec.ts:310:7 › full flow › overview numbers match the API and independent math
+[11/84] [admin-dark-1440] › admin.spec.ts:351:7 › full flow › member detail
+[12/84] [admin-dark-1440] › admin.spec.ts:379:7 › full flow › edit budget, remove with and without history, re-invite
+[13/84] [admin-dark-1440] › admin.spec.ts:424:7 › full flow › budgets: default, override, inboxes, toggles, save, alert log
+[14/84] [admin-dark-1440] › admin.spec.ts:465:7 › full flow › settings: org, password change with code, devices, backup email, refresh, CSV, delete data
+[15/84] [admin-dark-1440] › admin.spec.ts:552:7 › full flow › support ticket
+[16/84] [admin-dark-1440] › admin.spec.ts:575:7 › full flow › sign out, forgot password, reset, sign in again
+[17/84] [admin-dark-1440] › admin.spec.ts:605:7 › full flow › findings recorded in this suite
+[18/84] [admin-dark-1440] › admin.spec.ts:626:7 › pages pass › auth screens + sign up
+[19/84] [admin-light-1440] › admin.spec.ts:165:7 › full flow › in-app tour: every step points at a real, visible element; replay from help
+[20/84] [admin-dark-1440] › admin.spec.ts:656:7 › pages pass › tour targets in this theme/viewport
+[21/84] [admin-light-1440] › admin.spec.ts:656:7 › pages pass › tour targets in this theme/viewport
+[22/84] [admin-light-1440] › admin.spec.ts:185:7 › full flow › fresh org: overview empty states and numbers match the API
+[23/84] [admin-dark-1440] › admin.spec.ts:661:7 › pages pass › every page, empty org
+[24/84] [admin-light-1440] › admin.spec.ts:661:7 › pages pass › every page, empty org
+[25/84] [admin-light-1440] › admin.spec.ts:197:7 › full flow › set plan and seats
+[26/84] [admin-light-1440] › admin.spec.ts:224:7 › full flow › invite members: chips, paste a list, budget, role
+[27/84] [admin-dark-1440] › admin.spec.ts:694:7 › pages pass › every page with data + modals; overview numbers vs API
+[28/84] [admin-light-1440] › admin.spec.ts:694:7 › pages pass › every page with data + modals; overview numbers vs API
+[29/84] [admin-light-1440] › admin.spec.ts:273:7 › full flow › resend and cancel invites
+[30/84] [admin-light-1440] › admin.spec.ts:292:7 › full flow › members accept, usage ingested (API), Refresh data
+[31/84] [admin-light-1440] › admin.spec.ts:310:7 › full flow › overview numbers match the API and independent math
+[32/84] [admin-light-1440] › admin.spec.ts:351:7 › full flow › member detail
+[33/84] [admin-light-1440] › admin.spec.ts:379:7 › full flow › edit budget, remove with and without history, re-invite
+[34/84] [admin-dark-1440] › admin.spec.ts:752:7 › pages pass › sign out → forgot → reset screens → sign in
+[35/84] [admin-light-1440] › admin.spec.ts:424:7 › full flow › budgets: default, override, inboxes, toggles, save, alert log
+[36/84] [admin-light-1440] › admin.spec.ts:752:7 › pages pass › sign out → forgot → reset screens → sign in
+[37/84] [admin-light-1440] › admin.spec.ts:465:7 › full flow › settings: org, password change with code, devices, backup email, refresh, CSV, delete data
+[38/84] [admin-light-1440] › admin.spec.ts:775:7 › pages pass › findings recorded in this suite
+[39/84] [admin-dark-1440] › admin.spec.ts:775:7 › pages pass › findings recorded in this suite
+[40/84] [admin-light-390] › admin.spec.ts:143:7 › full flow › sign up with the emailed code
+[41/84] [admin-light-390] › admin.spec.ts:626:7 › pages pass › auth screens + sign up
+[42/84] [admin-light-390] › admin.spec.ts:165:7 › full flow › in-app tour: every step points at a real, visible element; replay from help
+[43/84] [admin-light-390] › admin.spec.ts:185:7 › full flow › fresh org: overview empty states and numbers match the API
+[44/84] [admin-light-390] › admin.spec.ts:197:7 › full flow › set plan and seats
+[45/84] [admin-light-390] › admin.spec.ts:224:7 › full flow › invite members: chips, paste a list, budget, role
+[46/84] [admin-light-390] › admin.spec.ts:273:7 › full flow › resend and cancel invites
+[47/84] [admin-light-390] › admin.spec.ts:292:7 › full flow › members accept, usage ingested (API), Refresh data
+[48/84] [admin-light-390] › admin.spec.ts:310:7 › full flow › overview numbers match the API and independent math
+[49/84] [admin-light-390] › admin.spec.ts:351:7 › full flow › member detail
+[50/84] [admin-light-390] › admin.spec.ts:379:7 › full flow › edit budget, remove with and without history, re-invite
+[51/84] [admin-light-390] › admin.spec.ts:424:7 › full flow › budgets: default, override, inboxes, toggles, save, alert log
+[52/84] [admin-light-390] › admin.spec.ts:465:7 › full flow › settings: org, password change with code, devices, backup email, refresh, CSV, delete data
+[53/84] [admin-light-390] › admin.spec.ts:552:7 › full flow › support ticket
+[54/84] [admin-light-390] › admin.spec.ts:575:7 › full flow › sign out, forgot password, reset, sign in again
+[55/84] [admin-light-390] › admin.spec.ts:605:7 › full flow › findings recorded in this suite
+[56/84] [admin-dark-390] › admin.spec.ts:143:7 › full flow › sign up with the emailed code
+[57/84] [admin-dark-390] › admin.spec.ts:165:7 › full flow › in-app tour: every step points at a real, visible element; replay from help
+[58/84] [admin-dark-390] › admin.spec.ts:185:7 › full flow › fresh org: overview empty states and numbers match the API
+[59/84] [admin-dark-390] › admin.spec.ts:197:7 › full flow › set plan and seats
+[60/84] [admin-dark-390] › admin.spec.ts:224:7 › full flow › invite members: chips, paste a list, budget, role
+[61/84] [admin-dark-390] › admin.spec.ts:273:7 › full flow › resend and cancel invites
+[62/84] [admin-dark-390] › admin.spec.ts:292:7 › full flow › members accept, usage ingested (API), Refresh data
+[63/84] [admin-dark-390] › admin.spec.ts:310:7 › full flow › overview numbers match the API and independent math
+[64/84] [admin-dark-390] › admin.spec.ts:351:7 › full flow › member detail
+[65/84] [admin-dark-390] › admin.spec.ts:379:7 › full flow › edit budget, remove with and without history, re-invite
+[66/84] [admin-dark-390] › admin.spec.ts:424:7 › full flow › budgets: default, override, inboxes, toggles, save, alert log
+[67/84] [admin-dark-390] › admin.spec.ts:465:7 › full flow › settings: org, password change with code, devices, backup email, refresh, CSV, delete data
+[68/84] [admin-dark-390] › admin.spec.ts:552:7 › full flow › support ticket
+[69/84] [admin-dark-390] › admin.spec.ts:575:7 › full flow › sign out, forgot password, reset, sign in again
+[70/84] [admin-dark-390] › admin.spec.ts:605:7 › full flow › findings recorded in this suite
+[71/84] [admin-dark-390] › admin.spec.ts:626:7 › pages pass › auth screens + sign up
+[72/84] [admin-light-390] › admin.spec.ts:656:7 › pages pass › tour targets in this theme/viewport
+[73/84] [admin-dark-390] › admin.spec.ts:656:7 › pages pass › tour targets in this theme/viewport
+[74/84] [admin-light-390] › admin.spec.ts:661:7 › pages pass › every page, empty org
+[75/84] [admin-dark-390] › admin.spec.ts:661:7 › pages pass › every page, empty org
+[76/84] [admin-light-1440] › admin.spec.ts:552:7 › full flow › support ticket
+[77/84] [admin-light-390] › admin.spec.ts:694:7 › pages pass › every page with data + modals; overview numbers vs API
+[78/84] [admin-light-1440] › admin.spec.ts:575:7 › full flow › sign out, forgot password, reset, sign in again
+[79/84] [admin-dark-390] › admin.spec.ts:694:7 › pages pass › every page with data + modals; overview numbers vs API
+[80/84] [admin-light-1440] › admin.spec.ts:605:7 › full flow › findings recorded in this suite
+[81/84] [admin-light-390] › admin.spec.ts:752:7 › pages pass › sign out → forgot → reset screens → sign in
+[82/84] [admin-dark-390] › admin.spec.ts:752:7 › pages pass › sign out → forgot → reset screens → sign in
+[83/84] [admin-light-390] › admin.spec.ts:775:7 › pages pass › findings recorded in this suite
+[84/84] [admin-dark-390] › admin.spec.ts:775:7 › pages pass › findings recorded in this suite
+  45 skipped
+  39 passed (1.7m)
+admin exit 0

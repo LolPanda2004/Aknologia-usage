@@ -1,0 +1,2 @@
+{"timestamp":"2026-10-07T09:00:00.000Z","type":"session_meta","payload":{"id":"cx-rw","cwd":"/r"}}
+{"timestamp":"2026-10-07T09:00:01.000Z","type":"event_msg","payload":{"type":"token_count","info":{"total_token_usage":{"total_tokens":777},"last_token_usage":{"input_tokens":70,"output_tokens":70}}}}

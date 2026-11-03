@@ -1,0 +1,79 @@
+{
+  "server": "http://localhost:8092",
+  "deviceId": "60cd893d-34af-4a95-84e8-7abdf389c064",
+  "email": "qa2member@example.com",
+  "role": "member",
+  "org": "QA2 Co",
+  "removed": true,
+  "synced": 1360,
+  "lastSync": "2026-10-10T11:35:11.2288136+05:30",
+  "lastError": "removed",
+  "syncMinute": 17,
+  "projectSalt": "d88282d338f5df84d61563f744afdab8",
+  "pricing": [
+    {
+      "match": "opus",
+      "priority": 10,
+      "input": 15,
+      "output": 75,
+      "cacheWrite": 18.75,
+      "cacheRead": 1.5
+    },
+    {
+      "match": "sonnet",
+      "priority": 20,
+      "input": 3,
+      "output": 15,
+      "cacheWrite": 3.75,
+      "cacheRead": 0.3
+    },
+    {
+      "match": "haiku",
+      "priority": 30,
+      "input": 1,
+      "output": 5,
+      "cacheWrite": 1.25,
+      "cacheRead": 0.1
+    },
+    {
+      "match": "codex",
+      "priority": 40,
+      "input": 1.25,
+      "output": 10,
+      "cacheWrite": 0,
+      "cacheRead": 0.125
+    },
+    {
+      "match": "gpt",
+      "priority": 50,
+      "input": 1.25,
+      "output": 10,
+      "cacheWrite": 0,
+      "cacheRead": 0.125
+    },
+    {
+      "match": "",
+      "priority": 999,
+      "input": 3,
+      "output": 15,
+      "cacheWrite": 3.75,
+      "cacheRead": 0.3
+    }
+  ],
+  "budget": {
+    "budgetCents": 15000,
+    "spentCents": 177,
+    "pct": 1,
+    "projectedCents": 592,
+    "resetsOn": "2026-11-01",
+    "month": "October 2026",
+    "custom": false
+  },
+  "notifiedPct": 0,
+  "notifiedMonth": "",
+  "prefs": {
+    "paused": false,
+    "budgetNotifications": true,
+    "startAtLogin": false
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "anchors": {
+    "total": 30,
+    "brokenAnchors": [
+      {
+        "href": "#desktop-app",
+        "text": "Desktop app"
+      },
+      {
+        "href": "#admin-console",
+        "text": "Admin console"
+      },
+      {
+        "href": "#changelog",
+        "text": "Changelog"
+      },
+      {
+        "href": "#about",
+        "text": "About"
+      },
+      {
+        "href": "#careers",
+        "text": "Careers"
+      },
+      {
+        "href": "#contact",
+        "text": "Contact"
+      },
+      {
+        "href": "#privacy",
+        "text": "Privacy"
+      },
+      {
+        "href": "#system-status",
+        "text": "System status"
+      },
+      {
+        "href": "#privacy",
+        "text": "Privacy"
+      },
+      {
+        "href": "#terms",
+        "text": "Terms"
+      },
+      {
+        "href": "#cookies",
+        "text": "Cookies"
+      }
+    ],
+    "internalStatus": {
+      "/app/": 200,
+      "/app/#/signup": 200
+    }
+  },
+  "theme": {
+    "before": "dark",
+    "after": "light",
+    "reloaded": "light",
+    "bgAfter": "rgb(8, 18, 15)",
+    "toggles": 1
+  },
+  "pricing": {
+    "initial": [
+      "$0",
+      "Up to 3 members",
+      "$9",
+      "Billed annually",
+      "$18",
+      "Billed annually",
+      "Custom",
+      "Annual contract"
+    ],
+    "monthly": [
+      "$0",
+      "Up to 3 members",
+      "$12",
+      "Billed monthly",
+      "$22",
+      "Billed monthly",
+      "Custom",
+      "Annual contract"
+    ],
+    "annual": [
+      "$0",
+      "Up to 3 members",
+      "$9",
+      "Billed annually",
+      "$18",
+      "Billed annually",
+      "Custom",
+      "Annual contract"
+    ],
+    "pressedM": "true",
+    "initialMatchesAnnual": true
+  },
+  "demo": {
+    "emptyMsg": "Enter your name and work email.",
+    "badEmailMsg": "",
+    "nativeInvalid": true,
+    "slotCount": 9,
+    "submitStatus": 200,
+    "success": "Thanks! We’ll confirm Mon 12 Oct 11:30 by email within one business day.",
+    "email": "qa6-1791635109817@example.com",
+    "nameAfterReset": ""
+  },
+  "signinText": "Sign in",
+  "signinTitle": "Aknologia · Admin console",
+  "download": {
+    "pageStatus": 200,
+    "links": {
+      "http://localhost:8080/": 200
+    },
+    "themeAttr": "dark"
+  },
+  "weight": {
+    "requests": 10,
+    "totalBytes": 201818,
+    "loadMs": 1619,
+    "timing": {
+      "domContentLoaded": 625,
+      "load": 1106,
+      "fcp": 656
+    },
+    "reqs": [
+      {
+        "url": "http://localhost:8080/",
+        "type": "document",
+        "bytes": 93089,
+        "status": 200
+      },
+      {
+        "url": "https://fonts.googleapis.com/css2?family=Sora:wght@500;600;700&family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap",
+        "type": "stylesheet",
+        "bytes": 1476,
+        "status": 200,
+        "cache": "private, max-age=86400, stale-while-revalidate=604800",
+        "enc": "gzip"
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/ibmplexsans/v23/zYXzKVElMYYaJe8bpLHnCwDKr932-G7dytD-Dmu1syxeKYY.woff2",
+        "type": "font",
+        "bytes": 46263,
+        "status": 200,
+        "cache": "public, max-age=31536000"
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/sora/v17/xMQ9uFFYT72X5wkB_18qmnndmSdSnh2BAfO5mnuyOo1lfiQwV6-x.woff2",
+        "type": "font",
+        "bytes": 25411,
+        "status": 200,
+        "cache": "public, max-age=31536000"
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/ibmplexmono/v20/-F63fjptAgt5VM-kVkqdyU8n1i8q1w.woff2",
+        "type": "font",
+        "bytes": 14825,
+        "status": 200,
+        "cache": "public, max-age=31536000"
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/ibmplexmono/v20/-F6qfjptAgt5VM-kVkqdyU8n3twJwlBFgg.woff2",
+        "type": "font",
+        "bytes": 15005,
+        "status": 200,
+        "cache": "public, max-age=31536000"
+      },
+      {
+        "url": "http://localhost:8080/download/",
+        "type": "document",
+        "bytes": 4812,
+        "status": 200
+      },
+      {
+        "url": "https://fonts.googleapis.com/css2?family=Sora:wght@600;700&family=IBM+Plex+Sans:wght@400;600;700&display=swap",
+        "type": "stylesheet",
+        "bytes": 937,
+        "status": 200,
+        "cache": "private, max-age=86400, stale-while-revalidate=604800",
+        "enc": "gzip"
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/ibmplexsans/v23/zYXzKVElMYYaJe8bpLHnCwDKr932-G7dytD-Dmu1syxeKYY.woff2",
+        "type": "font",
+        "bytes": 0,
+        "status": 200,
+        "cache": "public, max-age=31536000"
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/sora/v17/xMQ9uFFYT72X5wkB_18qmnndmSdSnh2BAfO5mnuyOo1lfiQwV6-x.woff2",
+        "type": "font",
+        "bytes": 0,
+        "status": 200,
+        "cache": "public, max-age=31536000"
+      }
+    ],
+    "overflow": {
+      "scrollW": 1440,
+      "clientW": 1440
+    },
+    "wide": [],
+    "imgs": [],
+    "smallTargets": 4
+  }
+}

@@ -1,0 +1,6 @@
+﻿
+
+AknologiaUsage : "C:\Users\Admin\AppData\Local\Temp\go-build1645114972\b001\exe\aknologia-agent.exe"
+
+
+

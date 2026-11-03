@@ -1,0 +1,21 @@
+{
+  "saved": {
+    "ui/shared/ui.tsx": {
+      "before": "9d9d3084bf84174b"
+    },
+    "ui/shared/theme.css": {
+      "before": "8c4d18387ccaa9e4"
+    },
+    "ui/admin/pages/Settings.tsx": {
+      "before": "bb5d2f6cdb0db355"
+    },
+    "ui/desktop/pages/Overview.tsx": {
+      "before": "b40f954eb67b5d68"
+    },
+    "ui/desktop/pages/Settings.tsx": {
+      "before": "3c942353bc13acc7"
+    }
+  },
+  "created": [],
+  "undone": false
+}

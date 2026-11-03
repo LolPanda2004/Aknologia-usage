@@ -1,0 +1,3584 @@
+{
+    "days":  400,
+    "from":  "2025-09-06T00:00:00+05:30",
+    "activeHours":  39.9,
+    "prevActiveHours":  0,
+    "cost":  850.16,
+    "tokens":  1915233066,
+    "cacheShare":  99,
+    "saved":  7538.89,
+    "sessions":  45,
+    "sessionsByTool":  {
+                           "claude_code":  38,
+                           "codex":  7
+                       },
+    "costByTool":  {
+                       "claude_code":  840.05,
+                       "codex":  10.1
+                   },
+    "daily":  [
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2025-09-06",
+                      "label":  "Sat"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2025-09-07",
+                      "label":  "Sun"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2025-09-08",
+                      "label":  "Mon"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2025-09-09",
+                      "label":  "Tue"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2025-09-10",
+                      "label":  "Wed"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2025-09-11",
+                      "label":  "Thu"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2025-09-12",
+                      "label":  "Fri"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2025-09-13",
+                      "label":  "Sat"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2025-09-14",
+                      "label":  "Sun"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2025-09-15",
+                      "label":  "Mon"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2025-09-16",
+                      "label":  "Tue"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2025-09-17",
+                      "label":  "Wed"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2025-09-18",
+                      "label":  "Thu"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2025-09-19",
+                      "label":  "Fri"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2025-09-20",
+                      "label":  "Sat"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2025-09-21",
+                      "label":  "Sun"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2025-09-22",
+                      "label":  "Mon"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2025-09-23",
+                      "label":  "Tue"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2025-09-24",
+                      "label":  "Wed"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2025-09-25",
+                      "label":  "Thu"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2025-09-26",
+                      "label":  "Fri"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2025-09-27",
+                      "label":  "Sat"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2025-09-28",
+                      "label":  "Sun"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2025-09-29",
+                      "label":  "Mon"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2025-09-30",
+                      "label":  "Tue"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2025-10-01",
+                      "label":  "Wed"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2025-10-02",
+                      "label":  "Thu"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2025-10-03",
+                      "label":  "Fri"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2025-10-04",
+                      "label":  "Sat"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2025-10-05",
+                      "label":  "Sun"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2025-10-06",
+                      "label":  "Mon"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2025-10-07",
+                      "label":  "Tue"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2025-10-08",
+                      "label":  "Wed"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2025-10-09",
+                      "label":  "Thu"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2025-10-10",
+                      "label":  "Fri"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2025-10-11",
+                      "label":  "Sat"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2025-10-12",
+                      "label":  "Sun"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2025-10-13",
+                      "label":  "Mon"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2025-10-14",
+                      "label":  "Tue"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2025-10-15",
+                      "label":  "Wed"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2025-10-16",
+                      "label":  "Thu"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2025-10-17",
+                      "label":  "Fri"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2025-10-18",
+                      "label":  "Sat"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2025-10-19",
+                      "label":  "Sun"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2025-10-20",
+                      "label":  "Mon"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2025-10-21",
+                      "label":  "Tue"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2025-10-22",
+                      "label":  "Wed"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2025-10-23",
+                      "label":  "Thu"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2025-10-24",
+                      "label":  "Fri"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2025-10-25",
+                      "label":  "Sat"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2025-10-26",
+                      "label":  "Sun"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2025-10-27",
+                      "label":  "Mon"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2025-10-28",
+                      "label":  "Tue"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2025-10-29",
+                      "label":  "Wed"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2025-10-30",
+                      "label":  "Thu"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2025-10-31",
+                      "label":  "Fri"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2025-11-01",
+                      "label":  "Sat"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2025-11-02",
+                      "label":  "Sun"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2025-11-03",
+                      "label":  "Mon"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2025-11-04",
+                      "label":  "Tue"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2025-11-05",
+                      "label":  "Wed"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2025-11-06",
+                      "label":  "Thu"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2025-11-07",
+                      "label":  "Fri"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2025-11-08",
+                      "label":  "Sat"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2025-11-09",
+                      "label":  "Sun"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2025-11-10",
+                      "label":  "Mon"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2025-11-11",
+                      "label":  "Tue"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2025-11-12",
+                      "label":  "Wed"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2025-11-13",
+                      "label":  "Thu"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2025-11-14",
+                      "label":  "Fri"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2025-11-15",
+                      "label":  "Sat"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2025-11-16",
+                      "label":  "Sun"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2025-11-17",
+                      "label":  "Mon"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2025-11-18",
+                      "label":  "Tue"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2025-11-19",
+                      "label":  "Wed"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2025-11-20",
+                      "label":  "Thu"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2025-11-21",
+                      "label":  "Fri"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2025-11-22",
+                      "label":  "Sat"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2025-11-23",
+                      "label":  "Sun"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2025-11-24",
+                      "label":  "Mon"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2025-11-25",
+                      "label":  "Tue"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2025-11-26",
+                      "label":  "Wed"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2025-11-27",
+                      "label":  "Thu"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2025-11-28",
+                      "label":  "Fri"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2025-11-29",
+                      "label":  "Sat"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2025-11-30",
+                      "label":  "Sun"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2025-12-01",
+                      "label":  "Mon"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2025-12-02",
+                      "label":  "Tue"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2025-12-03",
+                      "label":  "Wed"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2025-12-04",
+                      "label":  "Thu"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2025-12-05",
+                      "label":  "Fri"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2025-12-06",
+                      "label":  "Sat"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2025-12-07",
+                      "label":  "Sun"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2025-12-08",
+                      "label":  "Mon"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2025-12-09",
+                      "label":  "Tue"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2025-12-10",
+                      "label":  "Wed"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2025-12-11",
+                      "label":  "Thu"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2025-12-12",
+                      "label":  "Fri"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2025-12-13",
+                      "label":  "Sat"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2025-12-14",
+                      "label":  "Sun"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2025-12-15",
+                      "label":  "Mon"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2025-12-16",
+                      "label":  "Tue"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2025-12-17",
+                      "label":  "Wed"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2025-12-18",
+                      "label":  "Thu"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2025-12-19",
+                      "label":  "Fri"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2025-12-20",
+                      "label":  "Sat"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2025-12-21",
+                      "label":  "Sun"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2025-12-22",
+                      "label":  "Mon"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2025-12-23",
+                      "label":  "Tue"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2025-12-24",
+                      "label":  "Wed"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2025-12-25",
+                      "label":  "Thu"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2025-12-26",
+                      "label":  "Fri"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2025-12-27",
+                      "label":  "Sat"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2025-12-28",
+                      "label":  "Sun"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2025-12-29",
+                      "label":  "Mon"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2025-12-30",
+                      "label":  "Tue"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2025-12-31",
+                      "label":  "Wed"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-01-01",
+                      "label":  "Thu"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-01-02",
+                      "label":  "Fri"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-01-03",
+                      "label":  "Sat"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-01-04",
+                      "label":  "Sun"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-01-05",
+                      "label":  "Mon"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-01-06",
+                      "label":  "Tue"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-01-07",
+                      "label":  "Wed"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-01-08",
+                      "label":  "Thu"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-01-09",
+                      "label":  "Fri"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-01-10",
+                      "label":  "Sat"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-01-11",
+                      "label":  "Sun"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-01-12",
+                      "label":  "Mon"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-01-13",
+                      "label":  "Tue"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-01-14",
+                      "label":  "Wed"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-01-15",
+                      "label":  "Thu"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-01-16",
+                      "label":  "Fri"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-01-17",
+                      "label":  "Sat"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-01-18",
+                      "label":  "Sun"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-01-19",
+                      "label":  "Mon"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-01-20",
+                      "label":  "Tue"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-01-21",
+                      "label":  "Wed"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-01-22",
+                      "label":  "Thu"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-01-23",
+                      "label":  "Fri"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-01-24",
+                      "label":  "Sat"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-01-25",
+                      "label":  "Sun"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-01-26",
+                      "label":  "Mon"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-01-27",
+                      "label":  "Tue"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-01-28",
+                      "label":  "Wed"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-01-29",
+                      "label":  "Thu"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-01-30",
+                      "label":  "Fri"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-01-31",
+                      "label":  "Sat"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-02-01",
+                      "label":  "Sun"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-02-02",
+                      "label":  "Mon"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-02-03",
+                      "label":  "Tue"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-02-04",
+                      "label":  "Wed"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-02-05",
+                      "label":  "Thu"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-02-06",
+                      "label":  "Fri"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-02-07",
+                      "label":  "Sat"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-02-08",
+                      "label":  "Sun"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-02-09",
+                      "label":  "Mon"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-02-10",
+                      "label":  "Tue"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-02-11",
+                      "label":  "Wed"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-02-12",
+                      "label":  "Thu"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-02-13",
+                      "label":  "Fri"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-02-14",
+                      "label":  "Sat"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-02-15",
+                      "label":  "Sun"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-02-16",
+                      "label":  "Mon"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-02-17",
+                      "label":  "Tue"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-02-18",
+                      "label":  "Wed"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-02-19",
+                      "label":  "Thu"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-02-20",
+                      "label":  "Fri"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-02-21",
+                      "label":  "Sat"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-02-22",
+                      "label":  "Sun"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-02-23",
+                      "label":  "Mon"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-02-24",
+                      "label":  "Tue"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-02-25",
+                      "label":  "Wed"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-02-26",
+                      "label":  "Thu"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-02-27",
+                      "label":  "Fri"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-02-28",
+                      "label":  "Sat"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-03-01",
+                      "label":  "Sun"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-03-02",
+                      "label":  "Mon"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-03-03",
+                      "label":  "Tue"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-03-04",
+                      "label":  "Wed"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-03-05",
+                      "label":  "Thu"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-03-06",
+                      "label":  "Fri"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-03-07",
+                      "label":  "Sat"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-03-08",
+                      "label":  "Sun"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-03-09",
+                      "label":  "Mon"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-03-10",
+                      "label":  "Tue"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-03-11",
+                      "label":  "Wed"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-03-12",
+                      "label":  "Thu"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-03-13",
+                      "label":  "Fri"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-03-14",
+                      "label":  "Sat"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-03-15",
+                      "label":  "Sun"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-03-16",
+                      "label":  "Mon"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-03-17",
+                      "label":  "Tue"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-03-18",
+                      "label":  "Wed"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-03-19",
+                      "label":  "Thu"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-03-20",
+                      "label":  "Fri"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-03-21",
+                      "label":  "Sat"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-03-22",
+                      "label":  "Sun"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-03-23",
+                      "label":  "Mon"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-03-24",
+                      "label":  "Tue"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-03-25",
+                      "label":  "Wed"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-03-26",
+                      "label":  "Thu"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-03-27",
+                      "label":  "Fri"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-03-28",
+                      "label":  "Sat"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-03-29",
+                      "label":  "Sun"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-03-30",
+                      "label":  "Mon"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-03-31",
+                      "label":  "Tue"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-04-01",
+                      "label":  "Wed"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-04-02",
+                      "label":  "Thu"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-04-03",
+                      "label":  "Fri"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-04-04",
+                      "label":  "Sat"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-04-05",
+                      "label":  "Sun"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-04-06",
+                      "label":  "Mon"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-04-07",
+                      "label":  "Tue"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-04-08",
+                      "label":  "Wed"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-04-09",
+                      "label":  "Thu"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-04-10",
+                      "label":  "Fri"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-04-11",
+                      "label":  "Sat"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-04-12",
+                      "label":  "Sun"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-04-13",
+                      "label":  "Mon"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-04-14",
+                      "label":  "Tue"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-04-15",
+                      "label":  "Wed"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-04-16",
+                      "label":  "Thu"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-04-17",
+                      "label":  "Fri"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-04-18",
+                      "label":  "Sat"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-04-19",
+                      "label":  "Sun"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-04-20",
+                      "label":  "Mon"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-04-21",
+                      "label":  "Tue"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-04-22",
+                      "label":  "Wed"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-04-23",
+                      "label":  "Thu"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-04-24",
+                      "label":  "Fri"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-04-25",
+                      "label":  "Sat"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-04-26",
+                      "label":  "Sun"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-04-27",
+                      "label":  "Mon"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-04-28",
+                      "label":  "Tue"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-04-29",
+                      "label":  "Wed"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-04-30",
+                      "label":  "Thu"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-05-01",
+                      "label":  "Fri"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-05-02",
+                      "label":  "Sat"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-05-03",
+                      "label":  "Sun"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-05-04",
+                      "label":  "Mon"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-05-05",
+                      "label":  "Tue"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-05-06",
+                      "label":  "Wed"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-05-07",
+                      "label":  "Thu"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-05-08",
+                      "label":  "Fri"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-05-09",
+                      "label":  "Sat"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-05-10",
+                      "label":  "Sun"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-05-11",
+                      "label":  "Mon"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-05-12",
+                      "label":  "Tue"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-05-13",
+                      "label":  "Wed"
+                  },
+                  {
+                      "activeHours":  0.1,
+                      "claude":  0,
+                      "codex":  0.93,
+                      "day":  "2026-05-14",
+                      "label":  "Thu"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-05-15",
+                      "label":  "Fri"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-05-16",
+                      "label":  "Sat"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-05-17",
+                      "label":  "Sun"
+                  },
+                  {
+                      "activeHours":  0.1,
+                      "claude":  0,
+                      "codex":  0.35,
+                      "day":  "2026-05-18",
+                      "label":  "Mon"
+                  },
+                  {
+                      "activeHours":  0.5,
+                      "claude":  0,
+                      "codex":  8.12,
+                      "day":  "2026-05-19",
+                      "label":  "Tue"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-05-20",
+                      "label":  "Wed"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-05-21",
+                      "label":  "Thu"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-05-22",
+                      "label":  "Fri"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-05-23",
+                      "label":  "Sat"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-05-24",
+                      "label":  "Sun"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-05-25",
+                      "label":  "Mon"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-05-26",
+                      "label":  "Tue"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-05-27",
+                      "label":  "Wed"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-05-28",
+                      "label":  "Thu"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-05-29",
+                      "label":  "Fri"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-05-30",
+                      "label":  "Sat"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-05-31",
+                      "label":  "Sun"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-06-01",
+                      "label":  "Mon"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-06-02",
+                      "label":  "Tue"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-06-03",
+                      "label":  "Wed"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-06-04",
+                      "label":  "Thu"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-06-05",
+                      "label":  "Fri"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-06-06",
+                      "label":  "Sat"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-06-07",
+                      "label":  "Sun"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-06-08",
+                      "label":  "Mon"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-06-09",
+                      "label":  "Tue"
+                  },
+                  {
+                      "activeHours":  0.1,
+                      "claude":  0,
+                      "codex":  0.72,
+                      "day":  "2026-06-10",
+                      "label":  "Wed"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-06-11",
+                      "label":  "Thu"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-06-12",
+                      "label":  "Fri"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-06-13",
+                      "label":  "Sat"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-06-14",
+                      "label":  "Sun"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-06-15",
+                      "label":  "Mon"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-06-16",
+                      "label":  "Tue"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-06-17",
+                      "label":  "Wed"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-06-18",
+                      "label":  "Thu"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-06-19",
+                      "label":  "Fri"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-06-20",
+                      "label":  "Sat"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-06-21",
+                      "label":  "Sun"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-06-22",
+                      "label":  "Mon"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-06-23",
+                      "label":  "Tue"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-06-24",
+                      "label":  "Wed"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-06-25",
+                      "label":  "Thu"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-06-26",
+                      "label":  "Fri"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-06-27",
+                      "label":  "Sat"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-06-28",
+                      "label":  "Sun"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-06-29",
+                      "label":  "Mon"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-06-30",
+                      "label":  "Tue"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-07-01",
+                      "label":  "Wed"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-07-02",
+                      "label":  "Thu"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-07-03",
+                      "label":  "Fri"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-07-04",
+                      "label":  "Sat"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-07-05",
+                      "label":  "Sun"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-07-06",
+                      "label":  "Mon"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-07-07",
+                      "label":  "Tue"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-07-08",
+                      "label":  "Wed"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-07-09",
+                      "label":  "Thu"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-07-10",
+                      "label":  "Fri"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-07-11",
+                      "label":  "Sat"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-07-12",
+                      "label":  "Sun"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-07-13",
+                      "label":  "Mon"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-07-14",
+                      "label":  "Tue"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-07-15",
+                      "label":  "Wed"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-07-16",
+                      "label":  "Thu"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-07-17",
+                      "label":  "Fri"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-07-18",
+                      "label":  "Sat"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-07-19",
+                      "label":  "Sun"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-07-20",
+                      "label":  "Mon"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-07-21",
+                      "label":  "Tue"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-07-22",
+                      "label":  "Wed"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-07-23",
+                      "label":  "Thu"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-07-24",
+                      "label":  "Fri"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-07-25",
+                      "label":  "Sat"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-07-26",
+                      "label":  "Sun"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-07-27",
+                      "label":  "Mon"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-07-28",
+                      "label":  "Tue"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-07-29",
+                      "label":  "Wed"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-07-30",
+                      "label":  "Thu"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-07-31",
+                      "label":  "Fri"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-08-01",
+                      "label":  "Sat"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-08-02",
+                      "label":  "Sun"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-08-03",
+                      "label":  "Mon"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-08-04",
+                      "label":  "Tue"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-08-05",
+                      "label":  "Wed"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-08-06",
+                      "label":  "Thu"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-08-07",
+                      "label":  "Fri"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-08-08",
+                      "label":  "Sat"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-08-09",
+                      "label":  "Sun"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-08-10",
+                      "label":  "Mon"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-08-11",
+                      "label":  "Tue"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-08-12",
+                      "label":  "Wed"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-08-13",
+                      "label":  "Thu"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-08-14",
+                      "label":  "Fri"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-08-15",
+                      "label":  "Sat"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-08-16",
+                      "label":  "Sun"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-08-17",
+                      "label":  "Mon"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-08-18",
+                      "label":  "Tue"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-08-19",
+                      "label":  "Wed"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-08-20",
+                      "label":  "Thu"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-08-21",
+                      "label":  "Fri"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-08-22",
+                      "label":  "Sat"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-08-23",
+                      "label":  "Sun"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-08-24",
+                      "label":  "Mon"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-08-25",
+                      "label":  "Tue"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-08-26",
+                      "label":  "Wed"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-08-27",
+                      "label":  "Thu"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-08-28",
+                      "label":  "Fri"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-08-29",
+                      "label":  "Sat"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-08-30",
+                      "label":  "Sun"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-08-31",
+                      "label":  "Mon"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-09-01",
+                      "label":  "Tue"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-09-02",
+                      "label":  "Wed"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-09-03",
+                      "label":  "Thu"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-09-04",
+                      "label":  "Fri"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-09-05",
+                      "label":  "Sat"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-09-06",
+                      "label":  "Sun"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-09-07",
+                      "label":  "Mon"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-09-08",
+                      "label":  "Tue"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-09-09",
+                      "label":  "Wed"
+                  },
+                  {
+                      "activeHours":  2.7,
+                      "claude":  55.67,
+                      "codex":  0,
+                      "day":  "2026-09-10",
+                      "label":  "Thu"
+                  },
+                  {
+                      "activeHours":  1.9,
+                      "claude":  41.41,
+                      "codex":  0,
+                      "day":  "2026-09-11",
+                      "label":  "Fri"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-09-12",
+                      "label":  "Sat"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-09-13",
+                      "label":  "Sun"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-09-14",
+                      "label":  "Mon"
+                  },
+                  {
+                      "activeHours":  0.1,
+                      "claude":  1.37,
+                      "codex":  0,
+                      "day":  "2026-09-15",
+                      "label":  "Tue"
+                  },
+                  {
+                      "activeHours":  2,
+                      "claude":  31.12,
+                      "codex":  0,
+                      "day":  "2026-09-16",
+                      "label":  "Wed"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-09-17",
+                      "label":  "Thu"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-09-18",
+                      "label":  "Fri"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-09-19",
+                      "label":  "Sat"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-09-20",
+                      "label":  "Sun"
+                  },
+                  {
+                      "activeHours":  2.7,
+                      "claude":  60.78,
+                      "codex":  0,
+                      "day":  "2026-09-21",
+                      "label":  "Mon"
+                  },
+                  {
+                      "activeHours":  0.2,
+                      "claude":  4.61,
+                      "codex":  0,
+                      "day":  "2026-09-22",
+                      "label":  "Tue"
+                  },
+                  {
+                      "activeHours":  5.4,
+                      "claude":  218.93,
+                      "codex":  0,
+                      "day":  "2026-09-23",
+                      "label":  "Wed"
+                  },
+                  {
+                      "activeHours":  3.1,
+                      "claude":  26.88,
+                      "codex":  0,
+                      "day":  "2026-09-24",
+                      "label":  "Thu"
+                  },
+                  {
+                      "activeHours":  3.8,
+                      "claude":  61.59,
+                      "codex":  0,
+                      "day":  "2026-09-25",
+                      "label":  "Fri"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-09-26",
+                      "label":  "Sat"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-09-27",
+                      "label":  "Sun"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-09-28",
+                      "label":  "Mon"
+                  },
+                  {
+                      "activeHours":  1.5,
+                      "claude":  8.42,
+                      "codex":  0,
+                      "day":  "2026-09-29",
+                      "label":  "Tue"
+                  },
+                  {
+                      "activeHours":  2.7,
+                      "claude":  36.7,
+                      "codex":  0,
+                      "day":  "2026-09-30",
+                      "label":  "Wed"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-10-01",
+                      "label":  "Thu"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-10-02",
+                      "label":  "Fri"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-10-03",
+                      "label":  "Sat"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-10-04",
+                      "label":  "Sun"
+                  },
+                  {
+                      "activeHours":  5.4,
+                      "claude":  97.78,
+                      "codex":  0,
+                      "day":  "2026-10-05",
+                      "label":  "Mon"
+                  },
+                  {
+                      "activeHours":  4,
+                      "claude":  91.7,
+                      "codex":  0,
+                      "day":  "2026-10-06",
+                      "label":  "Tue"
+                  },
+                  {
+                      "activeHours":  0.5,
+                      "claude":  12.59,
+                      "codex":  0,
+                      "day":  "2026-10-07",
+                      "label":  "Wed"
+                  },
+                  {
+                      "activeHours":  0,
+                      "claude":  0,
+                      "codex":  0,
+                      "day":  "2026-10-08",
+                      "label":  "Thu"
+                  },
+                  {
+                      "activeHours":  0.2,
+                      "claude":  4.42,
+                      "codex":  0,
+                      "day":  "2026-10-09",
+                      "label":  "Fri"
+                  },
+                  {
+                      "activeHours":  3.1,
+                      "claude":  86.1,
+                      "codex":  0,
+                      "day":  "2026-10-10",
+                      "label":  "Sat"
+                  }
+              ],
+    "heat":  [
+                 [
+                     0,
+                     0,
+                     0,
+                     0,
+                     0,
+                     1,
+                     3,
+                     1,
+                     0,
+                     0,
+                     0,
+                     0
+                 ],
+                 [
+                     0,
+                     0,
+                     0,
+                     0,
+                     0,
+                     2,
+                     1,
+                     1,
+                     1,
+                     0,
+                     0,
+                     0
+                 ],
+                 [
+                     0,
+                     0,
+                     0,
+                     0,
+                     0,
+                     4,
+                     1,
+                     1,
+                     0,
+                     0,
+                     0,
+                     0
+                 ],
+                 [
+                     0,
+                     0,
+                     0,
+                     0,
+                     0,
+                     1,
+                     1,
+                     2,
+                     1,
+                     0,
+                     0,
+                     0
+                 ],
+                 [
+                     0,
+                     0,
+                     0,
+                     0,
+                     0,
+                     2,
+                     1,
+                     1,
+                     1,
+                     0,
+                     0,
+                     0
+                 ],
+                 [
+                     0,
+                     0,
+                     0,
+                     0,
+                     0,
+                     2,
+                     0,
+                     0,
+                     0,
+                     0,
+                     0,
+                     0
+                 ],
+                 [
+                     0,
+                     0,
+                     0,
+                     0,
+                     0,
+                     0,
+                     0,
+                     0,
+                     0,
+                     0,
+                     0,
+                     0
+                 ]
+             ],
+    "peak":  "Wednesdays, 10am â 12pm",
+    "models":  [
+                   {
+                       "cost":  426.07,
+                       "name":  "claude-opus-5-5",
+                       "share":  50,
+                       "tool":  "claude_code"
+                   },
+                   {
+                       "cost":  413.62,
+                       "name":  "claude-opus-5",
+                       "share":  49,
+                       "tool":  "claude_code"
+                   },
+                   {
+                       "cost":  10.1,
+                       "name":  "gpt-5.5",
+                       "share":  1,
+                       "tool":  "codex"
+                   },
+                   {
+                       "cost":  0.27,
+                       "name":  "claude-sonnet-5",
+                       "share":  0,
+                       "tool":  "claude_code"
+                   },
+                   {
+                       "cost":  0.09,
+                       "name":  "claude-sonnet-5-5",
+                       "share":  0,
+                       "tool":  "claude_code"
+                   }
+               ],
+    "projects":  [
+                     {
+                         "cost":  147.9,
+                         "hours":  9.5,
+                         "name":  "BDVue",
+                         "pct":  100
+                     },
+                     {
+                         "cost":  256.9,
+                         "hours":  6.7,
+                         "name":  "facility-vue-2",
+                         "pct":  71
+                     },
+                     {
+                         "cost":  33.41,
+                         "hours":  5.6,
+                         "name":  "client-ui",
+                         "pct":  59
+                     },
+                     {
+                         "cost":  80.13,
+                         "hours":  5.4,
+                         "name":  "facilityvue-demo-recorder",
+                         "pct":  57
+                     },
+                     {
+                         "cost":  69.54,
+                         "hours":  3.7,
+                         "name":  "Anthropic - Fast API",
+                         "pct":  39
+                     },
+                     {
+                         "cost":  82.63,
+                         "hours":  3.1,
+                         "name":  "aknologia",
+                         "pct":  32
+                     }
+                 ],
+    "recent":  [
+                   {
+                       "id":  "9cb37613-cd62-4f57-ae02-44de32b82856",
+                       "tool":  "claude_code",
+                       "model":  "claude-opus-5-5",
+                       "project":  "aknologia",
+                       "start":  "2026-10-10T05:48:28.447Z",
+                       "end":  "2026-10-10T10:20:07.369Z",
+                       "activeMinutes":  183,
+                       "turns":  791,
+                       "tokens":  185676697,
+                       "cost":  86.1,
+                       "split":  [
+                                     {
+                                         "label":  "Output",
+                                         "tokens":  509278,
+                                         "cost":  10.19,
+                                         "pct":  0
+                                     },
+                                     {
+                                         "label":  "Input",
+                                         "tokens":  1598,
+                                         "cost":  0.01,
+                                         "pct":  0
+                                     },
+                                     {
+                                         "label":  "Cache write",
+                                         "tokens":  7720087,
+                                         "cost":  40.41,
+                                         "pct":  4
+                                     },
+                                     {
+                                         "label":  "Cache read",
+                                         "tokens":  177445734,
+                                         "cost":  35.49,
+                                         "pct":  96
+                                     }
+                                 ],
+                       "activity":  [
+                                        12451978,
+                                        16105754,
+                                        12164033,
+                                        4340722,
+                                        6315946,
+                                        5182523,
+                                        10487538,
+                                        3547228,
+                                        6118507,
+                                        4150723,
+                                        7368355,
+                                        11366591,
+                                        16155083,
+                                        8154320,
+                                        3313721,
+                                        2389048,
+                                        4866100,
+                                        2849210,
+                                        9705558,
+                                        3772919,
+                                        499821,
+                                        19850506,
+                                        8962108,
+                                        5558405
+                                    ],
+                       "insight":  "Cache reads carried most of the cost because the same context was re-read on many turns."
+                   },
+                   {
+                       "id":  "f5181b9b-d51c-44a1-b44d-109ba3c0a908",
+                       "tool":  "claude_code",
+                       "model":  "claude-opus-5-5",
+                       "project":  "e2e",
+                       "start":  "2026-10-09T12:05:35.441Z",
+                       "end":  "2026-10-09T12:14:32.48Z",
+                       "activeMinutes":  9,
+                       "turns":  67,
+                       "tokens":  6827645,
+                       "cost":  4.42,
+                       "split":  [
+                                     {
+                                         "label":  "Output",
+                                         "tokens":  28009,
+                                         "cost":  0.56,
+                                         "pct":  0
+                                     },
+                                     {
+                                         "label":  "Input",
+                                         "tokens":  134,
+                                         "cost":  0,
+                                         "pct":  0
+                                     },
+                                     {
+                                         "label":  "Cache write",
+                                         "tokens":  497680,
+                                         "cost":  2.6,
+                                         "pct":  7
+                                     },
+                                     {
+                                         "label":  "Cache read",
+                                         "tokens":  6301822,
+                                         "cost":  1.26,
+                                         "pct":  92
+                                     }
+                                 ],
+                       "activity":  [
+                                        99090,
+                                        102877,
+                                        60449,
+                                        61074,
+                                        61557,
+                                        0,
+                                        0,
+                                        0,
+                                        68252,
+                                        0,
+                                        450594,
+                                        711698,
+                                        970439,
+                                        683302,
+                                        287302,
+                                        247397,
+                                        441064,
+                                        148661,
+                                        565708,
+                                        788645,
+                                        286101,
+                                        159716,
+                                        0,
+                                        633719
+                                    ],
+                       "insight":  "A balanced session with most input served from cache."
+                   },
+                   {
+                       "id":  "a7e828e2-5c2c-4664-b23f-8a5bc39aa8f7",
+                       "tool":  "claude_code",
+                       "model":  "claude-opus-5-5",
+                       "project":  "ui-reboot",
+                       "start":  "2026-10-07T10:17:58.32Z",
+                       "end":  "2026-10-07T10:32:07.609Z",
+                       "activeMinutes":  15,
+                       "turns":  203,
+                       "tokens":  25486153,
+                       "cost":  8.76,
+                       "split":  [
+                                     {
+                                         "label":  "Output",
+                                         "tokens":  12093,
+                                         "cost":  0.24,
+                                         "pct":  0
+                                     },
+                                     {
+                                         "label":  "Input",
+                                         "tokens":  414,
+                                         "cost":  0,
+                                         "pct":  0
+                                     },
+                                     {
+                                         "label":  "Cache write",
+                                         "tokens":  690841,
+                                         "cost":  3.56,
+                                         "pct":  3
+                                     },
+                                     {
+                                         "label":  "Cache read",
+                                         "tokens":  24782805,
+                                         "cost":  4.96,
+                                         "pct":  97
+                                     }
+                                 ],
+                       "activity":  [
+                                        52189,
+                                        52350,
+                                        0,
+                                        52732,
+                                        108769,
+                                        476286,
+                                        376445,
+                                        326643,
+                                        938705,
+                                        1637854,
+                                        2008088,
+                                        2356562,
+                                        1714151,
+                                        1834159,
+                                        2204912,
+                                        2086380,
+                                        1860172,
+                                        2166965,
+                                        856689,
+                                        788341,
+                                        1032698,
+                                        879661,
+                                        908559,
+                                        766843
+                                    ],
+                       "insight":  "Cache reads carried most of the cost because the same context was re-read on many turns."
+                   },
+                   {
+                       "id":  "e7b53ca4-a871-4ded-9c9f-0b75c462afb8",
+                       "tool":  "claude_code",
+                       "model":  "claude-sonnet-5-5",
+                       "project":  "workdir",
+                       "start":  "2026-10-07T09:29:35.715Z",
+                       "end":  "2026-10-07T10:23:21.829Z",
+                       "activeMinutes":  1,
+                       "turns":  5,
+                       "tokens":  34650,
+                       "cost":  0.05,
+                       "split":  [
+                                     {
+                                         "label":  "Output",
+                                         "tokens":  831,
+                                         "cost":  0.01,
+                                         "pct":  2
+                                     },
+                                     {
+                                         "label":  "Input",
+                                         "tokens":  10,
+                                         "cost":  0,
+                                         "pct":  0
+                                     },
+                                     {
+                                         "label":  "Cache write",
+                                         "tokens":  14079,
+                                         "cost":  0.04,
+                                         "pct":  41
+                                     },
+                                     {
+                                         "label":  "Cache read",
+                                         "tokens":  19730,
+                                         "cost":  0,
+                                         "pct":  57
+                                     }
+                                 ],
+                       "activity":  [
+                                        19992,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        14658
+                                    ],
+                       "insight":  "A balanced session with most input served from cache."
+                   },
+                   {
+                       "id":  "8c88c840-9731-4a7d-a71a-1222406edfa1",
+                       "tool":  "claude_code",
+                       "model":  "claude-sonnet-5-5",
+                       "project":  "workdir",
+                       "start":  "2026-10-07T07:37:48.467Z",
+                       "end":  "2026-10-07T09:20:29.682Z",
+                       "activeMinutes":  2,
+                       "turns":  6,
+                       "tokens":  35489,
+                       "cost":  0.05,
+                       "split":  [
+                                     {
+                                         "label":  "Output",
+                                         "tokens":  990,
+                                         "cost":  0.01,
+                                         "pct":  3
+                                     },
+                                     {
+                                         "label":  "Input",
+                                         "tokens":  12,
+                                         "cost":  0,
+                                         "pct":  0
+                                     },
+                                     {
+                                         "label":  "Cache write",
+                                         "tokens":  14852,
+                                         "cost":  0.04,
+                                         "pct":  42
+                                     },
+                                     {
+                                         "label":  "Cache read",
+                                         "tokens":  19635,
+                                         "cost":  0,
+                                         "pct":  55
+                                     }
+                                 ],
+                       "activity":  [
+                                        1143,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        19879,
+                                        14467
+                                    ],
+                       "insight":  "A balanced session with most input served from cache."
+                   },
+                   {
+                       "id":  "4283ebb3-85a8-4e64-83ca-302606dfb555",
+                       "tool":  "claude_code",
+                       "model":  "claude-opus-5-5",
+                       "project":  "BDVue",
+                       "start":  "2026-10-07T04:52:16.819Z",
+                       "end":  "2026-10-07T05:29:12.111Z",
+                       "activeMinutes":  14,
+                       "turns":  37,
+                       "tokens":  6553089,
+                       "cost":  3.73,
+                       "split":  [
+                                     {
+                                         "label":  "Output",
+                                         "tokens":  14456,
+                                         "cost":  0.29,
+                                         "pct":  0
+                                     },
+                                     {
+                                         "label":  "Input",
+                                         "tokens":  74,
+                                         "cost":  0,
+                                         "pct":  0
+                                     },
+                                     {
+                                         "label":  "Cache write",
+                                         "tokens":  273401,
+                                         "cost":  2.19,
+                                         "pct":  4
+                                     },
+                                     {
+                                         "label":  "Cache read",
+                                         "tokens":  6265158,
+                                         "cost":  1.25,
+                                         "pct":  96
+                                     }
+                                 ],
+                       "activity":  [
+                                        324721,
+                                        229702,
+                                        325613,
+                                        0,
+                                        0,
+                                        0,
+                                        431028,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        435417,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        0,
+                                        1185621,
+                                        297620,
+                                        298245,
+                                        897623,
+                                        2127499
+                                    ],
+                       "insight":  "A balanced session with most input served from cache."
+                   },
+                   {
+                       "id":  "068d6f28-f4fd-4b11-8557-21871bf11c55",
+                       "tool":  "claude_code",
+                       "model":  "claude-opus-5-5",
+                       "project":  "BDVue",
+                       "start":  "2026-10-06T05:27:21.926Z",
+                       "end":  "2026-10-06T10:30:14.971Z",
+                       "activeMinutes":  240,
+                       "turns":  1179,
+                       "tokens":  289572237,
+                       "cost":  91.7,
+                       "split":  [
+                                     {
+                                         "label":  "Output",
+                                         "tokens":  333751,
+                                         "cost":  6.68,
+                                         "pct":  0
+                                     },
+                                     {
+                                         "label":  "Input",
+                                         "tokens":  2444,
+                                         "cost":  0.01,
+                                         "pct":  0
+                                     },
+                                     {
+                                         "label":  "Cache write",
+                                         "tokens":  5045736,
+                                         "cost":  28.17,
+                                         "pct":  2
+                                     },
+                                     {
+                                         "label":  "Cache read",
+                                         "tokens":  284190306,
+                                         "cost":  56.84,
+                                         "pct":  98
+                                     }
+                                 ],
+                       "activity":  [
+                                        1753828,
+                                        2775982,
+                                        898125,
+                                        1904052,
+                                        10782697,
+                                        18407816,
+                                        13862034,
+                                        10920060,
+                                        16306426,
+                                        8899362,
+                                        11315740,
+                                        19479957,
+                                        15432201,
+                                        29868839,
+                                        38068686,
+                                        10466997,
+                                        6351523,
+                                        7257942,
+                                        891543,
+                                        10166753,
+                                        16738570,
+                                        16298362,
+                                        17814698,
+                                        2910044
+                                    ],
+                       "insight":  "Cache reads carried most of the cost because the same context was re-read on many turns."
+                   },
+                   {
+                       "id":  "61cc963d-460e-4079-845b-cc2ebb4cf29b",
+                       "tool":  "claude_code",
+                       "model":  "claude-opus-5-5",
+                       "project":  "BDVue",
+                       "start":  "2026-10-05T06:51:40.413Z",
+                       "end":  "2026-10-05T12:40:23.547Z",
+                       "activeMinutes":  299,
+                       "turns":  1098,
+                       "tokens":  305585393,
+                       "cost":  93.36,
+                       "split":  [
+                                     {
+                                         "label":  "Output",
+                                         "tokens":  471465,
+                                         "cost":  9.43,
+                                         "pct":  0
+                                     },
+                                     {
+                                         "label":  "Input",
+                                         "tokens":  2212,
+                                         "cost":  0.01,
+                                         "pct":  0
+                                     },
+                                     {
+                                         "label":  "Cache write",
+                                         "tokens":  3974910,
+                                         "cost":  23.7,
+                                         "pct":  1
+                                     },
+                                     {
+                                         "label":  "Cache read",
+                                         "tokens":  301136806,
+                                         "cost":  60.23,
+                                         "pct":  99
+                                     }
+                                 ],
+                       "activity":  [
+                                        4113895,
+                                        2621238,
+                                        6195814,
+                                        19168897,
+                                        13110290,
+                                        13443619,
+                                        10949691,
+                                        3104539,
+                                        3701345,
+                                        20048712,
+                                        18584553,
+                                        7427957,
+                                        5928096,
+                                        15662339,
+                                        16061543,
+                                        13779353,
+                                        15252383,
+                                        20547256,
+                                        20961140,
+                                        8917155,
+                                        12439702,
+                                        18463557,
+                                        16505237,
+                                        18597082
+                                    ],
+                       "insight":  "Cache reads carried most of the cost because the same context was re-read on many turns."
+                   }
+               ],
+    "priciest":  {
+                     "id":  "1418e778-73ff-4789-a9f9-2c0323b72fcb",
+                     "tool":  "claude_code",
+                     "model":  "claude-opus-5",
+                     "project":  "client-ui",
+                     "start":  "2026-09-23T04:48:34.858Z",
+                     "end":  "2026-09-23T12:33:12.615Z",
+                     "activeMinutes":  321,
+                     "turns":  756,
+                     "tokens":  389837058,
+                     "cost":  218.93,
+                     "split":  [
+                                   {
+                                       "label":  "Output",
+                                       "tokens":  548421,
+                                       "cost":  13.71,
+                                       "pct":  0
+                                   },
+                                   {
+                                       "label":  "Input",
+                                       "tokens":  1512,
+                                       "cost":  0.01,
+                                       "pct":  0
+                                   },
+                                   {
+                                       "label":  "Cache write",
+                                       "tokens":  1112497,
+                                       "cost":  11.12,
+                                       "pct":  0
+                                   },
+                                   {
+                                       "label":  "Cache read",
+                                       "tokens":  388174628,
+                                       "cost":  194.09,
+                                       "pct":  100
+                                   }
+                               ],
+                     "activity":  [
+                                      2565255,
+                                      6956754,
+                                      9466629,
+                                      18779587,
+                                      7722539,
+                                      14201953,
+                                      19379440,
+                                      16145461,
+                                      19503745,
+                                      20017760,
+                                      15458389,
+                                      15432882,
+                                      10979158,
+                                      21476723,
+                                      13193011,
+                                      10084227,
+                                      27668890,
+                                      10159567,
+                                      24305602,
+                                      28242829,
+                                      19615349,
+                                      28701117,
+                                      14239890,
+                                      15540301
+                                  ],
+                     "insight":  "Cache reads carried most of the cost because the same context was re-read on many turns."
+                 },
+    "busiestDay":  {
+                       "day":  "Monday",
+                       "hours":  5.4
+                   },
+    "projectedMonth":  939
+}

@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en" data-theme="dark">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Download Aknologia Usage</title>
+<script>try{var t=localStorage.getItem('akn-theme');if(t==='light'||t==='dark')document.documentElement.dataset.pref=t;}catch(e){}</script>
+<link href="https://fonts.googleapis.com/css2?family=Sora:wght@600;700&family=IBM+Plex+Sans:wght@400;600;700&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#08120F;--surface:#0F1C17;--border:#1E332B;--text:#F2F7F4;--text2:#CFDDD5;--muted:#9FB5A9;--brand:#1E7D5E;--ink:#9FE0C6}
+@media (prefers-color-scheme: light){:root:not([data-pref='dark']){--bg:#F4F7F5;--surface:#FFFFFF;--border:#DCE6E0;--text:#0F1F18;--text2:#33473D;--muted:#526A5E;--brand:#0E6B4E;--ink:#0A5139}}
+:root[data-pref='light']{--bg:#F4F7F5;--surface:#FFFFFF;--border:#DCE6E0;--text:#0F1F18;--text2:#33473D;--muted:#526A5E;--brand:#0E6B4E;--ink:#0A5139}
+body{margin:0;background:var(--bg);color:var(--text);font-family:'IBM Plex Sans',system-ui,sans-serif}
+main{max-width:880px;margin:0 auto;padding:72px 24px;display:flex;flex-direction:column;gap:28px}
+:root{--dur-press:120ms;--dur-hover:180ms;--ease-out:cubic-bezier(.2,.8,.2,1);--ease-press:cubic-bezier(.3,0,.5,1)} /* same tokens as ui/shared/theme.css */
+a.back{align-self:flex-start;display:inline-flex;align-items:center;min-height:44px;color:var(--ink);font-weight:700;text-decoration:none}
+a.back:hover{text-decoration:underline}
+h1{font-family:'Sora',sans-serif;font-size:clamp(32px,9vw,44px);letter-spacing:-.04em;margin:0;overflow-wrap:break-word}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:16px}
+.card{background:var(--surface);border:1px solid var(--border);border-radius:20px;padding:24px;display:flex;flex-direction:column;gap:10px}
+a.btn{display:inline-flex;justify-content:center;min-height:48px;align-items:center;border-radius:12px;background:var(--brand);color:#fff;font-weight:700;text-decoration:none;transition:background-color var(--dur-hover) var(--ease-out),transform var(--dur-press) var(--ease-press)}
+a.btn:hover{background:color-mix(in srgb,var(--brand) 90%,#000)} a.btn:active{transform:scale(.97)}
+a:focus-visible{outline:2px solid var(--ink);outline-offset:2px}
+@media (max-width: 767.98px){main{padding:40px 16px;gap:22px}}
+@media (prefers-reduced-motion: reduce){*{transition-duration:.01ms !important;animation-duration:.01ms !important}}
+ol{color:var(--text2);line-height:1.8} p{color:var(--text2);margin:0} small{color:var(--muted)}
+.off{display:inline-flex;justify-content:center;align-items:center;min-height:48px;border-radius:12px;border:1px dashed var(--border);color:var(--text2);font-weight:600;text-align:center;padding:0 12px}
+</style>
+</head>
+<body>
+<main>
+<a class="back" href="/">← aknologia.com</a>
+<span style="color:var(--ink);font-weight:700">aknologia · Desktop app</span>
+<h1>Download Aknologia Usage</h1>
+<p>Install the desktop app, choose “I have an invite”, and enter the code from your invitation email.</p>
+<div class="grid">
+<div class="card"><b>macOS</b><small>Apple silicon and Intel · macOS 12+</small><a class="btn" href="aknologia-usage-macos.zip">Download for Mac</a></div>
+<div class="card"><b>Windows</b><small>Windows 10 and 11 · 64-bit</small><a class="btn" href="aknologia-usage-windows.zip">Download for Windows</a></div>
+<div class="card"><b>Linux</b><small>x86-64 · needs WebKitGTK 4.0</small><a class="btn" href="aknologia-usage-linux.tar.gz">Download for Linux</a></div>
+</div>
+<div class="card"><b>After installing</b><ol><li>Open Aknologia Usage. It starts the background agent for you.</li><li>Choose <b>I have an invite</b>, enter your work email and invite code, and set a password.</li><li>Keep coding. Your numbers appear within the hour; use Force sync to send them now.</li></ol>
+<small>The app reads only token counts, model names, and timestamps. Prompts, code, and file names never leave your computer.</small></div>
+<small>© 2026 Aknologia. All rights reserved.</small>
+</main>
+<script>
+// An installer that hasn't been published to this server yet gets a clear note instead of a broken link.
+document.querySelectorAll('a.btn').forEach(function (a) {
+  fetch(a.getAttribute('href'), { method: 'HEAD' }).then(function (r) {
+    if (r.ok) return;
+    var s = document.createElement('span');
+    s.className = 'off';
+    s.textContent = 'Not published yet. Ask your admin for the installer.';
+    a.replaceWith(s);
+  }).catch(function () {});
+});
+</script>
+</body>
+</html>

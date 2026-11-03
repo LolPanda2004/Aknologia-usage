@@ -1,0 +1,716 @@
+[
+  {
+    "group": "desktop",
+    "page": "desk-unpaired",
+    "width": "960x640",
+    "theme": "dark",
+    "shot": "tests/responsive/screenshots/after/desk-unpaired-960x640-dark.png",
+    "console": [],
+    "m": {
+      "vw": 960,
+      "iw": 960,
+      "ih": 640,
+      "scrollW": 960,
+      "docH": 640,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    }
+  },
+  {
+    "group": "desktop",
+    "page": "desk-signin",
+    "width": "960x640",
+    "theme": "dark",
+    "shot": "tests/responsive/screenshots/after/desk-signin-960x640-dark.png",
+    "console": [],
+    "m": {
+      "vw": 960,
+      "iw": 960,
+      "ih": 640,
+      "scrollW": 960,
+      "docH": 965,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    }
+  },
+  {
+    "group": "desktop",
+    "page": "desk-modal-server",
+    "width": "960x640",
+    "theme": "dark",
+    "shot": "tests/responsive/screenshots/after/desk-modal-server-960x640-dark.png",
+    "console": [],
+    "m": {
+      "vw": 960,
+      "iw": 960,
+      "ih": 640,
+      "scrollW": 960,
+      "docH": 965,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [
+        {
+          "sel": "div.auth > main.auth-main > div.auth-card:nth-of-type(1) > div.overlay:nth-of-type(3) > div.modal",
+          "top": 77,
+          "bottom": 398,
+          "left": 210,
+          "right": 750,
+          "h": 322,
+          "problems": []
+        }
+      ],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    }
+  },
+  {
+    "group": "desktop",
+    "page": "desk-invite",
+    "width": "960x640",
+    "theme": "dark",
+    "shot": "tests/responsive/screenshots/after/desk-invite-960x640-dark.png",
+    "console": [],
+    "m": {
+      "vw": 960,
+      "iw": 960,
+      "ih": 640,
+      "scrollW": 960,
+      "docH": 1124,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    }
+  },
+  {
+    "group": "desktop",
+    "page": "desk-forgot",
+    "width": "960x640",
+    "theme": "dark",
+    "shot": "tests/responsive/screenshots/after/desk-forgot-960x640-dark.png",
+    "console": [],
+    "m": {
+      "vw": 960,
+      "iw": 960,
+      "ih": 640,
+      "scrollW": 960,
+      "docH": 764,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    }
+  },
+  {
+    "group": "desktop",
+    "page": "desk-otp",
+    "width": "960x640",
+    "theme": "dark",
+    "shot": "tests/responsive/screenshots/after/desk-otp-960x640-dark.png",
+    "console": [],
+    "m": {
+      "vw": 960,
+      "iw": 960,
+      "ih": 640,
+      "scrollW": 960,
+      "docH": 780,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    }
+  },
+  {
+    "group": "desktop",
+    "page": "desk-newpw",
+    "width": "960x640",
+    "theme": "dark",
+    "shot": "tests/responsive/screenshots/after/desk-newpw-960x640-dark.png",
+    "console": [],
+    "m": {
+      "vw": 960,
+      "iw": 960,
+      "ih": 640,
+      "scrollW": 960,
+      "docH": 908,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    }
+  },
+  {
+    "group": "desktop",
+    "page": "desk-removed",
+    "width": "960x640",
+    "theme": "dark",
+    "shot": "tests/responsive/screenshots/after/desk-removed-960x640-dark.png",
+    "console": [],
+    "m": {
+      "vw": 960,
+      "iw": 960,
+      "ih": 640,
+      "scrollW": 960,
+      "docH": 821,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    }
+  },
+  {
+    "group": "desktop",
+    "page": "desk-overview",
+    "width": "960x640",
+    "theme": "dark",
+    "shot": "tests/responsive/screenshots/after/desk-overview-960x640-dark.png",
+    "console": [],
+    "m": {
+      "vw": 960,
+      "iw": 960,
+      "ih": 640,
+      "scrollW": 960,
+      "docH": 3094,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [
+        {
+          "sel": "div.shell > div.main-col:nth-of-type(2) > div.topbar > nav.topbar-crumb > span.crumb-title:nth-of-type(3)",
+          "text": "Good afternoon, Resp-member-8jmaha"
+        }
+      ],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    }
+  },
+  {
+    "group": "desktop",
+    "page": "desk-sessions",
+    "width": "960x640",
+    "theme": "dark",
+    "shot": "tests/responsive/screenshots/after/desk-sessions-960x640-dark.png",
+    "console": [],
+    "m": {
+      "vw": 960,
+      "iw": 960,
+      "ih": 640,
+      "scrollW": 960,
+      "docH": 1511,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    }
+  },
+  {
+    "group": "desktop",
+    "page": "desk-support",
+    "width": "960x640",
+    "theme": "dark",
+    "shot": "tests/responsive/screenshots/after/desk-support-960x640-dark.png",
+    "console": [],
+    "m": {
+      "vw": 960,
+      "iw": 960,
+      "ih": 640,
+      "scrollW": 960,
+      "docH": 1674,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    }
+  },
+  {
+    "group": "desktop",
+    "page": "desk-settings",
+    "width": "960x640",
+    "theme": "dark",
+    "shot": "tests/responsive/screenshots/after/desk-settings-960x640-dark.png",
+    "console": [],
+    "m": {
+      "vw": 960,
+      "iw": 960,
+      "ih": 640,
+      "scrollW": 960,
+      "docH": 2640,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    }
+  },
+  {
+    "group": "desktop",
+    "page": "desk-modal-password-1",
+    "width": "960x640",
+    "theme": "dark",
+    "shot": "tests/responsive/screenshots/after/desk-modal-password-1-960x640-dark.png",
+    "console": [],
+    "m": {
+      "vw": 960,
+      "iw": 960,
+      "ih": 640,
+      "scrollW": 960,
+      "docH": 2640,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [
+        {
+          "sel": "#security > section.card > div.overlay:nth-of-type(6) > div.modal",
+          "top": 77,
+          "bottom": 616,
+          "left": 210,
+          "right": 750,
+          "h": 539,
+          "problems": []
+        }
+      ],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    }
+  },
+  {
+    "group": "desktop",
+    "page": "desk-modal-password-2",
+    "width": "960x640",
+    "theme": "dark",
+    "shot": "tests/responsive/screenshots/after/desk-modal-password-2-960x640-dark.png",
+    "console": [],
+    "m": {
+      "vw": 960,
+      "iw": 960,
+      "ih": 640,
+      "scrollW": 960,
+      "docH": 2640,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [
+        {
+          "sel": "#security > section.card > div.overlay:nth-of-type(6) > div.modal",
+          "top": 77,
+          "bottom": 423,
+          "left": 210,
+          "right": 750,
+          "h": 347,
+          "problems": []
+        }
+      ],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    }
+  },
+  {
+    "group": "desktop",
+    "page": "desk-tour-1",
+    "width": "960x640",
+    "theme": "dark",
+    "shot": "tests/responsive/screenshots/after/desk-tour-1-960x640-dark.png",
+    "console": [],
+    "m": {
+      "vw": 960,
+      "iw": 960,
+      "ih": 640,
+      "scrollW": 960,
+      "docH": 3094,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [
+        {
+          "sel": "div.shell:nth-of-type(1) > div.main-col:nth-of-type(2) > div.topbar > nav.topbar-crumb > span.crumb-title:nth-of-type(3)",
+          "text": "Good afternoon, Resp-member-8jmaha"
+        }
+      ],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [
+        {
+          "sel": "#root > div.tour-card.shown:nth-of-type(3)",
+          "top": 16,
+          "bottom": 210,
+          "left": 244,
+          "right": 584,
+          "h": 194,
+          "problems": []
+        }
+      ],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    }
+  },
+  {
+    "group": "desktop",
+    "page": "desk-tour-2",
+    "width": "960x640",
+    "theme": "dark",
+    "shot": "tests/responsive/screenshots/after/desk-tour-2-960x640-dark.png",
+    "console": [],
+    "m": {
+      "vw": 960,
+      "iw": 960,
+      "ih": 640,
+      "scrollW": 960,
+      "docH": 3094,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [
+        {
+          "sel": "div.shell:nth-of-type(1) > div.main-col:nth-of-type(2) > div.topbar > nav.topbar-crumb > span.crumb-title:nth-of-type(3)",
+          "text": "Good afternoon, Resp-member-8jmaha"
+        }
+      ],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [
+        {
+          "sel": "#root > div.tour-card.shown:nth-of-type(3)",
+          "top": 16,
+          "bottom": 231,
+          "left": 244,
+          "right": 584,
+          "h": 215,
+          "problems": []
+        }
+      ],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    }
+  },
+  {
+    "group": "desktop",
+    "page": "desk-tour-3",
+    "width": "960x640",
+    "theme": "dark",
+    "shot": "tests/responsive/screenshots/after/desk-tour-3-960x640-dark.png",
+    "console": [],
+    "m": {
+      "vw": 960,
+      "iw": 960,
+      "ih": 640,
+      "scrollW": 960,
+      "docH": 3094,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [
+        {
+          "sel": "div.shell:nth-of-type(1) > div.main-col:nth-of-type(2) > div.topbar > nav.topbar-crumb > span.crumb-title:nth-of-type(3)",
+          "text": "Good afternoon, Resp-member-8jmaha"
+        }
+      ],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [
+        {
+          "sel": "#root > div.tour-card.shown:nth-of-type(3)",
+          "top": 246,
+          "bottom": 460,
+          "left": 481,
+          "right": 821,
+          "h": 215,
+          "problems": []
+        }
+      ],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    }
+  },
+  {
+    "group": "desktop",
+    "page": "desk-tour-4",
+    "width": "960x640",
+    "theme": "dark",
+    "shot": "tests/responsive/screenshots/after/desk-tour-4-960x640-dark.png",
+    "console": [],
+    "m": {
+      "vw": 960,
+      "iw": 960,
+      "ih": 640,
+      "scrollW": 960,
+      "docH": 3094,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [
+        {
+          "sel": "div.shell:nth-of-type(1) > div.main-col:nth-of-type(2) > div.topbar.tour-raise > nav.topbar-crumb > span.crumb-title:nth-of-type(3)",
+          "text": "Good afternoon, Resp-member-8jmaha"
+        }
+      ],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [
+        {
+          "sel": "#root > div.tour-card.shown:nth-of-type(3)",
+          "top": 70,
+          "bottom": 285,
+          "left": 604,
+          "right": 944,
+          "h": 215,
+          "problems": []
+        }
+      ],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    }
+  },
+  {
+    "group": "desktop",
+    "page": "desk-tour-5",
+    "width": "960x640",
+    "theme": "dark",
+    "shot": "tests/responsive/screenshots/after/desk-tour-5-960x640-dark.png",
+    "console": [],
+    "m": {
+      "vw": 960,
+      "iw": 960,
+      "ih": 640,
+      "scrollW": 960,
+      "docH": 3094,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [
+        {
+          "sel": "div.shell:nth-of-type(1) > div.main-col:nth-of-type(2) > div.topbar > nav.topbar-crumb > span.crumb-title:nth-of-type(3)",
+          "text": "Good afternoon, Resp-member-8jmaha"
+        }
+      ],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [
+        {
+          "sel": "#root > div.tour-card.shown:nth-of-type(3)",
+          "top": 360,
+          "bottom": 553,
+          "left": 16,
+          "right": 356,
+          "h": 194,
+          "problems": []
+        }
+      ],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    }
+  },
+  {
+    "group": "desktop",
+    "page": "desk-empty-overview",
+    "width": "960x640",
+    "theme": "dark",
+    "shot": "tests/responsive/screenshots/after/desk-empty-overview-960x640-dark.png",
+    "console": [],
+    "m": {
+      "vw": 960,
+      "iw": 960,
+      "ih": 640,
+      "scrollW": 960,
+      "docH": 1227,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [
+        {
+          "sel": "div.shell > div.main-col:nth-of-type(2) > div.topbar > nav.topbar-crumb > span.crumb-title:nth-of-type(3)",
+          "text": "Good afternoon, Resp-member-8jmaha"
+        }
+      ],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    }
+  },
+  {
+    "group": "desktop",
+    "page": "desk-empty-sessions",
+    "width": "960x640",
+    "theme": "dark",
+    "shot": "tests/responsive/screenshots/after/desk-empty-sessions-960x640-dark.png",
+    "console": [],
+    "m": {
+      "vw": 960,
+      "iw": 960,
+      "ih": 640,
+      "scrollW": 960,
+      "docH": 640,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    }
+  },
+  {
+    "group": "desktop",
+    "page": "desk-overview-over-budget",
+    "width": "960x640",
+    "theme": "dark",
+    "shot": "tests/responsive/screenshots/after/desk-overview-over-budget-960x640-dark.png",
+    "console": [],
+    "m": {
+      "vw": 960,
+      "iw": 960,
+      "ih": 640,
+      "scrollW": 960,
+      "docH": 3217,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [
+        {
+          "sel": "div.shell > div.main-col:nth-of-type(2) > div.topbar > nav.topbar-crumb > span.crumb-title:nth-of-type(3)",
+          "text": "Good afternoon, Resp-member-8jmaha"
+        }
+      ],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    }
+  }
+]

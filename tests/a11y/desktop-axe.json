@@ -1,0 +1,801 @@
+{
+  "tags": [
+    "wcag2a",
+    "wcag2aa",
+    "wcag21aa",
+    "wcag22aa"
+  ],
+  "generated": "2026-10-10T12:30:01.647Z",
+  "results": [
+    {
+      "page": "signin-first-run",
+      "theme": "light",
+      "url": "http://localhost:5174/?token=1bce7692af693b4fcfa6613515186feb5024cae491804099",
+      "passes": 27,
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": 23,
+          "targets": [
+            ".chip[aria-hidden=\"true\"]:nth-child(2) > .muted",
+            ".chip[aria-hidden=\"true\"]:nth-child(2) > .mono",
+            ".chip[aria-hidden=\"true\"]:nth-child(3) > .muted",
+            ".chip[aria-hidden=\"true\"]:nth-child(3) > .mono",
+            ".chip[aria-hidden=\"true\"]:nth-child(4) > span:nth-child(2)"
+          ]
+        }
+      ],
+      "violations": []
+    },
+    {
+      "page": "signin-first-run",
+      "theme": "dark",
+      "url": "http://localhost:5174/?token=1bce7692af693b4fcfa6613515186feb5024cae491804099",
+      "passes": 27,
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": 23,
+          "targets": [
+            ".chip[aria-hidden=\"true\"]:nth-child(2) > .muted",
+            ".chip[aria-hidden=\"true\"]:nth-child(2) > .mono",
+            ".chip[aria-hidden=\"true\"]:nth-child(3) > .muted",
+            ".chip[aria-hidden=\"true\"]:nth-child(3) > .mono",
+            ".chip[aria-hidden=\"true\"]:nth-child(4) > span:nth-child(2)"
+          ]
+        }
+      ],
+      "violations": []
+    },
+    {
+      "page": "invite",
+      "theme": "light",
+      "url": "http://localhost:5174/?token=1bce7692af693b4fcfa6613515186feb5024cae491804099",
+      "passes": 27,
+      "incomplete": [
+        {
+          "id": "aria-prohibited-attr",
+          "impact": "serious",
+          "nodes": 1,
+          "targets": [
+            ".checklist"
+          ]
+        },
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": 23,
+          "targets": [
+            ".chip[aria-hidden=\"true\"]:nth-child(2) > .muted",
+            ".chip[aria-hidden=\"true\"]:nth-child(2) > .mono",
+            ".chip[aria-hidden=\"true\"]:nth-child(3) > .muted",
+            ".chip[aria-hidden=\"true\"]:nth-child(3) > .mono",
+            ".chip[aria-hidden=\"true\"]:nth-child(4) > span:nth-child(2)"
+          ]
+        }
+      ],
+      "violations": []
+    },
+    {
+      "page": "invite",
+      "theme": "dark",
+      "url": "http://localhost:5174/?token=1bce7692af693b4fcfa6613515186feb5024cae491804099",
+      "passes": 27,
+      "incomplete": [
+        {
+          "id": "aria-prohibited-attr",
+          "impact": "serious",
+          "nodes": 1,
+          "targets": [
+            ".checklist"
+          ]
+        },
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": 23,
+          "targets": [
+            ".chip[aria-hidden=\"true\"]:nth-child(2) > .muted",
+            ".chip[aria-hidden=\"true\"]:nth-child(2) > .mono",
+            ".chip[aria-hidden=\"true\"]:nth-child(3) > .muted",
+            ".chip[aria-hidden=\"true\"]:nth-child(3) > .mono",
+            ".chip[aria-hidden=\"true\"]:nth-child(4) > span:nth-child(2)"
+          ]
+        }
+      ],
+      "violations": []
+    },
+    {
+      "page": "tour-step1",
+      "theme": "light",
+      "url": "http://localhost:5174/?token=1bce7692af693b4fcfa6613515186feb5024cae491804099#/",
+      "passes": 28,
+      "incomplete": [
+        {
+          "id": "aria-valid-attr-value",
+          "impact": "critical",
+          "nodes": 1,
+          "targets": [
+            ".user-btn"
+          ]
+        },
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": 42,
+          "targets": [
+            ".seg > button[type=\"button\"]:nth-child(1)",
+            "button[type=\"button\"]:nth-child(2)",
+            "button[type=\"button\"]:nth-child(3)",
+            "text[y=\"68\"]",
+            "text[y=\"88\"]"
+          ]
+        }
+      ],
+      "violations": []
+    },
+    {
+      "page": "tour-step1",
+      "theme": "dark",
+      "url": "http://localhost:5174/?token=1bce7692af693b4fcfa6613515186feb5024cae491804099#/",
+      "passes": 28,
+      "incomplete": [
+        {
+          "id": "aria-valid-attr-value",
+          "impact": "critical",
+          "nodes": 1,
+          "targets": [
+            ".user-btn"
+          ]
+        },
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": 42,
+          "targets": [
+            ".seg > button[type=\"button\"]:nth-child(1)",
+            "button[type=\"button\"]:nth-child(2)",
+            "button[type=\"button\"]:nth-child(3)",
+            "text[y=\"68\"]",
+            "text[y=\"88\"]"
+          ]
+        }
+      ],
+      "violations": []
+    },
+    {
+      "page": "overview",
+      "theme": "light",
+      "url": "http://localhost:5174/?token=1bce7692af693b4fcfa6613515186feb5024cae491804099#/",
+      "passes": 28,
+      "incomplete": [
+        {
+          "id": "aria-valid-attr-value",
+          "impact": "critical",
+          "nodes": 1,
+          "targets": [
+            ".user-btn"
+          ]
+        },
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": 41,
+          "targets": [
+            ".seg > button[type=\"button\"]:nth-child(1)",
+            "button[type=\"button\"]:nth-child(2)",
+            "button[type=\"button\"]:nth-child(3)",
+            "text[y=\"68\"]",
+            "text[y=\"88\"]"
+          ]
+        }
+      ],
+      "violations": []
+    },
+    {
+      "page": "overview",
+      "theme": "dark",
+      "url": "http://localhost:5174/?token=1bce7692af693b4fcfa6613515186feb5024cae491804099#/",
+      "passes": 28,
+      "incomplete": [
+        {
+          "id": "aria-valid-attr-value",
+          "impact": "critical",
+          "nodes": 1,
+          "targets": [
+            ".user-btn"
+          ]
+        },
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": 41,
+          "targets": [
+            ".seg > button[type=\"button\"]:nth-child(1)",
+            "button[type=\"button\"]:nth-child(2)",
+            "button[type=\"button\"]:nth-child(3)",
+            "text[y=\"68\"]",
+            "text[y=\"88\"]"
+          ]
+        }
+      ],
+      "violations": []
+    },
+    {
+      "page": "overview-budget-reached",
+      "theme": "light",
+      "url": "http://localhost:5174/?token=1bce7692af693b4fcfa6613515186feb5024cae491804099#/",
+      "passes": 28,
+      "incomplete": [
+        {
+          "id": "aria-valid-attr-value",
+          "impact": "critical",
+          "nodes": 1,
+          "targets": [
+            ".user-btn"
+          ]
+        },
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": 41,
+          "targets": [
+            ".seg > button[type=\"button\"]:nth-child(1)",
+            "button[type=\"button\"]:nth-child(2)",
+            "button[type=\"button\"]:nth-child(3)",
+            "text[y=\"68\"]",
+            "text[y=\"88\"]"
+          ]
+        }
+      ],
+      "violations": []
+    },
+    {
+      "page": "overview-budget-reached",
+      "theme": "dark",
+      "url": "http://localhost:5174/?token=1bce7692af693b4fcfa6613515186feb5024cae491804099#/",
+      "passes": 28,
+      "incomplete": [
+        {
+          "id": "aria-valid-attr-value",
+          "impact": "critical",
+          "nodes": 1,
+          "targets": [
+            ".user-btn"
+          ]
+        },
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": 41,
+          "targets": [
+            ".seg > button[type=\"button\"]:nth-child(1)",
+            "button[type=\"button\"]:nth-child(2)",
+            "button[type=\"button\"]:nth-child(3)",
+            "text[y=\"68\"]",
+            "text[y=\"88\"]"
+          ]
+        }
+      ],
+      "violations": []
+    },
+    {
+      "page": "sessions",
+      "theme": "light",
+      "url": "http://localhost:5174/?token=1bce7692af693b4fcfa6613515186feb5024cae491804099#/sessions",
+      "passes": 25,
+      "incomplete": [
+        {
+          "id": "aria-valid-attr-value",
+          "impact": "critical",
+          "nodes": 1,
+          "targets": [
+            ".btn-ghost"
+          ]
+        }
+      ],
+      "violations": []
+    },
+    {
+      "page": "sessions",
+      "theme": "dark",
+      "url": "http://localhost:5174/?token=1bce7692af693b4fcfa6613515186feb5024cae491804099#/sessions",
+      "passes": 25,
+      "incomplete": [
+        {
+          "id": "aria-valid-attr-value",
+          "impact": "critical",
+          "nodes": 1,
+          "targets": [
+            ".btn-ghost"
+          ]
+        }
+      ],
+      "violations": []
+    },
+    {
+      "page": "settings",
+      "theme": "light",
+      "url": "http://localhost:5174/?token=1bce7692af693b4fcfa6613515186feb5024cae491804099#/settings",
+      "passes": 24,
+      "incomplete": [
+        {
+          "id": "aria-valid-attr-value",
+          "impact": "critical",
+          "nodes": 1,
+          "targets": [
+            ".btn-ghost"
+          ]
+        },
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": 3,
+          "targets": [
+            "button[type=\"button\"]:nth-child(1)",
+            "button[type=\"button\"]:nth-child(2)",
+            "button[type=\"button\"]:nth-child(3)"
+          ]
+        }
+      ],
+      "violations": []
+    },
+    {
+      "page": "settings",
+      "theme": "dark",
+      "url": "http://localhost:5174/?token=1bce7692af693b4fcfa6613515186feb5024cae491804099#/settings",
+      "passes": 24,
+      "incomplete": [
+        {
+          "id": "aria-valid-attr-value",
+          "impact": "critical",
+          "nodes": 1,
+          "targets": [
+            ".btn-ghost"
+          ]
+        },
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": 3,
+          "targets": [
+            "button[type=\"button\"]:nth-child(1)",
+            "button[type=\"button\"]:nth-child(2)",
+            "button[type=\"button\"]:nth-child(3)"
+          ]
+        }
+      ],
+      "violations": []
+    },
+    {
+      "page": "settings-password-modal",
+      "theme": "light",
+      "url": "http://localhost:5174/?token=1bce7692af693b4fcfa6613515186feb5024cae491804099#/settings",
+      "passes": 25,
+      "incomplete": [
+        {
+          "id": "aria-prohibited-attr",
+          "impact": "serious",
+          "nodes": 1,
+          "targets": [
+            ".checklist"
+          ]
+        },
+        {
+          "id": "aria-valid-attr-value",
+          "impact": "critical",
+          "nodes": 1,
+          "targets": [
+            ".btn-ghost"
+          ]
+        },
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": 3,
+          "targets": [
+            ".seg > button[type=\"button\"]:nth-child(1)",
+            ".seg > button[type=\"button\"]:nth-child(2)",
+            "button[type=\"button\"]:nth-child(3)"
+          ]
+        }
+      ],
+      "violations": []
+    },
+    {
+      "page": "settings-password-modal",
+      "theme": "dark",
+      "url": "http://localhost:5174/?token=1bce7692af693b4fcfa6613515186feb5024cae491804099#/settings",
+      "passes": 25,
+      "incomplete": [
+        {
+          "id": "aria-prohibited-attr",
+          "impact": "serious",
+          "nodes": 1,
+          "targets": [
+            ".checklist"
+          ]
+        },
+        {
+          "id": "aria-valid-attr-value",
+          "impact": "critical",
+          "nodes": 1,
+          "targets": [
+            ".btn-ghost"
+          ]
+        },
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": 3,
+          "targets": [
+            ".seg > button[type=\"button\"]:nth-child(1)",
+            ".seg > button[type=\"button\"]:nth-child(2)",
+            "button[type=\"button\"]:nth-child(3)"
+          ]
+        }
+      ],
+      "violations": []
+    },
+    {
+      "page": "settings-password-code",
+      "theme": "light",
+      "url": "http://localhost:5174/?token=1bce7692af693b4fcfa6613515186feb5024cae491804099#/settings",
+      "passes": 25,
+      "incomplete": [
+        {
+          "id": "aria-valid-attr-value",
+          "impact": "critical",
+          "nodes": 1,
+          "targets": [
+            ".btn-ghost"
+          ]
+        },
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": 4,
+          "targets": [
+            "form > .text2",
+            ".seg > button[type=\"button\"]:nth-child(1)",
+            "button[type=\"button\"]:nth-child(2)",
+            "button[type=\"button\"]:nth-child(3)"
+          ]
+        }
+      ],
+      "violations": []
+    },
+    {
+      "page": "settings-password-code",
+      "theme": "dark",
+      "url": "http://localhost:5174/?token=1bce7692af693b4fcfa6613515186feb5024cae491804099#/settings",
+      "passes": 25,
+      "incomplete": [
+        {
+          "id": "aria-valid-attr-value",
+          "impact": "critical",
+          "nodes": 1,
+          "targets": [
+            ".btn-ghost"
+          ]
+        },
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": 4,
+          "targets": [
+            "form > .text2",
+            ".seg > button[type=\"button\"]:nth-child(1)",
+            "button[type=\"button\"]:nth-child(2)",
+            "button[type=\"button\"]:nth-child(3)"
+          ]
+        }
+      ],
+      "violations": []
+    },
+    {
+      "page": "support",
+      "theme": "light",
+      "url": "http://localhost:5174/?token=1bce7692af693b4fcfa6613515186feb5024cae491804099#/support",
+      "passes": 25,
+      "incomplete": [
+        {
+          "id": "aria-valid-attr-value",
+          "impact": "critical",
+          "nodes": 1,
+          "targets": [
+            ".btn-ghost"
+          ]
+        }
+      ],
+      "violations": []
+    },
+    {
+      "page": "support",
+      "theme": "dark",
+      "url": "http://localhost:5174/?token=1bce7692af693b4fcfa6613515186feb5024cae491804099#/support",
+      "passes": 25,
+      "incomplete": [
+        {
+          "id": "aria-valid-attr-value",
+          "impact": "critical",
+          "nodes": 1,
+          "targets": [
+            ".btn-ghost"
+          ]
+        }
+      ],
+      "violations": []
+    },
+    {
+      "page": "signin",
+      "theme": "light",
+      "url": "http://localhost:5174/?token=1bce7692af693b4fcfa6613515186feb5024cae491804099#/",
+      "passes": 27,
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": 23,
+          "targets": [
+            ".chip[aria-hidden=\"true\"]:nth-child(2) > .muted",
+            ".chip[aria-hidden=\"true\"]:nth-child(2) > .mono",
+            ".chip[aria-hidden=\"true\"]:nth-child(3) > .muted",
+            ".chip[aria-hidden=\"true\"]:nth-child(3) > .mono",
+            ".chip[aria-hidden=\"true\"]:nth-child(4) > span:nth-child(2)"
+          ]
+        }
+      ],
+      "violations": []
+    },
+    {
+      "page": "signin",
+      "theme": "dark",
+      "url": "http://localhost:5174/?token=1bce7692af693b4fcfa6613515186feb5024cae491804099#/",
+      "passes": 27,
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": 23,
+          "targets": [
+            ".chip[aria-hidden=\"true\"]:nth-child(2) > .muted",
+            ".chip[aria-hidden=\"true\"]:nth-child(2) > .mono",
+            ".chip[aria-hidden=\"true\"]:nth-child(3) > .muted",
+            ".chip[aria-hidden=\"true\"]:nth-child(3) > .mono",
+            ".chip[aria-hidden=\"true\"]:nth-child(4) > span:nth-child(2)"
+          ]
+        }
+      ],
+      "violations": []
+    },
+    {
+      "page": "signin-server-modal",
+      "theme": "light",
+      "url": "http://localhost:5174/?token=1bce7692af693b4fcfa6613515186feb5024cae491804099#/",
+      "passes": 27,
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": 24,
+          "targets": [
+            ".chip[aria-hidden=\"true\"]:nth-child(2) > .muted",
+            ".chip[aria-hidden=\"true\"]:nth-child(2) > .mono",
+            ".chip[aria-hidden=\"true\"]:nth-child(3) > .muted",
+            ".chip[aria-hidden=\"true\"]:nth-child(3) > .mono",
+            ".chip[aria-hidden=\"true\"]:nth-child(4) > span:nth-child(2)"
+          ]
+        }
+      ],
+      "violations": []
+    },
+    {
+      "page": "signin-server-modal",
+      "theme": "dark",
+      "url": "http://localhost:5174/?token=1bce7692af693b4fcfa6613515186feb5024cae491804099#/",
+      "passes": 27,
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": 24,
+          "targets": [
+            ".chip[aria-hidden=\"true\"]:nth-child(2) > .muted",
+            ".chip[aria-hidden=\"true\"]:nth-child(2) > .mono",
+            ".chip[aria-hidden=\"true\"]:nth-child(3) > .muted",
+            ".chip[aria-hidden=\"true\"]:nth-child(3) > .mono",
+            ".chip[aria-hidden=\"true\"]:nth-child(4) > span:nth-child(2)"
+          ]
+        }
+      ],
+      "violations": []
+    },
+    {
+      "page": "forgot-email",
+      "theme": "light",
+      "url": "http://localhost:5174/?token=1bce7692af693b4fcfa6613515186feb5024cae491804099#/",
+      "passes": 23,
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": 21,
+          "targets": [
+            ".chip:nth-child(2) > .muted",
+            ".chip:nth-child(2) > .mono",
+            ".chip:nth-child(3) > .muted",
+            ".chip:nth-child(3) > .mono",
+            ".chip:nth-child(4) > span:nth-child(2)"
+          ]
+        }
+      ],
+      "violations": []
+    },
+    {
+      "page": "forgot-email",
+      "theme": "dark",
+      "url": "http://localhost:5174/?token=1bce7692af693b4fcfa6613515186feb5024cae491804099#/",
+      "passes": 23,
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": 21,
+          "targets": [
+            ".chip:nth-child(2) > .muted",
+            ".chip:nth-child(2) > .mono",
+            ".chip:nth-child(3) > .muted",
+            ".chip:nth-child(3) > .mono",
+            ".chip:nth-child(4) > span:nth-child(2)"
+          ]
+        }
+      ],
+      "violations": []
+    },
+    {
+      "page": "forgot-code",
+      "theme": "light",
+      "url": "http://localhost:5174/?token=1bce7692af693b4fcfa6613515186feb5024cae491804099#/",
+      "passes": 23,
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": 21,
+          "targets": [
+            ".chip[aria-hidden=\"true\"]:nth-child(2) > .muted",
+            ".chip[aria-hidden=\"true\"]:nth-child(2) > .mono",
+            ".chip[aria-hidden=\"true\"]:nth-child(3) > .muted",
+            ".chip[aria-hidden=\"true\"]:nth-child(3) > .mono",
+            ".chip[aria-hidden=\"true\"]:nth-child(4) > span:nth-child(2)"
+          ]
+        }
+      ],
+      "violations": []
+    },
+    {
+      "page": "forgot-code",
+      "theme": "dark",
+      "url": "http://localhost:5174/?token=1bce7692af693b4fcfa6613515186feb5024cae491804099#/",
+      "passes": 23,
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": 21,
+          "targets": [
+            ".chip[aria-hidden=\"true\"]:nth-child(2) > .muted",
+            ".chip[aria-hidden=\"true\"]:nth-child(2) > .mono",
+            ".chip[aria-hidden=\"true\"]:nth-child(3) > .muted",
+            ".chip[aria-hidden=\"true\"]:nth-child(3) > .mono",
+            ".chip[aria-hidden=\"true\"]:nth-child(4) > span:nth-child(2)"
+          ]
+        }
+      ],
+      "violations": []
+    },
+    {
+      "page": "forgot-new-password",
+      "theme": "light",
+      "url": "http://localhost:5174/?token=1bce7692af693b4fcfa6613515186feb5024cae491804099#/",
+      "passes": 24,
+      "incomplete": [
+        {
+          "id": "aria-prohibited-attr",
+          "impact": "serious",
+          "nodes": 1,
+          "targets": [
+            ".checklist"
+          ]
+        },
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": 21,
+          "targets": [
+            ".chip:nth-child(2) > .muted",
+            ".chip:nth-child(2) > .mono",
+            ".chip:nth-child(3) > .muted",
+            ".chip:nth-child(3) > .mono",
+            ".chip:nth-child(4) > span:nth-child(2)"
+          ]
+        }
+      ],
+      "violations": []
+    },
+    {
+      "page": "forgot-new-password",
+      "theme": "dark",
+      "url": "http://localhost:5174/?token=1bce7692af693b4fcfa6613515186feb5024cae491804099#/",
+      "passes": 24,
+      "incomplete": [
+        {
+          "id": "aria-prohibited-attr",
+          "impact": "serious",
+          "nodes": 1,
+          "targets": [
+            ".checklist"
+          ]
+        },
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": 21,
+          "targets": [
+            ".chip:nth-child(2) > .muted",
+            ".chip:nth-child(2) > .mono",
+            ".chip:nth-child(3) > .muted",
+            ".chip:nth-child(3) > .mono",
+            ".chip:nth-child(4) > span:nth-child(2)"
+          ]
+        }
+      ],
+      "violations": []
+    },
+    {
+      "page": "removed",
+      "theme": "light",
+      "url": "http://localhost:5174/?token=1bce7692af693b4fcfa6613515186feb5024cae491804099#/",
+      "passes": 18,
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": 21,
+          "targets": [
+            ".chip:nth-child(2) > .muted",
+            ".chip:nth-child(2) > .mono",
+            ".chip:nth-child(3) > .muted",
+            ".chip:nth-child(3) > .mono",
+            ".chip:nth-child(4) > span:nth-child(2)"
+          ]
+        }
+      ],
+      "violations": []
+    },
+    {
+      "page": "removed",
+      "theme": "dark",
+      "url": "http://localhost:5174/?token=1bce7692af693b4fcfa6613515186feb5024cae491804099#/",
+      "passes": 18,
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": 21,
+          "targets": [
+            ".chip:nth-child(2) > .muted",
+            ".chip:nth-child(2) > .mono",
+            ".chip:nth-child(3) > .muted",
+            ".chip:nth-child(3) > .mono",
+            ".chip:nth-child(4) > span:nth-child(2)"
+          ]
+        }
+      ],
+      "violations": []
+    }
+  ]
+}

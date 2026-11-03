@@ -1,0 +1,1730 @@
+[
+  {
+    "group": "desktop",
+    "page": "desk-unpaired",
+    "width": "390",
+    "theme": "light",
+    "shot": "tests/responsive/screenshots/before/desk-unpaired-390-light.png",
+    "console": [],
+    "m": {
+      "vw": 390,
+      "iw": 390,
+      "ih": 844,
+      "scrollW": 390,
+      "docH": 844,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    },
+    "axe": []
+  },
+  {
+    "group": "desktop",
+    "page": "desk-signin",
+    "width": "390",
+    "theme": "light",
+    "shot": "tests/responsive/screenshots/before/desk-signin-390-light.png",
+    "console": [],
+    "m": {
+      "vw": 390,
+      "iw": 390,
+      "ih": 844,
+      "scrollW": 390,
+      "docH": 1183,
+      "hScroll": false,
+      "overflow": [
+        {
+          "sel": "#root > div.auth > header.auth-head > div",
+          "text": "Pricing Book a demo aknologia.com",
+          "by": 71,
+          "parent": "#root > div.auth > header.auth-head"
+        }
+      ],
+      "offscreen": [
+        {
+          "sel": "#root > div.auth > header.auth-head > div",
+          "text": "Pricing Book a demo aknologia.com",
+          "left": 48,
+          "right": 461,
+          "clippedBy": "#root > div.auth"
+        }
+      ],
+      "scrollers": [],
+      "clipped": [],
+      "small": [
+        {
+          "sel": "#root > div.auth > main.auth-main > span.text2 > a:nth-of-type(1)",
+          "text": "See pricing",
+          "w": 73,
+          "h": 18,
+          "inline": true
+        },
+        {
+          "sel": "#root > div.auth > main.auth-main > span.text2 > a:nth-of-type(2)",
+          "text": "book a demo",
+          "w": 84,
+          "h": 18,
+          "inline": true
+        },
+        {
+          "sel": "#root > div.auth > footer.footer > span:nth-of-type(2) > a:nth-of-type(1)",
+          "text": "Privacy",
+          "w": 42,
+          "h": 20,
+          "inline": false
+        },
+        {
+          "sel": "#root > div.auth > footer.footer > span:nth-of-type(2) > a:nth-of-type(2)",
+          "text": "Terms",
+          "w": 36,
+          "h": 20,
+          "inline": false
+        },
+        {
+          "sel": "#root > div.auth > footer.footer > span:nth-of-type(2) > a:nth-of-type(3)",
+          "text": "System status",
+          "w": 82,
+          "h": 20,
+          "inline": false
+        }
+      ],
+      "smallCount": 5,
+      "dialogs": [],
+      "smallFont": [
+        {
+          "sel": "#si-email",
+          "px": 15
+        },
+        {
+          "sel": "#si-pw",
+          "px": 15
+        }
+      ],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    },
+    "axe": []
+  },
+  {
+    "group": "desktop",
+    "page": "desk-modal-server",
+    "width": "390",
+    "theme": "light",
+    "shot": "tests/responsive/screenshots/before/desk-modal-server-390-light.png",
+    "console": [],
+    "m": {
+      "vw": 390,
+      "iw": 390,
+      "ih": 844,
+      "scrollW": 390,
+      "docH": 1183,
+      "hScroll": false,
+      "overflow": [
+        {
+          "sel": "#root > div.auth > header.auth-head > div",
+          "text": "Pricing Book a demo aknologia.com",
+          "by": 71,
+          "parent": "#root > div.auth > header.auth-head"
+        }
+      ],
+      "offscreen": [
+        {
+          "sel": "#root > div.auth > header.auth-head > div",
+          "text": "Pricing Book a demo aknologia.com",
+          "left": 48,
+          "right": 461,
+          "clippedBy": "#root > div.auth"
+        }
+      ],
+      "scrollers": [],
+      "clipped": [],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [
+        {
+          "sel": "div.auth > main.auth-main > div.auth-card:nth-of-type(1) > div.overlay:nth-of-type(3) > div.modal",
+          "top": 120,
+          "bottom": 464,
+          "left": 24,
+          "right": 366,
+          "h": 344,
+          "problems": []
+        }
+      ],
+      "smallFont": [
+        {
+          "sel": "#srv",
+          "px": 15
+        }
+      ],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    },
+    "axe": []
+  },
+  {
+    "group": "desktop",
+    "page": "desk-invite",
+    "width": "390",
+    "theme": "light",
+    "shot": "tests/responsive/screenshots/before/desk-invite-390-light.png",
+    "console": [],
+    "m": {
+      "vw": 390,
+      "iw": 390,
+      "ih": 844,
+      "scrollW": 390,
+      "docH": 1306,
+      "hScroll": false,
+      "overflow": [
+        {
+          "sel": "#root > div.auth > header.auth-head > div",
+          "text": "Pricing Book a demo aknologia.com",
+          "by": 71,
+          "parent": "#root > div.auth > header.auth-head"
+        }
+      ],
+      "offscreen": [
+        {
+          "sel": "#root > div.auth > header.auth-head > div",
+          "text": "Pricing Book a demo aknologia.com",
+          "left": 48,
+          "right": 461,
+          "clippedBy": "#root > div.auth"
+        }
+      ],
+      "scrollers": [],
+      "clipped": [],
+      "small": [
+        {
+          "sel": "#root > div.auth > main.auth-main > span.text2 > a:nth-of-type(1)",
+          "text": "See pricing",
+          "w": 73,
+          "h": 18,
+          "inline": true
+        },
+        {
+          "sel": "#root > div.auth > main.auth-main > span.text2 > a:nth-of-type(2)",
+          "text": "book a demo",
+          "w": 84,
+          "h": 18,
+          "inline": true
+        },
+        {
+          "sel": "#root > div.auth > footer.footer > span:nth-of-type(2) > a:nth-of-type(1)",
+          "text": "Privacy",
+          "w": 42,
+          "h": 20,
+          "inline": false
+        },
+        {
+          "sel": "#root > div.auth > footer.footer > span:nth-of-type(2) > a:nth-of-type(2)",
+          "text": "Terms",
+          "w": 36,
+          "h": 20,
+          "inline": false
+        },
+        {
+          "sel": "#root > div.auth > footer.footer > span:nth-of-type(2) > a:nth-of-type(3)",
+          "text": "System status",
+          "w": 82,
+          "h": 20,
+          "inline": false
+        }
+      ],
+      "smallCount": 5,
+      "dialogs": [],
+      "smallFont": [
+        {
+          "sel": "#iv-email",
+          "px": 15
+        },
+        {
+          "sel": "#iv-code",
+          "px": 15
+        },
+        {
+          "sel": "#iv-pw",
+          "px": 15
+        },
+        {
+          "sel": "#iv-pw2",
+          "px": 15
+        }
+      ],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    },
+    "axe": []
+  },
+  {
+    "group": "desktop",
+    "page": "desk-forgot",
+    "width": "390",
+    "theme": "light",
+    "shot": "tests/responsive/screenshots/before/desk-forgot-390-light.png",
+    "console": [],
+    "m": {
+      "vw": 390,
+      "iw": 390,
+      "ih": 844,
+      "scrollW": 390,
+      "docH": 976,
+      "hScroll": false,
+      "overflow": [
+        {
+          "sel": "#root > div.auth > header.auth-head > div",
+          "text": "Pricing Book a demo aknologia.com",
+          "by": 71,
+          "parent": "#root > div.auth > header.auth-head"
+        }
+      ],
+      "offscreen": [
+        {
+          "sel": "#root > div.auth > header.auth-head > div",
+          "text": "Pricing Book a demo aknologia.com",
+          "left": 48,
+          "right": 461,
+          "clippedBy": "#root > div.auth"
+        }
+      ],
+      "scrollers": [],
+      "clipped": [],
+      "small": [
+        {
+          "sel": "#root > div.auth > main.auth-main > span.text2 > a:nth-of-type(1)",
+          "text": "See pricing",
+          "w": 73,
+          "h": 18,
+          "inline": true
+        },
+        {
+          "sel": "#root > div.auth > main.auth-main > span.text2 > a:nth-of-type(2)",
+          "text": "book a demo",
+          "w": 84,
+          "h": 18,
+          "inline": true
+        },
+        {
+          "sel": "#root > div.auth > footer.footer > span:nth-of-type(2) > a:nth-of-type(1)",
+          "text": "Privacy",
+          "w": 42,
+          "h": 20,
+          "inline": false
+        },
+        {
+          "sel": "#root > div.auth > footer.footer > span:nth-of-type(2) > a:nth-of-type(2)",
+          "text": "Terms",
+          "w": 36,
+          "h": 20,
+          "inline": false
+        },
+        {
+          "sel": "#root > div.auth > footer.footer > span:nth-of-type(2) > a:nth-of-type(3)",
+          "text": "System status",
+          "w": 82,
+          "h": 20,
+          "inline": false
+        }
+      ],
+      "smallCount": 5,
+      "dialogs": [],
+      "smallFont": [
+        {
+          "sel": "#fp-email",
+          "px": 15
+        }
+      ],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    },
+    "axe": []
+  },
+  {
+    "group": "desktop",
+    "page": "desk-otp",
+    "width": "390",
+    "theme": "light",
+    "shot": "tests/responsive/screenshots/before/desk-otp-390-light.png",
+    "console": [],
+    "m": {
+      "vw": 390,
+      "iw": 390,
+      "ih": 844,
+      "scrollW": 390,
+      "docH": 1001,
+      "hScroll": false,
+      "overflow": [
+        {
+          "sel": "#root > div.auth > header.auth-head > div",
+          "text": "Pricing Book a demo aknologia.com",
+          "by": 71,
+          "parent": "#root > div.auth > header.auth-head"
+        }
+      ],
+      "offscreen": [
+        {
+          "sel": "#root > div.auth > header.auth-head > div",
+          "text": "Pricing Book a demo aknologia.com",
+          "left": 48,
+          "right": 461,
+          "clippedBy": "#root > div.auth"
+        }
+      ],
+      "scrollers": [],
+      "clipped": [],
+      "small": [
+        {
+          "sel": "div.auth-card:nth-of-type(1) > form.col > fieldset > div.otp > input:nth-of-type(1)",
+          "text": "Digit 1",
+          "w": 39,
+          "h": 62,
+          "inline": false
+        },
+        {
+          "sel": "div.auth-card:nth-of-type(1) > form.col > fieldset > div.otp > input:nth-of-type(2)",
+          "text": "Digit 2",
+          "w": 39,
+          "h": 62,
+          "inline": false
+        },
+        {
+          "sel": "div.auth-card:nth-of-type(1) > form.col > fieldset > div.otp > input:nth-of-type(3)",
+          "text": "Digit 3",
+          "w": 39,
+          "h": 62,
+          "inline": false
+        },
+        {
+          "sel": "div.auth-card:nth-of-type(1) > form.col > fieldset > div.otp > input:nth-of-type(4)",
+          "text": "Digit 4",
+          "w": 39,
+          "h": 62,
+          "inline": false
+        },
+        {
+          "sel": "div.auth-card:nth-of-type(1) > form.col > fieldset > div.otp > input:nth-of-type(5)",
+          "text": "Digit 5",
+          "w": 39,
+          "h": 62,
+          "inline": false
+        },
+        {
+          "sel": "div.auth-card:nth-of-type(1) > form.col > fieldset > div.otp > input:nth-of-type(6)",
+          "text": "Digit 6",
+          "w": 39,
+          "h": 62,
+          "inline": false
+        },
+        {
+          "sel": "#root > div.auth > main.auth-main > span.text2 > a:nth-of-type(1)",
+          "text": "See pricing",
+          "w": 73,
+          "h": 18,
+          "inline": true
+        },
+        {
+          "sel": "#root > div.auth > main.auth-main > span.text2 > a:nth-of-type(2)",
+          "text": "book a demo",
+          "w": 84,
+          "h": 18,
+          "inline": true
+        },
+        {
+          "sel": "#root > div.auth > footer.footer > span:nth-of-type(2) > a:nth-of-type(1)",
+          "text": "Privacy",
+          "w": 42,
+          "h": 20,
+          "inline": false
+        },
+        {
+          "sel": "#root > div.auth > footer.footer > span:nth-of-type(2) > a:nth-of-type(2)",
+          "text": "Terms",
+          "w": 36,
+          "h": 20,
+          "inline": false
+        },
+        {
+          "sel": "#root > div.auth > footer.footer > span:nth-of-type(2) > a:nth-of-type(3)",
+          "text": "System status",
+          "w": 82,
+          "h": 20,
+          "inline": false
+        }
+      ],
+      "smallCount": 11,
+      "dialogs": [],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    },
+    "axe": []
+  },
+  {
+    "group": "desktop",
+    "page": "desk-newpw",
+    "width": "390",
+    "theme": "light",
+    "shot": "tests/responsive/screenshots/before/desk-newpw-390-light.png",
+    "console": [],
+    "m": {
+      "vw": 390,
+      "iw": 390,
+      "ih": 844,
+      "scrollW": 390,
+      "docH": 1117,
+      "hScroll": false,
+      "overflow": [
+        {
+          "sel": "#root > div.auth > header.auth-head > div",
+          "text": "Pricing Book a demo aknologia.com",
+          "by": 71,
+          "parent": "#root > div.auth > header.auth-head"
+        }
+      ],
+      "offscreen": [
+        {
+          "sel": "#root > div.auth > header.auth-head > div",
+          "text": "Pricing Book a demo aknologia.com",
+          "left": 48,
+          "right": 461,
+          "clippedBy": "#root > div.auth"
+        }
+      ],
+      "scrollers": [],
+      "clipped": [],
+      "small": [
+        {
+          "sel": "#root > div.auth > main.auth-main > span.text2 > a:nth-of-type(1)",
+          "text": "See pricing",
+          "w": 73,
+          "h": 18,
+          "inline": true
+        },
+        {
+          "sel": "#root > div.auth > main.auth-main > span.text2 > a:nth-of-type(2)",
+          "text": "book a demo",
+          "w": 84,
+          "h": 18,
+          "inline": true
+        },
+        {
+          "sel": "#root > div.auth > footer.footer > span:nth-of-type(2) > a:nth-of-type(1)",
+          "text": "Privacy",
+          "w": 42,
+          "h": 20,
+          "inline": false
+        },
+        {
+          "sel": "#root > div.auth > footer.footer > span:nth-of-type(2) > a:nth-of-type(2)",
+          "text": "Terms",
+          "w": 36,
+          "h": 20,
+          "inline": false
+        },
+        {
+          "sel": "#root > div.auth > footer.footer > span:nth-of-type(2) > a:nth-of-type(3)",
+          "text": "System status",
+          "w": 82,
+          "h": 20,
+          "inline": false
+        }
+      ],
+      "smallCount": 5,
+      "dialogs": [],
+      "smallFont": [
+        {
+          "sel": "#np-pw",
+          "px": 15
+        },
+        {
+          "sel": "#np-pw2",
+          "px": 15
+        }
+      ],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    },
+    "axe": []
+  },
+  {
+    "group": "desktop",
+    "page": "desk-removed",
+    "width": "390",
+    "theme": "light",
+    "shot": "tests/responsive/screenshots/before/desk-removed-390-light.png",
+    "console": [],
+    "m": {
+      "vw": 390,
+      "iw": 390,
+      "ih": 844,
+      "scrollW": 390,
+      "docH": 1101,
+      "hScroll": false,
+      "overflow": [
+        {
+          "sel": "#root > div.auth > header.auth-head > div",
+          "text": "Pricing Book a demo aknologia.com",
+          "by": 71,
+          "parent": "#root > div.auth > header.auth-head"
+        }
+      ],
+      "offscreen": [
+        {
+          "sel": "#root > div.auth > header.auth-head > div",
+          "text": "Pricing Book a demo aknologia.com",
+          "left": 48,
+          "right": 461,
+          "clippedBy": "#root > div.auth"
+        }
+      ],
+      "scrollers": [],
+      "clipped": [],
+      "small": [
+        {
+          "sel": "#root > div.auth > main.auth-main > span.text2 > a:nth-of-type(1)",
+          "text": "See pricing",
+          "w": 73,
+          "h": 18,
+          "inline": true
+        },
+        {
+          "sel": "#root > div.auth > main.auth-main > span.text2 > a:nth-of-type(2)",
+          "text": "book a demo",
+          "w": 84,
+          "h": 18,
+          "inline": true
+        },
+        {
+          "sel": "#root > div.auth > footer.footer > span:nth-of-type(2) > a:nth-of-type(1)",
+          "text": "Privacy",
+          "w": 42,
+          "h": 20,
+          "inline": false
+        },
+        {
+          "sel": "#root > div.auth > footer.footer > span:nth-of-type(2) > a:nth-of-type(2)",
+          "text": "Terms",
+          "w": 36,
+          "h": 20,
+          "inline": false
+        },
+        {
+          "sel": "#root > div.auth > footer.footer > span:nth-of-type(2) > a:nth-of-type(3)",
+          "text": "System status",
+          "w": 82,
+          "h": 20,
+          "inline": false
+        }
+      ],
+      "smallCount": 5,
+      "dialogs": [],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    },
+    "axe": []
+  },
+  {
+    "group": "desktop",
+    "page": "desk-overview",
+    "width": "390",
+    "theme": "light",
+    "shot": "tests/responsive/screenshots/before/desk-overview-390-light.png",
+    "console": [],
+    "m": {
+      "vw": 390,
+      "iw": 390,
+      "ih": 844,
+      "scrollW": 390,
+      "docH": 4088,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [
+        {
+          "sel": "div.shell > div.main-col > main.content > section.card:nth-of-type(2) > div.table-wrap:nth-of-type(2)",
+          "scrollW": 640,
+          "clientW": 304,
+          "visiblePct": 48
+        }
+      ],
+      "clipped": [],
+      "small": [
+        {
+          "sel": "div.main-col > main.content > div.between:nth-of-type(1) > div.seg > button:nth-of-type(1)",
+          "text": "Today",
+          "w": 64,
+          "h": 36,
+          "inline": false
+        },
+        {
+          "sel": "div.main-col > main.content > div.between:nth-of-type(1) > div.seg > button:nth-of-type(2)",
+          "text": "7 days",
+          "w": 67,
+          "h": 36,
+          "inline": false
+        },
+        {
+          "sel": "div.main-col > main.content > div.between:nth-of-type(1) > div.seg > button:nth-of-type(3)",
+          "text": "30 days",
+          "w": 75,
+          "h": 36,
+          "inline": false
+        },
+        {
+          "sel": "div.shell > div.main-col > footer.footer > span:nth-of-type(2) > a:nth-of-type(1)",
+          "text": "Privacy",
+          "w": 42,
+          "h": 20,
+          "inline": false
+        },
+        {
+          "sel": "div.shell > div.main-col > footer.footer > span:nth-of-type(2) > a:nth-of-type(2)",
+          "text": "Terms",
+          "w": 36,
+          "h": 20,
+          "inline": false
+        },
+        {
+          "sel": "div.shell > div.main-col > footer.footer > span:nth-of-type(2) > a:nth-of-type(3)",
+          "text": "System status",
+          "w": 82,
+          "h": 20,
+          "inline": false
+        }
+      ],
+      "smallCount": 6,
+      "dialogs": [],
+      "smallFont": [
+        {
+          "sel": "div.shell > div.main-col > div.topbar > div.search > input.input",
+          "px": 15
+        }
+      ],
+      "charts": [],
+      "navHidden": true,
+      "widest": []
+    },
+    "axe": [
+      {
+        "id": "scrollable-region-focusable",
+        "impact": "serious",
+        "help": "Scrollable region must have keyboard access",
+        "nodes": 1,
+        "targets": [
+          ".table-wrap"
+        ]
+      }
+    ]
+  },
+  {
+    "group": "desktop",
+    "page": "desk-sessions",
+    "width": "390",
+    "theme": "light",
+    "shot": "tests/responsive/screenshots/before/desk-sessions-390-light.png",
+    "console": [],
+    "m": {
+      "vw": 390,
+      "iw": 390,
+      "ih": 844,
+      "scrollW": 390,
+      "docH": 1990,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [
+        {
+          "sel": "div.row:nth-of-type(2) > section.card > button:nth-of-type(3) > span:nth-of-type(1) > b",
+          "text": "web-dashboard"
+        },
+        {
+          "sel": "div.row:nth-of-type(2) > section.card > button:nth-of-type(4) > span:nth-of-type(1) > b",
+          "text": "web-dashboard"
+        }
+      ],
+      "small": [
+        {
+          "sel": "div.shell > div.main-col > footer.footer > span:nth-of-type(2) > a:nth-of-type(1)",
+          "text": "Privacy",
+          "w": 42,
+          "h": 20,
+          "inline": false
+        },
+        {
+          "sel": "div.shell > div.main-col > footer.footer > span:nth-of-type(2) > a:nth-of-type(2)",
+          "text": "Terms",
+          "w": 36,
+          "h": 20,
+          "inline": false
+        },
+        {
+          "sel": "div.shell > div.main-col > footer.footer > span:nth-of-type(2) > a:nth-of-type(3)",
+          "text": "System status",
+          "w": 82,
+          "h": 20,
+          "inline": false
+        }
+      ],
+      "smallCount": 3,
+      "dialogs": [],
+      "smallFont": [
+        {
+          "sel": "div.shell > div.main-col > div.topbar > div.search > input.input",
+          "px": 15
+        },
+        {
+          "sel": "#ss-q",
+          "px": 15
+        },
+        {
+          "sel": "#ss-tool",
+          "px": 15
+        },
+        {
+          "sel": "#ss-sort",
+          "px": 15
+        }
+      ],
+      "charts": [],
+      "navHidden": true,
+      "widest": []
+    },
+    "axe": []
+  },
+  {
+    "group": "desktop",
+    "page": "desk-support",
+    "width": "390",
+    "theme": "light",
+    "shot": "tests/responsive/screenshots/before/desk-support-390-light.png",
+    "console": [],
+    "m": {
+      "vw": 390,
+      "iw": 390,
+      "ih": 844,
+      "scrollW": 390,
+      "docH": 2168,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [],
+      "small": [
+        {
+          "sel": "div.shell > div.main-col > footer.footer > span:nth-of-type(2) > a:nth-of-type(1)",
+          "text": "Privacy",
+          "w": 42,
+          "h": 20,
+          "inline": false
+        },
+        {
+          "sel": "div.shell > div.main-col > footer.footer > span:nth-of-type(2) > a:nth-of-type(2)",
+          "text": "Terms",
+          "w": 36,
+          "h": 20,
+          "inline": false
+        },
+        {
+          "sel": "div.shell > div.main-col > footer.footer > span:nth-of-type(2) > a:nth-of-type(3)",
+          "text": "System status",
+          "w": 82,
+          "h": 20,
+          "inline": false
+        }
+      ],
+      "smallCount": 3,
+      "dialogs": [],
+      "smallFont": [
+        {
+          "sel": "div.shell > div.main-col > div.topbar > div.search > input.input",
+          "px": 15
+        },
+        {
+          "sel": "#sp-title",
+          "px": 15
+        },
+        {
+          "sel": "#sp-body",
+          "px": 15
+        },
+        {
+          "sel": "#sp-sev",
+          "px": 15
+        },
+        {
+          "sel": "#sp-when",
+          "px": 15
+        }
+      ],
+      "charts": [],
+      "navHidden": true,
+      "widest": []
+    },
+    "axe": []
+  },
+  {
+    "group": "desktop",
+    "page": "desk-settings",
+    "width": "390",
+    "theme": "light",
+    "shot": "tests/responsive/screenshots/before/desk-settings-390-light.png",
+    "console": [],
+    "m": {
+      "vw": 390,
+      "iw": 390,
+      "ih": 844,
+      "scrollW": 485,
+      "docH": 3953,
+      "hScroll": true,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [],
+      "small": [
+        {
+          "sel": "#pf-bud",
+          "text": "",
+          "w": 259,
+          "h": 23,
+          "inline": false
+        },
+        {
+          "sel": "#pf-login",
+          "text": "",
+          "w": 259,
+          "h": 23,
+          "inline": false
+        },
+        {
+          "sel": "#pf-pause",
+          "text": "",
+          "w": 259,
+          "h": 23,
+          "inline": false
+        },
+        {
+          "sel": "section.card > div:nth-of-type(2) > div.between:nth-of-type(4) > div.seg > button:nth-of-type(1)",
+          "text": "System",
+          "w": 73,
+          "h": 36,
+          "inline": false
+        },
+        {
+          "sel": "section.card > div:nth-of-type(2) > div.between:nth-of-type(4) > div.seg > button:nth-of-type(2)",
+          "text": "Light",
+          "w": 59,
+          "h": 36,
+          "inline": false
+        },
+        {
+          "sel": "section.card > div:nth-of-type(2) > div.between:nth-of-type(4) > div.seg > button:nth-of-type(3)",
+          "text": "Dark",
+          "w": 57,
+          "h": 36,
+          "inline": false
+        },
+        {
+          "sel": "div.shell > div.main-col > footer.footer > span:nth-of-type(2) > a:nth-of-type(1)",
+          "text": "Privacy",
+          "w": 42,
+          "h": 20,
+          "inline": false
+        },
+        {
+          "sel": "div.shell > div.main-col > footer.footer > span:nth-of-type(2) > a:nth-of-type(2)",
+          "text": "Terms",
+          "w": 36,
+          "h": 20,
+          "inline": false
+        },
+        {
+          "sel": "div.shell > div.main-col > footer.footer > span:nth-of-type(2) > a:nth-of-type(3)",
+          "text": "System status",
+          "w": 82,
+          "h": 20,
+          "inline": false
+        }
+      ],
+      "smallCount": 9,
+      "dialogs": [],
+      "smallFont": [
+        {
+          "sel": "div.shell > div.main-col > div.topbar > div.search > input.input",
+          "px": 15
+        },
+        {
+          "sel": "#bk-email",
+          "px": 15
+        }
+      ],
+      "charts": [],
+      "navHidden": true,
+      "widest": []
+    },
+    "axe": []
+  },
+  {
+    "group": "desktop",
+    "page": "desk-modal-password-1",
+    "width": "390",
+    "theme": "light",
+    "shot": "tests/responsive/screenshots/before/desk-modal-password-1-390-light.png",
+    "console": [],
+    "m": {
+      "vw": 390,
+      "iw": 390,
+      "ih": 844,
+      "scrollW": 485,
+      "docH": 3953,
+      "hScroll": true,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [
+        {
+          "sel": "#security > section.card > div.overlay:nth-of-type(6) > div.modal",
+          "top": 120,
+          "bottom": 737,
+          "left": 24,
+          "right": 366,
+          "h": 617,
+          "problems": []
+        }
+      ],
+      "smallFont": [
+        {
+          "sel": "#pw-cur",
+          "px": 15
+        },
+        {
+          "sel": "#pw-new",
+          "px": 15
+        },
+        {
+          "sel": "#pw-new2",
+          "px": 15
+        }
+      ],
+      "charts": [],
+      "navHidden": true,
+      "widest": []
+    },
+    "axe": []
+  },
+  {
+    "group": "desktop",
+    "page": "desk-modal-password-2",
+    "width": "390",
+    "theme": "light",
+    "shot": "tests/responsive/screenshots/before/desk-modal-password-2-390-light.png",
+    "console": [],
+    "m": {
+      "vw": 390,
+      "iw": 390,
+      "ih": 844,
+      "scrollW": 485,
+      "docH": 3953,
+      "hScroll": true,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [],
+      "small": [
+        {
+          "sel": "div.modal > form.col > fieldset > div.otp > input:nth-of-type(1)",
+          "text": "Digit 1",
+          "w": 39,
+          "h": 62,
+          "inline": false
+        },
+        {
+          "sel": "div.modal > form.col > fieldset > div.otp > input:nth-of-type(2)",
+          "text": "Digit 2",
+          "w": 39,
+          "h": 62,
+          "inline": false
+        },
+        {
+          "sel": "div.modal > form.col > fieldset > div.otp > input:nth-of-type(3)",
+          "text": "Digit 3",
+          "w": 39,
+          "h": 62,
+          "inline": false
+        },
+        {
+          "sel": "div.modal > form.col > fieldset > div.otp > input:nth-of-type(4)",
+          "text": "Digit 4",
+          "w": 39,
+          "h": 62,
+          "inline": false
+        },
+        {
+          "sel": "div.modal > form.col > fieldset > div.otp > input:nth-of-type(5)",
+          "text": "Digit 5",
+          "w": 39,
+          "h": 62,
+          "inline": false
+        },
+        {
+          "sel": "div.modal > form.col > fieldset > div.otp > input:nth-of-type(6)",
+          "text": "Digit 6",
+          "w": 39,
+          "h": 62,
+          "inline": false
+        }
+      ],
+      "smallCount": 6,
+      "dialogs": [
+        {
+          "sel": "#security > section.card > div.overlay:nth-of-type(6) > div.modal",
+          "top": 120,
+          "bottom": 633,
+          "left": 24,
+          "right": 366,
+          "h": 513,
+          "problems": []
+        }
+      ],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": true,
+      "widest": []
+    },
+    "axe": []
+  },
+  {
+    "group": "desktop",
+    "page": "desk-tour-1",
+    "width": "390",
+    "theme": "light",
+    "shot": "tests/responsive/screenshots/before/desk-tour-1-390-light.png",
+    "console": [],
+    "m": {
+      "vw": 390,
+      "iw": 390,
+      "ih": 844,
+      "scrollW": 390,
+      "docH": 4088,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [
+        {
+          "sel": "div.shell:nth-of-type(1) > div.main-col > main.content > section.card:nth-of-type(2) > div.table-wrap:nth-of-type(2)",
+          "scrollW": 640,
+          "clientW": 304,
+          "visiblePct": 48
+        }
+      ],
+      "clipped": [],
+      "small": [
+        {
+          "sel": "#root > div.tour-card:nth-of-type(3) > div.between > span:nth-of-type(2) > button.btn.btn-ghost:nth-of-type(1)",
+          "text": "Skip",
+          "w": 53,
+          "h": 38,
+          "inline": false
+        },
+        {
+          "sel": "#root > div.tour-card:nth-of-type(3) > div.between > span:nth-of-type(2) > button.btn.btn-primary:nth-of-type(2)",
+          "text": "Next",
+          "w": 55,
+          "h": 38,
+          "inline": false
+        }
+      ],
+      "smallCount": 2,
+      "dialogs": [
+        {
+          "sel": "#root > div.tour-card:nth-of-type(3)",
+          "top": 16,
+          "bottom": 210,
+          "left": 20,
+          "right": 360,
+          "h": 194,
+          "problems": [
+            "primary action covered by div.main-col > main.content > div.row.tour-target[data-tour=kpis]:nth-of-type(2) > div.card.kpi:nth-of-type(1) > span.value:nth-of-type(2)"
+          ]
+        }
+      ],
+      "smallFont": [
+        {
+          "sel": "div.shell:nth-of-type(1) > div.main-col > div.topbar > div.search > input.input",
+          "px": 15
+        }
+      ],
+      "charts": [],
+      "navHidden": true,
+      "widest": []
+    },
+    "axe": [
+      {
+        "id": "scrollable-region-focusable",
+        "impact": "serious",
+        "help": "Scrollable region must have keyboard access",
+        "nodes": 1,
+        "targets": [
+          ".table-wrap"
+        ]
+      }
+    ]
+  },
+  {
+    "group": "desktop",
+    "page": "desk-tour-2",
+    "width": "390",
+    "theme": "light",
+    "shot": "tests/responsive/screenshots/before/desk-tour-2-390-light.png",
+    "console": [],
+    "m": {
+      "vw": 390,
+      "iw": 390,
+      "ih": 844,
+      "scrollW": 390,
+      "docH": 4088,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [
+        {
+          "sel": "div.shell:nth-of-type(1) > div.main-col > main.content > section.card:nth-of-type(2) > div.table-wrap:nth-of-type(2)",
+          "scrollW": 640,
+          "clientW": 304,
+          "visiblePct": 48
+        }
+      ],
+      "clipped": [],
+      "small": [
+        {
+          "sel": "#root > div.tour-card:nth-of-type(3) > div.between > span:nth-of-type(2) > button.btn.btn-ghost:nth-of-type(1)",
+          "text": "Skip",
+          "w": 53,
+          "h": 38,
+          "inline": false
+        },
+        {
+          "sel": "#root > div.tour-card:nth-of-type(3) > div.between > span:nth-of-type(2) > button.btn.btn-primary:nth-of-type(2)",
+          "text": "Next",
+          "w": 55,
+          "h": 38,
+          "inline": false
+        }
+      ],
+      "smallCount": 2,
+      "dialogs": [
+        {
+          "sel": "#root > div.tour-card:nth-of-type(3)",
+          "top": 551,
+          "bottom": 766,
+          "left": 20,
+          "right": 360,
+          "h": 215,
+          "problems": []
+        }
+      ],
+      "smallFont": [
+        {
+          "sel": "div.shell:nth-of-type(1) > div.main-col > div.topbar > div.search > input.input",
+          "px": 15
+        }
+      ],
+      "charts": [],
+      "navHidden": true,
+      "widest": []
+    },
+    "axe": [
+      {
+        "id": "scrollable-region-focusable",
+        "impact": "serious",
+        "help": "Scrollable region must have keyboard access",
+        "nodes": 1,
+        "targets": [
+          ".table-wrap"
+        ]
+      }
+    ]
+  },
+  {
+    "group": "desktop",
+    "page": "desk-tour-3",
+    "width": "390",
+    "theme": "light",
+    "shot": "tests/responsive/screenshots/before/desk-tour-3-390-light.png",
+    "console": [],
+    "m": {
+      "vw": 390,
+      "iw": 390,
+      "ih": 844,
+      "scrollW": 390,
+      "docH": 4088,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [
+        {
+          "sel": "div.shell:nth-of-type(1) > div.main-col > main.content > section.card:nth-of-type(2) > div.table-wrap:nth-of-type(2)",
+          "scrollW": 640,
+          "clientW": 304,
+          "visiblePct": 48
+        }
+      ],
+      "clipped": [],
+      "small": [
+        {
+          "sel": "#root > div.tour-card:nth-of-type(3) > div.between > span:nth-of-type(2) > button.btn.btn-ghost:nth-of-type(1)",
+          "text": "Skip",
+          "w": 53,
+          "h": 38,
+          "inline": false
+        },
+        {
+          "sel": "#root > div.tour-card:nth-of-type(3) > div.between > span:nth-of-type(2) > button.btn.btn-primary:nth-of-type(2)",
+          "text": "Next",
+          "w": 55,
+          "h": 38,
+          "inline": false
+        }
+      ],
+      "smallCount": 2,
+      "dialogs": [
+        {
+          "sel": "#root > div.tour-card:nth-of-type(3)",
+          "top": 372,
+          "bottom": 586,
+          "left": 20,
+          "right": 360,
+          "h": 215,
+          "problems": []
+        }
+      ],
+      "smallFont": [
+        {
+          "sel": "div.shell:nth-of-type(1) > div.main-col > div.topbar > div.search > input.input",
+          "px": 15
+        }
+      ],
+      "charts": [],
+      "navHidden": true,
+      "widest": []
+    },
+    "axe": [
+      {
+        "id": "scrollable-region-focusable",
+        "impact": "serious",
+        "help": "Scrollable region must have keyboard access",
+        "nodes": 1,
+        "targets": [
+          ".table-wrap"
+        ]
+      }
+    ]
+  },
+  {
+    "group": "desktop",
+    "page": "desk-tour-4",
+    "width": "390",
+    "theme": "light",
+    "shot": "tests/responsive/screenshots/before/desk-tour-4-390-light.png",
+    "console": [],
+    "m": {
+      "vw": 390,
+      "iw": 390,
+      "ih": 844,
+      "scrollW": 390,
+      "docH": 4088,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [
+        {
+          "sel": "div.shell:nth-of-type(1) > div.main-col > main.content > section.card:nth-of-type(2) > div.table-wrap:nth-of-type(2)",
+          "scrollW": 640,
+          "clientW": 304,
+          "visiblePct": 48
+        }
+      ],
+      "clipped": [],
+      "small": [
+        {
+          "sel": "#root > div.tour-card:nth-of-type(3) > div.between > span:nth-of-type(2) > button.btn.btn-ghost:nth-of-type(1)",
+          "text": "Skip",
+          "w": 53,
+          "h": 38,
+          "inline": false
+        },
+        {
+          "sel": "#root > div.tour-card:nth-of-type(3) > div.between > span:nth-of-type(2) > button.btn.btn-primary:nth-of-type(2)",
+          "text": "Next",
+          "w": 55,
+          "h": 38,
+          "inline": false
+        }
+      ],
+      "smallCount": 2,
+      "dialogs": [
+        {
+          "sel": "#root > div.tour-card:nth-of-type(3)",
+          "top": 192,
+          "bottom": 407,
+          "left": 34,
+          "right": 374,
+          "h": 215,
+          "problems": []
+        }
+      ],
+      "smallFont": [
+        {
+          "sel": "div.shell:nth-of-type(1) > div.main-col > div.topbar > div.search > input.input",
+          "px": 15
+        }
+      ],
+      "charts": [],
+      "navHidden": true,
+      "widest": []
+    },
+    "axe": [
+      {
+        "id": "scrollable-region-focusable",
+        "impact": "serious",
+        "help": "Scrollable region must have keyboard access",
+        "nodes": 1,
+        "targets": [
+          ".table-wrap"
+        ]
+      }
+    ]
+  },
+  {
+    "group": "desktop",
+    "page": "desk-tour-5",
+    "width": "390",
+    "theme": "light",
+    "shot": "tests/responsive/screenshots/before/desk-tour-5-390-light.png",
+    "console": [],
+    "m": {
+      "vw": 390,
+      "iw": 390,
+      "ih": 844,
+      "scrollW": 390,
+      "docH": 4088,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [
+        {
+          "sel": "div.shell:nth-of-type(1) > div.main-col > main.content > section.card:nth-of-type(2) > div.table-wrap:nth-of-type(2)",
+          "scrollW": 640,
+          "clientW": 304,
+          "visiblePct": 48
+        }
+      ],
+      "clipped": [],
+      "small": [
+        {
+          "sel": "#root > div.tour-card:nth-of-type(3) > div.between > span:nth-of-type(2) > button.btn.btn-ghost:nth-of-type(1)",
+          "text": "Skip",
+          "w": 53,
+          "h": 38,
+          "inline": false
+        },
+        {
+          "sel": "#root > div.tour-card:nth-of-type(3) > div.between > span:nth-of-type(2) > button.btn.btn-primary:nth-of-type(2)",
+          "text": "Done",
+          "w": 57,
+          "h": 38,
+          "inline": false
+        }
+      ],
+      "smallCount": 2,
+      "dialogs": [
+        {
+          "sel": "#root > div.tour-card:nth-of-type(3)",
+          "top": 12,
+          "bottom": 206,
+          "left": 16,
+          "right": 356,
+          "h": 194,
+          "problems": []
+        }
+      ],
+      "smallFont": [
+        {
+          "sel": "div.shell:nth-of-type(1) > div.main-col > div.topbar > div.search > input.input",
+          "px": 15
+        }
+      ],
+      "charts": [],
+      "navHidden": true,
+      "widest": []
+    },
+    "axe": [
+      {
+        "id": "scrollable-region-focusable",
+        "impact": "serious",
+        "help": "Scrollable region must have keyboard access",
+        "nodes": 1,
+        "targets": [
+          ".table-wrap"
+        ]
+      }
+    ]
+  },
+  {
+    "group": "desktop",
+    "page": "desk-empty-overview",
+    "width": "390",
+    "theme": "light",
+    "shot": "tests/responsive/screenshots/before/desk-empty-overview-390-light.png",
+    "console": [],
+    "m": {
+      "vw": 390,
+      "iw": 390,
+      "ih": 844,
+      "scrollW": 390,
+      "docH": 1951,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [],
+      "small": [
+        {
+          "sel": "div.main-col > main.content > div.between:nth-of-type(1) > div.seg > button:nth-of-type(1)",
+          "text": "Today",
+          "w": 64,
+          "h": 36,
+          "inline": false
+        },
+        {
+          "sel": "div.main-col > main.content > div.between:nth-of-type(1) > div.seg > button:nth-of-type(2)",
+          "text": "7 days",
+          "w": 67,
+          "h": 36,
+          "inline": false
+        },
+        {
+          "sel": "div.main-col > main.content > div.between:nth-of-type(1) > div.seg > button:nth-of-type(3)",
+          "text": "30 days",
+          "w": 75,
+          "h": 36,
+          "inline": false
+        },
+        {
+          "sel": "div.shell > div.main-col > footer.footer > span:nth-of-type(2) > a:nth-of-type(1)",
+          "text": "Privacy",
+          "w": 42,
+          "h": 20,
+          "inline": false
+        },
+        {
+          "sel": "div.shell > div.main-col > footer.footer > span:nth-of-type(2) > a:nth-of-type(2)",
+          "text": "Terms",
+          "w": 36,
+          "h": 20,
+          "inline": false
+        },
+        {
+          "sel": "div.shell > div.main-col > footer.footer > span:nth-of-type(2) > a:nth-of-type(3)",
+          "text": "System status",
+          "w": 82,
+          "h": 20,
+          "inline": false
+        }
+      ],
+      "smallCount": 6,
+      "dialogs": [],
+      "smallFont": [
+        {
+          "sel": "div.shell > div.main-col > div.topbar > div.search > input.input",
+          "px": 15
+        }
+      ],
+      "charts": [],
+      "navHidden": true,
+      "widest": []
+    },
+    "axe": []
+  },
+  {
+    "group": "desktop",
+    "page": "desk-empty-sessions",
+    "width": "390",
+    "theme": "light",
+    "shot": "tests/responsive/screenshots/before/desk-empty-sessions-390-light.png",
+    "console": [],
+    "m": {
+      "vw": 390,
+      "iw": 390,
+      "ih": 844,
+      "scrollW": 390,
+      "docH": 930,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [],
+      "small": [
+        {
+          "sel": "div.shell > div.main-col > footer.footer > span:nth-of-type(2) > a:nth-of-type(1)",
+          "text": "Privacy",
+          "w": 42,
+          "h": 20,
+          "inline": false
+        },
+        {
+          "sel": "div.shell > div.main-col > footer.footer > span:nth-of-type(2) > a:nth-of-type(2)",
+          "text": "Terms",
+          "w": 36,
+          "h": 20,
+          "inline": false
+        },
+        {
+          "sel": "div.shell > div.main-col > footer.footer > span:nth-of-type(2) > a:nth-of-type(3)",
+          "text": "System status",
+          "w": 82,
+          "h": 20,
+          "inline": false
+        }
+      ],
+      "smallCount": 3,
+      "dialogs": [],
+      "smallFont": [
+        {
+          "sel": "div.shell > div.main-col > div.topbar > div.search > input.input",
+          "px": 15
+        },
+        {
+          "sel": "#ss-q",
+          "px": 15
+        },
+        {
+          "sel": "#ss-tool",
+          "px": 15
+        },
+        {
+          "sel": "#ss-sort",
+          "px": 15
+        }
+      ],
+      "charts": [],
+      "navHidden": true,
+      "widest": []
+    },
+    "axe": []
+  },
+  {
+    "group": "desktop",
+    "page": "desk-overview-over-budget",
+    "width": "390",
+    "theme": "light",
+    "shot": "tests/responsive/screenshots/before/desk-overview-over-budget-390-light.png",
+    "console": [],
+    "m": {
+      "vw": 390,
+      "iw": 390,
+      "ih": 844,
+      "scrollW": 390,
+      "docH": 4368,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [
+        {
+          "sel": "div.shell > div.main-col > main.content > section.card:nth-of-type(2) > div.table-wrap:nth-of-type(2)",
+          "scrollW": 640,
+          "clientW": 304,
+          "visiblePct": 48
+        }
+      ],
+      "clipped": [],
+      "small": [
+        {
+          "sel": "div.main-col > main.content > div.between:nth-of-type(1) > div.seg > button:nth-of-type(1)",
+          "text": "Today",
+          "w": 64,
+          "h": 36,
+          "inline": false
+        },
+        {
+          "sel": "div.main-col > main.content > div.between:nth-of-type(1) > div.seg > button:nth-of-type(2)",
+          "text": "7 days",
+          "w": 67,
+          "h": 36,
+          "inline": false
+        },
+        {
+          "sel": "div.main-col > main.content > div.between:nth-of-type(1) > div.seg > button:nth-of-type(3)",
+          "text": "30 days",
+          "w": 75,
+          "h": 36,
+          "inline": false
+        },
+        {
+          "sel": "div.shell > div.main-col > footer.footer > span:nth-of-type(2) > a:nth-of-type(1)",
+          "text": "Privacy",
+          "w": 42,
+          "h": 20,
+          "inline": false
+        },
+        {
+          "sel": "div.shell > div.main-col > footer.footer > span:nth-of-type(2) > a:nth-of-type(2)",
+          "text": "Terms",
+          "w": 36,
+          "h": 20,
+          "inline": false
+        },
+        {
+          "sel": "div.shell > div.main-col > footer.footer > span:nth-of-type(2) > a:nth-of-type(3)",
+          "text": "System status",
+          "w": 82,
+          "h": 20,
+          "inline": false
+        }
+      ],
+      "smallCount": 6,
+      "dialogs": [],
+      "smallFont": [
+        {
+          "sel": "div.shell > div.main-col > div.topbar > div.search > input.input",
+          "px": 15
+        }
+      ],
+      "charts": [],
+      "navHidden": true,
+      "widest": []
+    },
+    "axe": [
+      {
+        "id": "scrollable-region-focusable",
+        "impact": "serious",
+        "help": "Scrollable region must have keyboard access",
+        "nodes": 1,
+        "targets": [
+          ".table-wrap"
+        ]
+      }
+    ]
+  }
+]

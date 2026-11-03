@@ -1,0 +1,43 @@
+{
+  "claude": {
+    "fileA": {
+      "path": "tests\\.sandbox\\agent2\\home\\.claude\\projects\\C--Users-dev-ünïcødé-项目\\aaaaaaaa-0000-4000-8000-000000000001.jsonl",
+      "events": [
+        "msg_a1 10/100/1000/5000",
+        "msg_a2 7/77/0/700",
+        "msg_a4 3/(1 or 450)"
+      ],
+      "unread": 2
+    },
+    "many": {
+      "events": 150,
+      "input": 17175,
+      "output": 30300,
+      "cacheWrite": 3000,
+      "cacheRead": 154350
+    }
+  },
+  "codex": {
+    "normal": {
+      "path": "tests\\.sandbox\\agent2\\home\\.codex\\sessions\\2026\\10\\05\\rollout-2026-10-05T09-00-00-cx-qa-1.jsonl",
+      "events": [
+        "in 1000 cr 4000 out 1200",
+        "in 500 cr 2000 out 300"
+      ],
+      "unread": 2
+    },
+    "old": {
+      "events": [
+        "in 150 cr 50 out 100 model gpt-5"
+      ]
+    },
+    "nometa": {
+      "events": 0,
+      "unread": 1
+    }
+  },
+  "totals": {
+    "events": 156,
+    "unread": 5
+  }
+}

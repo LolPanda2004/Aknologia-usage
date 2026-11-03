@@ -1,0 +1,1091 @@
+[
+  {
+    "group": "web",
+    "page": "landing",
+    "width": "1024",
+    "theme": "light",
+    "shot": "tests/responsive/screenshots/after/landing-1024-light.png",
+    "console": [],
+    "m": {
+      "vw": 1024,
+      "iw": 1024,
+      "ih": 768,
+      "scrollW": 1024,
+      "docH": 9043,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    }
+  },
+  {
+    "group": "web",
+    "page": "download",
+    "width": "1024",
+    "theme": "light",
+    "shot": "tests/responsive/screenshots/after/download-1024-light.png",
+    "console": [],
+    "m": {
+      "vw": 1024,
+      "iw": 1024,
+      "ih": 768,
+      "scrollW": 1024,
+      "docH": 852,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    }
+  },
+  {
+    "group": "web",
+    "page": "admin-signin",
+    "width": "1024",
+    "theme": "light",
+    "shot": "tests/responsive/screenshots/after/admin-signin-1024-light.png",
+    "console": [],
+    "m": {
+      "vw": 1024,
+      "iw": 1024,
+      "ih": 768,
+      "scrollW": 1024,
+      "docH": 972,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    }
+  },
+  {
+    "group": "web",
+    "page": "admin-signup",
+    "width": "1024",
+    "theme": "light",
+    "shot": "tests/responsive/screenshots/after/admin-signup-1024-light.png",
+    "console": [],
+    "m": {
+      "vw": 1024,
+      "iw": 1024,
+      "ih": 768,
+      "scrollW": 1024,
+      "docH": 1049,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    }
+  },
+  {
+    "group": "web",
+    "page": "admin-verify",
+    "width": "1024",
+    "theme": "light",
+    "shot": "tests/responsive/screenshots/after/admin-verify-1024-light.png",
+    "console": [],
+    "m": {
+      "vw": 1024,
+      "iw": 1024,
+      "ih": 768,
+      "scrollW": 1024,
+      "docH": 768,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    }
+  },
+  {
+    "group": "web",
+    "page": "admin-accept",
+    "width": "1024",
+    "theme": "light",
+    "shot": "tests/responsive/screenshots/after/admin-accept-1024-light.png",
+    "console": [],
+    "m": {
+      "vw": 1024,
+      "iw": 1024,
+      "ih": 768,
+      "scrollW": 1024,
+      "docH": 1000,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    }
+  },
+  {
+    "group": "web",
+    "page": "admin-forgot",
+    "width": "1024",
+    "theme": "light",
+    "shot": "tests/responsive/screenshots/after/admin-forgot-1024-light.png",
+    "console": [],
+    "m": {
+      "vw": 1024,
+      "iw": 1024,
+      "ih": 768,
+      "scrollW": 1024,
+      "docH": 768,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    }
+  },
+  {
+    "group": "web",
+    "page": "admin-otp",
+    "width": "1024",
+    "theme": "light",
+    "shot": "tests/responsive/screenshots/after/admin-otp-1024-light.png",
+    "console": [],
+    "m": {
+      "vw": 1024,
+      "iw": 1024,
+      "ih": 768,
+      "scrollW": 1024,
+      "docH": 792,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    }
+  },
+  {
+    "group": "web",
+    "page": "admin-newpw",
+    "width": "1024",
+    "theme": "light",
+    "shot": "tests/responsive/screenshots/after/admin-newpw-1024-light.png",
+    "console": [],
+    "m": {
+      "vw": 1024,
+      "iw": 1024,
+      "ih": 768,
+      "scrollW": 1024,
+      "docH": 920,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    }
+  },
+  {
+    "group": "web",
+    "page": "admin-overview",
+    "width": "1024",
+    "theme": "light",
+    "shot": "tests/responsive/screenshots/after/admin-overview-1024-light.png",
+    "console": [],
+    "m": {
+      "vw": 1024,
+      "iw": 1024,
+      "ih": 768,
+      "scrollW": 1024,
+      "docH": 3496,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [
+        {
+          "sel": "#main > div.page > section.card > div.scroll-x.more-right:nth-of-type(2) > div.table-wrap.sticky-first",
+          "scrollW": 900,
+          "clientW": 638,
+          "visiblePct": 71
+        }
+      ],
+      "clipped": [],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    }
+  },
+  {
+    "group": "web",
+    "page": "admin-members",
+    "width": "1024",
+    "theme": "light",
+    "shot": "tests/responsive/screenshots/after/admin-members-1024-light.png",
+    "console": [],
+    "m": {
+      "vw": 1024,
+      "iw": 1024,
+      "ih": 768,
+      "scrollW": 1024,
+      "docH": 1250,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [
+        {
+          "sel": "#main > div.page > section.card > div.scroll-x.more-right:nth-of-type(2) > div.table-wrap.sticky-first",
+          "scrollW": 940,
+          "clientW": 638,
+          "visiblePct": 68
+        }
+      ],
+      "clipped": [],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    }
+  },
+  {
+    "group": "web",
+    "page": "admin-member-detail",
+    "width": "1024",
+    "theme": "light",
+    "shot": "tests/responsive/screenshots/after/admin-member-detail-1024-light.png",
+    "console": [],
+    "m": {
+      "vw": 1024,
+      "iw": 1024,
+      "ih": 768,
+      "scrollW": 1024,
+      "docH": 2344,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    }
+  },
+  {
+    "group": "web",
+    "page": "admin-budgets",
+    "width": "1024",
+    "theme": "light",
+    "shot": "tests/responsive/screenshots/after/admin-budgets-1024-light.png",
+    "console": [],
+    "m": {
+      "vw": 1024,
+      "iw": 1024,
+      "ih": 768,
+      "scrollW": 1024,
+      "docH": 2040,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [
+        {
+          "sel": "#main > div.page > section.card:nth-of-type(1) > div.scroll-x.more-right:nth-of-type(2) > div.table-wrap.sticky-first",
+          "scrollW": 860,
+          "clientW": 638,
+          "visiblePct": 74
+        }
+      ],
+      "clipped": [
+        {
+          "sel": "div.shell > div.main-col:nth-of-type(2) > div.topbar > nav.topbar-crumb > span.crumb-title:nth-of-type(3)",
+          "text": "Budgets and alerts"
+        }
+      ],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    }
+  },
+  {
+    "group": "web",
+    "page": "admin-support",
+    "width": "1024",
+    "theme": "light",
+    "shot": "tests/responsive/screenshots/after/admin-support-1024-light.png",
+    "console": [],
+    "m": {
+      "vw": 1024,
+      "iw": 1024,
+      "ih": 768,
+      "scrollW": 1024,
+      "docH": 1674,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    }
+  },
+  {
+    "group": "web",
+    "page": "admin-settings",
+    "width": "1024",
+    "theme": "light",
+    "shot": "tests/responsive/screenshots/after/admin-settings-1024-light.png",
+    "console": [],
+    "m": {
+      "vw": 1024,
+      "iw": 1024,
+      "ih": 768,
+      "scrollW": 1024,
+      "docH": 2760,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [
+        {
+          "sel": "div.shell > div.main-col:nth-of-type(2) > div.topbar > nav.topbar-crumb > span.crumb-title:nth-of-type(3)",
+          "text": "Settings and billing"
+        }
+      ],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    }
+  },
+  {
+    "group": "web",
+    "page": "modal-invite",
+    "width": "1024",
+    "theme": "light",
+    "shot": "tests/responsive/screenshots/after/modal-invite-1024-light.png",
+    "console": [],
+    "m": {
+      "vw": 1024,
+      "iw": 1024,
+      "ih": 768,
+      "scrollW": 1024,
+      "docH": 1250,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [
+        {
+          "sel": "#main > div.page > section.card > div.scroll-x.more-right:nth-of-type(2) > div.table-wrap.sticky-first",
+          "scrollW": 940,
+          "clientW": 638,
+          "visiblePct": 68
+        }
+      ],
+      "clipped": [],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [
+        {
+          "sel": "#main > div.page > div.overlay:nth-of-type(3) > div.modal",
+          "top": 92,
+          "bottom": 568,
+          "left": 242,
+          "right": 782,
+          "h": 476,
+          "problems": []
+        }
+      ],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    }
+  },
+  {
+    "group": "web",
+    "page": "modal-remove",
+    "width": "1024",
+    "theme": "light",
+    "shot": "tests/responsive/screenshots/after/modal-remove-1024-light.png",
+    "console": [],
+    "m": {
+      "vw": 1024,
+      "iw": 1024,
+      "ih": 768,
+      "scrollW": 1024,
+      "docH": 1250,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [
+        {
+          "sel": "#main > div.page > section.card > div.scroll-x:nth-of-type(2) > div.table-wrap.sticky-first",
+          "scrollW": 940,
+          "clientW": 638,
+          "visiblePct": 68
+        }
+      ],
+      "clipped": [],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [
+        {
+          "sel": "#main > div.page > div.overlay:nth-of-type(3) > div.modal",
+          "top": 92,
+          "bottom": 497,
+          "left": 242,
+          "right": 782,
+          "h": 405,
+          "problems": []
+        }
+      ],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    }
+  },
+  {
+    "group": "web",
+    "page": "modal-budget",
+    "width": "1024",
+    "theme": "light",
+    "shot": "tests/responsive/screenshots/after/modal-budget-1024-light.png",
+    "console": [],
+    "m": {
+      "vw": 1024,
+      "iw": 1024,
+      "ih": 768,
+      "scrollW": 1024,
+      "docH": 1250,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [
+        {
+          "sel": "#main > div.page > section.card > div.scroll-x:nth-of-type(2) > div.table-wrap.sticky-first",
+          "scrollW": 940,
+          "clientW": 638,
+          "visiblePct": 68
+        }
+      ],
+      "clipped": [],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [
+        {
+          "sel": "#main > div.page > div.overlay:nth-of-type(3) > div.modal",
+          "top": 92,
+          "bottom": 376,
+          "left": 242,
+          "right": 782,
+          "h": 284,
+          "problems": []
+        }
+      ],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    }
+  },
+  {
+    "group": "web",
+    "page": "modal-plan",
+    "width": "1024",
+    "theme": "light",
+    "shot": "tests/responsive/screenshots/after/modal-plan-1024-light.png",
+    "console": [],
+    "m": {
+      "vw": 1024,
+      "iw": 1024,
+      "ih": 768,
+      "scrollW": 1024,
+      "docH": 2760,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [
+        {
+          "sel": "div.shell > div.main-col:nth-of-type(2) > div.topbar > nav.topbar-crumb > span.crumb-title:nth-of-type(3)",
+          "text": "Settings and billing"
+        }
+      ],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [
+        {
+          "sel": "#main > div.page > div.overlay:nth-of-type(5) > div.modal",
+          "top": 92,
+          "bottom": 469,
+          "left": 242,
+          "right": 782,
+          "h": 377,
+          "problems": []
+        }
+      ],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    }
+  },
+  {
+    "group": "web",
+    "page": "modal-delete-data",
+    "width": "1024",
+    "theme": "light",
+    "shot": "tests/responsive/screenshots/after/modal-delete-data-1024-light.png",
+    "console": [],
+    "m": {
+      "vw": 1024,
+      "iw": 1024,
+      "ih": 768,
+      "scrollW": 1024,
+      "docH": 2760,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [
+        {
+          "sel": "div.shell > div.main-col:nth-of-type(2) > div.topbar > nav.topbar-crumb > span.crumb-title:nth-of-type(3)",
+          "text": "Settings and billing"
+        }
+      ],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [
+        {
+          "sel": "#main > div.page > div.overlay:nth-of-type(5) > div.modal",
+          "top": 92,
+          "bottom": 406,
+          "left": 242,
+          "right": 782,
+          "h": 314,
+          "problems": []
+        }
+      ],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    }
+  },
+  {
+    "group": "web",
+    "page": "modal-password-1",
+    "width": "1024",
+    "theme": "light",
+    "shot": "tests/responsive/screenshots/after/modal-password-1-1024-light.png",
+    "console": [],
+    "m": {
+      "vw": 1024,
+      "iw": 1024,
+      "ih": 768,
+      "scrollW": 1024,
+      "docH": 2760,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [
+        {
+          "sel": "div.shell > div.main-col:nth-of-type(2) > div.topbar > nav.topbar-crumb > span.crumb-title:nth-of-type(3)",
+          "text": "Settings and billing"
+        }
+      ],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [
+        {
+          "sel": "#security > section.card > div.overlay:nth-of-type(6) > div.modal",
+          "top": 92,
+          "bottom": 636,
+          "left": 242,
+          "right": 782,
+          "h": 544,
+          "problems": []
+        }
+      ],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    }
+  },
+  {
+    "group": "web",
+    "page": "modal-password-2",
+    "width": "1024",
+    "theme": "light",
+    "shot": "tests/responsive/screenshots/after/modal-password-2-1024-light.png",
+    "console": [],
+    "m": {
+      "vw": 1024,
+      "iw": 1024,
+      "ih": 768,
+      "scrollW": 1024,
+      "docH": 2760,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [
+        {
+          "sel": "div.shell > div.main-col:nth-of-type(2) > div.topbar > nav.topbar-crumb > span.crumb-title:nth-of-type(3)",
+          "text": "Settings and billing"
+        }
+      ],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [
+        {
+          "sel": "#security > section.card > div.overlay:nth-of-type(6) > div.modal",
+          "top": 92,
+          "bottom": 439,
+          "left": 242,
+          "right": 782,
+          "h": 347,
+          "problems": []
+        }
+      ],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    }
+  },
+  {
+    "group": "web",
+    "page": "admin-tour-1",
+    "width": "1024",
+    "theme": "light",
+    "shot": "tests/responsive/screenshots/after/admin-tour-1-1024-light.png",
+    "console": [
+      "Failed to load resource: the server responded with a status of 502 (Bad Gateway)"
+    ],
+    "m": {
+      "vw": 1024,
+      "iw": 1024,
+      "ih": 768,
+      "scrollW": 1024,
+      "docH": 768,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [
+        {
+          "sel": "#root > div.tour-card.shown:nth-of-type(3)",
+          "top": 189,
+          "bottom": 403,
+          "left": 668,
+          "right": 1008,
+          "h": 215,
+          "problems": []
+        }
+      ],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    }
+  },
+  {
+    "group": "web",
+    "page": "admin-tour-2",
+    "width": "1024",
+    "theme": "light",
+    "shot": "tests/responsive/screenshots/after/admin-tour-2-1024-light.png",
+    "console": [],
+    "m": {
+      "vw": 1024,
+      "iw": 1024,
+      "ih": 768,
+      "scrollW": 1024,
+      "docH": 768,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [
+        {
+          "sel": "#root > div.tour-card.shown:nth-of-type(3)",
+          "top": 120,
+          "bottom": 314,
+          "left": 342,
+          "right": 682,
+          "h": 194,
+          "problems": []
+        }
+      ],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    }
+  },
+  {
+    "group": "web",
+    "page": "admin-tour-3",
+    "width": "1024",
+    "theme": "light",
+    "shot": "tests/responsive/screenshots/after/admin-tour-3-1024-light.png",
+    "console": [],
+    "m": {
+      "vw": 1024,
+      "iw": 1024,
+      "ih": 768,
+      "scrollW": 1024,
+      "docH": 768,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [
+        {
+          "sel": "#root > div.tour-card.shown:nth-of-type(3)",
+          "top": 120,
+          "bottom": 335,
+          "left": 342,
+          "right": 682,
+          "h": 215,
+          "problems": []
+        }
+      ],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    }
+  },
+  {
+    "group": "web",
+    "page": "admin-tour-4",
+    "width": "1024",
+    "theme": "light",
+    "shot": "tests/responsive/screenshots/after/admin-tour-4-1024-light.png",
+    "console": [],
+    "m": {
+      "vw": 1024,
+      "iw": 1024,
+      "ih": 768,
+      "scrollW": 1024,
+      "docH": 768,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [
+        {
+          "sel": "#root > div.tour-card.shown:nth-of-type(3)",
+          "top": 70,
+          "bottom": 264,
+          "left": 668,
+          "right": 1008,
+          "h": 194,
+          "problems": []
+        }
+      ],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    }
+  },
+  {
+    "group": "web",
+    "page": "admin-tour-5",
+    "width": "1024",
+    "theme": "light",
+    "shot": "tests/responsive/screenshots/after/admin-tour-5-1024-light.png",
+    "console": [],
+    "m": {
+      "vw": 1024,
+      "iw": 1024,
+      "ih": 768,
+      "scrollW": 1024,
+      "docH": 768,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [
+        {
+          "sel": "#root > div.tour-card.shown:nth-of-type(3)",
+          "top": 411,
+          "bottom": 625,
+          "left": 16,
+          "right": 356,
+          "h": 215,
+          "problems": []
+        }
+      ],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    }
+  },
+  {
+    "group": "web",
+    "page": "admin-empty-overview",
+    "width": "1024",
+    "theme": "light",
+    "shot": "tests/responsive/screenshots/after/admin-empty-overview-1024-light.png",
+    "console": [],
+    "m": {
+      "vw": 1024,
+      "iw": 1024,
+      "ih": 768,
+      "scrollW": 1024,
+      "docH": 3046,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [
+        {
+          "sel": "#main > div.page > section.card > div.scroll-x.more-right:nth-of-type(2) > div.table-wrap.sticky-first",
+          "scrollW": 900,
+          "clientW": 638,
+          "visiblePct": 71
+        }
+      ],
+      "clipped": [],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    }
+  },
+  {
+    "group": "web",
+    "page": "admin-empty-members",
+    "width": "1024",
+    "theme": "light",
+    "shot": "tests/responsive/screenshots/after/admin-empty-members-1024-light.png",
+    "console": [],
+    "m": {
+      "vw": 1024,
+      "iw": 1024,
+      "ih": 768,
+      "scrollW": 1024,
+      "docH": 1009,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [
+        {
+          "sel": "#main > div.page > section.card > div.scroll-x.more-right:nth-of-type(2) > div.table-wrap.sticky-first",
+          "scrollW": 940,
+          "clientW": 638,
+          "visiblePct": 68
+        }
+      ],
+      "clipped": [],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    }
+  },
+  {
+    "group": "web",
+    "page": "admin-empty-member-detail",
+    "width": "1024",
+    "theme": "light",
+    "shot": "tests/responsive/screenshots/after/admin-empty-member-detail-1024-light.png",
+    "console": [],
+    "m": {
+      "vw": 1024,
+      "iw": 1024,
+      "ih": 768,
+      "scrollW": 1024,
+      "docH": 1979,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    }
+  },
+  {
+    "group": "web",
+    "page": "admin-empty-budgets",
+    "width": "1024",
+    "theme": "light",
+    "shot": "tests/responsive/screenshots/after/admin-empty-budgets-1024-light.png",
+    "console": [],
+    "m": {
+      "vw": 1024,
+      "iw": 1024,
+      "ih": 768,
+      "scrollW": 1024,
+      "docH": 1771,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [
+        {
+          "sel": "#main > div.page > section.card:nth-of-type(1) > div.scroll-x.more-right:nth-of-type(2) > div.table-wrap.sticky-first",
+          "scrollW": 860,
+          "clientW": 638,
+          "visiblePct": 74
+        }
+      ],
+      "clipped": [
+        {
+          "sel": "div.shell > div.main-col:nth-of-type(2) > div.topbar > nav.topbar-crumb > span.crumb-title:nth-of-type(3)",
+          "text": "Budgets and alerts"
+        }
+      ],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    }
+  },
+  {
+    "group": "web",
+    "page": "admin-empty-settings",
+    "width": "1024",
+    "theme": "light",
+    "shot": "tests/responsive/screenshots/after/admin-empty-settings-1024-light.png",
+    "console": [],
+    "m": {
+      "vw": 1024,
+      "iw": 1024,
+      "ih": 768,
+      "scrollW": 1024,
+      "docH": 2679,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [
+        {
+          "sel": "div.shell > div.main-col:nth-of-type(2) > div.topbar > nav.topbar-crumb > span.crumb-title:nth-of-type(3)",
+          "text": "Settings and billing"
+        }
+      ],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    }
+  }
+]

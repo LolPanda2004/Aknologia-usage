@@ -1,0 +1,55 @@
+{
+    "budget":  {
+                   "budgetCents":  15000,
+                   "spentCents":  150871,
+                   "pct":  1006,
+                   "projectedCents":  486471,
+                   "resetsOn":  "2026-11-01",
+                   "month":  "October 2026",
+                   "custom":  false
+               },
+    "email":  "me-mv26cxm1@example.test",
+    "lastError":  "",
+    "lastSync":  "2026-10-10T14:44:21.5891651+05:30",
+    "name":  "",
+    "nextSync":  "2026-10-10T15:30:37+05:30",
+    "org":  "Org realcheck 32c1e6d9",
+    "prefs":  {
+                  "paused":  false,
+                  "budgetNotifications":  true,
+                  "startAtLogin":  false
+              },
+    "queued":  0,
+    "removed":  false,
+    "role":  "member",
+    "scannedAt":  "2026-10-10T14:44:19.4684961+05:30",
+    "server":  "http://localhost:8080",
+    "signedIn":  true,
+    "sources":  [
+                    {
+                        "eventsToday":  680,
+                        "files":  83,
+                        "found":  true,
+                        "path":  "C:\\Users\\Admin\\.claude\\projects",
+                        "roots":  [
+                                      "C:\\Users\\Admin\\.claude\\projects",
+                                      "C:\\Users\\Admin\\.config\\claude\\projects"
+                                  ],
+                        "tool":  "claude_code",
+                        "unread":  0
+                    },
+                    {
+                        "eventsToday":  0,
+                        "files":  7,
+                        "found":  true,
+                        "path":  "C:\\Users\\Admin\\.codex\\sessions",
+                        "roots":  [
+                                      "C:\\Users\\Admin\\.codex\\sessions"
+                                  ],
+                        "tool":  "codex",
+                        "unread":  0
+                    }
+                ],
+    "syncing":  false,
+    "version":  "1.0.0"
+}

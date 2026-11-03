@@ -1,0 +1,17 @@
+
+Running 13 tests using 1 worker
+
+[1/13] member.spec.ts:146:7 › member experience (desktop window) › unpaired window shows the connect screen
+[2/13] member.spec.ts:161:7 › member experience (desktop window) › invite: wrong code, mismatched email, password rules, success
+[3/13] member.spec.ts:223:7 › member experience (desktop window) › first-run tour
+[4/13] member.spec.ts:253:7 › member experience (desktop window) › overview: ranges, numbers, heatmap, projects, insights, admin match
+[5/13] member.spec.ts:333:7 › member experience (desktop window) › budget card and budget-reached banner
+[6/13] member.spec.ts:357:7 › member experience (desktop window) › sessions: search, tool filter, sort, detail panel
+[7/13] member.spec.ts:424:7 › member experience (desktop window) › settings: password change, backup email, devices, code on new device
+[8/13] member.spec.ts:490:7 › member experience (desktop window) › settings: force sync, sources, pause tracking, start at login, appearance
+[9/13] member.spec.ts:566:7 › member experience (desktop window) › support ticket with diagnostics
+[10/13] member.spec.ts:599:7 › member experience (desktop window) › privacy: no prompt text leaves the sandbox fixtures
+[11/13] member.spec.ts:608:7 › member experience (desktop window) › sign out, wrong password, forgot password through the window
+[12/13] member.spec.ts:668:7 › member experience (desktop window) › removed by admin: window shows the removed screen and tracking stops
+[13/13] member.spec.ts:696:7 › member experience (desktop window) › window numbers match fixtures and admin; no console errors
+  13 passed (4.2m)

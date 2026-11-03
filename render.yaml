@@ -1,0 +1,30 @@
+# Render Blueprint: New > Blueprint > pick this repository. Fill the env vars marked sync: false.
+services:
+  - type: web
+    name: aknologia-usage
+    runtime: docker
+    plan: free
+    region: singapore
+    dockerfilePath: ./Dockerfile
+    healthCheckPath: /api/v1/health
+    envVars:
+      - key: DATABASE_URL
+        sync: false        # Neon pooled connection string, ending in ?sslmode=require
+      - key: APP_SECRET
+        generateValue: true
+      - key: PUBLIC_URL
+        sync: false        # e.g. https://aknologia-usage.onrender.com
+      - key: SMTP_HOST
+        sync: false
+      - key: SMTP_PORT
+        value: "587"
+      - key: SMTP_USER
+        sync: false
+      - key: SMTP_PASS
+        sync: false
+      - key: MAIL_FROM
+        sync: false        # e.g. Aknologia <no-reply@yourco.com>
+      - key: SYNC_MINUTE
+        value: "0"
+      - key: TRUSTED_PROXY_HOPS
+        value: "1"         # Render's proxy appends the client address to X-Forwarded-For (used by the login rate limit)

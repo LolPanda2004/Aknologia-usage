@@ -1,0 +1,32 @@
+
+Running 28 tests using 1 worker
+
+[1/28] [landing-light-1440] › landing.spec.ts:22:5 › anchors and nav links resolve
+[2/28] [landing-light-1440] › landing.spec.ts:45:5 › theme toggle persists after reload
+[3/28] [landing-light-1440] › landing.spec.ts:59:5 › pricing monthly/annual switches all prices
+[4/28] [landing-light-1440] › landing.spec.ts:74:5 › demo form validation and submission
+[5/28] [landing-light-1440] › landing.spec.ts:105:5 › sign in goes to /app/
+[6/28] [landing-light-1440] › landing.spec.ts:115:5 › /download/ links (HEAD each)
+[7/28] [landing-light-1440] › landing.spec.ts:123:5 › page weight, layout at width, screenshots
+[8/28] [landing-dark-1440] › landing.spec.ts:22:5 › anchors and nav links resolve
+[9/28] [landing-dark-1440] › landing.spec.ts:45:5 › theme toggle persists after reload
+[10/28] [landing-dark-1440] › landing.spec.ts:59:5 › pricing monthly/annual switches all prices
+[11/28] [landing-dark-1440] › landing.spec.ts:74:5 › demo form validation and submission
+[12/28] [landing-dark-1440] › landing.spec.ts:105:5 › sign in goes to /app/
+[13/28] [landing-dark-1440] › landing.spec.ts:115:5 › /download/ links (HEAD each)
+[14/28] [landing-dark-1440] › landing.spec.ts:123:5 › page weight, layout at width, screenshots
+[15/28] [landing-light-390] › landing.spec.ts:22:5 › anchors and nav links resolve
+[16/28] [landing-light-390] › landing.spec.ts:45:5 › theme toggle persists after reload
+[17/28] [landing-light-390] › landing.spec.ts:59:5 › pricing monthly/annual switches all prices
+[18/28] [landing-light-390] › landing.spec.ts:74:5 › demo form validation and submission
+[19/28] [landing-light-390] › landing.spec.ts:105:5 › sign in goes to /app/
+[20/28] [landing-light-390] › landing.spec.ts:115:5 › /download/ links (HEAD each)
+[21/28] [landing-light-390] › landing.spec.ts:123:5 › page weight, layout at width, screenshots
+[22/28] [landing-dark-390] › landing.spec.ts:22:5 › anchors and nav links resolve
+[23/28] [landing-dark-390] › landing.spec.ts:45:5 › theme toggle persists after reload
+[24/28] [landing-dark-390] › landing.spec.ts:59:5 › pricing monthly/annual switches all prices
+[25/28] [landing-dark-390] › landing.spec.ts:74:5 › demo form validation and submission
+[26/28] [landing-dark-390] › landing.spec.ts:105:5 › sign in goes to /app/
+[27/28] [landing-dark-390] › landing.spec.ts:115:5 › /download/ links (HEAD each)
+[28/28] [landing-dark-390] › landing.spec.ts:123:5 › page weight, layout at width, screenshots
+  28 passed (54.2s)

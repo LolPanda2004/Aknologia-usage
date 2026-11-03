@@ -1,0 +1,280 @@
+{
+    "days":  1,
+    "from":  "2026-10-10T00:00:00+05:30",
+    "activeHours":  3.1,
+    "prevActiveHours":  0.2,
+    "cost":  86.1,
+    "tokens":  185676697,
+    "cacheShare":  96,
+    "saved":  664.76,
+    "sessions":  1,
+    "sessionsByTool":  {
+                           "claude_code":  1
+                       },
+    "costByTool":  {
+                       "claude_code":  86.1
+                   },
+    "daily":  [
+                  {
+                      "activeHours":  3.1,
+                      "claude":  86.1,
+                      "codex":  0,
+                      "day":  "2026-10-10",
+                      "label":  "Sat"
+                  }
+              ],
+    "heat":  [
+                 [
+                     0,
+                     0,
+                     0,
+                     0,
+                     0,
+                     0,
+                     0,
+                     0,
+                     0,
+                     0,
+                     0,
+                     0
+                 ],
+                 [
+                     0,
+                     0,
+                     0,
+                     0,
+                     0,
+                     0,
+                     0,
+                     0,
+                     0,
+                     0,
+                     0,
+                     0
+                 ],
+                 [
+                     0,
+                     0,
+                     0,
+                     0,
+                     0,
+                     0,
+                     0,
+                     0,
+                     0,
+                     0,
+                     0,
+                     0
+                 ],
+                 [
+                     0,
+                     0,
+                     0,
+                     0,
+                     0,
+                     0,
+                     0,
+                     0,
+                     0,
+                     0,
+                     0,
+                     0
+                 ],
+                 [
+                     0,
+                     0,
+                     0,
+                     0,
+                     0,
+                     0,
+                     0,
+                     0,
+                     0,
+                     0,
+                     0,
+                     0
+                 ],
+                 [
+                     0,
+                     0,
+                     0,
+                     0,
+                     0,
+                     4,
+                     0,
+                     0,
+                     0,
+                     0,
+                     0,
+                     0
+                 ],
+                 [
+                     0,
+                     0,
+                     0,
+                     0,
+                     0,
+                     0,
+                     0,
+                     0,
+                     0,
+                     0,
+                     0,
+                     0
+                 ]
+             ],
+    "peak":  "Saturdays, 10am â 12pm",
+    "models":  [
+                   {
+                       "cost":  86.1,
+                       "name":  "claude-opus-5-5",
+                       "share":  100,
+                       "tool":  "claude_code"
+                   }
+               ],
+    "projects":  [
+                     {
+                         "cost":  82.27,
+                         "hours":  3.1,
+                         "name":  "aknologia",
+                         "pct":  100
+                     }
+                 ],
+    "recent":  [
+                   {
+                       "id":  "9cb37613-cd62-4f57-ae02-44de32b82856",
+                       "tool":  "claude_code",
+                       "model":  "claude-opus-5-5",
+                       "project":  "aknologia",
+                       "start":  "2026-10-10T05:48:28.447Z",
+                       "end":  "2026-10-10T10:20:07.369Z",
+                       "activeMinutes":  183,
+                       "turns":  791,
+                       "tokens":  185676697,
+                       "cost":  86.1,
+                       "split":  [
+                                     {
+                                         "label":  "Output",
+                                         "tokens":  509278,
+                                         "cost":  10.19,
+                                         "pct":  0
+                                     },
+                                     {
+                                         "label":  "Input",
+                                         "tokens":  1598,
+                                         "cost":  0.01,
+                                         "pct":  0
+                                     },
+                                     {
+                                         "label":  "Cache write",
+                                         "tokens":  7720087,
+                                         "cost":  40.41,
+                                         "pct":  4
+                                     },
+                                     {
+                                         "label":  "Cache read",
+                                         "tokens":  177445734,
+                                         "cost":  35.49,
+                                         "pct":  96
+                                     }
+                                 ],
+                       "activity":  [
+                                        12451978,
+                                        16105754,
+                                        12164033,
+                                        4340722,
+                                        6315946,
+                                        5182523,
+                                        10487538,
+                                        3547228,
+                                        6118507,
+                                        4150723,
+                                        7368355,
+                                        11366591,
+                                        16155083,
+                                        8154320,
+                                        3313721,
+                                        2389048,
+                                        4866100,
+                                        2849210,
+                                        9705558,
+                                        3772919,
+                                        499821,
+                                        19850506,
+                                        8962108,
+                                        5558405
+                                    ],
+                       "insight":  "Cache reads carried most of the cost because the same context was re-read on many turns."
+                   }
+               ],
+    "priciest":  {
+                     "id":  "9cb37613-cd62-4f57-ae02-44de32b82856",
+                     "tool":  "claude_code",
+                     "model":  "claude-opus-5-5",
+                     "project":  "aknologia",
+                     "start":  "2026-10-10T05:48:28.447Z",
+                     "end":  "2026-10-10T10:20:07.369Z",
+                     "activeMinutes":  183,
+                     "turns":  791,
+                     "tokens":  185676697,
+                     "cost":  86.1,
+                     "split":  [
+                                   {
+                                       "label":  "Output",
+                                       "tokens":  509278,
+                                       "cost":  10.19,
+                                       "pct":  0
+                                   },
+                                   {
+                                       "label":  "Input",
+                                       "tokens":  1598,
+                                       "cost":  0.01,
+                                       "pct":  0
+                                   },
+                                   {
+                                       "label":  "Cache write",
+                                       "tokens":  7720087,
+                                       "cost":  40.41,
+                                       "pct":  4
+                                   },
+                                   {
+                                       "label":  "Cache read",
+                                       "tokens":  177445734,
+                                       "cost":  35.49,
+                                       "pct":  96
+                                   }
+                               ],
+                     "activity":  [
+                                      12451978,
+                                      16105754,
+                                      12164033,
+                                      4340722,
+                                      6315946,
+                                      5182523,
+                                      10487538,
+                                      3547228,
+                                      6118507,
+                                      4150723,
+                                      7368355,
+                                      11366591,
+                                      16155083,
+                                      8154320,
+                                      3313721,
+                                      2389048,
+                                      4866100,
+                                      2849210,
+                                      9705558,
+                                      3772919,
+                                      499821,
+                                      19850506,
+                                      8962108,
+                                      5558405
+                                  ],
+                     "insight":  "Cache reads carried most of the cost because the same context was re-read on many turns."
+                 },
+    "busiestDay":  {
+                       "day":  "Saturday",
+                       "hours":  3.1
+                   },
+    "projectedMonth":  939
+}

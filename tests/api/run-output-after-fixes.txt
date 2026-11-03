@@ -1,0 +1,74 @@
+Target http://localhost:8080
+PASS  auth: signup -> verify email -> login (web admin), /me has no secrets (15 checks, 1035 ms)
+PASS  auth: duplicate signup (same email, also upper-case) is 409 (4 checks, 1000 ms)
+PASS  auth: password rules (12+, number, symbol, not email name / name) (13 checks, 259 ms)
+PASS  auth: member cannot use admin console (login web -> 403 not_admin), desktop ok (4 checks, 422 ms)
+PASS  otp: wrong code rejected, right code still works (2 checks, 145 ms)
+PASS  otp: expired code rejected (1 checks, 657 ms)
+PASS  otp: 5 wrong attempts burn the code (2 checks, 924 ms)
+PASS  otp: a used code cannot be reused (2 checks, 163 ms)
+FAIL  otp: parallel wrong guesses must not exceed the 5-attempt limit (2 checks, 1116 ms)
+      - at most 5 guesses should be compared against the code; attempts counter = 8 | evidence: {"attempts":8}
+PASS  otp: reset code sent to verified backup email works; revokes old sessions (16 checks, 834 ms)
+PASS  otp: change password needs current password + emailed code, revokes other sessions (6 checks, 911 ms)
+FAIL  invites: seat limit returns 402; cancel frees a seat (8 checks, 1879 ms)
+      - re-inviting an already-pending invite needs no new seat (expected 200) | evidence: {"error":"seats","message":"You have 0 of 3 seats left. Add seats in Settings and billing, or invite fewer people."}
+
+PASS  invites: cancelled invite code no longer works (1 checks, 759 ms)
+PASS  invites: resend invalidates old code (6 checks, 1213 ms)
+PASS  invites: expired invite rejected (1 checks, 773 ms)
+PASS  invites: code for another email rejected; weak password on accept rejected (4 checks, 951 ms)
+PASS  invites: re-invite of a removed member (7 checks, 420 ms)
+PASS  invites: email of another org is refused (1 checks, 291 ms)
+PASS  authz: a member gets 403 on every /admin endpoint (20 checks, 1511 ms)
+PASS  authz: admin of org A cannot read/change org B (15 checks, 2607 ms)
+PASS  authz: revoked device token, logout, expired token, removed member (16 checks, 4128 ms)
+FAIL  authz: token accepted without "Bearer " prefix (note) (1 checks, 18 ms)
+      - raw token without Bearer scheme should be rejected | evidence: 200
+PASS  ingest: same batch twice is idempotent (4 checks, 1373 ms)
+PASS  ingest: malformed batches and events rejected (5 checks, 71 ms)
+PASS  ingest: 2001 events rejected, 2000 accepted (3 checks, 691 ms)
+FAIL  ingest: timestamps far past / future rejected (2 checks, 79 ms)
+      - events 23 h in the future should be rejected (they count toward spend/budgets now) | evidence: {"accepted":1,"duplicates":0,"rejected":0}
+
+PASS  ingest: events attributed only to the token user (4 checks, 1541 ms)
+PASS  ingest: huge token counts poison the member rollup (bigint overflow) (4 checks, 2214 ms)
+PASS  rollup: events older than 40 days are accepted but not counted until Refresh (3 checks, 607 ms)
+PASS  rollup: America/New_York org - later ingests stop updating totals (daily_usage PK conflict) (8 checks, 1549 ms)
+FAIL  rollup: Asia/Kolkata org - event early on the oldest day is dropped from daily_usage (3 checks, 1095 ms)
+      - export should contain the event | evidence: day,email,name,tool,model,input_tokens,output_tokens,cache_write_tokens,cache_read_tokens,cost_usd
+
+PASS  time: month boundary in Asia/Kolkata (18:29Z vs 18:31Z on the last day) (9 checks, 493 ms)
+      expected spend $5.74 (5737724.15 micro-$), saved $1.32
+PASS  money: hand-computed cost matches overview, member usage, /me/usage and CSV to the cent (33 checks, 1071 ms)
+PASS  time: active-time rule (gaps <= 5 min summed, longer gap or first turn = 30 s) (6 checks, 1302 ms)
+FAIL  budgets: 80% then 100% alert exactly once each; inboxes respected (12 checks, 4418 ms)
+      - one 100% email to inboxes: expected 1, got 2
+PASS  budgets: PATCH member budget resets this month's alerts (6 checks, 3483 ms)
+FAIL  budgets: PUT admin/budgets per-member budget also resets alerts (3 checks, 2133 ms)
+      - an 80% alert for the new $20 budget should be sent | evidence: [["80","1000"]]
+FAIL  budgets: alert_80 / alert_100 toggles respected; empty inboxes fall back to admins (6 checks, 3321 ms)
+      - 100% email to admin: expected 1, got 2
+PASS  data deletion requires emailed code; scoped to the org (9 checks, 3093 ms)
+FAIL  removal: deleteHistory=true deletes usage, default keeps it (6 checks, 2907 ms)
+      - removal email sent
+FAIL  headers: CORS only for allowed origins; nosniff (9 checks, 159 ms)
+      - no ACAO for look-alike origin http://localhost.evil.example | evidence: http://localhost.evil.example
+      - no ACAO for look-alike origin http://127.0.0.1.evil.example | evidence: http://127.0.0.1.evil.example
+      - no ACAO for look-alike origin http://localhost:8080.evil.example | evidence: http://localhost:8080.evil.example
+FAIL  csv: export neutralises spreadsheet formulas in member names (1 checks, 271 ms)
+      - cell starting with = should be escaped (e.g. prefixed with ') | evidence: 2026-10-10,qa1-csv-94fbb524@example.test,"=HYPERLINK(""http://evil.example"",""click"")",claude_code,claude-opus-5-5,0,1,0,0,0.0001
+FAIL  csv: invalid from/to date gives 400, not 500 (1 checks, 14 ms)
+      - bad date | evidence: 500 {"error":"server_error","message":"Something went wrong on our side. Try again in a minute."}
+
+FAIL  billing: rejected Starter downgrade must not change the plan (2 checks, 233 ms)
+      - plan should stay team/10 after a rejected change | evidence: {"plan":"starter","seats":10}
+FAIL  login: account state leaks without a correct password (enumeration, note) (2 checks, 198 ms)
+      - wrong password for a removed account should look like any bad login | evidence: 403 {"error":"removed","message":"You were removed from this organization. Ask your admin to re-invite you."}
+
+      - wrong password for an invited account should look like any bad login | evidence: 403 {"error":"invited","message":"You haven’t set a password yet. Choose “I have an invite” and enter the code from your email."}
+
+PASS  secrets: DB stores only hashes; no plaintext passwords/tokens/invite codes (6 checks, 4193 ms)
+PASS  secrets: no response body contains password_hash / code_hash / token_hash (1 checks, 1 ms)
+
+33/47 tests passed, 278/295 checks passed, 14 tests failed

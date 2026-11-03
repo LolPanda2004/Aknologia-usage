@@ -1,0 +1,921 @@
+[
+  {
+    "group": "desktop",
+    "page": "desk-unpaired",
+    "width": "320",
+    "theme": "dark",
+    "shot": "tests/responsive/screenshots/after/desk-unpaired-320-dark.png",
+    "console": [],
+    "m": {
+      "vw": 320,
+      "iw": 320,
+      "ih": 640,
+      "scrollW": 320,
+      "docH": 640,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    }
+  },
+  {
+    "group": "desktop",
+    "page": "desk-signin",
+    "width": "320",
+    "theme": "dark",
+    "shot": "tests/responsive/screenshots/after/desk-signin-320-dark.png",
+    "console": [],
+    "m": {
+      "vw": 320,
+      "iw": 320,
+      "ih": 640,
+      "scrollW": 320,
+      "docH": 1218,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [],
+      "small": [
+        {
+          "sel": "#root > div.auth > main.auth-main > span.text2 > a:nth-of-type(1)",
+          "text": "See pricing",
+          "w": 73,
+          "h": 18,
+          "inline": true
+        },
+        {
+          "sel": "#root > div.auth > main.auth-main > span.text2 > a:nth-of-type(2)",
+          "text": "book a demo",
+          "w": 147,
+          "h": 39,
+          "inline": true
+        }
+      ],
+      "smallCount": 2,
+      "dialogs": [],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    }
+  },
+  {
+    "group": "desktop",
+    "page": "desk-modal-server",
+    "width": "320",
+    "theme": "dark",
+    "shot": "tests/responsive/screenshots/after/desk-modal-server-320-dark.png",
+    "console": [],
+    "m": {
+      "vw": 320,
+      "iw": 320,
+      "ih": 640,
+      "scrollW": 320,
+      "docH": 1218,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [
+        {
+          "sel": "div.auth > main.auth-main > div.auth-card:nth-of-type(1) > div.overlay:nth-of-type(3) > div.modal",
+          "top": 303,
+          "bottom": 640,
+          "left": 0,
+          "right": 320,
+          "h": 337,
+          "problems": []
+        }
+      ],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    }
+  },
+  {
+    "group": "desktop",
+    "page": "desk-invite",
+    "width": "320",
+    "theme": "dark",
+    "shot": "tests/responsive/screenshots/after/desk-invite-320-dark.png",
+    "console": [],
+    "m": {
+      "vw": 320,
+      "iw": 320,
+      "ih": 640,
+      "scrollW": 320,
+      "docH": 1376,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [],
+      "small": [
+        {
+          "sel": "#root > div.auth > main.auth-main > span.text2 > a:nth-of-type(1)",
+          "text": "See pricing",
+          "w": 73,
+          "h": 18,
+          "inline": true
+        },
+        {
+          "sel": "#root > div.auth > main.auth-main > span.text2 > a:nth-of-type(2)",
+          "text": "book a demo",
+          "w": 147,
+          "h": 39,
+          "inline": true
+        }
+      ],
+      "smallCount": 2,
+      "dialogs": [],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    }
+  },
+  {
+    "group": "desktop",
+    "page": "desk-forgot",
+    "width": "320",
+    "theme": "dark",
+    "shot": "tests/responsive/screenshots/after/desk-forgot-320-dark.png",
+    "console": [],
+    "m": {
+      "vw": 320,
+      "iw": 320,
+      "ih": 640,
+      "scrollW": 320,
+      "docH": 961,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [],
+      "small": [
+        {
+          "sel": "#root > div.auth > main.auth-main > span.text2 > a:nth-of-type(1)",
+          "text": "See pricing",
+          "w": 73,
+          "h": 18,
+          "inline": true
+        },
+        {
+          "sel": "#root > div.auth > main.auth-main > span.text2 > a:nth-of-type(2)",
+          "text": "book a demo",
+          "w": 147,
+          "h": 39,
+          "inline": true
+        }
+      ],
+      "smallCount": 2,
+      "dialogs": [],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    }
+  },
+  {
+    "group": "desktop",
+    "page": "desk-otp",
+    "width": "320",
+    "theme": "dark",
+    "shot": "tests/responsive/screenshots/after/desk-otp-320-dark.png",
+    "console": [],
+    "m": {
+      "vw": 320,
+      "iw": 320,
+      "ih": 640,
+      "scrollW": 320,
+      "docH": 1021,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [],
+      "small": [
+        {
+          "sel": "div.auth-card:nth-of-type(1) > form.col > fieldset > div.otp > input:nth-of-type(1)",
+          "text": "Digit 1",
+          "w": 36,
+          "h": 52,
+          "inline": false
+        },
+        {
+          "sel": "div.auth-card:nth-of-type(1) > form.col > fieldset > div.otp > input:nth-of-type(2)",
+          "text": "Digit 2",
+          "w": 36,
+          "h": 52,
+          "inline": false
+        },
+        {
+          "sel": "div.auth-card:nth-of-type(1) > form.col > fieldset > div.otp > input:nth-of-type(3)",
+          "text": "Digit 3",
+          "w": 36,
+          "h": 52,
+          "inline": false
+        },
+        {
+          "sel": "div.auth-card:nth-of-type(1) > form.col > fieldset > div.otp > input:nth-of-type(4)",
+          "text": "Digit 4",
+          "w": 36,
+          "h": 52,
+          "inline": false
+        },
+        {
+          "sel": "div.auth-card:nth-of-type(1) > form.col > fieldset > div.otp > input:nth-of-type(5)",
+          "text": "Digit 5",
+          "w": 36,
+          "h": 52,
+          "inline": false
+        },
+        {
+          "sel": "div.auth-card:nth-of-type(1) > form.col > fieldset > div.otp > input:nth-of-type(6)",
+          "text": "Digit 6",
+          "w": 36,
+          "h": 52,
+          "inline": false
+        },
+        {
+          "sel": "#root > div.auth > main.auth-main > span.text2 > a:nth-of-type(1)",
+          "text": "See pricing",
+          "w": 73,
+          "h": 18,
+          "inline": true
+        },
+        {
+          "sel": "#root > div.auth > main.auth-main > span.text2 > a:nth-of-type(2)",
+          "text": "book a demo",
+          "w": 147,
+          "h": 39,
+          "inline": true
+        }
+      ],
+      "smallCount": 8,
+      "dialogs": [],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    }
+  },
+  {
+    "group": "desktop",
+    "page": "desk-newpw",
+    "width": "320",
+    "theme": "dark",
+    "shot": "tests/responsive/screenshots/after/desk-newpw-320-dark.png",
+    "console": [],
+    "m": {
+      "vw": 320,
+      "iw": 320,
+      "ih": 640,
+      "scrollW": 320,
+      "docH": 1196,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [],
+      "small": [
+        {
+          "sel": "#root > div.auth > main.auth-main > span.text2 > a:nth-of-type(1)",
+          "text": "See pricing",
+          "w": 73,
+          "h": 18,
+          "inline": true
+        },
+        {
+          "sel": "#root > div.auth > main.auth-main > span.text2 > a:nth-of-type(2)",
+          "text": "book a demo",
+          "w": 147,
+          "h": 39,
+          "inline": true
+        }
+      ],
+      "smallCount": 2,
+      "dialogs": [],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    }
+  },
+  {
+    "group": "desktop",
+    "page": "desk-removed",
+    "width": "320",
+    "theme": "dark",
+    "shot": "tests/responsive/screenshots/after/desk-removed-320-dark.png",
+    "console": [],
+    "m": {
+      "vw": 320,
+      "iw": 320,
+      "ih": 640,
+      "scrollW": 320,
+      "docH": 1108,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [],
+      "small": [
+        {
+          "sel": "#root > div.auth > main.auth-main > span.text2 > a:nth-of-type(1)",
+          "text": "See pricing",
+          "w": 73,
+          "h": 18,
+          "inline": true
+        },
+        {
+          "sel": "#root > div.auth > main.auth-main > span.text2 > a:nth-of-type(2)",
+          "text": "book a demo",
+          "w": 147,
+          "h": 39,
+          "inline": true
+        }
+      ],
+      "smallCount": 2,
+      "dialogs": [],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    }
+  },
+  {
+    "group": "desktop",
+    "page": "desk-overview",
+    "width": "320",
+    "theme": "dark",
+    "shot": "tests/responsive/screenshots/after/desk-overview-320-dark.png",
+    "console": [],
+    "m": {
+      "vw": 320,
+      "iw": 320,
+      "ih": 640,
+      "scrollW": 320,
+      "docH": 3974,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [
+        {
+          "sel": "#main > div.page > section.card:nth-of-type(2) > div.scroll-x.more-right:nth-of-type(2) > div.table-wrap.sticky-first",
+          "scrollW": 640,
+          "clientW": 242,
+          "visiblePct": 38
+        }
+      ],
+      "clipped": [],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    }
+  },
+  {
+    "group": "desktop",
+    "page": "desk-sessions",
+    "width": "320",
+    "theme": "dark",
+    "shot": "tests/responsive/screenshots/after/desk-sessions-320-dark.png",
+    "console": [],
+    "m": {
+      "vw": 320,
+      "iw": 320,
+      "ih": 640,
+      "scrollW": 320,
+      "docH": 1994,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    }
+  },
+  {
+    "group": "desktop",
+    "page": "desk-support",
+    "width": "320",
+    "theme": "dark",
+    "shot": "tests/responsive/screenshots/after/desk-support-320-dark.png",
+    "console": [],
+    "m": {
+      "vw": 320,
+      "iw": 320,
+      "ih": 640,
+      "scrollW": 320,
+      "docH": 2233,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    }
+  },
+  {
+    "group": "desktop",
+    "page": "desk-settings",
+    "width": "320",
+    "theme": "dark",
+    "shot": "tests/responsive/screenshots/after/desk-settings-320-dark.png",
+    "console": [],
+    "m": {
+      "vw": 320,
+      "iw": 320,
+      "ih": 640,
+      "scrollW": 320,
+      "docH": 4046,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [
+        {
+          "sel": "#main > div.page > nav.section-chips",
+          "scrollW": 637,
+          "clientW": 288,
+          "visiblePct": 45
+        }
+      ],
+      "clipped": [],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    }
+  },
+  {
+    "group": "desktop",
+    "page": "desk-modal-password-1",
+    "width": "320",
+    "theme": "dark",
+    "shot": "tests/responsive/screenshots/after/desk-modal-password-1-320-dark.png",
+    "console": [],
+    "m": {
+      "vw": 320,
+      "iw": 320,
+      "ih": 640,
+      "scrollW": 320,
+      "docH": 4046,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [
+        {
+          "sel": "#main > div.page > nav.section-chips",
+          "scrollW": 637,
+          "clientW": 288,
+          "visiblePct": 45
+        }
+      ],
+      "clipped": [],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [
+        {
+          "sel": "#security > section.card > div.overlay:nth-of-type(6) > div.modal",
+          "top": 51,
+          "bottom": 640,
+          "left": 0,
+          "right": 320,
+          "h": 589,
+          "problems": []
+        }
+      ],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    }
+  },
+  {
+    "group": "desktop",
+    "page": "desk-modal-password-2",
+    "width": "320",
+    "theme": "dark",
+    "shot": "tests/responsive/screenshots/after/desk-modal-password-2-320-dark.png",
+    "console": [],
+    "m": {
+      "vw": 320,
+      "iw": 320,
+      "ih": 640,
+      "scrollW": 320,
+      "docH": 4046,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [
+        {
+          "sel": "#main > div.page > nav.section-chips",
+          "scrollW": 637,
+          "clientW": 288,
+          "visiblePct": 45
+        }
+      ],
+      "clipped": [],
+      "small": [
+        {
+          "sel": "div.modal > form.col > fieldset > div.otp > input:nth-of-type(1)",
+          "text": "Digit 1",
+          "w": 43,
+          "h": 52,
+          "inline": false
+        },
+        {
+          "sel": "div.modal > form.col > fieldset > div.otp > input:nth-of-type(2)",
+          "text": "Digit 2",
+          "w": 43,
+          "h": 52,
+          "inline": false
+        },
+        {
+          "sel": "div.modal > form.col > fieldset > div.otp > input:nth-of-type(3)",
+          "text": "Digit 3",
+          "w": 43,
+          "h": 52,
+          "inline": false
+        },
+        {
+          "sel": "div.modal > form.col > fieldset > div.otp > input:nth-of-type(4)",
+          "text": "Digit 4",
+          "w": 43,
+          "h": 52,
+          "inline": false
+        },
+        {
+          "sel": "div.modal > form.col > fieldset > div.otp > input:nth-of-type(5)",
+          "text": "Digit 5",
+          "w": 43,
+          "h": 52,
+          "inline": false
+        },
+        {
+          "sel": "div.modal > form.col > fieldset > div.otp > input:nth-of-type(6)",
+          "text": "Digit 6",
+          "w": 43,
+          "h": 52,
+          "inline": false
+        }
+      ],
+      "smallCount": 6,
+      "dialogs": [
+        {
+          "sel": "#security > section.card > div.overlay:nth-of-type(6) > div.modal",
+          "top": 238,
+          "bottom": 640,
+          "left": 0,
+          "right": 320,
+          "h": 402,
+          "problems": []
+        }
+      ],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    }
+  },
+  {
+    "group": "desktop",
+    "page": "desk-tour-1",
+    "width": "320",
+    "theme": "dark",
+    "shot": "tests/responsive/screenshots/after/desk-tour-1-320-dark.png",
+    "console": [],
+    "m": {
+      "vw": 320,
+      "iw": 320,
+      "ih": 640,
+      "scrollW": 320,
+      "docH": 3974,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [
+        {
+          "sel": "#main > div.page > section.card:nth-of-type(2) > div.scroll-x.more-right:nth-of-type(2) > div.table-wrap.sticky-first",
+          "scrollW": 640,
+          "clientW": 242,
+          "visiblePct": 38
+        }
+      ],
+      "clipped": [],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [
+        {
+          "sel": "#root > div.tour-card.docked:nth-of-type(3)",
+          "top": 404,
+          "bottom": 624,
+          "left": 16,
+          "right": 304,
+          "h": 221,
+          "problems": []
+        }
+      ],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    }
+  },
+  {
+    "group": "desktop",
+    "page": "desk-tour-2",
+    "width": "320",
+    "theme": "dark",
+    "shot": "tests/responsive/screenshots/after/desk-tour-2-320-dark.png",
+    "console": [],
+    "m": {
+      "vw": 320,
+      "iw": 320,
+      "ih": 640,
+      "scrollW": 320,
+      "docH": 3974,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [
+        {
+          "sel": "#main > div.page > section.card:nth-of-type(2) > div.scroll-x.more-right:nth-of-type(2) > div.table-wrap.sticky-first",
+          "scrollW": 640,
+          "clientW": 242,
+          "visiblePct": 38
+        }
+      ],
+      "clipped": [],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [
+        {
+          "sel": "#root > div.tour-card.docked:nth-of-type(3)",
+          "top": 404,
+          "bottom": 624,
+          "left": 16,
+          "right": 304,
+          "h": 221,
+          "problems": []
+        }
+      ],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    }
+  },
+  {
+    "group": "desktop",
+    "page": "desk-tour-3",
+    "width": "320",
+    "theme": "dark",
+    "shot": "tests/responsive/screenshots/after/desk-tour-3-320-dark.png",
+    "console": [],
+    "m": {
+      "vw": 320,
+      "iw": 320,
+      "ih": 640,
+      "scrollW": 320,
+      "docH": 3974,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [
+        {
+          "sel": "#main > div.page > section.card:nth-of-type(2) > div.scroll-x.more-right:nth-of-type(2) > div.table-wrap.sticky-first",
+          "scrollW": 640,
+          "clientW": 242,
+          "visiblePct": 38
+        }
+      ],
+      "clipped": [],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [
+        {
+          "sel": "#root > div.tour-card.docked:nth-of-type(3)",
+          "top": 404,
+          "bottom": 624,
+          "left": 16,
+          "right": 304,
+          "h": 221,
+          "problems": []
+        }
+      ],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    }
+  },
+  {
+    "group": "desktop",
+    "page": "desk-tour-4",
+    "width": "320",
+    "theme": "dark",
+    "shot": "tests/responsive/screenshots/after/desk-tour-4-320-dark.png",
+    "console": [],
+    "m": {
+      "vw": 320,
+      "iw": 320,
+      "ih": 640,
+      "scrollW": 320,
+      "docH": 3974,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [
+        {
+          "sel": "#main > div.page > section.card:nth-of-type(2) > div.scroll-x.more-right:nth-of-type(2) > div.table-wrap.sticky-first",
+          "scrollW": 640,
+          "clientW": 242,
+          "visiblePct": 38
+        }
+      ],
+      "clipped": [],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [
+        {
+          "sel": "#root > div.tour-card.docked:nth-of-type(3)",
+          "top": 404,
+          "bottom": 624,
+          "left": 16,
+          "right": 304,
+          "h": 221,
+          "problems": []
+        }
+      ],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    }
+  },
+  {
+    "group": "desktop",
+    "page": "desk-tour-5",
+    "width": "320",
+    "theme": "dark",
+    "shot": "tests/responsive/screenshots/after/desk-tour-5-320-dark.png",
+    "console": [],
+    "m": {
+      "vw": 320,
+      "iw": 320,
+      "ih": 640,
+      "scrollW": 320,
+      "docH": 3974,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [
+        {
+          "sel": "#main > div.page > section.card:nth-of-type(2) > div.scroll-x.more-right:nth-of-type(2) > div.table-wrap.sticky-first",
+          "scrollW": 640,
+          "clientW": 242,
+          "visiblePct": 38
+        }
+      ],
+      "clipped": [],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [
+        {
+          "sel": "#root > div.tour-card.docked:nth-of-type(3)",
+          "top": 425,
+          "bottom": 624,
+          "left": 16,
+          "right": 304,
+          "h": 200,
+          "problems": []
+        }
+      ],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    }
+  },
+  {
+    "group": "desktop",
+    "page": "desk-empty-overview",
+    "width": "320",
+    "theme": "dark",
+    "shot": "tests/responsive/screenshots/after/desk-empty-overview-320-dark.png",
+    "console": [],
+    "m": {
+      "vw": 320,
+      "iw": 320,
+      "ih": 640,
+      "scrollW": 320,
+      "docH": 1792,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    }
+  },
+  {
+    "group": "desktop",
+    "page": "desk-empty-sessions",
+    "width": "320",
+    "theme": "dark",
+    "shot": "tests/responsive/screenshots/after/desk-empty-sessions-320-dark.png",
+    "console": [],
+    "m": {
+      "vw": 320,
+      "iw": 320,
+      "ih": 640,
+      "scrollW": 320,
+      "docH": 923,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    }
+  },
+  {
+    "group": "desktop",
+    "page": "desk-overview-over-budget",
+    "width": "320",
+    "theme": "dark",
+    "shot": "tests/responsive/screenshots/after/desk-overview-over-budget-320-dark.png",
+    "console": [],
+    "m": {
+      "vw": 320,
+      "iw": 320,
+      "ih": 640,
+      "scrollW": 320,
+      "docH": 4229,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [
+        {
+          "sel": "#main > div.page > section.card:nth-of-type(2) > div.scroll-x.more-right:nth-of-type(2) > div.table-wrap.sticky-first",
+          "scrollW": 640,
+          "clientW": 242,
+          "visiblePct": 38
+        }
+      ],
+      "clipped": [],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    }
+  }
+]

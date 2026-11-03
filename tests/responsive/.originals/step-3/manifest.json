@@ -1,0 +1,30 @@
+{
+  "saved": {
+    "ui/shared/theme.css": {
+      "before": "1648e137f354fa8e"
+    },
+    "ui/shared/ui.tsx": {
+      "before": "221bf29770f1fe12"
+    },
+    "ui/admin/pages/Overview.tsx": {
+      "before": "c5ad3a71b9d88eaa"
+    },
+    "ui/admin/pages/Members.tsx": {
+      "before": "5ce49fb22da4be0b"
+    },
+    "ui/admin/pages/Budgets.tsx": {
+      "before": "b77f5f096fc8cca1"
+    },
+    "ui/admin/pages/Member.tsx": {
+      "before": "76b7b3a221d88e59"
+    },
+    "ui/admin/pages/Settings.tsx": {
+      "before": "add8f1f1abb99abc"
+    },
+    "ui/desktop/pages/Overview.tsx": {
+      "before": "82ad3a81177bf752"
+    }
+  },
+  "created": [],
+  "undone": false
+}

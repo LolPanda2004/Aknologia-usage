@@ -1,0 +1,6 @@
+**/node_modules
+ui/dist
+desktop/frontend/dist
+desktop/build
+**/.env
+.git

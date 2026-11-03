@@ -1,0 +1,5 @@
+{"type":"user","sessionId":"s1","timestamp":"2026-10-09T10:00:00.000Z","message":{"role":"user","content":"refactor the retry logic"},"cwd":"/Users/priya/code/billing-service"}
+{"type":"assistant","sessionId":"s1","requestId":"req_1","timestamp":"2026-10-09T10:00:05.000Z","cwd":"/Users/priya/code/billing-service","message":{"id":"msg_1","model":"claude-opus-5-5","content":[{"type":"text","text":"SECRET CODE SHOULD NEVER BE READ"}],"usage":{"input_tokens":12,"output_tokens":340,"cache_creation_input_tokens":2048,"cache_read_input_tokens":18000}}}
+{"type":"assistant","sessionId":"s1","requestId":"req_1","timestamp":"2026-10-09T10:00:05.000Z","cwd":"/Users/priya/code/billing-service","message":{"id":"msg_1","model":"claude-opus-5-5","usage":{"input_tokens":12,"output_tokens":340,"cache_creation_input_tokens":2048,"cache_read_input_tokens":18000}}}
+{"type":"assistant","sessionId":"s1","timestamp":"2026-10-09T10:01:00.000Z","message":{"id":"msg_2","model":"<synthetic>","usage":{"input_tokens":0,"output_tokens":0}}}
+{"type":"assistant","sessionId":"s1","timestamp":"not-a-date","message":{"id":"msg_3","usage":{"input_tokens":1}}}

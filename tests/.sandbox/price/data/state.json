@@ -1,0 +1,449 @@
+{
+  "server": "http://localhost:8094",
+  "token": "uundFIHDm4qCLQKbrnrWuzAon2z9DKzS14aT1xeMK-c",
+  "deviceId": "520ac44a-94a0-4258-a5bf-7b2b96869443",
+  "email": "me-mv289vmz@example.test",
+  "role": "member",
+  "org": "Org realcheck 4112d7d0",
+  "removed": false,
+  "synced": 7199,
+  "lastSync": "2026-10-10T15:50:14.9767282+05:30",
+  "syncMinute": 0,
+  "projectSalt": "913973d46e5a08e3579c4644c27e657d",
+  "priceCatalog": {
+    "version": "2026-10-10",
+    "models": [
+      {
+        "provider": "anthropic",
+        "model": "claude-fable-5-1",
+        "from": "2000-01-01",
+        "source": "catalog",
+        "input": 10,
+        "cacheWrite5m": 12.5,
+        "cacheWrite1h": 20,
+        "cacheRead": 0.25,
+        "output": 50,
+        "geoUS": 1.1,
+        "webSearchPer1k": 10
+      },
+      {
+        "provider": "anthropic",
+        "model": "claude-mythos-5-1",
+        "from": "2000-01-01",
+        "source": "catalog",
+        "input": 10,
+        "cacheWrite5m": 12.5,
+        "cacheWrite1h": 20,
+        "cacheRead": 0.25,
+        "output": 50,
+        "geoUS": 1.1,
+        "webSearchPer1k": 10
+      },
+      {
+        "provider": "anthropic",
+        "model": "claude-fable-5",
+        "from": "2000-01-01",
+        "source": "catalog",
+        "input": 10,
+        "cacheWrite5m": 12.5,
+        "cacheWrite1h": 20,
+        "cacheRead": 1,
+        "output": 50,
+        "geoUS": 1.1,
+        "webSearchPer1k": 10
+      },
+      {
+        "provider": "anthropic",
+        "model": "claude-mythos-5",
+        "from": "2000-01-01",
+        "source": "catalog",
+        "input": 10,
+        "cacheWrite5m": 12.5,
+        "cacheWrite1h": 20,
+        "cacheRead": 1,
+        "output": 50,
+        "geoUS": 1.1,
+        "webSearchPer1k": 10
+      },
+      {
+        "provider": "anthropic",
+        "model": "claude-opus-5-5",
+        "from": "2000-01-01",
+        "source": "catalog",
+        "input": 4,
+        "cacheWrite5m": 5,
+        "cacheWrite1h": 8,
+        "cacheRead": 0.2,
+        "output": 20,
+        "fastInput": 8,
+        "fastOutput": 40,
+        "geoUS": 1.1,
+        "webSearchPer1k": 10
+      },
+      {
+        "provider": "anthropic",
+        "model": "claude-opus-5",
+        "from": "2000-01-01",
+        "source": "catalog",
+        "input": 5,
+        "cacheWrite5m": 6.25,
+        "cacheWrite1h": 10,
+        "cacheRead": 0.5,
+        "output": 25,
+        "fastInput": 10,
+        "fastOutput": 50,
+        "geoUS": 1.1,
+        "webSearchPer1k": 10
+      },
+      {
+        "provider": "anthropic",
+        "model": "claude-opus-4-8",
+        "from": "2000-01-01",
+        "source": "catalog",
+        "input": 5,
+        "cacheWrite5m": 6.25,
+        "cacheWrite1h": 10,
+        "cacheRead": 0.5,
+        "output": 25,
+        "fastInput": 10,
+        "fastOutput": 50,
+        "geoUS": 1.1,
+        "webSearchPer1k": 10
+      },
+      {
+        "provider": "anthropic",
+        "model": "claude-opus-4-7",
+        "from": "2000-01-01",
+        "source": "catalog",
+        "input": 5,
+        "cacheWrite5m": 6.25,
+        "cacheWrite1h": 10,
+        "cacheRead": 0.5,
+        "output": 25,
+        "geoUS": 1.1,
+        "webSearchPer1k": 10
+      },
+      {
+        "provider": "anthropic",
+        "model": "claude-opus-4-6",
+        "from": "2000-01-01",
+        "source": "catalog",
+        "input": 5,
+        "cacheWrite5m": 6.25,
+        "cacheWrite1h": 10,
+        "cacheRead": 0.5,
+        "output": 25,
+        "geoUS": 1.1,
+        "webSearchPer1k": 10
+      },
+      {
+        "provider": "anthropic",
+        "model": "claude-opus-4-5",
+        "from": "2000-01-01",
+        "source": "catalog",
+        "input": 5,
+        "cacheWrite5m": 6.25,
+        "cacheWrite1h": 10,
+        "cacheRead": 0.5,
+        "output": 25,
+        "webSearchPer1k": 10
+      },
+      {
+        "provider": "anthropic",
+        "model": "claude-opus-4-1",
+        "from": "2000-01-01",
+        "source": "catalog",
+        "input": 15,
+        "cacheWrite5m": 18.75,
+        "cacheWrite1h": 30,
+        "cacheRead": 1.5,
+        "output": 75,
+        "webSearchPer1k": 10
+      },
+      {
+        "provider": "anthropic",
+        "model": "claude-opus-4",
+        "from": "2000-01-01",
+        "source": "catalog",
+        "input": 15,
+        "cacheWrite5m": 18.75,
+        "cacheWrite1h": 30,
+        "cacheRead": 1.5,
+        "output": 75,
+        "webSearchPer1k": 10
+      },
+      {
+        "provider": "anthropic",
+        "model": "claude-sonnet-5-5",
+        "from": "2000-01-01",
+        "source": "catalog",
+        "input": 2,
+        "cacheWrite5m": 2.5,
+        "cacheWrite1h": 4,
+        "cacheRead": 0.1,
+        "output": 10,
+        "geoUS": 1.1,
+        "webSearchPer1k": 10
+      },
+      {
+        "provider": "anthropic",
+        "model": "claude-sonnet-5",
+        "from": "2000-01-01",
+        "source": "catalog",
+        "input": 2,
+        "cacheWrite5m": 2.5,
+        "cacheWrite1h": 4,
+        "cacheRead": 0.2,
+        "output": 10,
+        "geoUS": 1.1,
+        "webSearchPer1k": 10
+      },
+      {
+        "provider": "anthropic",
+        "model": "claude-sonnet-4-6",
+        "from": "2000-01-01",
+        "source": "catalog",
+        "input": 3,
+        "cacheWrite5m": 3.75,
+        "cacheWrite1h": 6,
+        "cacheRead": 0.3,
+        "output": 15,
+        "geoUS": 1.1,
+        "webSearchPer1k": 10
+      },
+      {
+        "provider": "anthropic",
+        "model": "claude-sonnet-4-5",
+        "from": "2000-01-01",
+        "source": "catalog",
+        "input": 3,
+        "cacheWrite5m": 3.75,
+        "cacheWrite1h": 6,
+        "cacheRead": 0.3,
+        "output": 15,
+        "webSearchPer1k": 10
+      },
+      {
+        "provider": "anthropic",
+        "model": "claude-sonnet-4",
+        "from": "2000-01-01",
+        "source": "catalog",
+        "input": 3,
+        "cacheWrite5m": 3.75,
+        "cacheWrite1h": 6,
+        "cacheRead": 0.3,
+        "output": 15,
+        "webSearchPer1k": 10
+      },
+      {
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "from": "2000-01-01",
+        "source": "catalog",
+        "input": 0.1,
+        "cacheWrite5m": 0.125,
+        "cacheWrite1h": 0.2,
+        "cacheRead": 0.01,
+        "output": 0.5,
+        "geoUS": 1.1,
+        "webSearchPer1k": 10,
+        "longOver": 100000,
+        "long": {
+          "input": 0.5,
+          "cacheWrite5m": 0.625,
+          "cacheWrite1h": 1,
+          "cacheRead": 0.05,
+          "output": 2.5
+        }
+      },
+      {
+        "provider": "anthropic",
+        "model": "claude-haiku-4-5",
+        "from": "2000-01-01",
+        "source": "catalog",
+        "input": 1,
+        "cacheWrite5m": 1.25,
+        "cacheWrite1h": 2,
+        "cacheRead": 0.1,
+        "output": 5,
+        "webSearchPer1k": 10
+      },
+      {
+        "provider": "anthropic",
+        "model": "claude-3-5-haiku",
+        "from": "2000-01-01",
+        "source": "catalog",
+        "input": 0.8,
+        "cacheWrite5m": 1,
+        "cacheWrite1h": 1.6,
+        "cacheRead": 0.08,
+        "output": 4,
+        "webSearchPer1k": 10
+      },
+      {
+        "provider": "openai",
+        "model": "gpt-5.5",
+        "from": "2000-01-01",
+        "source": "catalog",
+        "input": 5,
+        "cacheRead": 0.5,
+        "output": 30,
+        "longOver": 272000,
+        "long": {
+          "input": 10,
+          "cacheRead": 1,
+          "output": 45
+        }
+      },
+      {
+        "provider": "openai",
+        "model": "gpt-5.4",
+        "from": "2000-01-01",
+        "source": "catalog",
+        "input": 2.5,
+        "cacheRead": 0.25,
+        "output": 15,
+        "longOver": 272000,
+        "long": {
+          "input": 5,
+          "cacheRead": 0.5,
+          "output": 22.5
+        }
+      },
+      {
+        "provider": "openai",
+        "model": "gpt-5.4-mini",
+        "from": "2000-01-01",
+        "source": "catalog",
+        "input": 0.75,
+        "cacheRead": 0.075,
+        "output": 4.5
+      },
+      {
+        "provider": "openai",
+        "model": "gpt-5.4-nano",
+        "from": "2000-01-01",
+        "source": "catalog",
+        "input": 0.2,
+        "cacheRead": 0.02,
+        "output": 1.25
+      },
+      {
+        "provider": "openai",
+        "model": "gpt-5.3-codex",
+        "from": "2000-01-01",
+        "source": "catalog",
+        "input": 1.75,
+        "cacheRead": 0.175,
+        "output": 14
+      },
+      {
+        "provider": "openai",
+        "model": "gpt-5.2",
+        "from": "2000-01-01",
+        "source": "catalog",
+        "input": 1.75,
+        "cacheRead": 0.175,
+        "output": 14
+      },
+      {
+        "provider": "openai",
+        "model": "gpt-5.1",
+        "from": "2000-01-01",
+        "source": "catalog",
+        "input": 1.25,
+        "cacheRead": 0.125,
+        "output": 10
+      },
+      {
+        "provider": "openai",
+        "model": "gpt-5",
+        "from": "2000-01-01",
+        "source": "catalog",
+        "input": 1.25,
+        "cacheRead": 0.125,
+        "output": 10
+      },
+      {
+        "provider": "openai",
+        "model": "gpt-5-mini",
+        "from": "2000-01-01",
+        "source": "catalog",
+        "input": 0.25,
+        "cacheRead": 0.025,
+        "output": 2
+      },
+      {
+        "provider": "openai",
+        "model": "gpt-5-nano",
+        "from": "2000-01-01",
+        "source": "catalog",
+        "input": 0.05,
+        "cacheRead": 0.005,
+        "output": 0.4
+      },
+      {
+        "provider": "openai",
+        "model": "gpt-5.6-sol",
+        "from": "2000-01-01",
+        "source": "catalog",
+        "input": 4,
+        "cacheRead": 0.4,
+        "output": 20,
+        "longOver": 272000,
+        "long": {
+          "input": 8,
+          "cacheRead": 0.8,
+          "output": 30
+        }
+      },
+      {
+        "provider": "openai",
+        "model": "gpt-5.6-terra",
+        "from": "2000-01-01",
+        "source": "catalog",
+        "input": 2,
+        "cacheRead": 0.2,
+        "output": 12,
+        "longOver": 272000,
+        "long": {
+          "input": 4,
+          "cacheRead": 0.4,
+          "output": 18
+        }
+      },
+      {
+        "provider": "openai",
+        "model": "gpt-5.6-luna",
+        "from": "2000-01-01",
+        "source": "catalog",
+        "input": 0.2,
+        "cacheRead": 0.02,
+        "output": 1.2,
+        "longOver": 272000,
+        "long": {
+          "input": 0.4,
+          "cacheRead": 0.04,
+          "output": 1.8
+        }
+      }
+    ]
+  },
+  "parserGen": "claude-2",
+  "budget": {
+    "budgetCents": 15000,
+    "spentCents": 29258,
+    "pct": 195,
+    "projectedCents": 93893,
+    "resetsOn": "2026-11-01",
+    "month": "October 2026",
+    "custom": false
+  },
+  "notifiedPct": 100,
+  "notifiedMonth": "October 2026",
+  "prefs": {
+    "paused": false,
+    "budgetNotifications": true,
+    "startAtLogin": false
+  }
+}

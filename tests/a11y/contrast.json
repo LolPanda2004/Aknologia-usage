@@ -1,0 +1,1122 @@
+[
+  {
+    "theme": "light",
+    "label": "Body text",
+    "fg": "text #0F1F18",
+    "bg": "bg #F4F7F5",
+    "ratio": 15.84,
+    "need": 4.5,
+    "pass": true,
+    "where": "body"
+  },
+  {
+    "theme": "light",
+    "label": "Body text on card",
+    "fg": "text #0F1F18",
+    "bg": "surface #FFFFFF",
+    "ratio": 17.08,
+    "need": 4.5,
+    "pass": true,
+    "where": ".card"
+  },
+  {
+    "theme": "light",
+    "label": "Secondary text on card",
+    "fg": "text2 #33473D",
+    "bg": "surface #FFFFFF",
+    "ratio": 9.96,
+    "need": 4.5,
+    "pass": true,
+    "where": ".text2"
+  },
+  {
+    "theme": "light",
+    "label": "Muted text on page",
+    "fg": "muted #526A5E",
+    "bg": "bg #F4F7F5",
+    "ratio": 5.44,
+    "need": 4.5,
+    "pass": true,
+    "where": ".muted, footer"
+  },
+  {
+    "theme": "light",
+    "label": "Muted text on card",
+    "fg": "muted #526A5E",
+    "bg": "surface #FFFFFF",
+    "ratio": 5.86,
+    "need": 4.5,
+    "pass": true,
+    "where": ".muted, .card-sub, th"
+  },
+  {
+    "theme": "light",
+    "label": "Muted text on inset",
+    "fg": "muted #526A5E",
+    "bg": "inset #F4F7F5",
+    "ratio": 5.44,
+    "need": 4.5,
+    "pass": true,
+    "where": "Budgets total tiles, .hint in inputs"
+  },
+  {
+    "theme": "light",
+    "label": "Muted on raised (neutral pill text2)",
+    "fg": "text2 #33473D",
+    "bg": "raised #E6EEEA",
+    "ratio": 8.43,
+    "need": 4.5,
+    "pass": true,
+    "where": ".pill-neutral"
+  },
+  {
+    "theme": "light",
+    "label": "Muted on raised",
+    "fg": "muted #526A5E",
+    "bg": "raised #E6EEEA",
+    "ratio": 4.96,
+    "need": 4.5,
+    "pass": true,
+    "where": "Checklist unchecked dot icon"
+  },
+  {
+    "theme": "light",
+    "label": "Muted on gold card",
+    "fg": "muted #526A5E",
+    "bg": "gold-soft #F8F2E4",
+    "ratio": 5.25,
+    "need": 4.5,
+    "pass": true,
+    "where": "Settings \"/ month\" in gold card"
+  },
+  {
+    "theme": "light",
+    "label": "Muted on accent-soft",
+    "fg": "muted #526A5E",
+    "bg": "accent-soft #E3F1EA",
+    "ratio": 5.04,
+    "need": 4.5,
+    "pass": true,
+    "where": "n/a check"
+  },
+  {
+    "theme": "light",
+    "label": "Link / accent ink on page",
+    "fg": "accent-ink #0A5139",
+    "bg": "bg #F4F7F5",
+    "ratio": 8.66,
+    "need": 4.5,
+    "pass": true,
+    "where": "a, .link-btn"
+  },
+  {
+    "theme": "light",
+    "label": "Link / accent ink on card",
+    "fg": "accent-ink #0A5139",
+    "bg": "surface #FFFFFF",
+    "ratio": 9.34,
+    "need": 4.5,
+    "pass": true,
+    "where": ".link-btn in auth card"
+  },
+  {
+    "theme": "light",
+    "label": "Accent ink on accent-soft",
+    "fg": "accent-ink #0A5139",
+    "bg": "accent-soft #E3F1EA",
+    "ratio": 8.02,
+    "need": 4.5,
+    "pass": true,
+    "where": ".hero, .pill-accent, nav current, ribbon"
+  },
+  {
+    "theme": "light",
+    "label": "Primary button text",
+    "fg": "on-accent #FFFFFF",
+    "bg": "accent #0E6B4E",
+    "ratio": 6.5,
+    "need": 4.5,
+    "pass": true,
+    "where": ".btn-primary"
+  },
+  {
+    "theme": "light",
+    "label": "Danger button text",
+    "fg": "#FFFFFF #FFFFFF",
+    "bg": "danger #B4334A",
+    "ratio": 5.98,
+    "need": 4.5,
+    "pass": true,
+    "where": ".btn-danger"
+  },
+  {
+    "theme": "light",
+    "label": "Danger outline / error text on card",
+    "fg": "red #B4334A",
+    "bg": "surface #FFFFFF",
+    "ratio": 5.98,
+    "need": 4.5,
+    "pass": true,
+    "where": ".btn-danger-outline, .error-text"
+  },
+  {
+    "theme": "light",
+    "label": "Red text on inset",
+    "fg": "red #B4334A",
+    "bg": "inset #F4F7F5",
+    "ratio": 5.54,
+    "need": 4.5,
+    "pass": true,
+    "where": "n/a"
+  },
+  {
+    "theme": "light",
+    "label": "Gold kicker on card",
+    "fg": "gold #8A6416",
+    "bg": "surface #FFFFFF",
+    "ratio": 5.36,
+    "need": 4.5,
+    "pass": true,
+    "where": "Modal kicker \"STEP 1 OF 2\", tour \"STEP 1 OF 5\" (12px)"
+  },
+  {
+    "theme": "light",
+    "label": "Gold kicker on gold card",
+    "fg": "gold #8A6416",
+    "bg": "gold-soft #F8F2E4",
+    "ratio": 4.81,
+    "need": 4.5,
+    "pass": true,
+    "where": "Side card \"TEAM PLAN\", \"CURRENT PLAN\", desktop \"SAVED BY CACHING\" (11-12px)"
+  },
+  {
+    "theme": "light",
+    "label": "Gold initials on gold-soft",
+    "fg": "gold #8A6416",
+    "bg": "gold-soft #F8F2E4",
+    "ratio": 4.81,
+    "need": 4.5,
+    "pass": true,
+    "where": ".avatar-gold initials (12px 800)"
+  },
+  {
+    "theme": "light",
+    "label": "Gold ink on gold-soft",
+    "fg": "gold-ink #5E430C",
+    "bg": "gold-soft #F8F2E4",
+    "ratio": 8.24,
+    "need": 4.5,
+    "pass": true,
+    "where": ".gold-card .label/.sub, .pill-gold"
+  },
+  {
+    "theme": "light",
+    "label": "Secondary text on gold banner",
+    "fg": "text2 #33473D",
+    "bg": "gold-soft #F8F2E4",
+    "ratio": 8.92,
+    "need": 4.5,
+    "pass": true,
+    "where": ".banner-gold"
+  },
+  {
+    "theme": "light",
+    "label": "OK pill / banner",
+    "fg": "ok-text #0B5C55",
+    "bg": "ok-bg #E4F3F1",
+    "ratio": 6.87,
+    "need": 4.5,
+    "pass": true,
+    "where": ".pill-ok, .banner-ok"
+  },
+  {
+    "theme": "light",
+    "label": "Warn pill / banner",
+    "fg": "warn-text #734A0C",
+    "bg": "warn-bg #FAF2E3",
+    "ratio": 6.96,
+    "need": 4.5,
+    "pass": true,
+    "where": ".pill-warn, .banner-warn"
+  },
+  {
+    "theme": "light",
+    "label": "Error pill / banner",
+    "fg": "no-text #8E2338",
+    "bg": "no-bg #FBEEF1",
+    "ratio": 7.6,
+    "need": 4.5,
+    "pass": true,
+    "where": ".pill-no, .banner-no"
+  },
+  {
+    "theme": "light",
+    "label": "Toast",
+    "fg": "bg #F4F7F5",
+    "bg": "text #0F1F18",
+    "ratio": 15.84,
+    "need": 4.5,
+    "pass": true,
+    "where": ".toast"
+  },
+  {
+    "theme": "light",
+    "label": "Tabs inactive",
+    "fg": "muted #526A5E",
+    "bg": "inset #F4F7F5",
+    "ratio": 5.44,
+    "need": 4.5,
+    "pass": true,
+    "where": ".tabs button"
+  },
+  {
+    "theme": "light",
+    "label": "Logo letter",
+    "fg": "#FFFFFF #FFFFFF",
+    "bg": "accent #0E6B4E",
+    "ratio": 6.5,
+    "need": 4.5,
+    "pass": true,
+    "where": ".logo (large, 19px+ bold -> 3:1)"
+  },
+  {
+    "theme": "light",
+    "label": "Chart series 1 (Claude Code) on card",
+    "fg": "s1 #0E6B4E",
+    "bg": "surface #FFFFFF",
+    "ratio": 6.5,
+    "need": 3,
+    "pass": true,
+    "where": "bars, line, donut, meters"
+  },
+  {
+    "theme": "light",
+    "label": "Chart series 2 (Codex) on card",
+    "fg": "s2 #7A9A3E",
+    "bg": "surface #FFFFFF",
+    "ratio": 3.22,
+    "need": 3,
+    "pass": true,
+    "where": "bars, donut, tool mix"
+  },
+  {
+    "theme": "light",
+    "label": "Budget pace line on card",
+    "fg": "gold #8A6416",
+    "bg": "surface #FFFFFF",
+    "ratio": 5.36,
+    "need": 3,
+    "pass": true,
+    "where": "SpendLine dashed line"
+  },
+  {
+    "theme": "light",
+    "label": "Meter fill s1 on track",
+    "fg": "s1 #0E6B4E",
+    "bg": "raised #E6EEEA",
+    "ratio": 5.5,
+    "need": 3,
+    "pass": true,
+    "where": ".meter"
+  },
+  {
+    "theme": "light",
+    "label": "Meter fill amber on track",
+    "fg": "amber #9A6512",
+    "bg": "raised #E6EEEA",
+    "ratio": 4.19,
+    "need": 3,
+    "pass": true,
+    "where": ".meter >=80%"
+  },
+  {
+    "theme": "light",
+    "label": "Meter fill red on track",
+    "fg": "red #B4334A",
+    "bg": "raised #E6EEEA",
+    "ratio": 5.06,
+    "need": 3,
+    "pass": true,
+    "where": ".meter >=100%"
+  },
+  {
+    "theme": "light",
+    "label": "Meter track on card",
+    "fg": "raised #E6EEEA",
+    "bg": "surface #FFFFFF",
+    "ratio": 1.18,
+    "need": 3,
+    "pass": false,
+    "where": ".meter track (decorative unless value is read from it)"
+  },
+  {
+    "theme": "light",
+    "label": "\"Not started\" legend swatch",
+    "fg": "raised #E6EEEA",
+    "bg": "surface #FFFFFF",
+    "ratio": 1.18,
+    "need": 3,
+    "pass": false,
+    "where": "Overview Budget health legend"
+  },
+  {
+    "theme": "light",
+    "label": "Sessions split 4th segment",
+    "fg": "border-strong #BFD0C6",
+    "bg": "surface #FFFFFF",
+    "ratio": 1.61,
+    "need": 3,
+    "pass": false,
+    "where": "Sessions \"Where the tokens went\" (SPLIT[3])"
+  },
+  {
+    "theme": "light",
+    "label": "Heatmap level 1 on card",
+    "fg": "heat1 #CFE3D8",
+    "bg": "surface #FFFFFF",
+    "ratio": 1.34,
+    "need": 3,
+    "pass": false,
+    "where": ".heat .c"
+  },
+  {
+    "theme": "light",
+    "label": "Heatmap level 2 on card",
+    "fg": "heat2 #93C3AA",
+    "bg": "surface #FFFFFF",
+    "ratio": 1.98,
+    "need": 3,
+    "pass": false,
+    "where": ".heat .c"
+  },
+  {
+    "theme": "light",
+    "label": "Heatmap level 4 on card",
+    "fg": "heat4 #0E6B4E",
+    "bg": "surface #FFFFFF",
+    "ratio": 6.5,
+    "need": 3,
+    "pass": true,
+    "where": ".heat .c"
+  },
+  {
+    "theme": "light",
+    "label": "Input border on inset",
+    "fg": "border-strong #BFD0C6",
+    "bg": "inset #F4F7F5",
+    "ratio": 1.49,
+    "need": 3,
+    "pass": false,
+    "where": ".input"
+  },
+  {
+    "theme": "light",
+    "label": "Input border on card",
+    "fg": "border-strong #BFD0C6",
+    "bg": "surface #FFFFFF",
+    "ratio": 1.61,
+    "need": 3,
+    "pass": false,
+    "where": ".input inside cards"
+  },
+  {
+    "theme": "light",
+    "label": "Search input border",
+    "fg": "border #DCE6E0",
+    "bg": "inset #F4F7F5",
+    "ratio": 1.18,
+    "need": 3,
+    "pass": false,
+    "where": ".search input (border-color: var(--border))"
+  },
+  {
+    "theme": "light",
+    "label": "Card / icon-btn border on page",
+    "fg": "border #DCE6E0",
+    "bg": "bg #F4F7F5",
+    "ratio": 1.18,
+    "need": 3,
+    "pass": false,
+    "where": ".icon-btn border (button boundary)"
+  },
+  {
+    "theme": "light",
+    "label": "Focus ring on page",
+    "fg": "accent-ink #0A5139",
+    "bg": "bg #F4F7F5",
+    "ratio": 8.66,
+    "need": 3,
+    "pass": true,
+    "where": ":focus-visible outline"
+  },
+  {
+    "theme": "light",
+    "label": "Focus ring on card",
+    "fg": "accent-ink #0A5139",
+    "bg": "surface #FFFFFF",
+    "ratio": 9.34,
+    "need": 3,
+    "pass": true,
+    "where": ":focus-visible outline"
+  },
+  {
+    "theme": "light",
+    "label": "OTP focus border on inset",
+    "fg": "accent #0E6B4E",
+    "bg": "inset #F4F7F5",
+    "ratio": 6.02,
+    "need": 3,
+    "pass": true,
+    "where": ".otp input:focus (outline: none)"
+  },
+  {
+    "theme": "light",
+    "label": "OTP focus vs unfocused border",
+    "fg": "accent #0E6B4E",
+    "bg": "border-strong #BFD0C6",
+    "ratio": 4.04,
+    "need": 3,
+    "pass": true,
+    "where": ".otp focus state change"
+  },
+  {
+    "theme": "light",
+    "label": "Unchecked checklist dot on inset",
+    "fg": "raised #E6EEEA",
+    "bg": "inset #F4F7F5",
+    "ratio": 1.09,
+    "need": 3,
+    "pass": false,
+    "where": ".dot-ok"
+  },
+  {
+    "theme": "light",
+    "label": "Tour target ring",
+    "fg": "accent #0E6B4E",
+    "bg": "bg #F4F7F5",
+    "ratio": 6.02,
+    "need": 3,
+    "pass": true,
+    "where": ".tour-target box-shadow"
+  },
+  {
+    "theme": "light",
+    "label": "Landing CTA sub text",
+    "fg": "cta-sub #D3EADF",
+    "bg": "brand #0E6B4E",
+    "ratio": 5.14,
+    "need": 4.5,
+    "pass": true,
+    "where": "landing final CTA \"Start free with three members…\" (18px)"
+  },
+  {
+    "theme": "light",
+    "label": "Landing announcement text",
+    "fg": "accent-ink #0A5139",
+    "bg": "accent-soft #E3F1EA",
+    "ratio": 8.02,
+    "need": 4.5,
+    "pass": true,
+    "where": "top bar"
+  },
+  {
+    "theme": "light",
+    "label": "Landing \"NEW\" badge",
+    "fg": "#FFFFFF #FFFFFF",
+    "bg": "brand #0E6B4E",
+    "ratio": 6.5,
+    "need": 4.5,
+    "pass": true,
+    "where": "top bar badge (12px)"
+  },
+  {
+    "theme": "light",
+    "label": "Landing muted on surface",
+    "fg": "muted #526A5E",
+    "bg": "surface #FFFFFF",
+    "ratio": 5.86,
+    "need": 4.5,
+    "pass": true,
+    "where": "pricing notes"
+  },
+  {
+    "theme": "light",
+    "label": "Landing panel-sub on panel",
+    "fg": "panel-sub #33473D",
+    "bg": "panel #FFFFFF",
+    "ratio": 9.96,
+    "need": 4.5,
+    "pass": true,
+    "where": "header/footer"
+  },
+  {
+    "theme": "light",
+    "label": "Landing CTA button",
+    "fg": "on-brand #FFFFFF",
+    "bg": "cta-btn #0A5139",
+    "ratio": 9.34,
+    "need": 4.5,
+    "pass": true,
+    "where": "CTA button"
+  },
+  {
+    "theme": "dark",
+    "label": "Body text",
+    "fg": "text #F2F7F4",
+    "bg": "bg #08120F",
+    "ratio": 17.56,
+    "need": 4.5,
+    "pass": true,
+    "where": "body"
+  },
+  {
+    "theme": "dark",
+    "label": "Body text on card",
+    "fg": "text #F2F7F4",
+    "bg": "surface #0F1C17",
+    "ratio": 16.17,
+    "need": 4.5,
+    "pass": true,
+    "where": ".card"
+  },
+  {
+    "theme": "dark",
+    "label": "Secondary text on card",
+    "fg": "text2 #CFDDD5",
+    "bg": "surface #0F1C17",
+    "ratio": 12.48,
+    "need": 4.5,
+    "pass": true,
+    "where": ".text2"
+  },
+  {
+    "theme": "dark",
+    "label": "Muted text on page",
+    "fg": "muted #9FB5A9",
+    "bg": "bg #08120F",
+    "ratio": 8.75,
+    "need": 4.5,
+    "pass": true,
+    "where": ".muted, footer"
+  },
+  {
+    "theme": "dark",
+    "label": "Muted text on card",
+    "fg": "muted #9FB5A9",
+    "bg": "surface #0F1C17",
+    "ratio": 8.06,
+    "need": 4.5,
+    "pass": true,
+    "where": ".muted, .card-sub, th"
+  },
+  {
+    "theme": "dark",
+    "label": "Muted text on inset",
+    "fg": "muted #9FB5A9",
+    "bg": "inset #0B1612",
+    "ratio": 8.49,
+    "need": 4.5,
+    "pass": true,
+    "where": "Budgets total tiles, .hint in inputs"
+  },
+  {
+    "theme": "dark",
+    "label": "Muted on raised (neutral pill text2)",
+    "fg": "text2 #CFDDD5",
+    "bg": "raised #182A23",
+    "ratio": 10.73,
+    "need": 4.5,
+    "pass": true,
+    "where": ".pill-neutral"
+  },
+  {
+    "theme": "dark",
+    "label": "Muted on raised",
+    "fg": "muted #9FB5A9",
+    "bg": "raised #182A23",
+    "ratio": 6.93,
+    "need": 4.5,
+    "pass": true,
+    "where": "Checklist unchecked dot icon"
+  },
+  {
+    "theme": "dark",
+    "label": "Muted on gold card",
+    "fg": "muted #9FB5A9",
+    "bg": "gold-soft #1F1D14",
+    "ratio": 7.76,
+    "need": 4.5,
+    "pass": true,
+    "where": "Settings \"/ month\" in gold card"
+  },
+  {
+    "theme": "dark",
+    "label": "Muted on accent-soft",
+    "fg": "muted #9FB5A9",
+    "bg": "accent-soft #13302A",
+    "ratio": 6.51,
+    "need": 4.5,
+    "pass": true,
+    "where": "n/a check"
+  },
+  {
+    "theme": "dark",
+    "label": "Link / accent ink on page",
+    "fg": "accent-ink #9FE0C6",
+    "bg": "bg #08120F",
+    "ratio": 12.64,
+    "need": 4.5,
+    "pass": true,
+    "where": "a, .link-btn"
+  },
+  {
+    "theme": "dark",
+    "label": "Link / accent ink on card",
+    "fg": "accent-ink #9FE0C6",
+    "bg": "surface #0F1C17",
+    "ratio": 11.64,
+    "need": 4.5,
+    "pass": true,
+    "where": ".link-btn in auth card"
+  },
+  {
+    "theme": "dark",
+    "label": "Accent ink on accent-soft",
+    "fg": "accent-ink #9FE0C6",
+    "bg": "accent-soft #13302A",
+    "ratio": 9.4,
+    "need": 4.5,
+    "pass": true,
+    "where": ".hero, .pill-accent, nav current, ribbon"
+  },
+  {
+    "theme": "dark",
+    "label": "Primary button text",
+    "fg": "on-accent #FFFFFF",
+    "bg": "accent #1E7D5E",
+    "ratio": 5.06,
+    "need": 4.5,
+    "pass": true,
+    "where": ".btn-primary"
+  },
+  {
+    "theme": "dark",
+    "label": "Danger button text",
+    "fg": "#FFFFFF #FFFFFF",
+    "bg": "danger #B9475B",
+    "ratio": 5.1,
+    "need": 4.5,
+    "pass": true,
+    "where": ".btn-danger"
+  },
+  {
+    "theme": "dark",
+    "label": "Danger outline / error text on card",
+    "fg": "red #EF9AA6",
+    "bg": "surface #0F1C17",
+    "ratio": 8.21,
+    "need": 4.5,
+    "pass": true,
+    "where": ".btn-danger-outline, .error-text"
+  },
+  {
+    "theme": "dark",
+    "label": "Red text on inset",
+    "fg": "red #EF9AA6",
+    "bg": "inset #0B1612",
+    "ratio": 8.65,
+    "need": 4.5,
+    "pass": true,
+    "where": "n/a"
+  },
+  {
+    "theme": "dark",
+    "label": "Gold kicker on card",
+    "fg": "gold #D4B373",
+    "bg": "surface #0F1C17",
+    "ratio": 8.75,
+    "need": 4.5,
+    "pass": true,
+    "where": "Modal kicker \"STEP 1 OF 2\", tour \"STEP 1 OF 5\" (12px)"
+  },
+  {
+    "theme": "dark",
+    "label": "Gold kicker on gold card",
+    "fg": "gold #D4B373",
+    "bg": "gold-soft #1F1D14",
+    "ratio": 8.44,
+    "need": 4.5,
+    "pass": true,
+    "where": "Side card \"TEAM PLAN\", \"CURRENT PLAN\", desktop \"SAVED BY CACHING\" (11-12px)"
+  },
+  {
+    "theme": "dark",
+    "label": "Gold initials on gold-soft",
+    "fg": "gold #D4B373",
+    "bg": "gold-soft #1F1D14",
+    "ratio": 8.44,
+    "need": 4.5,
+    "pass": true,
+    "where": ".avatar-gold initials (12px 800)"
+  },
+  {
+    "theme": "dark",
+    "label": "Gold ink on gold-soft",
+    "fg": "gold-ink #E8D3A2",
+    "bg": "gold-soft #1F1D14",
+    "ratio": 11.47,
+    "need": 4.5,
+    "pass": true,
+    "where": ".gold-card .label/.sub, .pill-gold"
+  },
+  {
+    "theme": "dark",
+    "label": "Secondary text on gold banner",
+    "fg": "text2 #CFDDD5",
+    "bg": "gold-soft #1F1D14",
+    "ratio": 12.02,
+    "need": 4.5,
+    "pass": true,
+    "where": ".banner-gold"
+  },
+  {
+    "theme": "dark",
+    "label": "OK pill / banner",
+    "fg": "ok-text #8EE0D2",
+    "bg": "ok-bg #10302C",
+    "ratio": 9.28,
+    "need": 4.5,
+    "pass": true,
+    "where": ".pill-ok, .banner-ok"
+  },
+  {
+    "theme": "dark",
+    "label": "Warn pill / banner",
+    "fg": "warn-text #F0C3A2",
+    "bg": "warn-bg #2A1E17",
+    "ratio": 10.05,
+    "need": 4.5,
+    "pass": true,
+    "where": ".pill-warn, .banner-warn"
+  },
+  {
+    "theme": "dark",
+    "label": "Error pill / banner",
+    "fg": "no-text #F4B7BF",
+    "bg": "no-bg #2A1719",
+    "ratio": 10.02,
+    "need": 4.5,
+    "pass": true,
+    "where": ".pill-no, .banner-no"
+  },
+  {
+    "theme": "dark",
+    "label": "Toast",
+    "fg": "bg #08120F",
+    "bg": "text #F2F7F4",
+    "ratio": 17.56,
+    "need": 4.5,
+    "pass": true,
+    "where": ".toast"
+  },
+  {
+    "theme": "dark",
+    "label": "Tabs inactive",
+    "fg": "muted #9FB5A9",
+    "bg": "inset #0B1612",
+    "ratio": 8.49,
+    "need": 4.5,
+    "pass": true,
+    "where": ".tabs button"
+  },
+  {
+    "theme": "dark",
+    "label": "Logo letter",
+    "fg": "#FFFFFF #FFFFFF",
+    "bg": "accent #1E7D5E",
+    "ratio": 5.06,
+    "need": 4.5,
+    "pass": true,
+    "where": ".logo (large, 19px+ bold -> 3:1)"
+  },
+  {
+    "theme": "dark",
+    "label": "Chart series 1 (Claude Code) on card",
+    "fg": "s1 #48B39A",
+    "bg": "surface #0F1C17",
+    "ratio": 6.83,
+    "need": 3,
+    "pass": true,
+    "where": "bars, line, donut, meters"
+  },
+  {
+    "theme": "dark",
+    "label": "Chart series 2 (Codex) on card",
+    "fg": "s2 #BDBE6E",
+    "bg": "surface #0F1C17",
+    "ratio": 8.97,
+    "need": 3,
+    "pass": true,
+    "where": "bars, donut, tool mix"
+  },
+  {
+    "theme": "dark",
+    "label": "Budget pace line on card",
+    "fg": "gold #D4B373",
+    "bg": "surface #0F1C17",
+    "ratio": 8.75,
+    "need": 3,
+    "pass": true,
+    "where": "SpendLine dashed line"
+  },
+  {
+    "theme": "dark",
+    "label": "Meter fill s1 on track",
+    "fg": "s1 #48B39A",
+    "bg": "raised #182A23",
+    "ratio": 5.87,
+    "need": 3,
+    "pass": true,
+    "where": ".meter"
+  },
+  {
+    "theme": "dark",
+    "label": "Meter fill amber on track",
+    "fg": "amber #E3A57A",
+    "bg": "raised #182A23",
+    "ratio": 7.12,
+    "need": 3,
+    "pass": true,
+    "where": ".meter >=80%"
+  },
+  {
+    "theme": "dark",
+    "label": "Meter fill red on track",
+    "fg": "red #EF9AA6",
+    "bg": "raised #182A23",
+    "ratio": 7.06,
+    "need": 3,
+    "pass": true,
+    "where": ".meter >=100%"
+  },
+  {
+    "theme": "dark",
+    "label": "Meter track on card",
+    "fg": "raised #182A23",
+    "bg": "surface #0F1C17",
+    "ratio": 1.16,
+    "need": 3,
+    "pass": false,
+    "where": ".meter track (decorative unless value is read from it)"
+  },
+  {
+    "theme": "dark",
+    "label": "\"Not started\" legend swatch",
+    "fg": "raised #182A23",
+    "bg": "surface #0F1C17",
+    "ratio": 1.16,
+    "need": 3,
+    "pass": false,
+    "where": "Overview Budget health legend"
+  },
+  {
+    "theme": "dark",
+    "label": "Sessions split 4th segment",
+    "fg": "border-strong #2C4A3E",
+    "bg": "surface #0F1C17",
+    "ratio": 1.8,
+    "need": 3,
+    "pass": false,
+    "where": "Sessions \"Where the tokens went\" (SPLIT[3])"
+  },
+  {
+    "theme": "dark",
+    "label": "Heatmap level 1 on card",
+    "fg": "heat1 #1C4236",
+    "bg": "surface #0F1C17",
+    "ratio": 1.57,
+    "need": 3,
+    "pass": false,
+    "where": ".heat .c"
+  },
+  {
+    "theme": "dark",
+    "label": "Heatmap level 2 on card",
+    "fg": "heat2 #2A6B57",
+    "bg": "surface #0F1C17",
+    "ratio": 2.79,
+    "need": 3,
+    "pass": false,
+    "where": ".heat .c"
+  },
+  {
+    "theme": "dark",
+    "label": "Heatmap level 4 on card",
+    "fg": "heat4 #7FD6BC",
+    "bg": "surface #0F1C17",
+    "ratio": 10.22,
+    "need": 3,
+    "pass": true,
+    "where": ".heat .c"
+  },
+  {
+    "theme": "dark",
+    "label": "Input border on inset",
+    "fg": "border-strong #2C4A3E",
+    "bg": "inset #0B1612",
+    "ratio": 1.9,
+    "need": 3,
+    "pass": false,
+    "where": ".input"
+  },
+  {
+    "theme": "dark",
+    "label": "Input border on card",
+    "fg": "border-strong #2C4A3E",
+    "bg": "surface #0F1C17",
+    "ratio": 1.8,
+    "need": 3,
+    "pass": false,
+    "where": ".input inside cards"
+  },
+  {
+    "theme": "dark",
+    "label": "Search input border",
+    "fg": "border #1E332B",
+    "bg": "inset #0B1612",
+    "ratio": 1.37,
+    "need": 3,
+    "pass": false,
+    "where": ".search input (border-color: var(--border))"
+  },
+  {
+    "theme": "dark",
+    "label": "Card / icon-btn border on page",
+    "fg": "border #1E332B",
+    "bg": "bg #08120F",
+    "ratio": 1.42,
+    "need": 3,
+    "pass": false,
+    "where": ".icon-btn border (button boundary)"
+  },
+  {
+    "theme": "dark",
+    "label": "Focus ring on page",
+    "fg": "accent-ink #9FE0C6",
+    "bg": "bg #08120F",
+    "ratio": 12.64,
+    "need": 3,
+    "pass": true,
+    "where": ":focus-visible outline"
+  },
+  {
+    "theme": "dark",
+    "label": "Focus ring on card",
+    "fg": "accent-ink #9FE0C6",
+    "bg": "surface #0F1C17",
+    "ratio": 11.64,
+    "need": 3,
+    "pass": true,
+    "where": ":focus-visible outline"
+  },
+  {
+    "theme": "dark",
+    "label": "OTP focus border on inset",
+    "fg": "accent #1E7D5E",
+    "bg": "inset #0B1612",
+    "ratio": 3.65,
+    "need": 3,
+    "pass": true,
+    "where": ".otp input:focus (outline: none)"
+  },
+  {
+    "theme": "dark",
+    "label": "OTP focus vs unfocused border",
+    "fg": "accent #1E7D5E",
+    "bg": "border-strong #2C4A3E",
+    "ratio": 1.92,
+    "need": 3,
+    "pass": false,
+    "where": ".otp focus state change"
+  },
+  {
+    "theme": "dark",
+    "label": "Unchecked checklist dot on inset",
+    "fg": "raised #182A23",
+    "bg": "inset #0B1612",
+    "ratio": 1.23,
+    "need": 3,
+    "pass": false,
+    "where": ".dot-ok"
+  },
+  {
+    "theme": "dark",
+    "label": "Tour target ring",
+    "fg": "accent #1E7D5E",
+    "bg": "bg #08120F",
+    "ratio": 3.76,
+    "need": 3,
+    "pass": true,
+    "where": ".tour-target box-shadow"
+  },
+  {
+    "theme": "dark",
+    "label": "Landing CTA sub text",
+    "fg": "cta-sub #CDEBDF",
+    "bg": "brand #1E7D5E",
+    "ratio": 3.99,
+    "need": 4.5,
+    "pass": false,
+    "where": "landing final CTA \"Start free with three members…\" (18px)"
+  },
+  {
+    "theme": "dark",
+    "label": "Landing announcement text",
+    "fg": "accent-ink #9FE0C6",
+    "bg": "accent-soft #13302A",
+    "ratio": 9.4,
+    "need": 4.5,
+    "pass": true,
+    "where": "top bar"
+  },
+  {
+    "theme": "dark",
+    "label": "Landing \"NEW\" badge",
+    "fg": "#FFFFFF #FFFFFF",
+    "bg": "brand #1E7D5E",
+    "ratio": 5.06,
+    "need": 4.5,
+    "pass": true,
+    "where": "top bar badge (12px)"
+  },
+  {
+    "theme": "dark",
+    "label": "Landing muted on surface",
+    "fg": "muted #9FB5A9",
+    "bg": "surface #0F1C17",
+    "ratio": 8.06,
+    "need": 4.5,
+    "pass": true,
+    "where": "pricing notes"
+  },
+  {
+    "theme": "dark",
+    "label": "Landing panel-sub on panel",
+    "fg": "panel-sub #9FB5A9",
+    "bg": "panel #0A1511",
+    "ratio": 8.56,
+    "need": 4.5,
+    "pass": true,
+    "where": "header/footer"
+  },
+  {
+    "theme": "dark",
+    "label": "Landing CTA button",
+    "fg": "on-brand #FFFFFF",
+    "bg": "cta-btn #0E5A43",
+    "ratio": 8.2,
+    "need": 4.5,
+    "pass": true,
+    "where": "CTA button"
+  }
+]

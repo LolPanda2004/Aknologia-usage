@@ -1,0 +1,1 @@
+d":"req_a3","uuid":"u-msg_a3","timestamp":"2026-10-09T10:03:00.000Z","cwd":"C:\\Users\\dev\\ünïcødé 项目\\app","message":{"id":"msg_a3","model":"claude-sonnet-4-5","role":"assistant","content":[{"type":"text","text":"SECRET_REPLY_MARKER_456"}],"usage":{"input_tokens":1,"output_tokens":2,"cache_creation_input_tokens":3,"cache_read_input_tokens":4}}}

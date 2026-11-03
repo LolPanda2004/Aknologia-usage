@@ -1,0 +1,301 @@
+
+Running 84 tests using 3 workers
+
+  -   2 [admin-dark-1440] › admin.spec.ts:138:7 › full flow › sign up with the emailed code
+  -   4 [admin-dark-1440] › admin.spec.ts:160:7 › full flow › in-app tour: every step points at a real, visible element; replay from help
+  -   5 [admin-dark-1440] › admin.spec.ts:180:7 › full flow › fresh org: overview empty states and numbers match the API
+  -   6 [admin-dark-1440] › admin.spec.ts:192:7 › full flow › set plan and seats
+  -   7 [admin-dark-1440] › admin.spec.ts:219:7 › full flow › invite members: chips, paste a list, budget, role
+  -   8 [admin-dark-1440] › admin.spec.ts:268:7 › full flow › resend and cancel invites
+  -   9 [admin-dark-1440] › admin.spec.ts:287:7 › full flow › members accept, usage ingested (API), Refresh data
+  -  10 [admin-dark-1440] › admin.spec.ts:305:7 › full flow › overview numbers match the API and independent math
+  -  11 [admin-dark-1440] › admin.spec.ts:346:7 › full flow › member detail
+  -  12 [admin-dark-1440] › admin.spec.ts:374:7 › full flow › edit budget, remove with and without history, re-invite
+  -  13 [admin-dark-1440] › admin.spec.ts:419:7 › full flow › budgets: default, override, inboxes, toggles, save, alert log
+  -  14 [admin-dark-1440] › admin.spec.ts:460:7 › full flow › settings: org, password change with code, devices, backup email, refresh, CSV, delete data
+  -  15 [admin-dark-1440] › admin.spec.ts:547:7 › full flow › support ticket
+  -  16 [admin-dark-1440] › admin.spec.ts:570:7 › full flow › sign out, forgot password, reset, sign in again
+  -  17 [admin-dark-1440] › admin.spec.ts:600:7 › full flow › findings recorded in this suite
+  ✓   1 [admin-light-1440] › admin.spec.ts:138:7 › full flow › sign up with the emailed code (3.1s)
+  ✓  18 [admin-dark-1440] › admin.spec.ts:621:7 › pages pass › auth screens + sign up (6.9s)
+  ✓   3 [admin-light-1440] › admin.spec.ts:621:7 › pages pass › auth screens + sign up (6.8s)
+  ✓  19 [admin-light-1440] › admin.spec.ts:160:7 › full flow › in-app tour: every step points at a real, visible element; replay from help (15.0s)
+  ✓  20 [admin-dark-1440] › admin.spec.ts:651:7 › pages pass › tour targets in this theme/viewport (13.1s)
+  ✓  21 [admin-light-1440] › admin.spec.ts:651:7 › pages pass › tour targets in this theme/viewport (13.5s)
+  ✓  22 [admin-light-1440] › admin.spec.ts:180:7 › full flow › fresh org: overview empty states and numbers match the API (2.3s)
+  ✓  25 [admin-light-1440] › admin.spec.ts:192:7 › full flow › set plan and seats (4.6s)
+  ✓  23 [admin-dark-1440] › admin.spec.ts:656:7 › pages pass › every page, empty org (7.7s)
+  ✓  24 [admin-light-1440] › admin.spec.ts:656:7 › pages pass › every page, empty org (7.9s)
+  ✓  26 [admin-light-1440] › admin.spec.ts:219:7 › full flow › invite members: chips, paste a list, budget, role (4.5s)
+  ✓  29 [admin-light-1440] › admin.spec.ts:268:7 › full flow › resend and cancel invites (711ms)
+  ✓  30 [admin-light-1440] › admin.spec.ts:287:7 › full flow › members accept, usage ingested (API), Refresh data (1.1s)
+  ✓  31 [admin-light-1440] › admin.spec.ts:305:7 › full flow › overview numbers match the API and independent math (3.9s)
+  ✓  32 [admin-light-1440] › admin.spec.ts:346:7 › full flow › member detail (1.8s)
+  ✓  27 [admin-dark-1440] › admin.spec.ts:688:7 › pages pass › every page with data + modals; overview numbers vs API (16.4s)
+  ✓  28 [admin-light-1440] › admin.spec.ts:688:7 › pages pass › every page with data + modals; overview numbers vs API (16.9s)
+  ✓  33 [admin-light-1440] › admin.spec.ts:374:7 › full flow › edit budget, remove with and without history, re-invite (7.4s)
+  ✓  34 [admin-dark-1440] › admin.spec.ts:746:7 › pages pass › sign out → forgot → reset screens → sign in (4.3s)
+  ✓  35 [admin-light-1440] › admin.spec.ts:746:7 › pages pass › sign out → forgot → reset screens → sign in (4.0s)
+  ✓  36 [admin-light-1440] › admin.spec.ts:419:7 › full flow › budgets: default, override, inboxes, toggles, save, alert log (4.5s)
+  ✘  37 [admin-dark-1440] › admin.spec.ts:769:7 › pages pass › findings recorded in this suite (43ms)
+  ✘  38 [admin-light-1440] › admin.spec.ts:769:7 › pages pass › findings recorded in this suite (49ms)
+  -  40 [admin-light-390] › admin.spec.ts:138:7 › full flow › sign up with the emailed code
+  -  42 [admin-light-390] › admin.spec.ts:160:7 › full flow › in-app tour: every step points at a real, visible element; replay from help
+  -  43 [admin-light-390] › admin.spec.ts:180:7 › full flow › fresh org: overview empty states and numbers match the API
+  -  44 [admin-light-390] › admin.spec.ts:192:7 › full flow › set plan and seats
+  -  45 [admin-light-390] › admin.spec.ts:219:7 › full flow › invite members: chips, paste a list, budget, role
+  -  46 [admin-light-390] › admin.spec.ts:268:7 › full flow › resend and cancel invites
+  -  47 [admin-light-390] › admin.spec.ts:287:7 › full flow › members accept, usage ingested (API), Refresh data
+  -  48 [admin-light-390] › admin.spec.ts:305:7 › full flow › overview numbers match the API and independent math
+  -  49 [admin-light-390] › admin.spec.ts:346:7 › full flow › member detail
+  -  50 [admin-light-390] › admin.spec.ts:374:7 › full flow › edit budget, remove with and without history, re-invite
+  -  51 [admin-light-390] › admin.spec.ts:419:7 › full flow › budgets: default, override, inboxes, toggles, save, alert log
+  -  52 [admin-light-390] › admin.spec.ts:460:7 › full flow › settings: org, password change with code, devices, backup email, refresh, CSV, delete data
+  -  53 [admin-light-390] › admin.spec.ts:547:7 › full flow › support ticket
+  -  54 [admin-light-390] › admin.spec.ts:570:7 › full flow › sign out, forgot password, reset, sign in again
+  -  55 [admin-light-390] › admin.spec.ts:600:7 › full flow › findings recorded in this suite
+  -  56 [admin-dark-390] › admin.spec.ts:138:7 › full flow › sign up with the emailed code
+  -  57 [admin-dark-390] › admin.spec.ts:160:7 › full flow › in-app tour: every step points at a real, visible element; replay from help
+  -  58 [admin-dark-390] › admin.spec.ts:180:7 › full flow › fresh org: overview empty states and numbers match the API
+  -  59 [admin-dark-390] › admin.spec.ts:192:7 › full flow › set plan and seats
+  -  60 [admin-dark-390] › admin.spec.ts:219:7 › full flow › invite members: chips, paste a list, budget, role
+  -  61 [admin-dark-390] › admin.spec.ts:268:7 › full flow › resend and cancel invites
+  -  62 [admin-dark-390] › admin.spec.ts:287:7 › full flow › members accept, usage ingested (API), Refresh data
+  -  63 [admin-dark-390] › admin.spec.ts:305:7 › full flow › overview numbers match the API and independent math
+  -  64 [admin-dark-390] › admin.spec.ts:346:7 › full flow › member detail
+  -  65 [admin-dark-390] › admin.spec.ts:374:7 › full flow › edit budget, remove with and without history, re-invite
+  -  66 [admin-dark-390] › admin.spec.ts:419:7 › full flow › budgets: default, override, inboxes, toggles, save, alert log
+  -  67 [admin-dark-390] › admin.spec.ts:460:7 › full flow › settings: org, password change with code, devices, backup email, refresh, CSV, delete data
+  -  68 [admin-dark-390] › admin.spec.ts:547:7 › full flow › support ticket
+  -  69 [admin-dark-390] › admin.spec.ts:570:7 › full flow › sign out, forgot password, reset, sign in again
+  -  70 [admin-dark-390] › admin.spec.ts:600:7 › full flow › findings recorded in this suite
+  ✓  41 [admin-light-390] › admin.spec.ts:621:7 › pages pass › auth screens + sign up (5.7s)
+  ✓  71 [admin-dark-390] › admin.spec.ts:621:7 › pages pass › auth screens + sign up (5.9s)
+  ✓  72 [admin-light-390] › admin.spec.ts:651:7 › pages pass › tour targets in this theme/viewport (14.2s)
+  ✓  39 [admin-light-1440] › admin.spec.ts:460:7 › full flow › settings: org, password change with code, devices, backup email, refresh, CSV, delete data (27.8s)
+  ✓  73 [admin-dark-390] › admin.spec.ts:651:7 › pages pass › tour targets in this theme/viewport (14.8s)
+  ✓  75 [admin-light-1440] › admin.spec.ts:547:7 › full flow › support ticket (3.2s)
+  ✓  74 [admin-light-390] › admin.spec.ts:656:7 › pages pass › every page, empty org (6.8s)
+  ✓  76 [admin-dark-390] › admin.spec.ts:656:7 › pages pass › every page, empty org (5.7s)
+  ✓  77 [admin-light-1440] › admin.spec.ts:570:7 › full flow › sign out, forgot password, reset, sign in again (4.7s)
+FINDING [admin-light-1440] full flow > in-app tour: every step points at a real, visible element; replay from help: tour step 4 target help-theme is highlighted above the dim layer (hit: DIV.tour-dim) | expect(received).toBe(expected) // Object.is equality | Expected: true | Received: false
+FINDING [admin-light-1440] full flow > in-app tour: every step points at a real, visible element; replay from help: tour step 5 target nav-account is highlighted above the dim layer (hit: DIV.tour-dim) | expect(received).toBe(expected) // Object.is equality | Expected: true | Received: false
+FINDING [admin-light-1440] full flow > set plan and seats: sidebar plan card updates after plan change (no reload) | expect(locator).toContainText(expected) failed | Locator: locator('.side-foot') | Expected substring: "TEAM PLAN" | Received string:    "STARTER PLAN3 seats · manage in Settings" | Timeout: 2000ms
+FINDING [admin-light-1440] full flow > set plan and seats: rejected Starter/9-seat change leaves plan unchanged | expect(received).toBe(expected) // Object.is equality | Expected: "team" | Received: "starter"
+FINDING [admin-light-1440] full flow > invite members: chips, paste a list, budget, role: button label for one typed (draft) email | expect(received).toBe(expected) // Object.is equality | Expected: "Send 1 invite" | Received: "Send 1 invites"
+FINDING [admin-light-1440] full flow > settings: org, password change with code, devices, backup email, refresh, CSV, delete data: breadcrumb shows the new org name without reload | expect(locator).toContainText(expected) failed | Locator: locator('.topbar nav[aria-label="Breadcrumb"]') | Expected substring: "QA3 Renamed itim75" | Received string:    "QA3 Flow m3cdogSettings and billing" | Timeout: 2000ms
+FINDING [admin-light-1440] full flow > settings: org, password change with code, devices, backup email, refresh, CSV, delete data: signed-out device disappears from Signed-in devices after password change | expect(received).toBe(expected) // Object.is equality | Expected: 0 | Received: 1
+  ✘  80 [admin-light-1440] › admin.spec.ts:600:7 › full flow › findings recorded in this suite (43ms)
+  ✓  78 [admin-light-390] › admin.spec.ts:688:7 › pages pass › every page with data + modals; overview numbers vs API (13.6s)
+  ✓  79 [admin-dark-390] › admin.spec.ts:688:7 › pages pass › every page with data + modals; overview numbers vs API (13.9s)
+  ✓  81 [admin-light-390] › admin.spec.ts:746:7 › pages pass › sign out → forgot → reset screens → sign in (3.2s)
+  ✓  82 [admin-dark-390] › admin.spec.ts:746:7 › pages pass › sign out → forgot → reset screens → sign in (3.1s)
+  ✘  83 [admin-light-390] › admin.spec.ts:769:7 › pages pass › findings recorded in this suite (15ms)
+  ✘  84 [admin-dark-390] › admin.spec.ts:769:7 › pages pass › findings recorded in this suite (15ms)
+
+
+  1) [admin-light-1440] › admin.spec.ts:600:7 › full flow › findings recorded in this suite ────────
+
+    Error: product findings in this suite
+
+    expect(received).toEqual(expected) // deep equality
+
+    - Expected  - 1
+    + Received  + 9
+
+    - Array []
+    + Array [
+    +   "[admin-light-1440] full flow > in-app tour: every step points at a real, visible element; replay from help: tour step 4 target help-theme is highlighted above the dim layer (hit: DIV.tour-dim) | expect(received).toBe(expected) // Object.is equality | Expected: true | Received: false",
+    +   "[admin-light-1440] full flow > in-app tour: every step points at a real, visible element; replay from help: tour step 5 target nav-account is highlighted above the dim layer (hit: DIV.tour-dim) | expect(received).toBe(expected) // Object.is equality | Expected: true | Received: false",
+    +   "[admin-light-1440] full flow > set plan and seats: sidebar plan card updates after plan change (no reload) | expect(locator).toContainText(expected) failed | Locator: locator('.side-foot') | Expected substring: \"TEAM PLAN\" | Received string:    \"STARTER PLAN3 seats · manage in Settings\" | Timeout: 2000ms",
+    +   "[admin-light-1440] full flow > set plan and seats: rejected Starter/9-seat change leaves plan unchanged | expect(received).toBe(expected) // Object.is equality | Expected: \"team\" | Received: \"starter\"",
+    +   "[admin-light-1440] full flow > invite members: chips, paste a list, budget, role: button label for one typed (draft) email | expect(received).toBe(expected) // Object.is equality | Expected: \"Send 1 invite\" | Received: \"Send 1 invites\"",
+    +   "[admin-light-1440] full flow > settings: org, password change with code, devices, backup email, refresh, CSV, delete data: breadcrumb shows the new org name without reload | expect(locator).toContainText(expected) failed | Locator: locator('.topbar nav[aria-label=\"Breadcrumb\"]') | Expected substring: \"QA3 Renamed itim75\" | Received string:    \"QA3 Flow m3cdogSettings and billing\" | Timeout: 2000ms",
+    +   "[admin-light-1440] full flow > settings: org, password change with code, devices, backup email, refresh, CSV, delete data: signed-out device disappears from Signed-in devices after password change | expect(received).toBe(expected) // Object.is equality | Expected: 0 | Received: 1",
+    + ]
+
+      602 |     for (const f of FINDINGS) console.log('FINDING ' + f);
+      603 |     const mine = FINDINGS.filter((f) => f.startsWith(`[${info.project.name}]`) && f.includes('full flow >'));
+    > 604 |     expect(mine, 'product findings in this suite').toEqual([]);
+          |                                                    ^
+      605 |   });
+      606 |
+      607 | });
+        at C:\Users\Admin\Downloads\aknologia-usage\aknologia\tests\e2e\admin.spec.ts:604:52
+
+    Error Context: test-results-admin\admin-full-flow-findings-recorded-in-this-suite-admin-light-1440\error-context.md
+
+    Error Context: test-results-admin\admin-full-flow-findings-recorded-in-this-suite-admin-light-1440\error-context.md
+
+    attachment #3: trace (application/zip) ─────────────────────────────────────────────────────────
+    test-results-admin\admin-full-flow-findings-recorded-in-this-suite-admin-light-1440\trace.zip
+    Usage:
+
+        npx playwright show-trace test-results-admin\admin-full-flow-findings-recorded-in-this-suite-admin-light-1440\trace.zip
+
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+  2) [admin-light-1440] › admin.spec.ts:769:7 › pages pass › findings recorded in this suite ───────
+
+    Error: product findings in this suite
+
+    expect(received).toEqual(expected) // deep equality
+
+    - Expected  - 1
+    + Received  + 4
+
+    - Array []
+    + Array [
+    +   "[admin-light-1440] pages pass > tour targets in this theme/viewport: tour step 4 target help-theme is highlighted above the dim layer (hit: DIV.tour-dim) | expect(received).toBe(expected) // Object.is equality | Expected: true | Received: false",
+    +   "[admin-light-1440] pages pass > tour targets in this theme/viewport: tour step 5 target nav-account is highlighted above the dim layer (hit: DIV.tour-dim) | expect(received).toBe(expected) // Object.is equality | Expected: true | Received: false",
+    + ]
+
+      770 |     test.skip(false);
+      771 |     const mine = FINDINGS.filter((f) => f.startsWith(`[${info.project.name}]`) && f.includes('pages pass >'));
+    > 772 |     expect(mine, 'product findings in this suite').toEqual([]);
+          |                                                    ^
+      773 |   });
+      774 |
+      775 | });
+        at C:\Users\Admin\Downloads\aknologia-usage\aknologia\tests\e2e\admin.spec.ts:772:52
+
+    Error Context: test-results-admin\admin-pages-pass-findings-recorded-in-this-suite-admin-light-1440\error-context.md
+
+    Error Context: test-results-admin\admin-pages-pass-findings-recorded-in-this-suite-admin-light-1440\error-context.md
+
+    attachment #3: trace (application/zip) ─────────────────────────────────────────────────────────
+    test-results-admin\admin-pages-pass-findings-recorded-in-this-suite-admin-light-1440\trace.zip
+    Usage:
+
+        npx playwright show-trace test-results-admin\admin-pages-pass-findings-recorded-in-this-suite-admin-light-1440\trace.zip
+
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+  3) [admin-dark-1440] › admin.spec.ts:769:7 › pages pass › findings recorded in this suite ────────
+
+    Error: product findings in this suite
+
+    expect(received).toEqual(expected) // deep equality
+
+    - Expected  - 1
+    + Received  + 4
+
+    - Array []
+    + Array [
+    +   "[admin-dark-1440] pages pass > tour targets in this theme/viewport: tour step 4 target help-theme is highlighted above the dim layer (hit: DIV.tour-dim) | expect(received).toBe(expected) // Object.is equality | Expected: true | Received: false",
+    +   "[admin-dark-1440] pages pass > tour targets in this theme/viewport: tour step 5 target nav-account is highlighted above the dim layer (hit: DIV.tour-dim) | expect(received).toBe(expected) // Object.is equality | Expected: true | Received: false",
+    + ]
+
+      770 |     test.skip(false);
+      771 |     const mine = FINDINGS.filter((f) => f.startsWith(`[${info.project.name}]`) && f.includes('pages pass >'));
+    > 772 |     expect(mine, 'product findings in this suite').toEqual([]);
+          |                                                    ^
+      773 |   });
+      774 |
+      775 | });
+        at C:\Users\Admin\Downloads\aknologia-usage\aknologia\tests\e2e\admin.spec.ts:772:52
+
+    Error Context: test-results-admin\admin-pages-pass-findings-recorded-in-this-suite-admin-dark-1440\error-context.md
+
+    Error Context: test-results-admin\admin-pages-pass-findings-recorded-in-this-suite-admin-dark-1440\error-context.md
+
+    attachment #3: trace (application/zip) ─────────────────────────────────────────────────────────
+    test-results-admin\admin-pages-pass-findings-recorded-in-this-suite-admin-dark-1440\trace.zip
+    Usage:
+
+        npx playwright show-trace test-results-admin\admin-pages-pass-findings-recorded-in-this-suite-admin-dark-1440\trace.zip
+
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+  4) [admin-light-390] › admin.spec.ts:769:7 › pages pass › findings recorded in this suite ────────
+
+    Error: product findings in this suite
+
+    expect(received).toEqual(expected) // deep equality
+
+    - Expected  -  1
+    + Received  + 10
+
+    - Array []
+    + Array [
+    +   "[admin-light-390] pages pass > tour targets in this theme/viewport: tour step 3 card does not cover its target kpis | expect(received).toBe(expected) // Object.is equality | Expected: false | Received: true",
+    +   "[admin-light-390] pages pass > tour targets in this theme/viewport: tour step 3 (kpis): Next/Done button can be clicked (not covered by the highlighted target) | expect(received).toBe(expected) // Object.is equality | Expected: true | Received: false",
+    +   "[admin-light-390] pages pass > tour targets in this theme/viewport: tour step 4 target help-theme is highlighted above the dim layer (hit: DIV.tour-dim) | expect(received).toBe(expected) // Object.is equality | Expected: true | Received: false",
+    +   "[admin-light-390] pages pass > tour targets in this theme/viewport: tour step 5 target nav-account is visible (non-zero size) | expect(received).toBe(expected) // Object.is equality | Expected: true | Received: false",
+    +   "[admin-light-390] pages pass > tour targets in this theme/viewport: tour step 5 target nav-account in viewport | expect(received).toBe(expected) // Object.is equality | Expected: true | Received: false",
+    +   "[admin-light-390] pages pass > tour targets in this theme/viewport: tour step 5 target nav-account is highlighted above the dim layer (hit: ) | expect(received).toBe(expected) // Object.is equality | Expected: true | Received: false",
+    +   "[admin-light-390] pages pass > every page, empty org: a way to reach Members/Budgets/Support/Settings exists at this width | expect(received).toBe(expected) // Object.is equality | Expected: true | Received: false",
+    +   "[admin-light-390] pages pass > every page with data + modals; overview numbers vs API: horizontal page overflow on budgets | expect(received).toEqual(expected) // deep equality | - Expected  - 1 | + Received  + 3 | - Array [] | + Array [",
+    + ]
+
+      770 |     test.skip(false);
+      771 |     const mine = FINDINGS.filter((f) => f.startsWith(`[${info.project.name}]`) && f.includes('pages pass >'));
+    > 772 |     expect(mine, 'product findings in this suite').toEqual([]);
+          |                                                    ^
+      773 |   });
+      774 |
+      775 | });
+        at C:\Users\Admin\Downloads\aknologia-usage\aknologia\tests\e2e\admin.spec.ts:772:52
+
+    Error Context: test-results-admin\admin-pages-pass-findings-recorded-in-this-suite-admin-light-390\error-context.md
+
+    Error Context: test-results-admin\admin-pages-pass-findings-recorded-in-this-suite-admin-light-390\error-context.md
+
+    attachment #3: trace (application/zip) ─────────────────────────────────────────────────────────
+    test-results-admin\admin-pages-pass-findings-recorded-in-this-suite-admin-light-390\trace.zip
+    Usage:
+
+        npx playwright show-trace test-results-admin\admin-pages-pass-findings-recorded-in-this-suite-admin-light-390\trace.zip
+
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+  5) [admin-dark-390] › admin.spec.ts:769:7 › pages pass › findings recorded in this suite ─────────
+
+    Error: product findings in this suite
+
+    expect(received).toEqual(expected) // deep equality
+
+    - Expected  -  1
+    + Received  + 10
+
+    - Array []
+    + Array [
+    +   "[admin-dark-390] pages pass > tour targets in this theme/viewport: tour step 3 card does not cover its target kpis | expect(received).toBe(expected) // Object.is equality | Expected: false | Received: true",
+    +   "[admin-dark-390] pages pass > tour targets in this theme/viewport: tour step 3 (kpis): Next/Done button can be clicked (not covered by the highlighted target) | expect(received).toBe(expected) // Object.is equality | Expected: true | Received: false",
+    +   "[admin-dark-390] pages pass > tour targets in this theme/viewport: tour step 4 target help-theme is highlighted above the dim layer (hit: DIV.tour-dim) | expect(received).toBe(expected) // Object.is equality | Expected: true | Received: false",
+    +   "[admin-dark-390] pages pass > tour targets in this theme/viewport: tour step 5 target nav-account is visible (non-zero size) | expect(received).toBe(expected) // Object.is equality | Expected: true | Received: false",
+    +   "[admin-dark-390] pages pass > tour targets in this theme/viewport: tour step 5 target nav-account in viewport | expect(received).toBe(expected) // Object.is equality | Expected: true | Received: false",
+    +   "[admin-dark-390] pages pass > tour targets in this theme/viewport: tour step 5 target nav-account is highlighted above the dim layer (hit: ) | expect(received).toBe(expected) // Object.is equality | Expected: true | Received: false",
+    +   "[admin-dark-390] pages pass > every page, empty org: a way to reach Members/Budgets/Support/Settings exists at this width | expect(received).toBe(expected) // Object.is equality | Expected: true | Received: false",
+    +   "[admin-dark-390] pages pass > every page with data + modals; overview numbers vs API: horizontal page overflow on budgets | expect(received).toEqual(expected) // deep equality | - Expected  - 1 | + Received  + 3 | - Array [] | + Array [",
+    + ]
+
+      770 |     test.skip(false);
+      771 |     const mine = FINDINGS.filter((f) => f.startsWith(`[${info.project.name}]`) && f.includes('pages pass >'));
+    > 772 |     expect(mine, 'product findings in this suite').toEqual([]);
+          |                                                    ^
+      773 |   });
+      774 |
+      775 | });
+        at C:\Users\Admin\Downloads\aknologia-usage\aknologia\tests\e2e\admin.spec.ts:772:52
+
+    Error Context: test-results-admin\admin-pages-pass-findings-recorded-in-this-suite-admin-dark-390\error-context.md
+
+    Error Context: test-results-admin\admin-pages-pass-findings-recorded-in-this-suite-admin-dark-390\error-context.md
+
+    attachment #3: trace (application/zip) ─────────────────────────────────────────────────────────
+    test-results-admin\admin-pages-pass-findings-recorded-in-this-suite-admin-dark-390\trace.zip
+    Usage:
+
+        npx playwright show-trace test-results-admin\admin-pages-pass-findings-recorded-in-this-suite-admin-dark-390\trace.zip
+
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+  5 failed
+    [admin-light-1440] › admin.spec.ts:600:7 › full flow › findings recorded in this suite ─────────
+    [admin-light-1440] › admin.spec.ts:769:7 › pages pass › findings recorded in this suite ────────
+    [admin-dark-1440] › admin.spec.ts:769:7 › pages pass › findings recorded in this suite ─────────
+    [admin-light-390] › admin.spec.ts:769:7 › pages pass › findings recorded in this suite ─────────
+    [admin-dark-390] › admin.spec.ts:769:7 › pages pass › findings recorded in this suite ──────────
+  45 skipped
+  34 passed (1.8m)

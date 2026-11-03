@@ -1,0 +1,68 @@
+[
+  {
+    "name": "Today sessions vs fixtures",
+    "got": 1,
+    "want": 1,
+    "ok": true
+  },
+  {
+    "name": "7d sessions vs fixtures",
+    "got": 5,
+    "want": 5,
+    "ok": true
+  },
+  {
+    "name": "30d sessions vs fixtures",
+    "got": 6,
+    "want": 6,
+    "ok": true
+  },
+  {
+    "name": "7d tokens vs fixtures",
+    "got": 1688900,
+    "want": 1688900,
+    "ok": true
+  },
+  {
+    "name": "30d tokens vs fixtures",
+    "got": 1953300,
+    "want": 1953300,
+    "ok": true
+  },
+  {
+    "name": "7d active hours vs fixtures (sum of seconds)",
+    "got": 0.6,
+    "want": 0.6,
+    "ok": true
+  },
+  {
+    "name": "spend window(7d) vs admin(month)",
+    "got": 3.6,
+    "want": 3.6,
+    "ok": true
+  },
+  {
+    "name": "sessions window vs admin",
+    "got": 5,
+    "want": 5,
+    "ok": true
+  },
+  {
+    "name": "active hours window vs admin",
+    "got": 0.6,
+    "want": 0.6,
+    "ok": true
+  },
+  {
+    "name": "tokens window vs admin DB",
+    "got": 1688900,
+    "want": 1688900,
+    "ok": true
+  },
+  {
+    "name": "cache share window vs admin",
+    "got": 87,
+    "want": 87,
+    "ok": true
+  }
+]

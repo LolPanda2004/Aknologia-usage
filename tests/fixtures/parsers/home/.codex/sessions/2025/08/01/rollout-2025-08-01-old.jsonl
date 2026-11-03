@@ -1,0 +1,2 @@
+{"timestamp":"2025-08-01T08:00:00.000Z","type":"session_meta","id":"cx-old","cwd":"/old/proj","model":"gpt-5","instructions":"SECRET_PROMPT_MARKER_123"}
+{"timestamp":"2025-08-01T08:00:05.000Z","type":"token_count","info":{"total_token_usage":{"total_tokens":300},"last_token_usage":{"input_tokens":200,"cached_input_tokens":50,"output_tokens":100}}}

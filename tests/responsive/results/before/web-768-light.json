@@ -1,0 +1,2363 @@
+[
+  {
+    "group": "web",
+    "page": "landing",
+    "width": "768",
+    "theme": "light",
+    "shot": "tests/responsive/screenshots/before/landing-768-light.png",
+    "console": [],
+    "m": {
+      "vw": 768,
+      "iw": 768,
+      "ih": 1024,
+      "scrollW": 768,
+      "docH": 10594,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [
+        {
+          "sel": "#pricing > div > div:nth-of-type(3)",
+          "scrollW": 820,
+          "clientW": 726,
+          "visiblePct": 89
+        }
+      ],
+      "clipped": [],
+      "small": [
+        {
+          "sel": "div > div:nth-of-type(1) > a",
+          "text": "See what’s new",
+          "w": 103,
+          "h": 18,
+          "inline": false
+        },
+        {
+          "sel": "div > header > div > a",
+          "text": "a aknologia",
+          "w": 153,
+          "h": 38,
+          "inline": false
+        },
+        {
+          "sel": "div > header > div > nav > a:nth-of-type(1)",
+          "text": "Platform",
+          "w": 88,
+          "h": 43,
+          "inline": false
+        },
+        {
+          "sel": "div > header > div > nav > a:nth-of-type(2)",
+          "text": "Security",
+          "w": 85,
+          "h": 43,
+          "inline": false
+        },
+        {
+          "sel": "div > header > div > nav > a:nth-of-type(3)",
+          "text": "Pricing",
+          "w": 75,
+          "h": 43,
+          "inline": false
+        },
+        {
+          "sel": "div > header > div > nav > a:nth-of-type(4)",
+          "text": "Demo",
+          "w": 68,
+          "h": 43,
+          "inline": false
+        },
+        {
+          "sel": "div > header > div > nav > a:nth-of-type(5)",
+          "text": "FAQ",
+          "w": 56,
+          "h": 43,
+          "inline": false
+        },
+        {
+          "sel": "div > header > div > div > a:nth-of-type(1)",
+          "text": "Sign in",
+          "w": 75,
+          "h": 43,
+          "inline": false
+        },
+        {
+          "sel": "footer > div > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+          "text": "Desktop app",
+          "w": 93,
+          "h": 32,
+          "inline": false
+        },
+        {
+          "sel": "footer > div > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(2)",
+          "text": "Admin console",
+          "w": 93,
+          "h": 32,
+          "inline": false
+        },
+        {
+          "sel": "footer > div > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(3)",
+          "text": "Pricing",
+          "w": 93,
+          "h": 32,
+          "inline": false
+        },
+        {
+          "sel": "footer > div > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(4)",
+          "text": "Changelog",
+          "w": 93,
+          "h": 32,
+          "inline": false
+        },
+        {
+          "sel": "footer > div > div:nth-of-type(1) > div:nth-of-type(3) > a:nth-of-type(1)",
+          "text": "About",
+          "w": 66,
+          "h": 32,
+          "inline": false
+        },
+        {
+          "sel": "footer > div > div:nth-of-type(1) > div:nth-of-type(3) > a:nth-of-type(2)",
+          "text": "Careers",
+          "w": 66,
+          "h": 32,
+          "inline": false
+        },
+        {
+          "sel": "footer > div > div:nth-of-type(1) > div:nth-of-type(3) > a:nth-of-type(3)",
+          "text": "Contact",
+          "w": 66,
+          "h": 32,
+          "inline": false
+        },
+        {
+          "sel": "footer > div > div:nth-of-type(1) > div:nth-of-type(4) > a:nth-of-type(1)",
+          "text": "Security",
+          "w": 89,
+          "h": 32,
+          "inline": false
+        },
+        {
+          "sel": "footer > div > div:nth-of-type(1) > div:nth-of-type(4) > a:nth-of-type(2)",
+          "text": "Privacy",
+          "w": 89,
+          "h": 32,
+          "inline": false
+        },
+        {
+          "sel": "footer > div > div:nth-of-type(1) > div:nth-of-type(4) > a:nth-of-type(3)",
+          "text": "System status",
+          "w": 89,
+          "h": 32,
+          "inline": false
+        },
+        {
+          "sel": "footer > div > div:nth-of-type(2) > span:nth-of-type(2) > a:nth-of-type(1)",
+          "text": "Privacy",
+          "w": 42,
+          "h": 17,
+          "inline": false
+        },
+        {
+          "sel": "footer > div > div:nth-of-type(2) > span:nth-of-type(2) > a:nth-of-type(2)",
+          "text": "Terms",
+          "w": 36,
+          "h": 17,
+          "inline": false
+        },
+        {
+          "sel": "footer > div > div:nth-of-type(2) > span:nth-of-type(2) > a:nth-of-type(3)",
+          "text": "Cookies",
+          "w": 46,
+          "h": 17,
+          "inline": false
+        }
+      ],
+      "smallCount": 21,
+      "dialogs": [],
+      "smallFont": [
+        {
+          "sel": "#d-name",
+          "px": 15
+        },
+        {
+          "sel": "#d-email",
+          "px": 15
+        },
+        {
+          "sel": "#d-co",
+          "px": 15
+        },
+        {
+          "sel": "#d-size",
+          "px": 15
+        },
+        {
+          "sel": "#d-msg",
+          "px": 15
+        }
+      ],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    }
+  },
+  {
+    "group": "web",
+    "page": "download",
+    "width": "768",
+    "theme": "light",
+    "shot": "tests/responsive/screenshots/before/download-768-light.png",
+    "console": [],
+    "m": {
+      "vw": 768,
+      "iw": 768,
+      "ih": 1024,
+      "scrollW": 768,
+      "docH": 1024,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    }
+  },
+  {
+    "group": "web",
+    "page": "admin-signin",
+    "width": "768",
+    "theme": "light",
+    "shot": "tests/responsive/screenshots/before/admin-signin-768-light.png",
+    "console": [],
+    "m": {
+      "vw": 768,
+      "iw": 768,
+      "ih": 1024,
+      "scrollW": 768,
+      "docH": 1024,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [],
+      "small": [
+        {
+          "sel": "#root > div.auth > main.auth-main > span.text2 > a:nth-of-type(1)",
+          "text": "See pricing",
+          "w": 73,
+          "h": 18,
+          "inline": true
+        },
+        {
+          "sel": "#root > div.auth > main.auth-main > span.text2 > a:nth-of-type(2)",
+          "text": "book a demo",
+          "w": 84,
+          "h": 18,
+          "inline": true
+        },
+        {
+          "sel": "#root > div.auth > footer.footer > span:nth-of-type(2) > a:nth-of-type(1)",
+          "text": "Privacy",
+          "w": 42,
+          "h": 20,
+          "inline": false
+        },
+        {
+          "sel": "#root > div.auth > footer.footer > span:nth-of-type(2) > a:nth-of-type(2)",
+          "text": "Terms",
+          "w": 36,
+          "h": 20,
+          "inline": false
+        },
+        {
+          "sel": "#root > div.auth > footer.footer > span:nth-of-type(2) > a:nth-of-type(3)",
+          "text": "System status",
+          "w": 82,
+          "h": 20,
+          "inline": false
+        }
+      ],
+      "smallCount": 5,
+      "dialogs": [],
+      "smallFont": [
+        {
+          "sel": "#si-email",
+          "px": 15
+        },
+        {
+          "sel": "#si-pw",
+          "px": 15
+        }
+      ],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    }
+  },
+  {
+    "group": "web",
+    "page": "admin-signup",
+    "width": "768",
+    "theme": "light",
+    "shot": "tests/responsive/screenshots/before/admin-signup-768-light.png",
+    "console": [],
+    "m": {
+      "vw": 768,
+      "iw": 768,
+      "ih": 1024,
+      "scrollW": 768,
+      "docH": 1033,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [],
+      "small": [
+        {
+          "sel": "#root > div.auth > main.auth-main > span.text2 > a:nth-of-type(1)",
+          "text": "See pricing",
+          "w": 73,
+          "h": 18,
+          "inline": true
+        },
+        {
+          "sel": "#root > div.auth > main.auth-main > span.text2 > a:nth-of-type(2)",
+          "text": "book a demo",
+          "w": 84,
+          "h": 18,
+          "inline": true
+        },
+        {
+          "sel": "#root > div.auth > footer.footer > span:nth-of-type(2) > a:nth-of-type(1)",
+          "text": "Privacy",
+          "w": 42,
+          "h": 20,
+          "inline": false
+        },
+        {
+          "sel": "#root > div.auth > footer.footer > span:nth-of-type(2) > a:nth-of-type(2)",
+          "text": "Terms",
+          "w": 36,
+          "h": 20,
+          "inline": false
+        },
+        {
+          "sel": "#root > div.auth > footer.footer > span:nth-of-type(2) > a:nth-of-type(3)",
+          "text": "System status",
+          "w": 82,
+          "h": 20,
+          "inline": false
+        }
+      ],
+      "smallCount": 5,
+      "dialogs": [],
+      "smallFont": [
+        {
+          "sel": "#su-name",
+          "px": 15
+        },
+        {
+          "sel": "#su-email",
+          "px": 15
+        },
+        {
+          "sel": "#su-co",
+          "px": 15
+        },
+        {
+          "sel": "#su-size",
+          "px": 15
+        },
+        {
+          "sel": "#su-pw",
+          "px": 15
+        }
+      ],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    }
+  },
+  {
+    "group": "web",
+    "page": "admin-verify",
+    "width": "768",
+    "theme": "light",
+    "shot": "tests/responsive/screenshots/before/admin-verify-768-light.png",
+    "console": [],
+    "m": {
+      "vw": 768,
+      "iw": 768,
+      "ih": 1024,
+      "scrollW": 768,
+      "docH": 1024,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [],
+      "small": [
+        {
+          "sel": "#root > div.auth > main.auth-main > span.text2 > a:nth-of-type(1)",
+          "text": "See pricing",
+          "w": 73,
+          "h": 18,
+          "inline": true
+        },
+        {
+          "sel": "#root > div.auth > main.auth-main > span.text2 > a:nth-of-type(2)",
+          "text": "book a demo",
+          "w": 84,
+          "h": 18,
+          "inline": true
+        },
+        {
+          "sel": "#root > div.auth > footer.footer > span:nth-of-type(2) > a:nth-of-type(1)",
+          "text": "Privacy",
+          "w": 42,
+          "h": 20,
+          "inline": false
+        },
+        {
+          "sel": "#root > div.auth > footer.footer > span:nth-of-type(2) > a:nth-of-type(2)",
+          "text": "Terms",
+          "w": 36,
+          "h": 20,
+          "inline": false
+        },
+        {
+          "sel": "#root > div.auth > footer.footer > span:nth-of-type(2) > a:nth-of-type(3)",
+          "text": "System status",
+          "w": 82,
+          "h": 20,
+          "inline": false
+        }
+      ],
+      "smallCount": 5,
+      "dialogs": [],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    }
+  },
+  {
+    "group": "web",
+    "page": "admin-accept",
+    "width": "768",
+    "theme": "light",
+    "shot": "tests/responsive/screenshots/before/admin-accept-768-light.png",
+    "console": [],
+    "m": {
+      "vw": 768,
+      "iw": 768,
+      "ih": 1024,
+      "scrollW": 768,
+      "docH": 1024,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [],
+      "small": [
+        {
+          "sel": "#root > div.auth > main.auth-main > span.text2 > a:nth-of-type(1)",
+          "text": "See pricing",
+          "w": 73,
+          "h": 18,
+          "inline": true
+        },
+        {
+          "sel": "#root > div.auth > main.auth-main > span.text2 > a:nth-of-type(2)",
+          "text": "book a demo",
+          "w": 84,
+          "h": 18,
+          "inline": true
+        },
+        {
+          "sel": "#root > div.auth > footer.footer > span:nth-of-type(2) > a:nth-of-type(1)",
+          "text": "Privacy",
+          "w": 42,
+          "h": 20,
+          "inline": false
+        },
+        {
+          "sel": "#root > div.auth > footer.footer > span:nth-of-type(2) > a:nth-of-type(2)",
+          "text": "Terms",
+          "w": 36,
+          "h": 20,
+          "inline": false
+        },
+        {
+          "sel": "#root > div.auth > footer.footer > span:nth-of-type(2) > a:nth-of-type(3)",
+          "text": "System status",
+          "w": 82,
+          "h": 20,
+          "inline": false
+        }
+      ],
+      "smallCount": 5,
+      "dialogs": [],
+      "smallFont": [
+        {
+          "sel": "#ac-email",
+          "px": 15
+        },
+        {
+          "sel": "#ac-code",
+          "px": 15
+        },
+        {
+          "sel": "#ac-pw",
+          "px": 15
+        }
+      ],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    }
+  },
+  {
+    "group": "web",
+    "page": "admin-forgot",
+    "width": "768",
+    "theme": "light",
+    "shot": "tests/responsive/screenshots/before/admin-forgot-768-light.png",
+    "console": [],
+    "m": {
+      "vw": 768,
+      "iw": 768,
+      "ih": 1024,
+      "scrollW": 768,
+      "docH": 1024,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [],
+      "small": [
+        {
+          "sel": "#root > div.auth > main.auth-main > span.text2 > a:nth-of-type(1)",
+          "text": "See pricing",
+          "w": 73,
+          "h": 18,
+          "inline": true
+        },
+        {
+          "sel": "#root > div.auth > main.auth-main > span.text2 > a:nth-of-type(2)",
+          "text": "book a demo",
+          "w": 84,
+          "h": 18,
+          "inline": true
+        },
+        {
+          "sel": "#root > div.auth > footer.footer > span:nth-of-type(2) > a:nth-of-type(1)",
+          "text": "Privacy",
+          "w": 42,
+          "h": 20,
+          "inline": false
+        },
+        {
+          "sel": "#root > div.auth > footer.footer > span:nth-of-type(2) > a:nth-of-type(2)",
+          "text": "Terms",
+          "w": 36,
+          "h": 20,
+          "inline": false
+        },
+        {
+          "sel": "#root > div.auth > footer.footer > span:nth-of-type(2) > a:nth-of-type(3)",
+          "text": "System status",
+          "w": 82,
+          "h": 20,
+          "inline": false
+        }
+      ],
+      "smallCount": 5,
+      "dialogs": [],
+      "smallFont": [
+        {
+          "sel": "#fp-email",
+          "px": 15
+        }
+      ],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    }
+  },
+  {
+    "group": "web",
+    "page": "admin-otp",
+    "width": "768",
+    "theme": "light",
+    "shot": "tests/responsive/screenshots/before/admin-otp-768-light.png",
+    "console": [],
+    "m": {
+      "vw": 768,
+      "iw": 768,
+      "ih": 1024,
+      "scrollW": 768,
+      "docH": 1024,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [],
+      "small": [
+        {
+          "sel": "#root > div.auth > main.auth-main > span.text2 > a:nth-of-type(1)",
+          "text": "See pricing",
+          "w": 73,
+          "h": 18,
+          "inline": true
+        },
+        {
+          "sel": "#root > div.auth > main.auth-main > span.text2 > a:nth-of-type(2)",
+          "text": "book a demo",
+          "w": 84,
+          "h": 18,
+          "inline": true
+        },
+        {
+          "sel": "#root > div.auth > footer.footer > span:nth-of-type(2) > a:nth-of-type(1)",
+          "text": "Privacy",
+          "w": 42,
+          "h": 20,
+          "inline": false
+        },
+        {
+          "sel": "#root > div.auth > footer.footer > span:nth-of-type(2) > a:nth-of-type(2)",
+          "text": "Terms",
+          "w": 36,
+          "h": 20,
+          "inline": false
+        },
+        {
+          "sel": "#root > div.auth > footer.footer > span:nth-of-type(2) > a:nth-of-type(3)",
+          "text": "System status",
+          "w": 82,
+          "h": 20,
+          "inline": false
+        }
+      ],
+      "smallCount": 5,
+      "dialogs": [],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    }
+  },
+  {
+    "group": "web",
+    "page": "admin-newpw",
+    "width": "768",
+    "theme": "light",
+    "shot": "tests/responsive/screenshots/before/admin-newpw-768-light.png",
+    "console": [],
+    "m": {
+      "vw": 768,
+      "iw": 768,
+      "ih": 1024,
+      "scrollW": 768,
+      "docH": 1024,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [],
+      "small": [
+        {
+          "sel": "#root > div.auth > main.auth-main > span.text2 > a:nth-of-type(1)",
+          "text": "See pricing",
+          "w": 73,
+          "h": 18,
+          "inline": true
+        },
+        {
+          "sel": "#root > div.auth > main.auth-main > span.text2 > a:nth-of-type(2)",
+          "text": "book a demo",
+          "w": 84,
+          "h": 18,
+          "inline": true
+        },
+        {
+          "sel": "#root > div.auth > footer.footer > span:nth-of-type(2) > a:nth-of-type(1)",
+          "text": "Privacy",
+          "w": 42,
+          "h": 20,
+          "inline": false
+        },
+        {
+          "sel": "#root > div.auth > footer.footer > span:nth-of-type(2) > a:nth-of-type(2)",
+          "text": "Terms",
+          "w": 36,
+          "h": 20,
+          "inline": false
+        },
+        {
+          "sel": "#root > div.auth > footer.footer > span:nth-of-type(2) > a:nth-of-type(3)",
+          "text": "System status",
+          "w": 82,
+          "h": 20,
+          "inline": false
+        }
+      ],
+      "smallCount": 5,
+      "dialogs": [],
+      "smallFont": [
+        {
+          "sel": "#np-pw",
+          "px": 15
+        },
+        {
+          "sel": "#np-pw2",
+          "px": 15
+        }
+      ],
+      "charts": [],
+      "navHidden": false,
+      "widest": []
+    }
+  },
+  {
+    "group": "web",
+    "page": "admin-overview",
+    "width": "768",
+    "theme": "light",
+    "shot": "tests/responsive/screenshots/before/admin-overview-768-light.png",
+    "console": [],
+    "m": {
+      "vw": 768,
+      "iw": 768,
+      "ih": 1024,
+      "scrollW": 768,
+      "docH": 3257,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [
+        {
+          "sel": "div.shell > div.main-col > main.content > section.card > div.table-wrap:nth-of-type(2)",
+          "scrollW": 900,
+          "clientW": 682,
+          "visiblePct": 76
+        }
+      ],
+      "clipped": [],
+      "small": [
+        {
+          "sel": "div.main-col > main.content > div.between:nth-of-type(1) > div.seg:nth-of-type(1) > button:nth-of-type(1)",
+          "text": "This month",
+          "w": 96,
+          "h": 36,
+          "inline": false
+        },
+        {
+          "sel": "div.main-col > main.content > div.between:nth-of-type(1) > div.seg:nth-of-type(1) > button:nth-of-type(2)",
+          "text": "Last month",
+          "w": 96,
+          "h": 36,
+          "inline": false
+        },
+        {
+          "sel": "div.shell > div.main-col > footer.footer > span:nth-of-type(2) > a:nth-of-type(1)",
+          "text": "Privacy",
+          "w": 42,
+          "h": 20,
+          "inline": false
+        },
+        {
+          "sel": "div.shell > div.main-col > footer.footer > span:nth-of-type(2) > a:nth-of-type(2)",
+          "text": "Terms",
+          "w": 36,
+          "h": 20,
+          "inline": false
+        },
+        {
+          "sel": "div.shell > div.main-col > footer.footer > span:nth-of-type(2) > a:nth-of-type(3)",
+          "text": "System status",
+          "w": 82,
+          "h": 20,
+          "inline": false
+        }
+      ],
+      "smallCount": 5,
+      "dialogs": [],
+      "smallFont": [
+        {
+          "sel": "div.shell > div.main-col > div.topbar > div.search > input.input",
+          "px": 15
+        }
+      ],
+      "charts": [],
+      "navHidden": true,
+      "widest": []
+    }
+  },
+  {
+    "group": "web",
+    "page": "admin-members",
+    "width": "768",
+    "theme": "light",
+    "shot": "tests/responsive/screenshots/before/admin-members-768-light.png",
+    "console": [],
+    "m": {
+      "vw": 768,
+      "iw": 768,
+      "ih": 1024,
+      "scrollW": 768,
+      "docH": 1271,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [
+        {
+          "sel": "div.shell > div.main-col > main.content > section.card > div.table-wrap:nth-of-type(2)",
+          "scrollW": 940,
+          "clientW": 682,
+          "visiblePct": 73
+        }
+      ],
+      "clipped": [],
+      "small": [
+        {
+          "sel": "div.main-col > main.content > section.card > div.row:nth-of-type(1) > button.btn.btn-sm:nth-of-type(1)",
+          "text": "All · 4",
+          "w": 61,
+          "h": 38,
+          "inline": false
+        },
+        {
+          "sel": "div.main-col > main.content > section.card > div.row:nth-of-type(1) > button.btn.btn-sm:nth-of-type(2)",
+          "text": "Active · 3",
+          "w": 83,
+          "h": 38,
+          "inline": false
+        },
+        {
+          "sel": "div.main-col > main.content > section.card > div.row:nth-of-type(1) > button.btn.btn-sm:nth-of-type(3)",
+          "text": "Invited · 1",
+          "w": 89,
+          "h": 38,
+          "inline": false
+        },
+        {
+          "sel": "div.main-col > main.content > section.card > div.row:nth-of-type(1) > button.btn.btn-sm:nth-of-type(4)",
+          "text": "Removed · 0",
+          "w": 101,
+          "h": 38,
+          "inline": false
+        },
+        {
+          "sel": "table.t > tbody > tr:nth-of-type(1) > td:nth-of-type(1) > a",
+          "text": "QA Quinn Access (you) qa5-vryubm@example.test",
+          "w": 225,
+          "h": 39,
+          "inline": false
+        },
+        {
+          "sel": "tbody > tr:nth-of-type(1) > td.r:nth-of-type(7) > span > button.btn.btn-secondary",
+          "text": "Edit budget",
+          "w": 96,
+          "h": 38,
+          "inline": false
+        },
+        {
+          "sel": "table.t > tbody > tr:nth-of-type(2) > td:nth-of-type(1) > a",
+          "text": "PR Priya Raman qa5m1-vryubm@example.test",
+          "w": 225,
+          "h": 39,
+          "inline": false
+        },
+        {
+          "sel": "tbody > tr:nth-of-type(2) > td.r:nth-of-type(7) > span > button.btn.btn-secondary:nth-of-type(1)",
+          "text": "Edit budget",
+          "w": 96,
+          "h": 38,
+          "inline": false
+        },
+        {
+          "sel": "tbody > tr:nth-of-type(2) > td.r:nth-of-type(7) > span > button.btn.btn-danger-outline:nth-of-type(2)",
+          "text": "Remove",
+          "w": 75,
+          "h": 38,
+          "inline": false
+        },
+        {
+          "sel": "table.t > tbody > tr:nth-of-type(3) > td:nth-of-type(1) > a",
+          "text": "DO Daniel Okafor qa5m2-vryubm@example.test",
+          "w": 225,
+          "h": 39,
+          "inline": false
+        },
+        {
+          "sel": "tbody > tr:nth-of-type(3) > td.r:nth-of-type(7) > span > button.btn.btn-secondary:nth-of-type(1)",
+          "text": "Edit budget",
+          "w": 96,
+          "h": 38,
+          "inline": false
+        },
+        {
+          "sel": "tbody > tr:nth-of-type(3) > td.r:nth-of-type(7) > span > button.btn.btn-danger-outline:nth-of-type(2)",
+          "text": "Remove",
+          "w": 75,
+          "h": 38,
+          "inline": false
+        },
+        {
+          "sel": "tbody > tr:nth-of-type(4) > td.r:nth-of-type(7) > span > button.btn.btn-secondary:nth-of-type(1)",
+          "text": "Resend invite",
+          "w": 109,
+          "h": 38,
+          "inline": false
+        },
+        {
+          "sel": "tbody > tr:nth-of-type(4) > td.r:nth-of-type(7) > span > button.btn.btn-danger-outline:nth-of-type(2)",
+          "text": "Cancel invite",
+          "w": 105,
+          "h": 38,
+          "inline": false
+        },
+        {
+          "sel": "div.shell > div.main-col > footer.footer > span:nth-of-type(2) > a:nth-of-type(1)",
+          "text": "Privacy",
+          "w": 42,
+          "h": 20,
+          "inline": false
+        },
+        {
+          "sel": "div.shell > div.main-col > footer.footer > span:nth-of-type(2) > a:nth-of-type(2)",
+          "text": "Terms",
+          "w": 36,
+          "h": 20,
+          "inline": false
+        },
+        {
+          "sel": "div.shell > div.main-col > footer.footer > span:nth-of-type(2) > a:nth-of-type(3)",
+          "text": "System status",
+          "w": 82,
+          "h": 20,
+          "inline": false
+        }
+      ],
+      "smallCount": 17,
+      "dialogs": [],
+      "smallFont": [
+        {
+          "sel": "div.shell > div.main-col > div.topbar > div.search > input.input",
+          "px": 15
+        }
+      ],
+      "charts": [],
+      "navHidden": true,
+      "widest": []
+    }
+  },
+  {
+    "group": "web",
+    "page": "admin-member-detail",
+    "width": "768",
+    "theme": "light",
+    "shot": "tests/responsive/screenshots/before/admin-member-detail-768-light.png",
+    "console": [],
+    "m": {
+      "vw": 768,
+      "iw": 768,
+      "ih": 1024,
+      "scrollW": 768,
+      "docH": 2403,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [],
+      "small": [
+        {
+          "sel": "div.shell > div.main-col > footer.footer > span:nth-of-type(2) > a:nth-of-type(1)",
+          "text": "Privacy",
+          "w": 42,
+          "h": 20,
+          "inline": false
+        },
+        {
+          "sel": "div.shell > div.main-col > footer.footer > span:nth-of-type(2) > a:nth-of-type(2)",
+          "text": "Terms",
+          "w": 36,
+          "h": 20,
+          "inline": false
+        },
+        {
+          "sel": "div.shell > div.main-col > footer.footer > span:nth-of-type(2) > a:nth-of-type(3)",
+          "text": "System status",
+          "w": 82,
+          "h": 20,
+          "inline": false
+        }
+      ],
+      "smallCount": 3,
+      "dialogs": [],
+      "smallFont": [
+        {
+          "sel": "div.shell > div.main-col > div.topbar > div.search > input.input",
+          "px": 15
+        }
+      ],
+      "charts": [],
+      "navHidden": true,
+      "widest": []
+    }
+  },
+  {
+    "group": "web",
+    "page": "admin-budgets",
+    "width": "768",
+    "theme": "light",
+    "shot": "tests/responsive/screenshots/before/admin-budgets-768-light.png",
+    "console": [],
+    "m": {
+      "vw": 768,
+      "iw": 768,
+      "ih": 1024,
+      "scrollW": 768,
+      "docH": 2020,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [
+        {
+          "sel": "div.shell > div.main-col > main.content > section.card:nth-of-type(1) > div.table-wrap:nth-of-type(2)",
+          "scrollW": 860,
+          "clientW": 682,
+          "visiblePct": 79
+        }
+      ],
+      "clipped": [],
+      "small": [
+        {
+          "sel": "#r80",
+          "text": "",
+          "w": 360,
+          "h": 23,
+          "inline": false
+        },
+        {
+          "sel": "#r100",
+          "text": "",
+          "w": 400,
+          "h": 23,
+          "inline": false
+        },
+        {
+          "sel": "#rw",
+          "text": "",
+          "w": 353,
+          "h": 23,
+          "inline": false
+        },
+        {
+          "sel": "#rm",
+          "text": "",
+          "w": 240,
+          "h": 23,
+          "inline": false
+        },
+        {
+          "sel": "tbody > tr:nth-of-type(1) > td:nth-of-type(2) > span > input.input.mono",
+          "text": "Budget for Priya Raman",
+          "w": 100,
+          "h": 40,
+          "inline": false
+        },
+        {
+          "sel": "tbody > tr:nth-of-type(2) > td:nth-of-type(2) > span > input.input.mono",
+          "text": "Budget for Daniel Okafor",
+          "w": 100,
+          "h": 40,
+          "inline": false
+        },
+        {
+          "sel": "tbody > tr:nth-of-type(3) > td:nth-of-type(2) > span > input.input.mono",
+          "text": "Budget for Quinn Access",
+          "w": 100,
+          "h": 40,
+          "inline": false
+        },
+        {
+          "sel": "tbody > tr:nth-of-type(4) > td:nth-of-type(2) > span > input.input.mono",
+          "text": "Budget for qa5m3-vryubm@example.test",
+          "w": 100,
+          "h": 40,
+          "inline": false
+        },
+        {
+          "sel": "div.shell > div.main-col > footer.footer > span:nth-of-type(2) > a:nth-of-type(1)",
+          "text": "Privacy",
+          "w": 42,
+          "h": 20,
+          "inline": false
+        },
+        {
+          "sel": "div.shell > div.main-col > footer.footer > span:nth-of-type(2) > a:nth-of-type(2)",
+          "text": "Terms",
+          "w": 36,
+          "h": 20,
+          "inline": false
+        },
+        {
+          "sel": "div.shell > div.main-col > footer.footer > span:nth-of-type(2) > a:nth-of-type(3)",
+          "text": "System status",
+          "w": 82,
+          "h": 20,
+          "inline": false
+        }
+      ],
+      "smallCount": 11,
+      "dialogs": [],
+      "smallFont": [
+        {
+          "sel": "div.shell > div.main-col > div.topbar > div.search > input.input",
+          "px": 15
+        },
+        {
+          "sel": "#def-budget",
+          "px": 15
+        },
+        {
+          "sel": "div.row:nth-of-type(2) > section.card:nth-of-type(2) > div.field:nth-of-type(3) > div:nth-of-type(2) > input.input",
+          "px": 15
+        },
+        {
+          "sel": "tbody > tr:nth-of-type(1) > td:nth-of-type(2) > span > input.input.mono",
+          "px": 15
+        },
+        {
+          "sel": "tbody > tr:nth-of-type(2) > td:nth-of-type(2) > span > input.input.mono",
+          "px": 15
+        },
+        {
+          "sel": "tbody > tr:nth-of-type(3) > td:nth-of-type(2) > span > input.input.mono",
+          "px": 15
+        },
+        {
+          "sel": "tbody > tr:nth-of-type(4) > td:nth-of-type(2) > span > input.input.mono",
+          "px": 15
+        }
+      ],
+      "charts": [],
+      "navHidden": true,
+      "widest": []
+    }
+  },
+  {
+    "group": "web",
+    "page": "admin-support",
+    "width": "768",
+    "theme": "light",
+    "shot": "tests/responsive/screenshots/before/admin-support-768-light.png",
+    "console": [],
+    "m": {
+      "vw": 768,
+      "iw": 768,
+      "ih": 1024,
+      "scrollW": 768,
+      "docH": 1670,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [],
+      "small": [
+        {
+          "sel": "div.shell > div.main-col > footer.footer > span:nth-of-type(2) > a:nth-of-type(1)",
+          "text": "Privacy",
+          "w": 42,
+          "h": 20,
+          "inline": false
+        },
+        {
+          "sel": "div.shell > div.main-col > footer.footer > span:nth-of-type(2) > a:nth-of-type(2)",
+          "text": "Terms",
+          "w": 36,
+          "h": 20,
+          "inline": false
+        },
+        {
+          "sel": "div.shell > div.main-col > footer.footer > span:nth-of-type(2) > a:nth-of-type(3)",
+          "text": "System status",
+          "w": 82,
+          "h": 20,
+          "inline": false
+        }
+      ],
+      "smallCount": 3,
+      "dialogs": [],
+      "smallFont": [
+        {
+          "sel": "div.shell > div.main-col > div.topbar > div.search > input.input",
+          "px": 15
+        },
+        {
+          "sel": "#sp-title",
+          "px": 15
+        },
+        {
+          "sel": "#sp-body",
+          "px": 15
+        },
+        {
+          "sel": "#sp-sev",
+          "px": 15
+        },
+        {
+          "sel": "#sp-when",
+          "px": 15
+        }
+      ],
+      "charts": [],
+      "navHidden": true,
+      "widest": []
+    }
+  },
+  {
+    "group": "web",
+    "page": "admin-settings",
+    "width": "768",
+    "theme": "light",
+    "shot": "tests/responsive/screenshots/before/admin-settings-768-light.png",
+    "console": [],
+    "m": {
+      "vw": 768,
+      "iw": 768,
+      "ih": 1024,
+      "scrollW": 768,
+      "docH": 2774,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [],
+      "small": [
+        {
+          "sel": "#security > section.card > div.col:nth-of-type(5) > div.between:nth-of-type(2) > button.btn.btn-danger-outline",
+          "text": "Sign out",
+          "w": 76,
+          "h": 38,
+          "inline": false
+        },
+        {
+          "sel": "div.shell > div.main-col > footer.footer > span:nth-of-type(2) > a:nth-of-type(1)",
+          "text": "Privacy",
+          "w": 42,
+          "h": 20,
+          "inline": false
+        },
+        {
+          "sel": "div.shell > div.main-col > footer.footer > span:nth-of-type(2) > a:nth-of-type(2)",
+          "text": "Terms",
+          "w": 36,
+          "h": 20,
+          "inline": false
+        },
+        {
+          "sel": "div.shell > div.main-col > footer.footer > span:nth-of-type(2) > a:nth-of-type(3)",
+          "text": "System status",
+          "w": 82,
+          "h": 20,
+          "inline": false
+        }
+      ],
+      "smallCount": 4,
+      "dialogs": [],
+      "smallFont": [
+        {
+          "sel": "div.shell > div.main-col > div.topbar > div.search > input.input",
+          "px": 15
+        },
+        {
+          "sel": "#bk-email",
+          "px": 15
+        },
+        {
+          "sel": "#org-name",
+          "px": 15
+        },
+        {
+          "sel": "#org-tz",
+          "px": 15
+        }
+      ],
+      "charts": [],
+      "navHidden": true,
+      "widest": []
+    }
+  },
+  {
+    "group": "web",
+    "page": "modal-invite",
+    "width": "768",
+    "theme": "light",
+    "shot": "tests/responsive/screenshots/before/modal-invite-768-light.png",
+    "console": [],
+    "m": {
+      "vw": 768,
+      "iw": 768,
+      "ih": 1024,
+      "scrollW": 768,
+      "docH": 1271,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [
+        {
+          "sel": "div.shell > div.main-col > main.content > section.card > div.table-wrap:nth-of-type(2)",
+          "scrollW": 940,
+          "clientW": 682,
+          "visiblePct": 73
+        }
+      ],
+      "clipped": [],
+      "small": [
+        {
+          "sel": "#inv-emails",
+          "text": "name@yourco.com",
+          "w": 460,
+          "h": 36,
+          "inline": false
+        }
+      ],
+      "smallCount": 1,
+      "dialogs": [
+        {
+          "sel": "div.shell > div.main-col > main.content > div.overlay:nth-of-type(3) > div.modal",
+          "top": 120,
+          "bottom": 596,
+          "left": 114,
+          "right": 654,
+          "h": 476,
+          "problems": []
+        }
+      ],
+      "smallFont": [
+        {
+          "sel": "#inv-emails",
+          "px": 15
+        },
+        {
+          "sel": "#inv-role",
+          "px": 15
+        },
+        {
+          "sel": "#inv-budget",
+          "px": 15
+        }
+      ],
+      "charts": [],
+      "navHidden": true,
+      "widest": []
+    }
+  },
+  {
+    "group": "web",
+    "page": "modal-remove",
+    "width": "768",
+    "theme": "light",
+    "shot": "tests/responsive/screenshots/before/modal-remove-768-light.png",
+    "console": [],
+    "m": {
+      "vw": 768,
+      "iw": 768,
+      "ih": 1024,
+      "scrollW": 768,
+      "docH": 1271,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [
+        {
+          "sel": "div.shell > div.main-col > main.content > section.card > div.table-wrap:nth-of-type(2)",
+          "scrollW": 940,
+          "clientW": 682,
+          "visiblePct": 73
+        }
+      ],
+      "clipped": [],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [
+        {
+          "sel": "div.shell > div.main-col > main.content > div.overlay:nth-of-type(3) > div.modal",
+          "top": 120,
+          "bottom": 525,
+          "left": 114,
+          "right": 654,
+          "h": 405,
+          "problems": []
+        }
+      ],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": true,
+      "widest": []
+    }
+  },
+  {
+    "group": "web",
+    "page": "modal-budget",
+    "width": "768",
+    "theme": "light",
+    "shot": "tests/responsive/screenshots/before/modal-budget-768-light.png",
+    "console": [],
+    "m": {
+      "vw": 768,
+      "iw": 768,
+      "ih": 1024,
+      "scrollW": 768,
+      "docH": 1271,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [
+        {
+          "sel": "div.shell > div.main-col > main.content > section.card > div.table-wrap:nth-of-type(2)",
+          "scrollW": 940,
+          "clientW": 682,
+          "visiblePct": 73
+        }
+      ],
+      "clipped": [],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [
+        {
+          "sel": "div.shell > div.main-col > main.content > div.overlay:nth-of-type(3) > div.modal",
+          "top": 120,
+          "bottom": 404,
+          "left": 114,
+          "right": 654,
+          "h": 284,
+          "problems": []
+        }
+      ],
+      "smallFont": [
+        {
+          "sel": "#mb-v",
+          "px": 15
+        }
+      ],
+      "charts": [],
+      "navHidden": true,
+      "widest": []
+    }
+  },
+  {
+    "group": "web",
+    "page": "modal-plan",
+    "width": "768",
+    "theme": "light",
+    "shot": "tests/responsive/screenshots/before/modal-plan-768-light.png",
+    "console": [],
+    "m": {
+      "vw": 768,
+      "iw": 768,
+      "ih": 1024,
+      "scrollW": 768,
+      "docH": 2774,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [
+        {
+          "sel": "div.shell > div.main-col > main.content > div.overlay:nth-of-type(5) > div.modal",
+          "top": 120,
+          "bottom": 497,
+          "left": 114,
+          "right": 654,
+          "h": 377,
+          "problems": []
+        }
+      ],
+      "smallFont": [
+        {
+          "sel": "#pl",
+          "px": 15
+        },
+        {
+          "sel": "#st",
+          "px": 15
+        }
+      ],
+      "charts": [],
+      "navHidden": true,
+      "widest": []
+    }
+  },
+  {
+    "group": "web",
+    "page": "modal-delete-data",
+    "width": "768",
+    "theme": "light",
+    "shot": "tests/responsive/screenshots/before/modal-delete-data-768-light.png",
+    "console": [],
+    "m": {
+      "vw": 768,
+      "iw": 768,
+      "ih": 1024,
+      "scrollW": 768,
+      "docH": 2774,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [
+        {
+          "sel": "div.shell > div.main-col > main.content > div.overlay:nth-of-type(5) > div.modal",
+          "top": 120,
+          "bottom": 434,
+          "left": 114,
+          "right": 654,
+          "h": 314,
+          "problems": []
+        }
+      ],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": true,
+      "widest": []
+    }
+  },
+  {
+    "group": "web",
+    "page": "modal-password-1",
+    "width": "768",
+    "theme": "light",
+    "shot": "tests/responsive/screenshots/before/modal-password-1-768-light.png",
+    "console": [],
+    "m": {
+      "vw": 768,
+      "iw": 768,
+      "ih": 1024,
+      "scrollW": 768,
+      "docH": 2774,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [
+        {
+          "sel": "#security > section.card > div.overlay:nth-of-type(6) > div.modal",
+          "top": 120,
+          "bottom": 664,
+          "left": 114,
+          "right": 654,
+          "h": 544,
+          "problems": []
+        }
+      ],
+      "smallFont": [
+        {
+          "sel": "#pw-cur",
+          "px": 15
+        },
+        {
+          "sel": "#pw-new",
+          "px": 15
+        },
+        {
+          "sel": "#pw-new2",
+          "px": 15
+        }
+      ],
+      "charts": [],
+      "navHidden": true,
+      "widest": []
+    }
+  },
+  {
+    "group": "web",
+    "page": "modal-password-2",
+    "width": "768",
+    "theme": "light",
+    "shot": "tests/responsive/screenshots/before/modal-password-2-768-light.png",
+    "console": [],
+    "m": {
+      "vw": 768,
+      "iw": 768,
+      "ih": 1024,
+      "scrollW": 768,
+      "docH": 2774,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [],
+      "small": [],
+      "smallCount": 0,
+      "dialogs": [
+        {
+          "sel": "#security > section.card > div.overlay:nth-of-type(6) > div.modal",
+          "top": 120,
+          "bottom": 467,
+          "left": 114,
+          "right": 654,
+          "h": 347,
+          "problems": []
+        }
+      ],
+      "smallFont": [],
+      "charts": [],
+      "navHidden": true,
+      "widest": []
+    }
+  },
+  {
+    "group": "web",
+    "page": "admin-tour-1",
+    "width": "768",
+    "theme": "light",
+    "shot": "tests/responsive/screenshots/before/admin-tour-1-768-light.png",
+    "console": [],
+    "m": {
+      "vw": 768,
+      "iw": 768,
+      "ih": 1024,
+      "scrollW": 768,
+      "docH": 3257,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [
+        {
+          "sel": "div.shell:nth-of-type(1) > div.main-col > main.content > section.card > div.table-wrap:nth-of-type(2)",
+          "scrollW": 900,
+          "clientW": 682,
+          "visiblePct": 76
+        }
+      ],
+      "clipped": [],
+      "small": [
+        {
+          "sel": "#root > div.tour-card:nth-of-type(3) > div.between > span:nth-of-type(2) > button.btn.btn-ghost:nth-of-type(1)",
+          "text": "Skip",
+          "w": 53,
+          "h": 38,
+          "inline": false
+        },
+        {
+          "sel": "#root > div.tour-card:nth-of-type(3) > div.between > span:nth-of-type(2) > button.btn.btn-primary:nth-of-type(2)",
+          "text": "Next",
+          "w": 55,
+          "h": 38,
+          "inline": false
+        }
+      ],
+      "smallCount": 2,
+      "dialogs": [
+        {
+          "sel": "#root > div.tour-card:nth-of-type(3)",
+          "top": 245,
+          "bottom": 459,
+          "left": 412,
+          "right": 752,
+          "h": 215,
+          "problems": []
+        }
+      ],
+      "smallFont": [
+        {
+          "sel": "div.shell:nth-of-type(1) > div.main-col > div.topbar > div.search > input.input",
+          "px": 15
+        }
+      ],
+      "charts": [],
+      "navHidden": true,
+      "widest": []
+    }
+  },
+  {
+    "group": "web",
+    "page": "admin-tour-2",
+    "width": "768",
+    "theme": "light",
+    "shot": "tests/responsive/screenshots/before/admin-tour-2-768-light.png",
+    "console": [],
+    "m": {
+      "vw": 768,
+      "iw": 768,
+      "ih": 1024,
+      "scrollW": 768,
+      "docH": 3257,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [
+        {
+          "sel": "div.shell:nth-of-type(1) > div.main-col > main.content > section.card > div.table-wrap:nth-of-type(2)",
+          "scrollW": 900,
+          "clientW": 682,
+          "visiblePct": 76
+        }
+      ],
+      "clipped": [],
+      "small": [
+        {
+          "sel": "#root > div.tour-card:nth-of-type(3) > div.between > span:nth-of-type(2) > button.btn.btn-ghost:nth-of-type(1)",
+          "text": "Skip",
+          "w": 53,
+          "h": 38,
+          "inline": false
+        },
+        {
+          "sel": "#root > div.tour-card:nth-of-type(3) > div.between > span:nth-of-type(2) > button.btn.btn-primary:nth-of-type(2)",
+          "text": "Next",
+          "w": 55,
+          "h": 38,
+          "inline": false
+        }
+      ],
+      "smallCount": 2,
+      "dialogs": [
+        {
+          "sel": "#root > div.tour-card:nth-of-type(3)",
+          "top": 414,
+          "bottom": 607,
+          "left": 20,
+          "right": 360,
+          "h": 194,
+          "problems": []
+        }
+      ],
+      "smallFont": [
+        {
+          "sel": "div.shell:nth-of-type(1) > div.main-col > div.topbar > div.search > input.input",
+          "px": 15
+        }
+      ],
+      "charts": [],
+      "navHidden": true,
+      "widest": []
+    }
+  },
+  {
+    "group": "web",
+    "page": "admin-tour-3",
+    "width": "768",
+    "theme": "light",
+    "shot": "tests/responsive/screenshots/before/admin-tour-3-768-light.png",
+    "console": [],
+    "m": {
+      "vw": 768,
+      "iw": 768,
+      "ih": 1024,
+      "scrollW": 768,
+      "docH": 3257,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [
+        {
+          "sel": "div.shell:nth-of-type(1) > div.main-col > main.content > section.card > div.table-wrap:nth-of-type(2)",
+          "scrollW": 900,
+          "clientW": 682,
+          "visiblePct": 76
+        }
+      ],
+      "clipped": [],
+      "small": [
+        {
+          "sel": "#root > div.tour-card:nth-of-type(3) > div.between > span:nth-of-type(2) > button.btn.btn-ghost:nth-of-type(1)",
+          "text": "Skip",
+          "w": 53,
+          "h": 38,
+          "inline": false
+        },
+        {
+          "sel": "#root > div.tour-card:nth-of-type(3) > div.between > span:nth-of-type(2) > button.btn.btn-primary:nth-of-type(2)",
+          "text": "Next",
+          "w": 55,
+          "h": 38,
+          "inline": false
+        }
+      ],
+      "smallCount": 2,
+      "dialogs": [
+        {
+          "sel": "#root > div.tour-card:nth-of-type(3)",
+          "top": 692,
+          "bottom": 907,
+          "left": 20,
+          "right": 360,
+          "h": 215,
+          "problems": []
+        }
+      ],
+      "smallFont": [
+        {
+          "sel": "div.shell:nth-of-type(1) > div.main-col > div.topbar > div.search > input.input",
+          "px": 15
+        }
+      ],
+      "charts": [],
+      "navHidden": true,
+      "widest": []
+    }
+  },
+  {
+    "group": "web",
+    "page": "admin-tour-4",
+    "width": "768",
+    "theme": "light",
+    "shot": "tests/responsive/screenshots/before/admin-tour-4-768-light.png",
+    "console": [],
+    "m": {
+      "vw": 768,
+      "iw": 768,
+      "ih": 1024,
+      "scrollW": 768,
+      "docH": 3257,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [
+        {
+          "sel": "div.shell:nth-of-type(1) > div.main-col > main.content > section.card > div.table-wrap:nth-of-type(2)",
+          "scrollW": 900,
+          "clientW": 682,
+          "visiblePct": 76
+        }
+      ],
+      "clipped": [],
+      "small": [
+        {
+          "sel": "#root > div.tour-card:nth-of-type(3) > div.between > span:nth-of-type(2) > button.btn.btn-ghost:nth-of-type(1)",
+          "text": "Skip",
+          "w": 53,
+          "h": 38,
+          "inline": false
+        },
+        {
+          "sel": "#root > div.tour-card:nth-of-type(3) > div.between > span:nth-of-type(2) > button.btn.btn-primary:nth-of-type(2)",
+          "text": "Next",
+          "w": 55,
+          "h": 38,
+          "inline": false
+        }
+      ],
+      "smallCount": 2,
+      "dialogs": [
+        {
+          "sel": "#root > div.tour-card:nth-of-type(3)",
+          "top": 126,
+          "bottom": 320,
+          "left": 20,
+          "right": 360,
+          "h": 194,
+          "problems": []
+        }
+      ],
+      "smallFont": [
+        {
+          "sel": "div.shell:nth-of-type(1) > div.main-col > div.topbar > div.search > input.input",
+          "px": 15
+        }
+      ],
+      "charts": [],
+      "navHidden": true,
+      "widest": []
+    }
+  },
+  {
+    "group": "web",
+    "page": "admin-tour-5",
+    "width": "768",
+    "theme": "light",
+    "shot": "tests/responsive/screenshots/before/admin-tour-5-768-light.png",
+    "console": [],
+    "m": {
+      "vw": 768,
+      "iw": 768,
+      "ih": 1024,
+      "scrollW": 768,
+      "docH": 3257,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [
+        {
+          "sel": "div.shell:nth-of-type(1) > div.main-col > main.content > section.card > div.table-wrap:nth-of-type(2)",
+          "scrollW": 900,
+          "clientW": 682,
+          "visiblePct": 76
+        }
+      ],
+      "clipped": [],
+      "small": [
+        {
+          "sel": "#root > div.tour-card:nth-of-type(3) > div.between > span:nth-of-type(2) > button.btn.btn-ghost:nth-of-type(1)",
+          "text": "Skip",
+          "w": 53,
+          "h": 38,
+          "inline": false
+        },
+        {
+          "sel": "#root > div.tour-card:nth-of-type(3) > div.between > span:nth-of-type(2) > button.btn.btn-primary:nth-of-type(2)",
+          "text": "Done",
+          "w": 57,
+          "h": 38,
+          "inline": false
+        }
+      ],
+      "smallCount": 2,
+      "dialogs": [
+        {
+          "sel": "#root > div.tour-card:nth-of-type(3)",
+          "top": 12,
+          "bottom": 227,
+          "left": 16,
+          "right": 356,
+          "h": 215,
+          "problems": []
+        }
+      ],
+      "smallFont": [
+        {
+          "sel": "div.shell:nth-of-type(1) > div.main-col > div.topbar > div.search > input.input",
+          "px": 15
+        }
+      ],
+      "charts": [],
+      "navHidden": true,
+      "widest": []
+    }
+  },
+  {
+    "group": "web",
+    "page": "admin-empty-overview",
+    "width": "768",
+    "theme": "light",
+    "shot": "tests/responsive/screenshots/before/admin-empty-overview-768-light.png",
+    "console": [],
+    "m": {
+      "vw": 768,
+      "iw": 768,
+      "ih": 1024,
+      "scrollW": 768,
+      "docH": 2926,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [
+        {
+          "sel": "div.shell > div.main-col > main.content > section.card > div.table-wrap:nth-of-type(2)",
+          "scrollW": 900,
+          "clientW": 682,
+          "visiblePct": 76
+        }
+      ],
+      "clipped": [],
+      "small": [
+        {
+          "sel": "div.main-col > main.content > div.between:nth-of-type(1) > div.seg:nth-of-type(1) > button:nth-of-type(1)",
+          "text": "This month",
+          "w": 96,
+          "h": 36,
+          "inline": false
+        },
+        {
+          "sel": "div.main-col > main.content > div.between:nth-of-type(1) > div.seg:nth-of-type(1) > button:nth-of-type(2)",
+          "text": "Last month",
+          "w": 96,
+          "h": 36,
+          "inline": false
+        },
+        {
+          "sel": "div.shell > div.main-col > footer.footer > span:nth-of-type(2) > a:nth-of-type(1)",
+          "text": "Privacy",
+          "w": 42,
+          "h": 20,
+          "inline": false
+        },
+        {
+          "sel": "div.shell > div.main-col > footer.footer > span:nth-of-type(2) > a:nth-of-type(2)",
+          "text": "Terms",
+          "w": 36,
+          "h": 20,
+          "inline": false
+        },
+        {
+          "sel": "div.shell > div.main-col > footer.footer > span:nth-of-type(2) > a:nth-of-type(3)",
+          "text": "System status",
+          "w": 82,
+          "h": 20,
+          "inline": false
+        }
+      ],
+      "smallCount": 5,
+      "dialogs": [],
+      "smallFont": [
+        {
+          "sel": "div.shell > div.main-col > div.topbar > div.search > input.input",
+          "px": 15
+        }
+      ],
+      "charts": [],
+      "navHidden": true,
+      "widest": []
+    }
+  },
+  {
+    "group": "web",
+    "page": "admin-empty-members",
+    "width": "768",
+    "theme": "light",
+    "shot": "tests/responsive/screenshots/before/admin-empty-members-768-light.png",
+    "console": [],
+    "m": {
+      "vw": 768,
+      "iw": 768,
+      "ih": 1024,
+      "scrollW": 768,
+      "docH": 1040,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [
+        {
+          "sel": "div.shell > div.main-col > main.content > section.card > div.table-wrap:nth-of-type(2)",
+          "scrollW": 940,
+          "clientW": 682,
+          "visiblePct": 73
+        }
+      ],
+      "clipped": [],
+      "small": [
+        {
+          "sel": "div.main-col > main.content > section.card > div.row:nth-of-type(1) > button.btn.btn-sm:nth-of-type(1)",
+          "text": "All · 1",
+          "w": 61,
+          "h": 38,
+          "inline": false
+        },
+        {
+          "sel": "div.main-col > main.content > section.card > div.row:nth-of-type(1) > button.btn.btn-sm:nth-of-type(2)",
+          "text": "Active · 1",
+          "w": 83,
+          "h": 38,
+          "inline": false
+        },
+        {
+          "sel": "div.main-col > main.content > section.card > div.row:nth-of-type(1) > button.btn.btn-sm:nth-of-type(3)",
+          "text": "Invited · 0",
+          "w": 89,
+          "h": 38,
+          "inline": false
+        },
+        {
+          "sel": "div.main-col > main.content > section.card > div.row:nth-of-type(1) > button.btn.btn-sm:nth-of-type(4)",
+          "text": "Removed · 0",
+          "w": 101,
+          "h": 38,
+          "inline": false
+        },
+        {
+          "sel": "table.t > tbody > tr > td:nth-of-type(1) > a",
+          "text": "RL Rhea Layout (you) resp-empty-6678jn@example.tes",
+          "w": 296,
+          "h": 39,
+          "inline": false
+        },
+        {
+          "sel": "tbody > tr > td.r:nth-of-type(7) > span > button.btn.btn-secondary",
+          "text": "Edit budget",
+          "w": 96,
+          "h": 38,
+          "inline": false
+        },
+        {
+          "sel": "div.shell > div.main-col > footer.footer > span:nth-of-type(2) > a:nth-of-type(1)",
+          "text": "Privacy",
+          "w": 42,
+          "h": 20,
+          "inline": false
+        },
+        {
+          "sel": "div.shell > div.main-col > footer.footer > span:nth-of-type(2) > a:nth-of-type(2)",
+          "text": "Terms",
+          "w": 36,
+          "h": 20,
+          "inline": false
+        },
+        {
+          "sel": "div.shell > div.main-col > footer.footer > span:nth-of-type(2) > a:nth-of-type(3)",
+          "text": "System status",
+          "w": 82,
+          "h": 20,
+          "inline": false
+        }
+      ],
+      "smallCount": 9,
+      "dialogs": [],
+      "smallFont": [
+        {
+          "sel": "div.shell > div.main-col > div.topbar > div.search > input.input",
+          "px": 15
+        }
+      ],
+      "charts": [],
+      "navHidden": true,
+      "widest": []
+    }
+  },
+  {
+    "group": "web",
+    "page": "admin-empty-member-detail",
+    "width": "768",
+    "theme": "light",
+    "shot": "tests/responsive/screenshots/before/admin-empty-member-detail-768-light.png",
+    "console": [],
+    "m": {
+      "vw": 768,
+      "iw": 768,
+      "ih": 1024,
+      "scrollW": 768,
+      "docH": 2038,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [],
+      "small": [
+        {
+          "sel": "div.shell > div.main-col > footer.footer > span:nth-of-type(2) > a:nth-of-type(1)",
+          "text": "Privacy",
+          "w": 42,
+          "h": 20,
+          "inline": false
+        },
+        {
+          "sel": "div.shell > div.main-col > footer.footer > span:nth-of-type(2) > a:nth-of-type(2)",
+          "text": "Terms",
+          "w": 36,
+          "h": 20,
+          "inline": false
+        },
+        {
+          "sel": "div.shell > div.main-col > footer.footer > span:nth-of-type(2) > a:nth-of-type(3)",
+          "text": "System status",
+          "w": 82,
+          "h": 20,
+          "inline": false
+        }
+      ],
+      "smallCount": 3,
+      "dialogs": [],
+      "smallFont": [
+        {
+          "sel": "div.shell > div.main-col > div.topbar > div.search > input.input",
+          "px": 15
+        }
+      ],
+      "charts": [],
+      "navHidden": true,
+      "widest": []
+    }
+  },
+  {
+    "group": "web",
+    "page": "admin-empty-budgets",
+    "width": "768",
+    "theme": "light",
+    "shot": "tests/responsive/screenshots/before/admin-empty-budgets-768-light.png",
+    "console": [],
+    "m": {
+      "vw": 768,
+      "iw": 768,
+      "ih": 1024,
+      "scrollW": 768,
+      "docH": 1823,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [
+        {
+          "sel": "div.shell > div.main-col > main.content > section.card:nth-of-type(1) > div.table-wrap:nth-of-type(2)",
+          "scrollW": 860,
+          "clientW": 682,
+          "visiblePct": 79
+        }
+      ],
+      "clipped": [],
+      "small": [
+        {
+          "sel": "#r80",
+          "text": "",
+          "w": 360,
+          "h": 23,
+          "inline": false
+        },
+        {
+          "sel": "#r100",
+          "text": "",
+          "w": 400,
+          "h": 23,
+          "inline": false
+        },
+        {
+          "sel": "#rw",
+          "text": "",
+          "w": 353,
+          "h": 23,
+          "inline": false
+        },
+        {
+          "sel": "#rm",
+          "text": "",
+          "w": 240,
+          "h": 23,
+          "inline": false
+        },
+        {
+          "sel": "section.card:nth-of-type(2) > div.field:nth-of-type(3) > div:nth-of-type(1) > span.pill.pill-accent > button",
+          "text": "Remove resp-empty-6678jn@example.test",
+          "w": 12,
+          "h": 20,
+          "inline": false
+        },
+        {
+          "sel": "tbody > tr > td:nth-of-type(2) > span > input.input.mono",
+          "text": "Budget for Rhea Layout",
+          "w": 100,
+          "h": 40,
+          "inline": false
+        },
+        {
+          "sel": "div.shell > div.main-col > footer.footer > span:nth-of-type(2) > a:nth-of-type(1)",
+          "text": "Privacy",
+          "w": 42,
+          "h": 20,
+          "inline": false
+        },
+        {
+          "sel": "div.shell > div.main-col > footer.footer > span:nth-of-type(2) > a:nth-of-type(2)",
+          "text": "Terms",
+          "w": 36,
+          "h": 20,
+          "inline": false
+        },
+        {
+          "sel": "div.shell > div.main-col > footer.footer > span:nth-of-type(2) > a:nth-of-type(3)",
+          "text": "System status",
+          "w": 82,
+          "h": 20,
+          "inline": false
+        }
+      ],
+      "smallCount": 9,
+      "dialogs": [],
+      "smallFont": [
+        {
+          "sel": "div.shell > div.main-col > div.topbar > div.search > input.input",
+          "px": 15
+        },
+        {
+          "sel": "#def-budget",
+          "px": 15
+        },
+        {
+          "sel": "div.row:nth-of-type(2) > section.card:nth-of-type(2) > div.field:nth-of-type(3) > div:nth-of-type(2) > input.input",
+          "px": 15
+        },
+        {
+          "sel": "tbody > tr > td:nth-of-type(2) > span > input.input.mono",
+          "px": 15
+        }
+      ],
+      "charts": [],
+      "navHidden": true,
+      "widest": []
+    }
+  },
+  {
+    "group": "web",
+    "page": "admin-empty-settings",
+    "width": "768",
+    "theme": "light",
+    "shot": "tests/responsive/screenshots/before/admin-empty-settings-768-light.png",
+    "console": [],
+    "m": {
+      "vw": 768,
+      "iw": 768,
+      "ih": 1024,
+      "scrollW": 768,
+      "docH": 2693,
+      "hScroll": false,
+      "overflow": [],
+      "offscreen": [],
+      "scrollers": [],
+      "clipped": [],
+      "small": [
+        {
+          "sel": "div.shell > div.main-col > footer.footer > span:nth-of-type(2) > a:nth-of-type(1)",
+          "text": "Privacy",
+          "w": 42,
+          "h": 20,
+          "inline": false
+        },
+        {
+          "sel": "div.shell > div.main-col > footer.footer > span:nth-of-type(2) > a:nth-of-type(2)",
+          "text": "Terms",
+          "w": 36,
+          "h": 20,
+          "inline": false
+        },
+        {
+          "sel": "div.shell > div.main-col > footer.footer > span:nth-of-type(2) > a:nth-of-type(3)",
+          "text": "System status",
+          "w": 82,
+          "h": 20,
+          "inline": false
+        }
+      ],
+      "smallCount": 3,
+      "dialogs": [],
+      "smallFont": [
+        {
+          "sel": "div.shell > div.main-col > div.topbar > div.search > input.input",
+          "px": 15
+        },
+        {
+          "sel": "#bk-email",
+          "px": 15
+        },
+        {
+          "sel": "#org-name",
+          "px": 15
+        },
+        {
+          "sel": "#org-tz",
+          "px": 15
+        }
+      ],
+      "charts": [],
+      "navHidden": true,
+      "widest": []
+    }
+  }
+]
